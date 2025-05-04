@@ -2,46 +2,110 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Projects | Your Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Showcase | Your Name</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Playfair Display', serif;
-      background: #f7f5f0;
+      background: #f9f5f1;
       margin: 0;
-      padding: 40px;
+      padding: 20px;
     }
     nav {
-      margin-bottom: 40px;
+      text-align: center;
+      margin-bottom: 30px;
     }
     nav a {
-      margin-right: 15px;
+      margin: 0 12px;
       text-decoration: none;
-      color: #4a4a4a;
       font-weight: bold;
+      color: #4a4a4a;
     }
-    h1 {
-      font-size: 2.5em;
-      color: #333;
+    h1, h2 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .category-section {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    .category-section ul {
+      padding-left: 20px;
+    }
+    .category-section li {
+      margin-bottom: 10px;
+    }
+    .category-section a {
+      color: #336699;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .category-section a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
   <nav>
     <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
-    <a href="certifications.html">Certifications</a>
     <a href="languages.html">Languages</a>
-    <a href="ai-ml.html">AI & ML</a>
-    <a href="research.html">Research</a>
-    <a href="internships.html">Internships</a>
+    <a href="certifications.html">Certifications</a>
     <a href="visualization.html">Visualization</a>
-    <a href="resources.html">Textbooks & Resources</a>
-    <a href="resume.html">Resume</a>
-    <a href="contact.html">Contact</a>
+    <a href="resources.html">Resources</a>
   </nav>
-  <h1>Projects</h1>
-  <p>Coming soon...</p>
+
+  <h1>🧩 All Projects by Type</h1>
+  <p style="text-align:center; max-width:700px; margin: auto;">Explore your full project library grouped by category, regardless of language.</p>
+
+  <div class="category-section">
+    <h2>📊 Dashboards</h2>
+    <ul>
+      <li><a href="projects/sql.html">Dental Claims (SQL)</a></li>
+      <li><a href="projects/matlab.html">Vitals Monitor (MATLAB)</a></li>
+      <li><a href="projects/python.html">Health Trends with Streamlit</a></li>
+    </ul>
+  </div>
+
+  <div class="category-section">
+    <h2>🧠 Machine Learning</h2>
+    <ul>
+      <li><a href="projects/python.html">Depression Risk Model</a></li>
+      <li><a href="projects/scala.html">ML Pipelines with Spark</a></li>
+      <li><a href="projects/java.html">Patient Appointment Predictor</a></li>
+    </ul>
+  </div>
+
+  <div class="category-section">
+    <h2>🧪 Data Cleaning</h2>
+    <ul>
+      <li><a href="projects/python.html">EMR Cleanup (Pandas)</a></li>
+      <li><a href="projects/sas.html">Claims Formatter (PROC SQL)</a></li>
+      <li><a href="projects/sql.html">Lab Test Aggregator</a></li>
+    </ul>
+  </div>
+
+  <div class="category-section">
+    <h2>🎨 Creative & Art</h2>
+    <ul>
+      <li><a href="projects/python.html">Art Recommender (Etsy)</a></li>
+      <li><a href="projects/other.html">ASL-to-Art Generator</a></li>
+      <li><a href="projects/other.html">Voice Assistant for Art Inquiry</a></li>
+    </ul>
+  </div>
+
+  <div class="category-section">
+    <h2>📁 ETL + APIs</h2>
+    <ul>
+      <li><a href="projects/java.html">REST API for Health Metrics</a></li>
+      <li><a href="projects/scala.html">Kafka ETL for Patient Vitals</a></li>
+      <li><a href="projects/sql.html">EHR Intake System</a></li>
+    </ul>
+  </div>
+
 </body>
 </html>
