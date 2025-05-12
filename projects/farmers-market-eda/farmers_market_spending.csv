@@ -1,0 +1,1501 @@
+TransactionID,ProductCategory,Vendor,DayOfWeek,Season,UnitsPurchased,PricePerUnit,TotalSpent
+1,Honey,Mossy Roots,Thursday,Spring,3,10.53,31.59
+2,Baked Goods,BerryPatch,Wednesday,Spring,1,3.6,3.6
+3,Herbs,Sunrise Orchards,Wednesday,Fall,6,11.71,70.26
+4,Honey,BerryPatch,Sunday,Spring,5,11.62,58.1
+5,Cheese,BerryPatch,Saturday,Winter,3,5.9,17.7
+6,Herbs,Mossy Roots,Friday,Winter,1,3.13,3.13
+7,Herbs,Dough & Co,Monday,Summer,4,4.09,16.36
+8,Honey,GreenLeaf,Sunday,Spring,3,11.93,35.79
+9,Vegetables,Sunrise Orchards,Saturday,Fall,7,7.85,54.95
+10,Cheese,Mossy Roots,Thursday,Fall,4,5.89,23.56
+11,Honey,Dough & Co,Saturday,Fall,2,5.24,10.48
+12,Cheese,GreenLeaf,Wednesday,Summer,3,4.94,14.82
+13,Cheese,GreenLeaf,Friday,Winter,2,8.81,17.62
+14,Herbs,Mossy Roots,Friday,Fall,4,6.48,25.92
+15,Baked Goods,Golden Hive,Wednesday,Winter,1,11.67,11.67
+16,Cheese,Sunrise Orchards,Sunday,Summer,5,9.0,45.0
+17,Jams,GreenLeaf,Saturday,Spring,4,10.02,40.08
+18,Herbs,Mossy Roots,Friday,Spring,2,5.28,10.56
+19,Vegetables,Mossy Roots,Wednesday,Spring,3,3.25,9.75
+20,Baked Goods,Dough & Co,Tuesday,Fall,1,7.13,7.13
+21,Jams,Golden Hive,Thursday,Spring,7,5.49,38.43
+22,Jams,Sunrise Orchards,Saturday,Fall,4,4.42,17.68
+23,Vegetables,BerryPatch,Wednesday,Summer,2,11.55,23.1
+24,Baked Goods,Dough & Co,Friday,Summer,1,6.72,6.72
+25,Herbs,GreenLeaf,Saturday,Fall,4,4.16,16.64
+26,Fruits,GreenLeaf,Tuesday,Winter,1,4.39,4.39
+27,Baked Goods,Dough & Co,Saturday,Spring,3,5.17,15.51
+28,Vegetables,Mossy Roots,Tuesday,Spring,3,11.99,35.97
+29,Jams,GreenLeaf,Sunday,Spring,4,5.05,20.2
+30,Herbs,Golden Hive,Friday,Fall,3,5.62,16.86
+31,Baked Goods,Sunrise Orchards,Wednesday,Summer,3,8.76,26.28
+32,Fruits,Golden Hive,Thursday,Spring,3,5.29,15.87
+33,Fruits,GreenLeaf,Thursday,Summer,4,4.55,18.2
+34,Cheese,BerryPatch,Saturday,Spring,3,4.01,12.03
+35,Cheese,Sunrise Orchards,Saturday,Spring,2,5.47,10.94
+36,Honey,Sunrise Orchards,Friday,Fall,3,3.51,10.53
+37,Vegetables,Dough & Co,Tuesday,Winter,4,2.68,10.72
+38,Baked Goods,Dough & Co,Wednesday,Fall,3,10.14,30.42
+39,Baked Goods,BerryPatch,Tuesday,Spring,1,3.81,3.81
+40,Honey,Mossy Roots,Friday,Spring,4,9.87,39.48
+41,Jams,Sunrise Orchards,Saturday,Winter,4,10.08,40.32
+42,Jams,BerryPatch,Thursday,Summer,3,7.61,22.83
+43,Honey,Dough & Co,Wednesday,Summer,2,5.44,10.88
+44,Jams,Dough & Co,Friday,Spring,7,3.88,27.16
+45,Cheese,Sunrise Orchards,Saturday,Summer,7,9.5,66.5
+46,Baked Goods,Golden Hive,Saturday,Spring,4,8.21,32.84
+47,Honey,GreenLeaf,Saturday,Winter,4,8.73,34.92
+48,Baked Goods,Dough & Co,Wednesday,Winter,3,2.58,7.74
+49,Fruits,Mossy Roots,Wednesday,Spring,1,11.31,11.31
+50,Cheese,Mossy Roots,Saturday,Winter,2,3.13,6.26
+51,Herbs,Dough & Co,Saturday,Fall,2,5.98,11.96
+52,Cheese,Golden Hive,Thursday,Fall,1,6.33,6.33
+53,Honey,Golden Hive,Saturday,Winter,5,2.51,12.55
+54,Herbs,BerryPatch,Saturday,Spring,4,7.22,28.88
+55,Fruits,Mossy Roots,Friday,Spring,4,9.65,38.6
+56,Honey,BerryPatch,Saturday,Winter,2,10.32,20.64
+57,Vegetables,Mossy Roots,Thursday,Summer,3,10.85,32.55
+58,Baked Goods,GreenLeaf,Friday,Fall,3,7.13,21.39
+59,Fruits,GreenLeaf,Friday,Summer,2,8.49,16.98
+60,Baked Goods,Sunrise Orchards,Saturday,Spring,3,3.26,9.78
+61,Jams,BerryPatch,Saturday,Spring,1,7.14,7.14
+62,Vegetables,Dough & Co,Saturday,Summer,2,3.97,7.94
+63,Vegetables,BerryPatch,Monday,Winter,1,6.01,6.01
+64,Fruits,Dough & Co,Saturday,Summer,2,5.63,11.26
+65,Vegetables,Golden Hive,Saturday,Summer,4,6.52,26.08
+66,Herbs,BerryPatch,Saturday,Fall,3,7.93,23.79
+67,Vegetables,Golden Hive,Saturday,Fall,4,11.08,44.32
+68,Baked Goods,GreenLeaf,Saturday,Summer,3,6.25,18.75
+69,Baked Goods,GreenLeaf,Friday,Summer,2,11.82,23.64
+70,Honey,Sunrise Orchards,Friday,Spring,4,9.71,38.84
+71,Baked Goods,BerryPatch,Tuesday,Fall,2,7.36,14.72
+72,Honey,Golden Hive,Thursday,Fall,3,8.62,25.86
+73,Baked Goods,Dough & Co,Friday,Spring,4,3.47,13.88
+74,Herbs,GreenLeaf,Saturday,Winter,3,10.52,31.56
+75,Honey,GreenLeaf,Wednesday,Fall,2,8.03,16.06
+76,Cheese,Dough & Co,Tuesday,Fall,5,11.87,59.35
+77,Jams,Golden Hive,Saturday,Winter,2,8.55,17.1
+78,Fruits,Golden Hive,Monday,Fall,3,10.42,31.26
+79,Baked Goods,BerryPatch,Wednesday,Fall,1,10.1,10.1
+80,Vegetables,BerryPatch,Monday,Winter,1,5.78,5.78
+81,Baked Goods,Mossy Roots,Wednesday,Winter,2,4.97,9.94
+82,Vegetables,Mossy Roots,Wednesday,Summer,4,6.59,26.36
+83,Jams,Sunrise Orchards,Thursday,Spring,2,6.94,13.88
+84,Jams,GreenLeaf,Thursday,Spring,2,4.78,9.56
+85,Jams,BerryPatch,Saturday,Winter,1,11.0,11.0
+86,Vegetables,Golden Hive,Friday,Winter,3,7.65,22.95
+87,Baked Goods,Dough & Co,Saturday,Fall,2,11.8,23.6
+88,Jams,Golden Hive,Tuesday,Summer,3,10.2,30.6
+89,Herbs,GreenLeaf,Wednesday,Summer,2,7.78,15.56
+90,Honey,Mossy Roots,Saturday,Winter,2,11.5,23.0
+91,Vegetables,Golden Hive,Tuesday,Fall,5,7.3,36.5
+92,Vegetables,Sunrise Orchards,Friday,Fall,3,10.93,32.79
+93,Baked Goods,GreenLeaf,Friday,Spring,1,5.9,5.9
+94,Vegetables,Mossy Roots,Friday,Spring,2,6.1,12.2
+95,Vegetables,Dough & Co,Monday,Fall,3,6.47,19.41
+96,Jams,Mossy Roots,Thursday,Spring,5,7.69,38.45
+97,Baked Goods,Sunrise Orchards,Friday,Winter,2,7.76,15.52
+98,Jams,GreenLeaf,Tuesday,Fall,1,7.22,7.22
+99,Honey,Dough & Co,Saturday,Spring,4,5.41,21.64
+100,Honey,Sunrise Orchards,Saturday,Summer,2,11.31,22.62
+101,Jams,Mossy Roots,Sunday,Fall,6,8.09,48.54
+102,Honey,Sunrise Orchards,Wednesday,Fall,3,6.37,19.11
+103,Baked Goods,GreenLeaf,Saturday,Summer,7,8.69,60.83
+104,Fruits,BerryPatch,Friday,Winter,1,9.8,9.8
+105,Jams,Sunrise Orchards,Thursday,Summer,3,11.63,34.89
+106,Herbs,Sunrise Orchards,Tuesday,Fall,2,7.25,14.5
+107,Herbs,Mossy Roots,Saturday,Winter,3,3.56,10.68
+108,Vegetables,Mossy Roots,Wednesday,Spring,1,6.69,6.69
+109,Honey,Dough & Co,Thursday,Spring,3,7.05,21.15
+110,Herbs,Mossy Roots,Tuesday,Spring,3,11.02,33.06
+111,Vegetables,Golden Hive,Saturday,Fall,2,6.25,12.5
+112,Fruits,GreenLeaf,Saturday,Summer,4,11.56,46.24
+113,Baked Goods,GreenLeaf,Saturday,Winter,2,7.11,14.22
+114,Baked Goods,BerryPatch,Wednesday,Spring,1,11.75,11.75
+115,Baked Goods,BerryPatch,Wednesday,Winter,2,2.58,5.16
+116,Herbs,GreenLeaf,Friday,Fall,2,11.04,22.08
+117,Fruits,BerryPatch,Friday,Spring,3,11.35,34.05
+118,Herbs,Dough & Co,Wednesday,Fall,4,11.63,46.52
+119,Honey,Mossy Roots,Saturday,Summer,6,2.62,15.72
+120,Herbs,GreenLeaf,Sunday,Fall,2,4.13,8.26
+121,Fruits,BerryPatch,Saturday,Fall,3,8.71,26.13
+122,Fruits,GreenLeaf,Saturday,Summer,4,2.74,10.96
+123,Honey,Golden Hive,Sunday,Winter,4,3.1,12.4
+124,Fruits,Sunrise Orchards,Wednesday,Summer,4,4.6,18.4
+125,Fruits,Mossy Roots,Friday,Summer,1,7.37,7.37
+126,Baked Goods,GreenLeaf,Sunday,Fall,4,7.69,30.76
+127,Honey,Sunrise Orchards,Wednesday,Winter,4,2.83,11.32
+128,Cheese,BerryPatch,Saturday,Spring,3,4.12,12.36
+129,Cheese,Sunrise Orchards,Friday,Summer,5,7.25,36.25
+130,Fruits,Mossy Roots,Friday,Winter,3,8.14,24.42
+131,Cheese,GreenLeaf,Saturday,Summer,2,3.91,7.82
+132,Cheese,Golden Hive,Sunday,Summer,1,6.29,6.29
+133,Fruits,BerryPatch,Saturday,Summer,3,11.09,33.27
+134,Cheese,GreenLeaf,Tuesday,Summer,1,11.99,11.99
+135,Herbs,Mossy Roots,Saturday,Fall,4,11.88,47.52
+136,Vegetables,BerryPatch,Wednesday,Winter,2,10.88,21.76
+137,Honey,Dough & Co,Thursday,Winter,1,6.25,6.25
+138,Vegetables,Sunrise Orchards,Friday,Winter,3,9.02,27.06
+139,Fruits,Mossy Roots,Friday,Summer,1,6.46,6.46
+140,Baked Goods,Dough & Co,Thursday,Fall,2,8.66,17.32
+141,Honey,GreenLeaf,Sunday,Summer,2,5.44,10.88
+142,Fruits,Golden Hive,Saturday,Summer,3,8.26,24.78
+143,Baked Goods,BerryPatch,Friday,Winter,2,7.48,14.96
+144,Vegetables,Sunrise Orchards,Monday,Summer,1,2.73,2.73
+145,Fruits,BerryPatch,Sunday,Spring,2,10.01,20.02
+146,Honey,GreenLeaf,Sunday,Summer,1,2.61,2.61
+147,Honey,BerryPatch,Saturday,Spring,3,5.28,15.84
+148,Jams,Sunrise Orchards,Monday,Summer,3,2.56,7.68
+149,Herbs,GreenLeaf,Tuesday,Fall,2,6.07,12.14
+150,Cheese,BerryPatch,Wednesday,Fall,3,3.1,9.3
+151,Baked Goods,Golden Hive,Tuesday,Winter,4,11.18,44.72
+152,Jams,Mossy Roots,Thursday,Summer,2,6.45,12.9
+153,Cheese,GreenLeaf,Sunday,Spring,3,6.87,20.61
+154,Cheese,Mossy Roots,Friday,Spring,4,5.82,23.28
+155,Fruits,GreenLeaf,Monday,Summer,3,8.46,25.38
+156,Cheese,Golden Hive,Wednesday,Spring,4,9.95,39.8
+157,Herbs,Mossy Roots,Monday,Fall,3,8.66,25.98
+158,Honey,Dough & Co,Monday,Spring,3,9.61,28.83
+159,Jams,Sunrise Orchards,Wednesday,Winter,2,11.11,22.22
+160,Cheese,Dough & Co,Wednesday,Fall,7,10.7,74.9
+161,Fruits,BerryPatch,Saturday,Fall,3,8.9,26.7
+162,Herbs,Golden Hive,Sunday,Fall,3,4.54,13.62
+163,Vegetables,Dough & Co,Thursday,Summer,2,8.56,17.12
+164,Honey,GreenLeaf,Thursday,Summer,2,7.31,14.62
+165,Honey,BerryPatch,Saturday,Fall,2,9.31,18.62
+166,Jams,BerryPatch,Wednesday,Summer,3,10.41,31.23
+167,Honey,Dough & Co,Wednesday,Spring,6,9.56,57.36
+168,Cheese,Dough & Co,Saturday,Summer,3,10.54,31.62
+169,Fruits,Golden Hive,Monday,Summer,2,3.11,6.22
+170,Honey,Sunrise Orchards,Friday,Fall,2,2.8,5.6
+171,Honey,Dough & Co,Friday,Winter,3,4.96,14.88
+172,Vegetables,Dough & Co,Thursday,Winter,4,11.06,44.24
+173,Vegetables,Mossy Roots,Thursday,Winter,2,10.32,20.64
+174,Baked Goods,GreenLeaf,Saturday,Spring,3,8.99,26.97
+175,Herbs,Mossy Roots,Tuesday,Summer,6,9.16,54.96
+176,Cheese,Mossy Roots,Wednesday,Winter,2,9.4,18.8
+177,Honey,BerryPatch,Saturday,Fall,3,11.45,34.35
+178,Honey,Sunrise Orchards,Friday,Winter,5,10.41,52.05
+179,Fruits,GreenLeaf,Tuesday,Winter,5,8.42,42.1
+180,Baked Goods,Golden Hive,Saturday,Summer,4,8.82,35.28
+181,Herbs,Golden Hive,Thursday,Summer,3,4.53,13.59
+182,Baked Goods,Dough & Co,Saturday,Summer,3,8.74,26.22
+183,Jams,Dough & Co,Saturday,Spring,2,6.53,13.06
+184,Herbs,Golden Hive,Friday,Spring,2,3.95,7.9
+185,Honey,Dough & Co,Friday,Winter,2,10.16,20.32
+186,Honey,Sunrise Orchards,Sunday,Summer,4,7.35,29.4
+187,Herbs,Mossy Roots,Tuesday,Winter,5,11.79,58.95
+188,Honey,Dough & Co,Saturday,Fall,1,5.18,5.18
+189,Cheese,BerryPatch,Wednesday,Fall,4,7.07,28.28
+190,Herbs,Dough & Co,Thursday,Summer,4,6.76,27.04
+191,Baked Goods,GreenLeaf,Thursday,Summer,3,3.65,10.95
+192,Herbs,Sunrise Orchards,Sunday,Fall,4,6.55,26.2
+193,Honey,GreenLeaf,Sunday,Summer,6,5.23,31.38
+194,Cheese,GreenLeaf,Wednesday,Spring,4,4.02,16.08
+195,Cheese,BerryPatch,Monday,Spring,2,5.18,10.36
+196,Jams,Sunrise Orchards,Saturday,Summer,3,4.72,14.16
+197,Baked Goods,Sunrise Orchards,Thursday,Fall,1,9.47,9.47
+198,Vegetables,Sunrise Orchards,Tuesday,Winter,3,2.79,8.37
+199,Vegetables,Sunrise Orchards,Saturday,Summer,4,8.37,33.48
+200,Herbs,Sunrise Orchards,Friday,Summer,5,9.73,48.65
+201,Jams,BerryPatch,Sunday,Winter,1,7.07,7.07
+202,Fruits,Dough & Co,Wednesday,Summer,2,11.35,22.7
+203,Herbs,GreenLeaf,Thursday,Winter,2,9.22,18.44
+204,Jams,Sunrise Orchards,Friday,Fall,2,9.61,19.22
+205,Baked Goods,Dough & Co,Saturday,Spring,1,4.37,4.37
+206,Baked Goods,Dough & Co,Friday,Fall,2,9.88,19.76
+207,Baked Goods,GreenLeaf,Friday,Spring,3,10.4,31.2
+208,Baked Goods,BerryPatch,Wednesday,Winter,4,5.93,23.72
+209,Baked Goods,Golden Hive,Saturday,Spring,5,4.53,22.65
+210,Jams,Golden Hive,Thursday,Fall,2,6.16,12.32
+211,Jams,Dough & Co,Tuesday,Spring,5,9.53,47.65
+212,Cheese,Mossy Roots,Saturday,Winter,2,6.47,12.94
+213,Vegetables,Mossy Roots,Wednesday,Spring,3,9.5,28.5
+214,Honey,GreenLeaf,Tuesday,Summer,2,3.58,7.16
+215,Baked Goods,Golden Hive,Saturday,Fall,3,10.16,30.48
+216,Fruits,Dough & Co,Friday,Summer,6,4.91,29.46
+217,Honey,BerryPatch,Saturday,Winter,3,4.86,14.58
+218,Jams,Golden Hive,Wednesday,Spring,1,8.11,8.11
+219,Fruits,Dough & Co,Saturday,Summer,3,3.17,9.51
+220,Fruits,Dough & Co,Tuesday,Summer,3,2.75,8.25
+221,Fruits,Sunrise Orchards,Thursday,Spring,3,4.98,14.94
+222,Cheese,BerryPatch,Sunday,Spring,2,7.61,15.22
+223,Jams,Sunrise Orchards,Saturday,Fall,6,11.12,66.72
+224,Fruits,GreenLeaf,Friday,Summer,2,10.54,21.08
+225,Baked Goods,Sunrise Orchards,Thursday,Summer,2,7.16,14.32
+226,Herbs,Sunrise Orchards,Saturday,Winter,4,2.85,11.4
+227,Fruits,Golden Hive,Friday,Fall,5,7.58,37.9
+228,Cheese,Mossy Roots,Saturday,Winter,5,9.2,46.0
+229,Honey,Dough & Co,Saturday,Summer,1,5.72,5.72
+230,Jams,BerryPatch,Monday,Winter,2,3.56,7.12
+231,Cheese,Sunrise Orchards,Tuesday,Summer,3,5.15,15.45
+232,Fruits,BerryPatch,Saturday,Summer,2,9.83,19.66
+233,Jams,Mossy Roots,Wednesday,Winter,2,5.84,11.68
+234,Herbs,Mossy Roots,Wednesday,Winter,2,10.21,20.42
+235,Fruits,Sunrise Orchards,Sunday,Spring,6,5.54,33.24
+236,Cheese,GreenLeaf,Friday,Spring,4,4.05,16.2
+237,Vegetables,Sunrise Orchards,Saturday,Spring,5,6.64,33.2
+238,Baked Goods,Golden Hive,Friday,Summer,2,6.8,13.6
+239,Honey,Dough & Co,Friday,Winter,2,2.65,5.3
+240,Cheese,GreenLeaf,Tuesday,Fall,2,3.61,7.22
+241,Jams,Sunrise Orchards,Thursday,Summer,2,4.26,8.52
+242,Fruits,BerryPatch,Wednesday,Fall,2,3.58,7.16
+243,Baked Goods,GreenLeaf,Thursday,Winter,3,5.74,17.22
+244,Fruits,GreenLeaf,Saturday,Summer,1,11.66,11.66
+245,Jams,Sunrise Orchards,Thursday,Fall,3,7.34,22.02
+246,Fruits,GreenLeaf,Friday,Fall,8,8.46,67.68
+247,Vegetables,BerryPatch,Thursday,Spring,3,5.89,17.67
+248,Baked Goods,Mossy Roots,Tuesday,Spring,4,5.57,22.28
+249,Baked Goods,GreenLeaf,Thursday,Spring,2,2.72,5.44
+250,Jams,Mossy Roots,Wednesday,Summer,3,7.25,21.75
+251,Honey,BerryPatch,Wednesday,Winter,3,7.09,21.27
+252,Vegetables,Sunrise Orchards,Tuesday,Winter,4,4.0,16.0
+253,Cheese,Dough & Co,Thursday,Spring,2,9.76,19.52
+254,Fruits,GreenLeaf,Saturday,Spring,5,7.18,35.9
+255,Herbs,Dough & Co,Wednesday,Spring,4,5.72,22.88
+256,Fruits,BerryPatch,Thursday,Fall,4,3.9,15.6
+257,Fruits,GreenLeaf,Friday,Spring,8,7.75,62.0
+258,Cheese,Mossy Roots,Wednesday,Fall,4,9.65,38.6
+259,Fruits,Golden Hive,Saturday,Winter,6,5.18,31.08
+260,Vegetables,Dough & Co,Friday,Summer,4,4.58,18.32
+261,Vegetables,GreenLeaf,Thursday,Summer,3,7.46,22.38
+262,Baked Goods,Dough & Co,Friday,Summer,3,3.98,11.94
+263,Jams,GreenLeaf,Wednesday,Summer,2,8.83,17.66
+264,Honey,Sunrise Orchards,Friday,Fall,4,8.25,33.0
+265,Herbs,Mossy Roots,Thursday,Fall,1,3.33,3.33
+266,Fruits,Dough & Co,Saturday,Spring,2,2.85,5.7
+267,Fruits,Golden Hive,Wednesday,Fall,2,8.39,16.78
+268,Cheese,Golden Hive,Friday,Spring,3,5.3,15.9
+269,Jams,BerryPatch,Friday,Spring,3,3.32,9.96
+270,Vegetables,GreenLeaf,Monday,Summer,1,9.71,9.71
+271,Herbs,Dough & Co,Thursday,Fall,4,5.48,21.92
+272,Baked Goods,BerryPatch,Saturday,Fall,2,6.87,13.74
+273,Vegetables,Dough & Co,Saturday,Spring,1,4.75,4.75
+274,Jams,GreenLeaf,Thursday,Spring,4,8.46,33.84
+275,Honey,Golden Hive,Saturday,Winter,3,5.36,16.08
+276,Baked Goods,Sunrise Orchards,Sunday,Winter,1,11.7,11.7
+277,Honey,Golden Hive,Saturday,Spring,4,9.18,36.72
+278,Cheese,BerryPatch,Tuesday,Winter,3,3.8,11.4
+279,Cheese,Mossy Roots,Saturday,Winter,2,6.46,12.92
+280,Fruits,Sunrise Orchards,Thursday,Spring,3,6.16,18.48
+281,Honey,BerryPatch,Sunday,Spring,3,7.58,22.74
+282,Jams,GreenLeaf,Friday,Fall,4,10.5,42.0
+283,Herbs,Sunrise Orchards,Tuesday,Spring,6,8.04,48.24
+284,Baked Goods,BerryPatch,Saturday,Spring,3,3.08,9.24
+285,Vegetables,GreenLeaf,Thursday,Summer,1,8.73,8.73
+286,Jams,Golden Hive,Sunday,Fall,3,2.58,7.74
+287,Jams,Mossy Roots,Sunday,Fall,1,9.91,9.91
+288,Cheese,GreenLeaf,Saturday,Fall,3,8.83,26.49
+289,Honey,Dough & Co,Tuesday,Summer,4,5.43,21.72
+290,Fruits,GreenLeaf,Saturday,Spring,1,5.28,5.28
+291,Fruits,GreenLeaf,Tuesday,Fall,3,10.08,30.24
+292,Baked Goods,Mossy Roots,Monday,Fall,2,9.94,19.88
+293,Cheese,Dough & Co,Saturday,Winter,3,5.85,17.55
+294,Jams,BerryPatch,Wednesday,Fall,4,5.34,21.36
+295,Herbs,BerryPatch,Thursday,Spring,5,7.82,39.1
+296,Cheese,GreenLeaf,Sunday,Spring,1,2.58,2.58
+297,Baked Goods,Dough & Co,Thursday,Winter,1,3.29,3.29
+298,Baked Goods,Dough & Co,Wednesday,Fall,2,3.7,7.4
+299,Cheese,Mossy Roots,Sunday,Fall,2,4.26,8.52
+300,Baked Goods,Golden Hive,Tuesday,Fall,7,7.36,51.52
+301,Cheese,BerryPatch,Saturday,Summer,4,11.93,47.72
+302,Vegetables,Mossy Roots,Sunday,Fall,2,8.7,17.4
+303,Cheese,Sunrise Orchards,Sunday,Spring,4,3.08,12.32
+304,Honey,BerryPatch,Saturday,Spring,3,7.49,22.47
+305,Cheese,Mossy Roots,Thursday,Summer,2,7.22,14.44
+306,Baked Goods,BerryPatch,Wednesday,Summer,3,3.87,11.61
+307,Honey,Golden Hive,Saturday,Fall,4,11.24,44.96
+308,Baked Goods,Sunrise Orchards,Saturday,Winter,2,6.69,13.38
+309,Fruits,Golden Hive,Friday,Summer,7,11.95,83.65
+310,Fruits,Sunrise Orchards,Wednesday,Summer,3,6.49,19.47
+311,Honey,GreenLeaf,Tuesday,Fall,1,8.28,8.28
+312,Vegetables,Mossy Roots,Tuesday,Fall,3,3.5,10.5
+313,Fruits,Sunrise Orchards,Saturday,Summer,4,6.82,27.28
+314,Cheese,Golden Hive,Thursday,Winter,2,4.77,9.54
+315,Baked Goods,BerryPatch,Sunday,Summer,4,10.44,41.76
+316,Fruits,Sunrise Orchards,Saturday,Fall,1,9.95,9.95
+317,Fruits,Mossy Roots,Wednesday,Fall,2,10.33,20.66
+318,Vegetables,Sunrise Orchards,Friday,Summer,3,9.37,28.11
+319,Honey,Dough & Co,Thursday,Winter,2,10.41,20.82
+320,Honey,BerryPatch,Friday,Summer,2,4.41,8.82
+321,Jams,Mossy Roots,Saturday,Summer,4,6.79,27.16
+322,Vegetables,Mossy Roots,Saturday,Fall,4,9.07,36.28
+323,Cheese,GreenLeaf,Saturday,Winter,2,8.56,17.12
+324,Honey,Golden Hive,Wednesday,Spring,1,9.31,9.31
+325,Baked Goods,GreenLeaf,Monday,Winter,3,4.63,13.89
+326,Vegetables,Mossy Roots,Saturday,Summer,6,3.44,20.64
+327,Fruits,BerryPatch,Tuesday,Summer,1,11.21,11.21
+328,Baked Goods,Sunrise Orchards,Thursday,Summer,2,7.82,15.64
+329,Baked Goods,Sunrise Orchards,Monday,Winter,3,3.96,11.88
+330,Fruits,BerryPatch,Saturday,Fall,2,10.04,20.08
+331,Vegetables,Mossy Roots,Wednesday,Summer,4,11.19,44.76
+332,Fruits,Sunrise Orchards,Saturday,Summer,3,4.11,12.33
+333,Jams,Sunrise Orchards,Sunday,Winter,3,10.27,30.81
+334,Baked Goods,Sunrise Orchards,Tuesday,Spring,5,11.37,56.85
+335,Herbs,Golden Hive,Tuesday,Spring,5,11.41,57.05
+336,Herbs,Golden Hive,Thursday,Fall,1,11.18,11.18
+337,Cheese,Dough & Co,Saturday,Fall,4,7.69,30.76
+338,Honey,GreenLeaf,Wednesday,Summer,4,5.88,23.52
+339,Fruits,BerryPatch,Thursday,Winter,2,2.57,5.14
+340,Fruits,BerryPatch,Tuesday,Summer,5,3.08,15.4
+341,Cheese,BerryPatch,Saturday,Fall,4,6.57,26.28
+342,Cheese,Dough & Co,Thursday,Winter,2,6.29,12.58
+343,Cheese,Golden Hive,Saturday,Winter,2,4.25,8.5
+344,Baked Goods,Mossy Roots,Sunday,Fall,2,6.26,12.52
+345,Jams,Mossy Roots,Wednesday,Spring,2,4.16,8.32
+346,Fruits,Dough & Co,Saturday,Spring,2,10.56,21.12
+347,Baked Goods,Mossy Roots,Tuesday,Winter,2,5.33,10.66
+348,Cheese,BerryPatch,Saturday,Summer,2,8.19,16.38
+349,Fruits,GreenLeaf,Saturday,Spring,7,7.28,50.96
+350,Baked Goods,Sunrise Orchards,Saturday,Summer,3,2.99,8.97
+351,Jams,Golden Hive,Monday,Spring,1,11.45,11.45
+352,Baked Goods,Golden Hive,Wednesday,Spring,3,7.51,22.53
+353,Jams,Dough & Co,Thursday,Summer,2,5.59,11.18
+354,Cheese,Golden Hive,Thursday,Fall,3,4.0,12.0
+355,Jams,BerryPatch,Wednesday,Spring,4,5.72,22.88
+356,Fruits,Mossy Roots,Thursday,Spring,3,2.69,8.07
+357,Cheese,BerryPatch,Tuesday,Summer,2,5.95,11.9
+358,Fruits,Dough & Co,Thursday,Fall,5,7.55,37.75
+359,Herbs,BerryPatch,Saturday,Spring,3,10.78,32.34
+360,Vegetables,Mossy Roots,Friday,Spring,6,9.03,54.18
+361,Jams,GreenLeaf,Monday,Fall,1,3.56,3.56
+362,Vegetables,Dough & Co,Thursday,Spring,2,3.9,7.8
+363,Vegetables,GreenLeaf,Monday,Fall,1,6.57,6.57
+364,Jams,Sunrise Orchards,Sunday,Fall,3,4.36,13.08
+365,Cheese,GreenLeaf,Tuesday,Summer,2,2.76,5.52
+366,Herbs,Sunrise Orchards,Saturday,Winter,3,10.15,30.45
+367,Fruits,Sunrise Orchards,Sunday,Fall,3,2.69,8.07
+368,Baked Goods,GreenLeaf,Saturday,Summer,3,10.39,31.17
+369,Fruits,Dough & Co,Saturday,Winter,4,3.87,15.48
+370,Baked Goods,Mossy Roots,Saturday,Spring,2,11.76,23.52
+371,Fruits,BerryPatch,Sunday,Winter,2,8.24,16.48
+372,Jams,BerryPatch,Friday,Fall,4,9.48,37.92
+373,Herbs,Mossy Roots,Friday,Fall,3,3.55,10.65
+374,Baked Goods,Sunrise Orchards,Friday,Fall,6,10.69,64.14
+375,Honey,Sunrise Orchards,Friday,Fall,3,10.47,31.41
+376,Cheese,Dough & Co,Friday,Fall,1,8.7,8.7
+377,Fruits,Golden Hive,Thursday,Summer,2,7.27,14.54
+378,Fruits,GreenLeaf,Wednesday,Fall,3,9.35,28.05
+379,Baked Goods,Sunrise Orchards,Tuesday,Summer,3,2.56,7.68
+380,Cheese,BerryPatch,Tuesday,Spring,5,8.13,40.65
+381,Cheese,Dough & Co,Wednesday,Fall,3,10.55,31.65
+382,Jams,GreenLeaf,Monday,Fall,3,5.89,17.67
+383,Honey,Dough & Co,Friday,Winter,2,3.53,7.06
+384,Jams,GreenLeaf,Wednesday,Spring,4,6.5,26.0
+385,Jams,GreenLeaf,Saturday,Fall,4,9.41,37.64
+386,Jams,Mossy Roots,Tuesday,Fall,5,3.52,17.6
+387,Jams,Sunrise Orchards,Wednesday,Spring,6,4.46,26.76
+388,Jams,Dough & Co,Saturday,Summer,1,3.9,3.9
+389,Herbs,Dough & Co,Friday,Fall,1,10.07,10.07
+390,Cheese,Mossy Roots,Tuesday,Winter,4,3.1,12.4
+391,Jams,BerryPatch,Saturday,Fall,1,9.02,9.02
+392,Cheese,BerryPatch,Saturday,Winter,3,5.98,17.94
+393,Cheese,Sunrise Orchards,Thursday,Winter,5,9.68,48.4
+394,Vegetables,Sunrise Orchards,Thursday,Fall,4,11.66,46.64
+395,Herbs,Golden Hive,Sunday,Fall,1,3.59,3.59
+396,Jams,Mossy Roots,Friday,Winter,1,5.49,5.49
+397,Fruits,BerryPatch,Friday,Spring,3,10.2,30.6
+398,Baked Goods,GreenLeaf,Saturday,Spring,3,5.03,15.09
+399,Honey,Dough & Co,Wednesday,Fall,2,4.54,9.08
+400,Fruits,Sunrise Orchards,Thursday,Summer,3,10.34,31.02
+401,Herbs,Dough & Co,Wednesday,Spring,1,11.88,11.88
+402,Baked Goods,Dough & Co,Saturday,Fall,4,7.79,31.16
+403,Herbs,Golden Hive,Friday,Spring,1,5.14,5.14
+404,Cheese,BerryPatch,Saturday,Summer,1,6.29,6.29
+405,Baked Goods,Sunrise Orchards,Wednesday,Fall,2,4.12,8.24
+406,Cheese,Dough & Co,Wednesday,Summer,3,9.74,29.22
+407,Fruits,Sunrise Orchards,Friday,Fall,2,9.85,19.7
+408,Fruits,GreenLeaf,Saturday,Summer,5,10.81,54.05
+409,Baked Goods,Golden Hive,Friday,Spring,6,2.75,16.5
+410,Baked Goods,GreenLeaf,Monday,Spring,2,7.84,15.68
+411,Jams,Sunrise Orchards,Saturday,Summer,3,4.54,13.62
+412,Herbs,Sunrise Orchards,Tuesday,Summer,4,5.74,22.96
+413,Jams,BerryPatch,Sunday,Summer,4,9.96,39.84
+414,Herbs,Dough & Co,Monday,Fall,3,4.32,12.96
+415,Jams,Dough & Co,Saturday,Spring,1,8.56,8.56
+416,Cheese,GreenLeaf,Tuesday,Fall,1,8.72,8.72
+417,Baked Goods,Golden Hive,Sunday,Spring,1,11.56,11.56
+418,Fruits,Mossy Roots,Friday,Winter,4,9.86,39.44
+419,Herbs,Dough & Co,Tuesday,Fall,2,10.13,20.26
+420,Herbs,BerryPatch,Thursday,Spring,6,7.55,45.3
+421,Fruits,GreenLeaf,Wednesday,Spring,3,4.27,12.81
+422,Jams,GreenLeaf,Wednesday,Fall,4,6.54,26.16
+423,Herbs,Mossy Roots,Sunday,Fall,5,7.72,38.6
+424,Honey,BerryPatch,Thursday,Spring,1,8.94,8.94
+425,Cheese,Golden Hive,Saturday,Fall,1,8.27,8.27
+426,Baked Goods,BerryPatch,Friday,Summer,1,6.24,6.24
+427,Fruits,Golden Hive,Saturday,Fall,2,5.02,10.04
+428,Baked Goods,BerryPatch,Tuesday,Fall,2,4.1,8.2
+429,Honey,BerryPatch,Wednesday,Fall,2,9.09,18.18
+430,Herbs,Sunrise Orchards,Saturday,Spring,2,8.63,17.26
+431,Herbs,GreenLeaf,Sunday,Summer,3,9.03,27.09
+432,Honey,BerryPatch,Wednesday,Winter,2,6.04,12.08
+433,Fruits,Mossy Roots,Wednesday,Winter,2,4.99,9.98
+434,Cheese,BerryPatch,Friday,Summer,4,9.72,38.88
+435,Vegetables,Dough & Co,Sunday,Summer,2,9.85,19.7
+436,Fruits,GreenLeaf,Wednesday,Summer,3,6.83,20.49
+437,Vegetables,Dough & Co,Thursday,Spring,2,8.31,16.62
+438,Honey,GreenLeaf,Saturday,Winter,3,6.05,18.15
+439,Jams,Dough & Co,Monday,Summer,4,9.17,36.68
+440,Vegetables,BerryPatch,Monday,Spring,4,10.44,41.76
+441,Cheese,BerryPatch,Friday,Winter,1,9.04,9.04
+442,Jams,Sunrise Orchards,Sunday,Fall,3,7.37,22.11
+443,Vegetables,Mossy Roots,Wednesday,Spring,1,6.86,6.86
+444,Honey,Dough & Co,Friday,Winter,4,8.6,34.4
+445,Jams,Golden Hive,Friday,Spring,4,8.96,35.84
+446,Honey,Sunrise Orchards,Friday,Winter,2,7.81,15.62
+447,Vegetables,Dough & Co,Friday,Winter,1,8.44,8.44
+448,Honey,Dough & Co,Friday,Fall,2,3.42,6.84
+449,Cheese,Sunrise Orchards,Thursday,Spring,2,11.54,23.08
+450,Vegetables,BerryPatch,Friday,Summer,2,10.01,20.02
+451,Vegetables,Dough & Co,Friday,Fall,3,6.05,18.15
+452,Vegetables,BerryPatch,Friday,Fall,5,7.85,39.25
+453,Fruits,Sunrise Orchards,Saturday,Winter,3,2.95,8.85
+454,Fruits,BerryPatch,Monday,Summer,4,2.89,11.56
+455,Fruits,GreenLeaf,Saturday,Spring,3,4.88,14.64
+456,Cheese,Golden Hive,Saturday,Summer,4,9.05,36.2
+457,Jams,Dough & Co,Wednesday,Summer,4,10.6,42.4
+458,Honey,Mossy Roots,Friday,Summer,1,7.81,7.81
+459,Herbs,Golden Hive,Thursday,Summer,2,7.56,15.12
+460,Vegetables,BerryPatch,Wednesday,Summer,3,6.32,18.96
+461,Honey,Dough & Co,Thursday,Winter,4,4.04,16.16
+462,Vegetables,BerryPatch,Monday,Winter,1,3.62,3.62
+463,Cheese,GreenLeaf,Wednesday,Fall,2,9.73,19.46
+464,Vegetables,Sunrise Orchards,Saturday,Winter,5,11.31,56.55
+465,Fruits,Dough & Co,Wednesday,Fall,3,6.85,20.55
+466,Herbs,GreenLeaf,Saturday,Fall,2,8.76,17.52
+467,Baked Goods,GreenLeaf,Friday,Spring,2,11.19,22.38
+468,Vegetables,Dough & Co,Saturday,Summer,2,3.36,6.72
+469,Honey,BerryPatch,Friday,Winter,4,9.82,39.28
+470,Fruits,Mossy Roots,Monday,Spring,2,8.36,16.72
+471,Baked Goods,GreenLeaf,Saturday,Winter,3,8.19,24.57
+472,Herbs,Golden Hive,Monday,Fall,6,5.28,31.68
+473,Baked Goods,GreenLeaf,Friday,Winter,1,9.0,9.0
+474,Fruits,Mossy Roots,Sunday,Summer,4,10.05,40.2
+475,Jams,BerryPatch,Wednesday,Fall,3,3.57,10.71
+476,Jams,BerryPatch,Thursday,Fall,2,7.57,15.14
+477,Baked Goods,Golden Hive,Saturday,Spring,2,3.46,6.92
+478,Cheese,GreenLeaf,Saturday,Summer,4,10.79,43.16
+479,Honey,BerryPatch,Saturday,Fall,2,7.32,14.64
+480,Honey,Mossy Roots,Wednesday,Summer,2,10.18,20.36
+481,Baked Goods,Dough & Co,Saturday,Winter,2,6.0,12.0
+482,Vegetables,Sunrise Orchards,Wednesday,Summer,3,3.69,11.07
+483,Vegetables,Sunrise Orchards,Saturday,Fall,2,2.89,5.78
+484,Honey,Sunrise Orchards,Sunday,Spring,3,5.17,15.51
+485,Honey,GreenLeaf,Saturday,Fall,4,4.82,19.28
+486,Jams,Golden Hive,Saturday,Summer,3,7.82,23.46
+487,Cheese,BerryPatch,Monday,Summer,4,2.71,10.84
+488,Fruits,Dough & Co,Saturday,Fall,3,7.45,22.35
+489,Vegetables,Mossy Roots,Saturday,Summer,2,6.22,12.44
+490,Honey,Dough & Co,Monday,Winter,3,7.98,23.94
+491,Jams,Mossy Roots,Saturday,Fall,4,9.17,36.68
+492,Herbs,GreenLeaf,Wednesday,Spring,3,8.52,25.56
+493,Jams,Sunrise Orchards,Saturday,Fall,1,11.85,11.85
+494,Vegetables,GreenLeaf,Saturday,Winter,4,3.81,15.24
+495,Vegetables,Golden Hive,Saturday,Winter,2,6.58,13.16
+496,Jams,Golden Hive,Tuesday,Winter,2,6.54,13.08
+497,Fruits,Mossy Roots,Friday,Winter,5,6.46,32.3
+498,Baked Goods,BerryPatch,Friday,Winter,4,8.81,35.24
+499,Vegetables,BerryPatch,Sunday,Spring,4,7.15,28.6
+500,Jams,Mossy Roots,Thursday,Summer,3,7.42,22.26
+501,Honey,Golden Hive,Thursday,Winter,2,6.61,13.22
+502,Jams,Golden Hive,Saturday,Winter,2,11.92,23.84
+503,Cheese,Golden Hive,Thursday,Fall,1,11.31,11.31
+504,Baked Goods,GreenLeaf,Friday,Spring,5,5.42,27.1
+505,Herbs,Golden Hive,Friday,Spring,4,3.56,14.24
+506,Fruits,Dough & Co,Saturday,Summer,1,10.48,10.48
+507,Herbs,Sunrise Orchards,Friday,Spring,1,11.97,11.97
+508,Baked Goods,Golden Hive,Friday,Fall,7,5.28,36.96
+509,Baked Goods,Mossy Roots,Tuesday,Fall,3,5.9,17.7
+510,Baked Goods,Sunrise Orchards,Tuesday,Summer,7,11.45,80.15
+511,Herbs,GreenLeaf,Wednesday,Fall,1,9.26,9.26
+512,Honey,Mossy Roots,Wednesday,Winter,3,5.31,15.93
+513,Baked Goods,Sunrise Orchards,Friday,Winter,1,8.02,8.02
+514,Jams,Mossy Roots,Saturday,Fall,2,11.47,22.94
+515,Herbs,GreenLeaf,Friday,Summer,7,10.21,71.47
+516,Baked Goods,Dough & Co,Saturday,Spring,2,9.55,19.1
+517,Jams,GreenLeaf,Sunday,Summer,3,9.5,28.5
+518,Honey,GreenLeaf,Saturday,Spring,2,4.19,8.38
+519,Cheese,Mossy Roots,Saturday,Fall,2,10.33,20.66
+520,Honey,BerryPatch,Friday,Fall,5,5.12,25.6
+521,Baked Goods,Golden Hive,Thursday,Winter,6,11.34,68.04
+522,Herbs,Golden Hive,Tuesday,Spring,4,5.96,23.84
+523,Vegetables,Dough & Co,Thursday,Summer,2,10.65,21.3
+524,Baked Goods,Dough & Co,Sunday,Fall,3,5.03,15.09
+525,Vegetables,Golden Hive,Saturday,Summer,4,7.39,29.56
+526,Jams,BerryPatch,Wednesday,Winter,4,3.52,14.08
+527,Cheese,Golden Hive,Friday,Spring,4,8.77,35.08
+528,Fruits,BerryPatch,Saturday,Spring,4,10.44,41.76
+529,Honey,Dough & Co,Tuesday,Fall,3,9.33,27.99
+530,Cheese,Sunrise Orchards,Thursday,Spring,4,7.47,29.88
+531,Baked Goods,Mossy Roots,Saturday,Fall,6,2.93,17.58
+532,Vegetables,Dough & Co,Thursday,Winter,1,11.37,11.37
+533,Honey,Dough & Co,Tuesday,Spring,2,9.2,18.4
+534,Vegetables,GreenLeaf,Friday,Fall,4,9.59,38.36
+535,Herbs,GreenLeaf,Saturday,Summer,2,10.05,20.1
+536,Vegetables,GreenLeaf,Friday,Fall,1,9.6,9.6
+537,Herbs,Mossy Roots,Wednesday,Spring,2,6.69,13.38
+538,Jams,GreenLeaf,Thursday,Winter,4,9.47,37.88
+539,Honey,BerryPatch,Friday,Spring,4,8.44,33.76
+540,Honey,Golden Hive,Friday,Spring,4,10.61,42.44
+541,Fruits,Sunrise Orchards,Saturday,Fall,3,10.12,30.36
+542,Baked Goods,Dough & Co,Tuesday,Summer,3,2.89,8.67
+543,Herbs,BerryPatch,Saturday,Spring,3,6.1,18.3
+544,Fruits,Sunrise Orchards,Monday,Summer,4,2.83,11.32
+545,Vegetables,BerryPatch,Thursday,Fall,3,3.47,10.41
+546,Vegetables,BerryPatch,Monday,Summer,2,8.21,16.42
+547,Fruits,Dough & Co,Thursday,Fall,3,10.8,32.4
+548,Honey,Golden Hive,Friday,Winter,4,3.64,14.56
+549,Vegetables,GreenLeaf,Friday,Summer,2,6.79,13.58
+550,Jams,Mossy Roots,Wednesday,Summer,4,11.15,44.6
+551,Jams,Golden Hive,Friday,Winter,2,10.24,20.48
+552,Fruits,Mossy Roots,Monday,Summer,2,7.44,14.88
+553,Herbs,Dough & Co,Saturday,Winter,1,9.83,9.83
+554,Herbs,Dough & Co,Sunday,Spring,2,7.47,14.94
+555,Fruits,Dough & Co,Thursday,Fall,2,4.0,8.0
+556,Herbs,Sunrise Orchards,Friday,Winter,1,3.68,3.68
+557,Honey,Mossy Roots,Thursday,Summer,1,4.29,4.29
+558,Honey,Golden Hive,Monday,Winter,2,5.83,11.66
+559,Herbs,Golden Hive,Thursday,Summer,2,11.34,22.68
+560,Jams,BerryPatch,Saturday,Spring,3,10.1,30.3
+561,Herbs,BerryPatch,Friday,Winter,1,6.61,6.61
+562,Honey,BerryPatch,Tuesday,Spring,3,7.18,21.54
+563,Cheese,Dough & Co,Saturday,Fall,1,5.02,5.02
+564,Baked Goods,Golden Hive,Friday,Summer,3,9.19,27.57
+565,Vegetables,Mossy Roots,Saturday,Summer,5,10.13,50.65
+566,Cheese,Dough & Co,Friday,Spring,1,4.77,4.77
+567,Herbs,Sunrise Orchards,Friday,Fall,2,2.9,5.8
+568,Jams,BerryPatch,Tuesday,Winter,4,8.43,33.72
+569,Fruits,Dough & Co,Wednesday,Winter,4,7.84,31.36
+570,Herbs,Dough & Co,Sunday,Summer,1,6.32,6.32
+571,Jams,Sunrise Orchards,Wednesday,Spring,2,8.62,17.24
+572,Baked Goods,GreenLeaf,Sunday,Spring,4,7.73,30.92
+573,Herbs,Golden Hive,Friday,Winter,2,4.88,9.76
+574,Honey,Mossy Roots,Tuesday,Fall,5,6.28,31.4
+575,Fruits,GreenLeaf,Tuesday,Fall,1,6.57,6.57
+576,Jams,BerryPatch,Wednesday,Winter,3,10.86,32.58
+577,Jams,Dough & Co,Sunday,Winter,1,11.63,11.63
+578,Jams,Sunrise Orchards,Thursday,Spring,2,10.98,21.96
+579,Baked Goods,Sunrise Orchards,Thursday,Fall,3,9.33,27.99
+580,Herbs,Golden Hive,Thursday,Winter,1,8.06,8.06
+581,Baked Goods,GreenLeaf,Tuesday,Winter,5,9.05,45.25
+582,Vegetables,Golden Hive,Friday,Summer,3,11.42,34.26
+583,Vegetables,Dough & Co,Tuesday,Winter,3,4.87,14.61
+584,Herbs,Golden Hive,Saturday,Winter,1,7.58,7.58
+585,Honey,Mossy Roots,Thursday,Fall,3,9.05,27.15
+586,Baked Goods,Sunrise Orchards,Thursday,Spring,3,8.95,26.85
+587,Fruits,Sunrise Orchards,Friday,Fall,1,4.9,4.9
+588,Jams,BerryPatch,Thursday,Spring,1,8.07,8.07
+589,Jams,BerryPatch,Sunday,Summer,2,10.06,20.12
+590,Herbs,Dough & Co,Friday,Winter,4,7.01,28.04
+591,Honey,Mossy Roots,Tuesday,Summer,2,10.04,20.08
+592,Vegetables,GreenLeaf,Friday,Spring,5,5.92,29.6
+593,Vegetables,Golden Hive,Wednesday,Fall,1,11.42,11.42
+594,Jams,Dough & Co,Monday,Fall,3,7.57,22.71
+595,Herbs,BerryPatch,Sunday,Summer,4,8.16,32.64
+596,Baked Goods,Golden Hive,Saturday,Spring,4,2.8,11.2
+597,Vegetables,BerryPatch,Sunday,Summer,3,4.12,12.36
+598,Baked Goods,Golden Hive,Friday,Summer,1,8.51,8.51
+599,Honey,GreenLeaf,Friday,Winter,3,6.49,19.47
+600,Vegetables,Dough & Co,Wednesday,Summer,2,7.33,14.66
+601,Vegetables,Golden Hive,Wednesday,Winter,4,3.1,12.4
+602,Cheese,Mossy Roots,Saturday,Winter,4,10.42,41.68
+603,Vegetables,Sunrise Orchards,Thursday,Fall,5,9.95,49.75
+604,Fruits,Mossy Roots,Saturday,Winter,3,4.26,12.78
+605,Herbs,Mossy Roots,Saturday,Winter,2,8.53,17.06
+606,Herbs,Sunrise Orchards,Wednesday,Fall,3,10.27,30.81
+607,Baked Goods,Mossy Roots,Friday,Summer,2,8.59,17.18
+608,Honey,Golden Hive,Saturday,Spring,2,5.45,10.9
+609,Vegetables,Golden Hive,Wednesday,Spring,4,8.73,34.92
+610,Fruits,Golden Hive,Saturday,Spring,2,4.5,9.0
+611,Baked Goods,Sunrise Orchards,Friday,Summer,2,5.52,11.04
+612,Cheese,Mossy Roots,Wednesday,Winter,5,4.78,23.9
+613,Baked Goods,Sunrise Orchards,Friday,Spring,4,7.79,31.16
+614,Baked Goods,Golden Hive,Sunday,Summer,4,3.53,14.12
+615,Vegetables,Mossy Roots,Wednesday,Winter,2,11.37,22.74
+616,Cheese,Mossy Roots,Saturday,Fall,5,5.67,28.35
+617,Baked Goods,BerryPatch,Wednesday,Spring,3,4.58,13.74
+618,Fruits,BerryPatch,Saturday,Winter,3,7.22,21.66
+619,Fruits,GreenLeaf,Saturday,Spring,2,5.13,10.26
+620,Herbs,Dough & Co,Thursday,Spring,5,7.58,37.9
+621,Cheese,BerryPatch,Thursday,Spring,2,5.81,11.62
+622,Cheese,Sunrise Orchards,Saturday,Winter,5,3.75,18.75
+623,Herbs,BerryPatch,Friday,Summer,4,5.03,20.12
+624,Baked Goods,GreenLeaf,Saturday,Winter,3,6.67,20.01
+625,Cheese,Mossy Roots,Tuesday,Spring,2,2.79,5.58
+626,Fruits,GreenLeaf,Saturday,Winter,2,9.82,19.64
+627,Fruits,Mossy Roots,Saturday,Fall,2,8.41,16.82
+628,Vegetables,Mossy Roots,Sunday,Summer,6,8.21,49.26
+629,Cheese,Dough & Co,Tuesday,Winter,3,7.69,23.07
+630,Baked Goods,BerryPatch,Friday,Fall,1,8.11,8.11
+631,Herbs,Sunrise Orchards,Friday,Summer,3,11.38,34.14
+632,Herbs,Sunrise Orchards,Thursday,Fall,7,2.58,18.06
+633,Baked Goods,Golden Hive,Friday,Summer,1,2.95,2.95
+634,Honey,Mossy Roots,Monday,Winter,4,4.32,17.28
+635,Jams,Sunrise Orchards,Saturday,Fall,1,4.09,4.09
+636,Vegetables,Dough & Co,Friday,Spring,2,4.22,8.44
+637,Herbs,Mossy Roots,Tuesday,Fall,2,8.88,17.76
+638,Cheese,Dough & Co,Saturday,Summer,1,6.87,6.87
+639,Vegetables,Sunrise Orchards,Friday,Winter,4,11.92,47.68
+640,Cheese,Sunrise Orchards,Monday,Summer,3,4.66,13.98
+641,Honey,Golden Hive,Sunday,Fall,3,5.45,16.35
+642,Fruits,Sunrise Orchards,Sunday,Fall,2,11.85,23.7
+643,Vegetables,Mossy Roots,Friday,Spring,3,10.4,31.2
+644,Herbs,Mossy Roots,Tuesday,Winter,4,6.96,27.84
+645,Vegetables,Mossy Roots,Saturday,Winter,3,7.77,23.31
+646,Vegetables,Golden Hive,Friday,Fall,1,10.51,10.51
+647,Vegetables,Golden Hive,Thursday,Winter,5,7.07,35.35
+648,Jams,Sunrise Orchards,Friday,Spring,3,4.46,13.38
+649,Vegetables,GreenLeaf,Friday,Summer,3,10.37,31.11
+650,Cheese,GreenLeaf,Friday,Winter,4,7.61,30.44
+651,Fruits,Golden Hive,Thursday,Fall,2,3.95,7.9
+652,Honey,Sunrise Orchards,Friday,Summer,4,7.3,29.2
+653,Baked Goods,GreenLeaf,Sunday,Summer,1,6.43,6.43
+654,Vegetables,Sunrise Orchards,Thursday,Spring,1,10.83,10.83
+655,Herbs,Sunrise Orchards,Saturday,Fall,3,3.7,11.1
+656,Vegetables,Sunrise Orchards,Saturday,Winter,6,10.81,64.86
+657,Herbs,BerryPatch,Friday,Fall,2,7.37,14.74
+658,Cheese,Mossy Roots,Thursday,Summer,4,6.34,25.36
+659,Herbs,Sunrise Orchards,Friday,Fall,2,4.04,8.08
+660,Baked Goods,BerryPatch,Friday,Winter,1,9.16,9.16
+661,Fruits,Golden Hive,Saturday,Winter,5,11.3,56.5
+662,Herbs,GreenLeaf,Friday,Spring,2,6.07,12.14
+663,Herbs,Mossy Roots,Sunday,Winter,4,4.8,19.2
+664,Fruits,GreenLeaf,Tuesday,Winter,1,7.77,7.77
+665,Baked Goods,Mossy Roots,Monday,Fall,2,10.06,20.12
+666,Vegetables,GreenLeaf,Friday,Fall,1,2.54,2.54
+667,Herbs,Mossy Roots,Wednesday,Summer,4,8.5,34.0
+668,Fruits,GreenLeaf,Wednesday,Spring,2,8.17,16.34
+669,Cheese,GreenLeaf,Thursday,Fall,2,5.52,11.04
+670,Fruits,GreenLeaf,Wednesday,Winter,4,6.79,27.16
+671,Cheese,GreenLeaf,Monday,Summer,3,4.85,14.55
+672,Baked Goods,Golden Hive,Sunday,Fall,7,10.0,70.0
+673,Vegetables,Sunrise Orchards,Wednesday,Spring,5,8.53,42.65
+674,Fruits,Dough & Co,Saturday,Spring,2,7.56,15.12
+675,Honey,BerryPatch,Saturday,Summer,2,6.23,12.46
+676,Honey,Dough & Co,Sunday,Summer,4,5.27,21.08
+677,Jams,Dough & Co,Monday,Summer,3,10.32,30.96
+678,Herbs,Mossy Roots,Saturday,Summer,2,6.79,13.58
+679,Baked Goods,Sunrise Orchards,Friday,Summer,3,7.26,21.78
+680,Fruits,Mossy Roots,Friday,Winter,1,7.45,7.45
+681,Honey,Sunrise Orchards,Friday,Winter,3,6.76,20.28
+682,Herbs,Sunrise Orchards,Saturday,Fall,5,4.93,24.65
+683,Honey,GreenLeaf,Thursday,Spring,4,3.64,14.56
+684,Fruits,Golden Hive,Saturday,Winter,3,3.44,10.32
+685,Cheese,GreenLeaf,Friday,Winter,2,9.7,19.4
+686,Fruits,Golden Hive,Saturday,Winter,2,4.62,9.24
+687,Jams,Mossy Roots,Sunday,Fall,1,3.03,3.03
+688,Fruits,Golden Hive,Wednesday,Summer,1,10.08,10.08
+689,Fruits,Mossy Roots,Sunday,Fall,4,3.96,15.84
+690,Jams,Dough & Co,Tuesday,Spring,1,8.44,8.44
+691,Baked Goods,Dough & Co,Monday,Spring,4,5.72,22.88
+692,Fruits,Golden Hive,Monday,Spring,3,3.7,11.1
+693,Jams,Golden Hive,Thursday,Spring,1,6.44,6.44
+694,Herbs,Mossy Roots,Friday,Winter,5,2.64,13.2
+695,Cheese,GreenLeaf,Tuesday,Winter,1,10.49,10.49
+696,Cheese,Mossy Roots,Monday,Fall,3,7.38,22.14
+697,Fruits,GreenLeaf,Sunday,Summer,3,3.82,11.46
+698,Baked Goods,Dough & Co,Saturday,Spring,4,4.75,19.0
+699,Baked Goods,Sunrise Orchards,Saturday,Fall,6,6.76,40.56
+700,Herbs,Golden Hive,Saturday,Winter,2,4.29,8.58
+701,Fruits,GreenLeaf,Saturday,Winter,1,5.05,5.05
+702,Cheese,Mossy Roots,Tuesday,Summer,3,7.58,22.74
+703,Baked Goods,Dough & Co,Thursday,Summer,2,10.41,20.82
+704,Fruits,GreenLeaf,Saturday,Summer,4,6.32,25.28
+705,Honey,Mossy Roots,Wednesday,Fall,6,9.31,55.86
+706,Baked Goods,Golden Hive,Saturday,Winter,3,10.83,32.49
+707,Jams,Golden Hive,Monday,Winter,2,4.55,9.1
+708,Honey,BerryPatch,Thursday,Summer,3,10.17,30.51
+709,Baked Goods,Sunrise Orchards,Friday,Spring,2,9.7,19.4
+710,Cheese,BerryPatch,Friday,Summer,2,5.89,11.78
+711,Vegetables,Dough & Co,Friday,Fall,2,11.9,23.8
+712,Honey,GreenLeaf,Saturday,Summer,4,4.99,19.96
+713,Herbs,Dough & Co,Monday,Summer,3,4.92,14.76
+714,Herbs,Mossy Roots,Tuesday,Fall,2,9.84,19.68
+715,Cheese,Golden Hive,Saturday,Summer,1,6.63,6.63
+716,Baked Goods,BerryPatch,Saturday,Winter,2,5.64,11.28
+717,Fruits,BerryPatch,Tuesday,Spring,2,4.2,8.4
+718,Baked Goods,BerryPatch,Saturday,Summer,1,9.77,9.77
+719,Cheese,Dough & Co,Wednesday,Fall,3,9.97,29.91
+720,Herbs,Golden Hive,Friday,Spring,2,7.88,15.76
+721,Baked Goods,GreenLeaf,Tuesday,Fall,2,11.59,23.18
+722,Herbs,Mossy Roots,Saturday,Spring,3,5.52,16.56
+723,Honey,GreenLeaf,Saturday,Spring,3,4.59,13.77
+724,Fruits,Dough & Co,Wednesday,Summer,4,8.94,35.76
+725,Honey,Mossy Roots,Saturday,Winter,5,9.7,48.5
+726,Herbs,BerryPatch,Thursday,Summer,2,4.64,9.28
+727,Herbs,Sunrise Orchards,Wednesday,Fall,3,3.23,9.69
+728,Vegetables,Dough & Co,Wednesday,Fall,1,10.2,10.2
+729,Vegetables,Dough & Co,Wednesday,Spring,3,11.78,35.34
+730,Honey,Golden Hive,Monday,Spring,3,8.62,25.86
+731,Jams,GreenLeaf,Friday,Winter,3,5.14,15.42
+732,Honey,Dough & Co,Saturday,Summer,3,11.97,35.91
+733,Vegetables,Dough & Co,Friday,Fall,1,10.99,10.99
+734,Herbs,BerryPatch,Wednesday,Spring,4,7.38,29.52
+735,Cheese,BerryPatch,Monday,Winter,3,10.34,31.02
+736,Honey,Mossy Roots,Wednesday,Fall,3,10.25,30.75
+737,Herbs,Sunrise Orchards,Thursday,Spring,4,11.38,45.52
+738,Cheese,Golden Hive,Saturday,Fall,2,10.49,20.98
+739,Cheese,Sunrise Orchards,Wednesday,Winter,1,8.61,8.61
+740,Vegetables,Mossy Roots,Saturday,Winter,4,8.29,33.16
+741,Honey,BerryPatch,Saturday,Fall,1,6.94,6.94
+742,Baked Goods,GreenLeaf,Friday,Summer,2,8.45,16.9
+743,Fruits,BerryPatch,Saturday,Fall,6,10.05,60.3
+744,Vegetables,Golden Hive,Friday,Spring,2,11.71,23.42
+745,Vegetables,BerryPatch,Friday,Summer,2,6.94,13.88
+746,Baked Goods,Golden Hive,Friday,Spring,6,7.95,47.7
+747,Fruits,Golden Hive,Friday,Fall,6,6.73,40.38
+748,Herbs,Golden Hive,Wednesday,Summer,5,8.85,44.25
+749,Jams,Mossy Roots,Thursday,Spring,3,8.48,25.44
+750,Honey,Golden Hive,Wednesday,Fall,1,2.67,2.67
+751,Jams,Golden Hive,Friday,Fall,2,7.64,15.28
+752,Herbs,GreenLeaf,Tuesday,Summer,6,3.34,20.04
+753,Vegetables,Sunrise Orchards,Sunday,Fall,4,2.75,11.0
+754,Fruits,Dough & Co,Saturday,Winter,1,10.02,10.02
+755,Vegetables,Sunrise Orchards,Thursday,Spring,2,4.96,9.92
+756,Cheese,Golden Hive,Wednesday,Spring,2,5.74,11.48
+757,Vegetables,GreenLeaf,Saturday,Fall,3,3.11,9.33
+758,Vegetables,BerryPatch,Saturday,Fall,5,4.21,21.05
+759,Herbs,GreenLeaf,Saturday,Winter,3,9.77,29.31
+760,Herbs,Golden Hive,Wednesday,Summer,2,7.19,14.38
+761,Herbs,GreenLeaf,Thursday,Fall,2,10.87,21.74
+762,Jams,GreenLeaf,Tuesday,Fall,4,6.27,25.08
+763,Cheese,Golden Hive,Wednesday,Fall,3,5.05,15.15
+764,Herbs,Mossy Roots,Saturday,Fall,4,5.8,23.2
+765,Fruits,GreenLeaf,Saturday,Spring,3,9.27,27.81
+766,Jams,Dough & Co,Friday,Fall,2,7.77,15.54
+767,Baked Goods,Dough & Co,Saturday,Spring,1,11.09,11.09
+768,Fruits,GreenLeaf,Friday,Fall,5,8.22,41.1
+769,Honey,Mossy Roots,Friday,Summer,6,7.18,43.08
+770,Honey,BerryPatch,Thursday,Winter,4,9.96,39.84
+771,Fruits,Golden Hive,Sunday,Summer,1,11.5,11.5
+772,Herbs,Dough & Co,Tuesday,Fall,2,5.88,11.76
+773,Baked Goods,BerryPatch,Sunday,Fall,5,4.87,24.35
+774,Baked Goods,GreenLeaf,Saturday,Fall,4,8.35,33.4
+775,Jams,BerryPatch,Tuesday,Summer,3,7.24,21.72
+776,Baked Goods,Sunrise Orchards,Friday,Fall,3,11.9,35.7
+777,Honey,Dough & Co,Saturday,Summer,3,6.89,20.67
+778,Cheese,GreenLeaf,Friday,Spring,5,3.21,16.05
+779,Herbs,Golden Hive,Sunday,Winter,2,11.79,23.58
+780,Baked Goods,Mossy Roots,Sunday,Winter,1,10.51,10.51
+781,Jams,GreenLeaf,Thursday,Summer,2,4.19,8.38
+782,Honey,Golden Hive,Thursday,Spring,6,11.09,66.54
+783,Cheese,Mossy Roots,Sunday,Summer,5,5.74,28.7
+784,Vegetables,Mossy Roots,Saturday,Spring,2,6.08,12.16
+785,Vegetables,GreenLeaf,Tuesday,Fall,5,11.11,55.55
+786,Cheese,BerryPatch,Monday,Spring,6,7.54,45.24
+787,Honey,BerryPatch,Friday,Spring,1,3.81,3.81
+788,Jams,Mossy Roots,Sunday,Spring,2,6.01,12.02
+789,Cheese,BerryPatch,Saturday,Winter,3,9.36,28.08
+790,Herbs,Sunrise Orchards,Saturday,Spring,2,4.15,8.3
+791,Herbs,Mossy Roots,Tuesday,Fall,5,8.11,40.55
+792,Vegetables,Mossy Roots,Wednesday,Fall,3,9.11,27.33
+793,Baked Goods,Golden Hive,Saturday,Fall,3,5.77,17.31
+794,Jams,BerryPatch,Wednesday,Spring,4,9.09,36.36
+795,Vegetables,Mossy Roots,Wednesday,Summer,2,10.9,21.8
+796,Baked Goods,Sunrise Orchards,Tuesday,Summer,2,6.99,13.98
+797,Baked Goods,Golden Hive,Saturday,Fall,1,6.14,6.14
+798,Herbs,GreenLeaf,Sunday,Winter,5,4.89,24.45
+799,Honey,Mossy Roots,Wednesday,Summer,3,8.24,24.72
+800,Fruits,Sunrise Orchards,Friday,Spring,2,10.86,21.72
+801,Honey,Dough & Co,Friday,Summer,3,5.58,16.74
+802,Fruits,Sunrise Orchards,Sunday,Fall,2,6.26,12.52
+803,Cheese,Sunrise Orchards,Tuesday,Winter,2,6.36,12.72
+804,Herbs,Golden Hive,Friday,Summer,1,7.83,7.83
+805,Baked Goods,GreenLeaf,Thursday,Summer,1,4.67,4.67
+806,Jams,Dough & Co,Saturday,Fall,3,10.31,30.93
+807,Fruits,BerryPatch,Friday,Winter,3,5.31,15.93
+808,Honey,BerryPatch,Tuesday,Winter,8,9.2,73.6
+809,Baked Goods,Sunrise Orchards,Friday,Fall,4,7.38,29.52
+810,Fruits,Golden Hive,Saturday,Spring,4,8.07,32.28
+811,Fruits,Golden Hive,Monday,Summer,6,4.21,25.26
+812,Fruits,BerryPatch,Saturday,Spring,4,9.48,37.92
+813,Jams,Dough & Co,Wednesday,Summer,2,4.29,8.58
+814,Herbs,GreenLeaf,Friday,Summer,3,3.58,10.74
+815,Jams,Dough & Co,Thursday,Spring,1,7.69,7.69
+816,Vegetables,Mossy Roots,Saturday,Fall,3,9.24,27.72
+817,Baked Goods,Mossy Roots,Thursday,Fall,4,2.98,11.92
+818,Herbs,GreenLeaf,Saturday,Summer,6,3.16,18.96
+819,Herbs,BerryPatch,Saturday,Fall,3,10.13,30.39
+820,Herbs,GreenLeaf,Friday,Summer,2,10.19,20.38
+821,Honey,Golden Hive,Saturday,Fall,4,4.83,19.32
+822,Herbs,Mossy Roots,Saturday,Summer,1,8.34,8.34
+823,Jams,Sunrise Orchards,Monday,Fall,4,6.71,26.84
+824,Herbs,Sunrise Orchards,Thursday,Winter,4,8.51,34.04
+825,Cheese,BerryPatch,Sunday,Spring,6,10.7,64.2
+826,Baked Goods,Golden Hive,Tuesday,Winter,3,3.26,9.78
+827,Herbs,Dough & Co,Saturday,Spring,1,9.89,9.89
+828,Baked Goods,Golden Hive,Sunday,Spring,2,7.18,14.36
+829,Cheese,Sunrise Orchards,Tuesday,Summer,4,7.86,31.44
+830,Cheese,Sunrise Orchards,Saturday,Spring,5,8.71,43.55
+831,Baked Goods,Mossy Roots,Friday,Winter,5,11.26,56.3
+832,Fruits,Golden Hive,Friday,Winter,4,3.04,12.16
+833,Vegetables,Golden Hive,Tuesday,Fall,2,2.78,5.56
+834,Honey,Sunrise Orchards,Monday,Winter,1,4.19,4.19
+835,Fruits,Dough & Co,Saturday,Fall,3,11.87,35.61
+836,Fruits,BerryPatch,Saturday,Spring,4,9.29,37.16
+837,Jams,BerryPatch,Saturday,Winter,3,8.34,25.02
+838,Honey,Golden Hive,Friday,Spring,2,2.95,5.9
+839,Honey,BerryPatch,Tuesday,Winter,4,10.85,43.4
+840,Fruits,Sunrise Orchards,Saturday,Winter,2,10.22,20.44
+841,Herbs,Sunrise Orchards,Wednesday,Fall,4,8.82,35.28
+842,Jams,Golden Hive,Sunday,Spring,4,5.72,22.88
+843,Jams,Golden Hive,Saturday,Winter,5,3.17,15.85
+844,Cheese,Mossy Roots,Saturday,Summer,3,8.01,24.03
+845,Honey,Golden Hive,Sunday,Spring,2,9.34,18.68
+846,Fruits,Dough & Co,Monday,Spring,4,3.4,13.6
+847,Cheese,BerryPatch,Saturday,Spring,2,8.52,17.04
+848,Baked Goods,Golden Hive,Thursday,Fall,6,5.22,31.32
+849,Vegetables,GreenLeaf,Sunday,Summer,3,9.76,29.28
+850,Jams,Mossy Roots,Wednesday,Spring,4,7.63,30.52
+851,Baked Goods,GreenLeaf,Saturday,Winter,1,3.73,3.73
+852,Baked Goods,Sunrise Orchards,Saturday,Winter,2,7.5,15.0
+853,Herbs,BerryPatch,Monday,Fall,5,6.26,31.3
+854,Vegetables,Golden Hive,Thursday,Winter,2,4.21,8.42
+855,Baked Goods,GreenLeaf,Saturday,Spring,6,10.49,62.94
+856,Baked Goods,BerryPatch,Friday,Winter,1,2.6,2.6
+857,Vegetables,Sunrise Orchards,Wednesday,Spring,3,5.47,16.41
+858,Vegetables,Dough & Co,Wednesday,Winter,5,2.62,13.1
+859,Baked Goods,Mossy Roots,Tuesday,Summer,3,3.41,10.23
+860,Vegetables,BerryPatch,Saturday,Fall,3,5.32,15.96
+861,Baked Goods,BerryPatch,Friday,Fall,3,3.02,9.06
+862,Baked Goods,Dough & Co,Tuesday,Summer,2,8.17,16.34
+863,Herbs,BerryPatch,Thursday,Summer,3,3.33,9.99
+864,Fruits,Sunrise Orchards,Thursday,Fall,2,9.17,18.34
+865,Baked Goods,Sunrise Orchards,Wednesday,Summer,3,3.0,9.0
+866,Cheese,Dough & Co,Thursday,Spring,3,3.06,9.18
+867,Jams,Mossy Roots,Thursday,Winter,1,5.4,5.4
+868,Honey,Golden Hive,Thursday,Fall,4,11.02,44.08
+869,Fruits,GreenLeaf,Saturday,Summer,3,8.59,25.77
+870,Fruits,Golden Hive,Wednesday,Spring,1,9.82,9.82
+871,Fruits,BerryPatch,Friday,Fall,4,3.84,15.36
+872,Herbs,GreenLeaf,Friday,Summer,3,10.42,31.26
+873,Baked Goods,Dough & Co,Friday,Fall,5,2.58,12.9
+874,Herbs,Dough & Co,Saturday,Summer,1,4.52,4.52
+875,Baked Goods,Mossy Roots,Friday,Fall,4,8.35,33.4
+876,Herbs,GreenLeaf,Saturday,Spring,3,6.06,18.18
+877,Herbs,Sunrise Orchards,Saturday,Spring,3,11.85,35.55
+878,Jams,GreenLeaf,Friday,Winter,4,2.79,11.16
+879,Cheese,BerryPatch,Saturday,Fall,3,11.99,35.97
+880,Herbs,Sunrise Orchards,Friday,Winter,3,8.42,25.26
+881,Jams,Dough & Co,Wednesday,Fall,2,7.81,15.62
+882,Vegetables,GreenLeaf,Wednesday,Summer,1,3.07,3.07
+883,Cheese,Golden Hive,Wednesday,Summer,2,5.1,10.2
+884,Herbs,Mossy Roots,Saturday,Winter,4,11.28,45.12
+885,Honey,Golden Hive,Saturday,Fall,2,5.87,11.74
+886,Fruits,Mossy Roots,Sunday,Winter,3,8.79,26.37
+887,Vegetables,BerryPatch,Friday,Spring,1,12.0,12.0
+888,Vegetables,Golden Hive,Friday,Winter,1,5.0,5.0
+889,Jams,GreenLeaf,Tuesday,Winter,2,7.97,15.94
+890,Vegetables,GreenLeaf,Saturday,Summer,2,9.12,18.24
+891,Cheese,Golden Hive,Friday,Winter,5,4.06,20.3
+892,Herbs,GreenLeaf,Sunday,Fall,3,3.91,11.73
+893,Herbs,BerryPatch,Wednesday,Summer,4,6.83,27.32
+894,Honey,Sunrise Orchards,Friday,Winter,1,6.17,6.17
+895,Fruits,BerryPatch,Saturday,Spring,2,9.29,18.58
+896,Jams,Mossy Roots,Friday,Winter,3,3.16,9.48
+897,Fruits,BerryPatch,Friday,Winter,3,11.74,35.22
+898,Vegetables,Mossy Roots,Saturday,Winter,7,2.64,18.48
+899,Honey,GreenLeaf,Wednesday,Summer,4,8.21,32.84
+900,Fruits,Sunrise Orchards,Saturday,Fall,3,7.85,23.55
+901,Cheese,GreenLeaf,Friday,Spring,3,3.78,11.34
+902,Herbs,Dough & Co,Saturday,Winter,3,3.93,11.79
+903,Vegetables,GreenLeaf,Saturday,Fall,3,10.03,30.09
+904,Honey,Mossy Roots,Thursday,Fall,5,10.93,54.65
+905,Fruits,GreenLeaf,Wednesday,Summer,2,5.19,10.38
+906,Jams,GreenLeaf,Sunday,Spring,3,6.66,19.98
+907,Cheese,Sunrise Orchards,Friday,Summer,3,5.87,17.61
+908,Cheese,GreenLeaf,Sunday,Fall,1,3.19,3.19
+909,Fruits,Sunrise Orchards,Wednesday,Fall,3,8.9,26.7
+910,Herbs,Golden Hive,Friday,Fall,4,10.34,41.36
+911,Fruits,Dough & Co,Saturday,Summer,6,5.4,32.4
+912,Vegetables,Sunrise Orchards,Sunday,Spring,2,11.91,23.82
+913,Fruits,Mossy Roots,Thursday,Winter,1,3.22,3.22
+914,Cheese,Golden Hive,Saturday,Summer,3,8.79,26.37
+915,Honey,Sunrise Orchards,Friday,Fall,3,6.76,20.28
+916,Fruits,Sunrise Orchards,Tuesday,Summer,1,6.74,6.74
+917,Herbs,Dough & Co,Saturday,Fall,3,6.85,20.55
+918,Honey,Mossy Roots,Saturday,Winter,7,4.96,34.72
+919,Jams,BerryPatch,Sunday,Winter,1,9.3,9.3
+920,Baked Goods,BerryPatch,Friday,Spring,1,9.35,9.35
+921,Fruits,Sunrise Orchards,Wednesday,Fall,4,5.18,20.72
+922,Herbs,GreenLeaf,Monday,Spring,8,10.44,83.52
+923,Honey,Mossy Roots,Thursday,Spring,2,5.51,11.02
+924,Herbs,Golden Hive,Thursday,Winter,2,9.39,18.78
+925,Jams,GreenLeaf,Saturday,Summer,4,3.65,14.6
+926,Cheese,GreenLeaf,Thursday,Summer,3,4.1,12.3
+927,Herbs,Mossy Roots,Sunday,Spring,2,5.5,11.0
+928,Honey,Sunrise Orchards,Sunday,Winter,3,8.14,24.42
+929,Herbs,Sunrise Orchards,Friday,Fall,5,8.63,43.15
+930,Herbs,Sunrise Orchards,Sunday,Summer,3,6.27,18.81
+931,Herbs,Sunrise Orchards,Saturday,Spring,4,3.24,12.96
+932,Vegetables,BerryPatch,Friday,Summer,3,6.05,18.15
+933,Vegetables,Sunrise Orchards,Wednesday,Summer,5,9.04,45.2
+934,Cheese,BerryPatch,Friday,Fall,4,8.87,35.48
+935,Fruits,BerryPatch,Friday,Winter,3,4.02,12.06
+936,Herbs,Sunrise Orchards,Saturday,Fall,2,2.57,5.14
+937,Jams,Dough & Co,Friday,Winter,2,9.65,19.3
+938,Fruits,Golden Hive,Saturday,Summer,3,3.51,10.53
+939,Jams,GreenLeaf,Saturday,Spring,3,3.28,9.84
+940,Fruits,BerryPatch,Tuesday,Fall,3,2.53,7.59
+941,Cheese,Mossy Roots,Sunday,Winter,1,6.61,6.61
+942,Herbs,Mossy Roots,Friday,Summer,1,7.28,7.28
+943,Herbs,Golden Hive,Thursday,Winter,3,8.56,25.68
+944,Baked Goods,Mossy Roots,Saturday,Winter,2,5.31,10.62
+945,Jams,Dough & Co,Tuesday,Winter,5,9.25,46.25
+946,Fruits,Mossy Roots,Friday,Summer,4,4.11,16.44
+947,Fruits,GreenLeaf,Friday,Spring,1,10.4,10.4
+948,Vegetables,GreenLeaf,Thursday,Spring,5,7.93,39.65
+949,Baked Goods,BerryPatch,Sunday,Spring,4,8.05,32.2
+950,Honey,Sunrise Orchards,Friday,Winter,3,4.49,13.47
+951,Honey,Dough & Co,Wednesday,Summer,2,3.2,6.4
+952,Vegetables,BerryPatch,Friday,Winter,1,6.91,6.91
+953,Vegetables,Dough & Co,Sunday,Spring,5,8.35,41.75
+954,Vegetables,Sunrise Orchards,Wednesday,Spring,2,3.4,6.8
+955,Jams,Mossy Roots,Wednesday,Summer,3,11.53,34.59
+956,Jams,Mossy Roots,Monday,Winter,5,11.81,59.05
+957,Cheese,Sunrise Orchards,Monday,Fall,4,7.68,30.72
+958,Cheese,BerryPatch,Saturday,Fall,2,11.53,23.06
+959,Vegetables,Sunrise Orchards,Saturday,Spring,1,4.2,4.2
+960,Baked Goods,Golden Hive,Thursday,Summer,2,2.74,5.48
+961,Fruits,GreenLeaf,Saturday,Winter,4,2.87,11.48
+962,Jams,BerryPatch,Thursday,Winter,3,8.08,24.24
+963,Baked Goods,Dough & Co,Sunday,Spring,1,3.09,3.09
+964,Herbs,Golden Hive,Sunday,Spring,3,11.61,34.83
+965,Jams,BerryPatch,Thursday,Winter,4,3.85,15.4
+966,Jams,Sunrise Orchards,Saturday,Winter,2,5.39,10.78
+967,Cheese,Sunrise Orchards,Saturday,Spring,4,10.31,41.24
+968,Fruits,Sunrise Orchards,Thursday,Winter,2,4.58,9.16
+969,Fruits,Sunrise Orchards,Wednesday,Fall,5,4.81,24.05
+970,Honey,Dough & Co,Friday,Spring,5,8.6,43.0
+971,Honey,Golden Hive,Saturday,Winter,1,5.12,5.12
+972,Honey,Mossy Roots,Sunday,Spring,1,4.57,4.57
+973,Honey,GreenLeaf,Saturday,Summer,4,4.91,19.64
+974,Herbs,Dough & Co,Saturday,Spring,2,7.16,14.32
+975,Herbs,Dough & Co,Friday,Spring,2,11.68,23.36
+976,Jams,Mossy Roots,Saturday,Summer,4,10.41,41.64
+977,Vegetables,Mossy Roots,Saturday,Fall,3,5.2,15.6
+978,Cheese,GreenLeaf,Thursday,Winter,1,5.95,5.95
+979,Cheese,GreenLeaf,Friday,Summer,5,6.91,34.55
+980,Honey,Mossy Roots,Saturday,Spring,2,11.8,23.6
+981,Jams,Sunrise Orchards,Monday,Winter,4,4.14,16.56
+982,Baked Goods,Dough & Co,Saturday,Summer,3,5.9,17.7
+983,Vegetables,BerryPatch,Wednesday,Winter,3,9.43,28.29
+984,Jams,GreenLeaf,Friday,Winter,2,11.66,23.32
+985,Vegetables,GreenLeaf,Saturday,Summer,2,3.98,7.96
+986,Vegetables,Mossy Roots,Wednesday,Winter,3,4.66,13.98
+987,Vegetables,Golden Hive,Wednesday,Fall,2,4.64,9.28
+988,Jams,BerryPatch,Thursday,Summer,2,2.7,5.4
+989,Honey,BerryPatch,Saturday,Fall,1,8.24,8.24
+990,Cheese,GreenLeaf,Monday,Spring,2,8.87,17.74
+991,Cheese,Sunrise Orchards,Sunday,Winter,4,8.22,32.88
+992,Honey,Golden Hive,Wednesday,Spring,4,3.18,12.72
+993,Vegetables,BerryPatch,Sunday,Spring,3,3.16,9.48
+994,Baked Goods,GreenLeaf,Sunday,Winter,1,4.5,4.5
+995,Fruits,BerryPatch,Friday,Summer,3,5.26,15.78
+996,Jams,Golden Hive,Friday,Winter,5,9.97,49.85
+997,Fruits,Golden Hive,Friday,Spring,4,4.01,16.04
+998,Honey,Dough & Co,Friday,Spring,1,2.92,2.92
+999,Baked Goods,Mossy Roots,Tuesday,Summer,2,6.24,12.48
+1000,Jams,Mossy Roots,Monday,Winter,4,6.46,25.84
+1001,Honey,GreenLeaf,Tuesday,Spring,3,6.78,20.34
+1002,Vegetables,Golden Hive,Thursday,Fall,2,10.36,20.72
+1003,Cheese,Dough & Co,Wednesday,Spring,4,3.43,13.72
+1004,Fruits,Dough & Co,Friday,Spring,3,9.19,27.57
+1005,Herbs,BerryPatch,Sunday,Summer,2,5.71,11.42
+1006,Herbs,BerryPatch,Thursday,Fall,3,5.44,16.32
+1007,Baked Goods,Dough & Co,Friday,Spring,2,11.36,22.72
+1008,Vegetables,BerryPatch,Thursday,Spring,3,4.86,14.58
+1009,Fruits,Golden Hive,Saturday,Fall,1,8.6,8.6
+1010,Vegetables,Sunrise Orchards,Sunday,Winter,4,5.11,20.44
+1011,Fruits,Golden Hive,Saturday,Winter,4,7.32,29.28
+1012,Baked Goods,Dough & Co,Sunday,Spring,2,9.97,19.94
+1013,Baked Goods,Dough & Co,Monday,Spring,3,10.88,32.64
+1014,Herbs,Golden Hive,Saturday,Winter,3,10.47,31.41
+1015,Vegetables,BerryPatch,Saturday,Summer,1,8.03,8.03
+1016,Jams,BerryPatch,Wednesday,Fall,5,4.86,24.3
+1017,Herbs,Mossy Roots,Sunday,Fall,2,8.78,17.56
+1018,Vegetables,Dough & Co,Tuesday,Summer,5,9.24,46.2
+1019,Herbs,GreenLeaf,Saturday,Summer,4,2.6,10.4
+1020,Jams,Mossy Roots,Wednesday,Summer,5,6.67,33.35
+1021,Cheese,BerryPatch,Thursday,Summer,2,10.51,21.02
+1022,Cheese,Golden Hive,Saturday,Summer,2,7.15,14.3
+1023,Cheese,BerryPatch,Friday,Summer,3,5.46,16.38
+1024,Cheese,Golden Hive,Thursday,Fall,1,10.78,10.78
+1025,Honey,Mossy Roots,Thursday,Summer,2,3.98,7.96
+1026,Fruits,Dough & Co,Saturday,Winter,5,4.46,22.3
+1027,Honey,BerryPatch,Tuesday,Summer,2,9.03,18.06
+1028,Honey,Golden Hive,Thursday,Summer,2,5.85,11.7
+1029,Honey,Dough & Co,Sunday,Fall,6,9.27,55.62
+1030,Cheese,GreenLeaf,Saturday,Fall,4,4.0,16.0
+1031,Jams,Golden Hive,Thursday,Summer,5,4.9,24.5
+1032,Baked Goods,Mossy Roots,Saturday,Fall,5,3.99,19.95
+1033,Baked Goods,GreenLeaf,Saturday,Spring,3,11.55,34.65
+1034,Fruits,GreenLeaf,Saturday,Fall,3,6.35,19.05
+1035,Cheese,Sunrise Orchards,Friday,Fall,3,5.7,17.1
+1036,Cheese,BerryPatch,Wednesday,Fall,3,2.63,7.89
+1037,Cheese,Golden Hive,Wednesday,Fall,4,3.96,15.84
+1038,Herbs,GreenLeaf,Wednesday,Winter,2,6.5,13.0
+1039,Vegetables,Sunrise Orchards,Friday,Winter,5,3.15,15.75
+1040,Herbs,Mossy Roots,Monday,Winter,3,7.35,22.05
+1041,Vegetables,Dough & Co,Friday,Summer,4,6.82,27.28
+1042,Cheese,Golden Hive,Thursday,Summer,3,9.79,29.37
+1043,Cheese,GreenLeaf,Wednesday,Spring,3,8.77,26.31
+1044,Herbs,BerryPatch,Saturday,Winter,2,6.74,13.48
+1045,Herbs,Sunrise Orchards,Friday,Summer,2,4.63,9.26
+1046,Vegetables,GreenLeaf,Tuesday,Fall,2,9.41,18.82
+1047,Baked Goods,BerryPatch,Saturday,Fall,5,9.22,46.1
+1048,Vegetables,GreenLeaf,Monday,Winter,2,3.96,7.92
+1049,Herbs,Golden Hive,Saturday,Spring,3,11.19,33.57
+1050,Jams,Golden Hive,Saturday,Spring,2,3.11,6.22
+1051,Herbs,Golden Hive,Thursday,Fall,3,3.02,9.06
+1052,Jams,Mossy Roots,Saturday,Spring,4,4.28,17.12
+1053,Fruits,Mossy Roots,Friday,Winter,3,11.14,33.42
+1054,Herbs,Sunrise Orchards,Friday,Fall,3,7.44,22.32
+1055,Fruits,Golden Hive,Monday,Summer,1,9.99,9.99
+1056,Baked Goods,BerryPatch,Wednesday,Summer,1,4.66,4.66
+1057,Vegetables,GreenLeaf,Sunday,Spring,1,7.16,7.16
+1058,Jams,Dough & Co,Thursday,Fall,4,5.9,23.6
+1059,Vegetables,BerryPatch,Friday,Fall,4,10.36,41.44
+1060,Fruits,Mossy Roots,Friday,Summer,3,2.71,8.13
+1061,Jams,Mossy Roots,Friday,Fall,1,4.82,4.82
+1062,Vegetables,BerryPatch,Tuesday,Fall,4,3.95,15.8
+1063,Herbs,Mossy Roots,Thursday,Fall,2,10.66,21.32
+1064,Cheese,Golden Hive,Saturday,Spring,2,6.94,13.88
+1065,Fruits,Sunrise Orchards,Wednesday,Fall,3,6.34,19.02
+1066,Vegetables,GreenLeaf,Wednesday,Winter,4,6.77,27.08
+1067,Fruits,Sunrise Orchards,Monday,Spring,3,11.73,35.19
+1068,Honey,GreenLeaf,Thursday,Fall,3,10.58,31.74
+1069,Fruits,GreenLeaf,Saturday,Fall,4,9.21,36.84
+1070,Jams,Sunrise Orchards,Tuesday,Winter,7,5.26,36.82
+1071,Honey,BerryPatch,Wednesday,Spring,3,4.07,12.21
+1072,Jams,GreenLeaf,Thursday,Summer,1,11.25,11.25
+1073,Cheese,Sunrise Orchards,Saturday,Summer,4,6.52,26.08
+1074,Honey,GreenLeaf,Friday,Spring,1,5.15,5.15
+1075,Herbs,Dough & Co,Thursday,Fall,2,6.97,13.94
+1076,Fruits,BerryPatch,Saturday,Fall,1,11.22,11.22
+1077,Vegetables,Golden Hive,Friday,Summer,6,6.18,37.08
+1078,Baked Goods,GreenLeaf,Saturday,Summer,1,7.85,7.85
+1079,Fruits,Dough & Co,Saturday,Summer,8,10.13,81.04
+1080,Fruits,Golden Hive,Wednesday,Winter,3,6.56,19.68
+1081,Cheese,Golden Hive,Wednesday,Summer,5,4.72,23.6
+1082,Herbs,GreenLeaf,Tuesday,Winter,5,11.95,59.75
+1083,Baked Goods,Sunrise Orchards,Thursday,Spring,2,11.59,23.18
+1084,Honey,GreenLeaf,Sunday,Fall,3,10.51,31.53
+1085,Honey,Dough & Co,Thursday,Summer,2,9.04,18.08
+1086,Honey,Golden Hive,Wednesday,Fall,3,5.3,15.9
+1087,Jams,GreenLeaf,Saturday,Fall,1,11.18,11.18
+1088,Jams,Sunrise Orchards,Friday,Summer,4,5.12,20.48
+1089,Vegetables,GreenLeaf,Tuesday,Summer,3,10.11,30.33
+1090,Baked Goods,BerryPatch,Thursday,Spring,3,11.22,33.66
+1091,Honey,Sunrise Orchards,Thursday,Winter,4,8.23,32.92
+1092,Jams,Dough & Co,Saturday,Winter,1,10.13,10.13
+1093,Vegetables,Golden Hive,Monday,Fall,3,10.02,30.06
+1094,Herbs,GreenLeaf,Wednesday,Summer,1,4.33,4.33
+1095,Vegetables,Sunrise Orchards,Friday,Spring,1,8.85,8.85
+1096,Jams,BerryPatch,Wednesday,Spring,5,3.39,16.95
+1097,Cheese,Sunrise Orchards,Friday,Spring,2,7.32,14.64
+1098,Cheese,Mossy Roots,Friday,Spring,3,4.04,12.12
+1099,Honey,BerryPatch,Thursday,Spring,1,6.46,6.46
+1100,Cheese,Dough & Co,Sunday,Winter,1,10.41,10.41
+1101,Honey,Golden Hive,Friday,Winter,5,11.88,59.4
+1102,Honey,Dough & Co,Tuesday,Winter,1,5.52,5.52
+1103,Jams,GreenLeaf,Friday,Summer,3,7.55,22.65
+1104,Cheese,Sunrise Orchards,Saturday,Fall,2,7.36,14.72
+1105,Honey,Mossy Roots,Saturday,Spring,3,11.57,34.71
+1106,Baked Goods,BerryPatch,Wednesday,Summer,3,7.05,21.15
+1107,Herbs,BerryPatch,Sunday,Spring,3,9.14,27.42
+1108,Vegetables,Sunrise Orchards,Thursday,Winter,3,11.26,33.78
+1109,Vegetables,Mossy Roots,Wednesday,Summer,3,6.05,18.15
+1110,Jams,Sunrise Orchards,Wednesday,Winter,2,11.07,22.14
+1111,Cheese,GreenLeaf,Tuesday,Spring,2,11.22,22.44
+1112,Cheese,Dough & Co,Saturday,Spring,2,11.34,22.68
+1113,Honey,BerryPatch,Tuesday,Fall,6,5.07,30.42
+1114,Fruits,GreenLeaf,Tuesday,Spring,4,6.3,25.2
+1115,Honey,Dough & Co,Saturday,Winter,3,10.77,32.31
+1116,Herbs,GreenLeaf,Thursday,Spring,2,5.91,11.82
+1117,Baked Goods,Mossy Roots,Monday,Fall,4,8.2,32.8
+1118,Vegetables,BerryPatch,Tuesday,Fall,1,3.62,3.62
+1119,Honey,Sunrise Orchards,Tuesday,Winter,3,3.03,9.09
+1120,Fruits,Sunrise Orchards,Wednesday,Summer,2,6.41,12.82
+1121,Fruits,Dough & Co,Saturday,Spring,4,8.0,32.0
+1122,Honey,Golden Hive,Wednesday,Fall,2,6.23,12.46
+1123,Jams,Mossy Roots,Tuesday,Spring,1,7.99,7.99
+1124,Vegetables,Dough & Co,Saturday,Spring,3,7.39,22.17
+1125,Jams,Golden Hive,Saturday,Summer,4,9.01,36.04
+1126,Baked Goods,GreenLeaf,Thursday,Fall,2,8.67,17.34
+1127,Fruits,Mossy Roots,Friday,Spring,3,6.53,19.59
+1128,Fruits,GreenLeaf,Thursday,Fall,2,6.54,13.08
+1129,Herbs,BerryPatch,Friday,Winter,4,3.84,15.36
+1130,Baked Goods,Mossy Roots,Friday,Winter,3,7.38,22.14
+1131,Fruits,Golden Hive,Thursday,Spring,2,8.08,16.16
+1132,Baked Goods,BerryPatch,Sunday,Fall,5,7.03,35.15
+1133,Vegetables,Sunrise Orchards,Monday,Spring,1,5.59,5.59
+1134,Cheese,Golden Hive,Saturday,Fall,8,9.36,74.88
+1135,Fruits,Dough & Co,Tuesday,Fall,3,3.21,9.63
+1136,Herbs,Sunrise Orchards,Saturday,Summer,5,11.19,55.95
+1137,Vegetables,Sunrise Orchards,Friday,Summer,4,2.7,10.8
+1138,Honey,Dough & Co,Saturday,Summer,4,11.64,46.56
+1139,Baked Goods,Mossy Roots,Tuesday,Spring,7,6.89,48.23
+1140,Honey,Sunrise Orchards,Friday,Summer,2,6.42,12.84
+1141,Jams,Golden Hive,Friday,Summer,1,4.94,4.94
+1142,Vegetables,BerryPatch,Saturday,Winter,4,2.6,10.4
+1143,Honey,Sunrise Orchards,Friday,Fall,2,5.11,10.22
+1144,Fruits,Golden Hive,Friday,Fall,1,3.54,3.54
+1145,Baked Goods,GreenLeaf,Thursday,Summer,1,8.77,8.77
+1146,Cheese,Golden Hive,Thursday,Fall,2,5.53,11.06
+1147,Vegetables,BerryPatch,Friday,Winter,4,9.79,39.16
+1148,Fruits,Golden Hive,Tuesday,Winter,6,4.47,26.82
+1149,Herbs,Dough & Co,Sunday,Summer,2,11.05,22.1
+1150,Jams,BerryPatch,Saturday,Winter,5,7.47,37.35
+1151,Baked Goods,Mossy Roots,Sunday,Fall,4,3.59,14.36
+1152,Vegetables,GreenLeaf,Wednesday,Spring,3,6.31,18.93
+1153,Vegetables,Dough & Co,Saturday,Fall,3,4.46,13.38
+1154,Cheese,Mossy Roots,Saturday,Spring,2,4.4,8.8
+1155,Cheese,Golden Hive,Saturday,Summer,4,7.31,29.24
+1156,Herbs,BerryPatch,Friday,Spring,4,8.88,35.52
+1157,Jams,GreenLeaf,Thursday,Winter,7,11.16,78.12
+1158,Herbs,Dough & Co,Saturday,Fall,3,7.27,21.81
+1159,Fruits,Mossy Roots,Friday,Spring,3,11.68,35.04
+1160,Fruits,Mossy Roots,Tuesday,Fall,3,11.45,34.35
+1161,Herbs,GreenLeaf,Thursday,Summer,3,10.72,32.16
+1162,Jams,Golden Hive,Sunday,Summer,4,7.25,29.0
+1163,Herbs,GreenLeaf,Saturday,Winter,4,3.84,15.36
+1164,Jams,Mossy Roots,Sunday,Summer,3,4.57,13.71
+1165,Jams,Sunrise Orchards,Friday,Spring,4,8.65,34.6
+1166,Honey,Dough & Co,Wednesday,Summer,3,6.51,19.53
+1167,Baked Goods,GreenLeaf,Wednesday,Winter,2,3.89,7.78
+1168,Jams,Mossy Roots,Wednesday,Fall,2,7.05,14.1
+1169,Cheese,Golden Hive,Monday,Fall,3,2.67,8.01
+1170,Jams,Mossy Roots,Thursday,Summer,2,9.47,18.94
+1171,Jams,Golden Hive,Wednesday,Spring,4,3.2,12.8
+1172,Jams,GreenLeaf,Thursday,Winter,4,8.48,33.92
+1173,Honey,Golden Hive,Sunday,Spring,2,10.03,20.06
+1174,Honey,BerryPatch,Thursday,Winter,5,3.76,18.8
+1175,Fruits,BerryPatch,Saturday,Summer,5,7.43,37.15
+1176,Honey,BerryPatch,Friday,Winter,3,9.9,29.7
+1177,Cheese,Sunrise Orchards,Wednesday,Winter,3,4.98,14.94
+1178,Cheese,GreenLeaf,Thursday,Summer,6,4.05,24.3
+1179,Honey,Mossy Roots,Tuesday,Spring,3,5.7,17.1
+1180,Herbs,Mossy Roots,Thursday,Summer,6,7.77,46.62
+1181,Baked Goods,Sunrise Orchards,Saturday,Winter,4,7.97,31.88
+1182,Honey,Golden Hive,Tuesday,Summer,4,3.74,14.96
+1183,Jams,Sunrise Orchards,Wednesday,Winter,2,6.85,13.7
+1184,Vegetables,Golden Hive,Thursday,Summer,4,5.05,20.2
+1185,Baked Goods,Golden Hive,Sunday,Fall,1,10.5,10.5
+1186,Baked Goods,Dough & Co,Saturday,Fall,4,5.48,21.92
+1187,Cheese,Mossy Roots,Saturday,Summer,2,10.47,20.94
+1188,Baked Goods,BerryPatch,Tuesday,Spring,1,6.57,6.57
+1189,Honey,Golden Hive,Saturday,Winter,2,9.4,18.8
+1190,Jams,Dough & Co,Saturday,Fall,6,7.35,44.1
+1191,Jams,Mossy Roots,Friday,Spring,1,8.41,8.41
+1192,Fruits,BerryPatch,Sunday,Winter,4,6.26,25.04
+1193,Jams,Golden Hive,Thursday,Fall,2,9.8,19.6
+1194,Jams,Golden Hive,Sunday,Fall,3,6.54,19.62
+1195,Cheese,Sunrise Orchards,Sunday,Summer,4,6.85,27.4
+1196,Jams,Sunrise Orchards,Monday,Winter,5,7.42,37.1
+1197,Fruits,Mossy Roots,Friday,Spring,1,10.4,10.4
+1198,Vegetables,BerryPatch,Sunday,Spring,2,8.76,17.52
+1199,Honey,Golden Hive,Tuesday,Spring,5,5.82,29.1
+1200,Cheese,Mossy Roots,Friday,Winter,2,8.87,17.74
+1201,Vegetables,Mossy Roots,Sunday,Spring,5,8.6,43.0
+1202,Cheese,GreenLeaf,Friday,Spring,6,11.34,68.04
+1203,Herbs,Sunrise Orchards,Wednesday,Spring,2,10.49,20.98
+1204,Baked Goods,BerryPatch,Friday,Summer,3,8.65,25.95
+1205,Herbs,Golden Hive,Wednesday,Summer,4,5.74,22.96
+1206,Jams,Mossy Roots,Friday,Winter,2,9.91,19.82
+1207,Vegetables,Golden Hive,Tuesday,Winter,4,7.96,31.84
+1208,Jams,GreenLeaf,Friday,Spring,3,11.86,35.58
+1209,Baked Goods,BerryPatch,Friday,Summer,4,4.85,19.4
+1210,Cheese,Mossy Roots,Saturday,Fall,2,3.26,6.52
+1211,Baked Goods,Golden Hive,Friday,Fall,1,3.16,3.16
+1212,Fruits,Sunrise Orchards,Friday,Spring,4,8.58,34.32
+1213,Baked Goods,GreenLeaf,Saturday,Spring,1,11.42,11.42
+1214,Fruits,BerryPatch,Tuesday,Summer,2,2.52,5.04
+1215,Baked Goods,GreenLeaf,Friday,Summer,1,9.39,9.39
+1216,Honey,Sunrise Orchards,Wednesday,Summer,3,8.74,26.22
+1217,Fruits,BerryPatch,Sunday,Winter,2,9.46,18.92
+1218,Vegetables,GreenLeaf,Tuesday,Winter,2,5.88,11.76
+1219,Jams,Dough & Co,Thursday,Spring,2,10.29,20.58
+1220,Jams,Sunrise Orchards,Saturday,Winter,1,2.92,2.92
+1221,Herbs,Sunrise Orchards,Friday,Summer,2,9.68,19.36
+1222,Jams,Sunrise Orchards,Tuesday,Summer,1,5.04,5.04
+1223,Cheese,Dough & Co,Friday,Winter,3,7.03,21.09
+1224,Honey,Dough & Co,Friday,Fall,4,10.32,41.28
+1225,Baked Goods,Golden Hive,Saturday,Spring,3,5.08,15.24
+1226,Herbs,Mossy Roots,Thursday,Fall,4,4.26,17.04
+1227,Cheese,GreenLeaf,Friday,Spring,3,8.97,26.91
+1228,Cheese,Golden Hive,Friday,Fall,2,7.57,15.14
+1229,Fruits,GreenLeaf,Saturday,Winter,4,7.39,29.56
+1230,Jams,Mossy Roots,Friday,Spring,1,4.94,4.94
+1231,Vegetables,Dough & Co,Friday,Spring,1,2.83,2.83
+1232,Vegetables,Mossy Roots,Wednesday,Spring,2,6.4,12.8
+1233,Herbs,Dough & Co,Monday,Summer,5,3.51,17.55
+1234,Honey,Mossy Roots,Wednesday,Summer,5,11.11,55.55
+1235,Vegetables,Golden Hive,Tuesday,Fall,1,2.89,2.89
+1236,Baked Goods,BerryPatch,Thursday,Winter,8,6.6,52.8
+1237,Vegetables,Golden Hive,Friday,Summer,4,3.0,12.0
+1238,Herbs,GreenLeaf,Wednesday,Spring,4,3.41,13.64
+1239,Vegetables,Golden Hive,Sunday,Summer,5,8.76,43.8
+1240,Baked Goods,Sunrise Orchards,Monday,Winter,3,8.65,25.95
+1241,Fruits,GreenLeaf,Saturday,Summer,4,2.81,11.24
+1242,Honey,Mossy Roots,Friday,Spring,2,2.51,5.02
+1243,Herbs,GreenLeaf,Thursday,Fall,4,3.25,13.0
+1244,Fruits,BerryPatch,Tuesday,Spring,2,9.75,19.5
+1245,Fruits,Dough & Co,Friday,Winter,2,8.05,16.1
+1246,Fruits,Mossy Roots,Thursday,Fall,3,2.86,8.58
+1247,Cheese,GreenLeaf,Sunday,Summer,3,7.14,21.42
+1248,Honey,Mossy Roots,Friday,Summer,3,9.26,27.78
+1249,Jams,Mossy Roots,Sunday,Summer,3,10.76,32.28
+1250,Honey,Mossy Roots,Wednesday,Fall,4,11.37,45.48
+1251,Cheese,Dough & Co,Saturday,Spring,4,5.61,22.44
+1252,Jams,Golden Hive,Friday,Fall,5,3.79,18.95
+1253,Honey,Mossy Roots,Saturday,Fall,4,4.75,19.0
+1254,Fruits,Sunrise Orchards,Wednesday,Winter,3,9.87,29.61
+1255,Herbs,BerryPatch,Saturday,Fall,2,11.73,23.46
+1256,Jams,Dough & Co,Friday,Summer,3,6.93,20.79
+1257,Baked Goods,GreenLeaf,Saturday,Spring,5,5.4,27.0
+1258,Baked Goods,Dough & Co,Thursday,Spring,2,6.58,13.16
+1259,Vegetables,GreenLeaf,Saturday,Spring,3,5.4,16.2
+1260,Jams,Dough & Co,Tuesday,Summer,2,4.94,9.88
+1261,Herbs,GreenLeaf,Saturday,Summer,2,8.14,16.28
+1262,Cheese,Mossy Roots,Saturday,Summer,3,2.65,7.95
+1263,Fruits,Golden Hive,Saturday,Summer,2,4.97,9.94
+1264,Vegetables,GreenLeaf,Friday,Summer,5,8.78,43.9
+1265,Baked Goods,GreenLeaf,Thursday,Fall,2,2.8,5.6
+1266,Cheese,Sunrise Orchards,Sunday,Summer,3,3.29,9.87
+1267,Cheese,GreenLeaf,Wednesday,Summer,2,5.29,10.58
+1268,Fruits,Sunrise Orchards,Friday,Summer,5,10.84,54.2
+1269,Jams,BerryPatch,Saturday,Summer,4,9.77,39.08
+1270,Baked Goods,Mossy Roots,Saturday,Spring,2,2.71,5.42
+1271,Herbs,Sunrise Orchards,Wednesday,Summer,3,7.27,21.81
+1272,Cheese,Golden Hive,Saturday,Fall,1,5.11,5.11
+1273,Fruits,Mossy Roots,Saturday,Fall,4,8.66,34.64
+1274,Herbs,Sunrise Orchards,Tuesday,Fall,4,9.35,37.4
+1275,Jams,Mossy Roots,Sunday,Winter,3,10.7,32.1
+1276,Baked Goods,Mossy Roots,Monday,Spring,5,7.02,35.1
+1277,Jams,Mossy Roots,Thursday,Summer,3,11.95,35.85
+1278,Cheese,BerryPatch,Monday,Winter,4,11.81,47.24
+1279,Herbs,Golden Hive,Tuesday,Summer,2,10.88,21.76
+1280,Herbs,Dough & Co,Sunday,Winter,2,7.96,15.92
+1281,Herbs,Dough & Co,Thursday,Winter,5,6.28,31.4
+1282,Cheese,Sunrise Orchards,Thursday,Fall,4,5.96,23.84
+1283,Cheese,Mossy Roots,Wednesday,Fall,2,2.62,5.24
+1284,Jams,Sunrise Orchards,Friday,Winter,3,4.87,14.61
+1285,Vegetables,BerryPatch,Friday,Fall,2,9.33,18.66
+1286,Jams,BerryPatch,Thursday,Winter,2,8.23,16.46
+1287,Baked Goods,GreenLeaf,Thursday,Spring,2,11.21,22.42
+1288,Fruits,BerryPatch,Saturday,Fall,1,2.98,2.98
+1289,Herbs,GreenLeaf,Thursday,Fall,4,3.98,15.92
+1290,Vegetables,Golden Hive,Friday,Fall,2,10.0,20.0
+1291,Fruits,Sunrise Orchards,Wednesday,Spring,4,5.91,23.64
+1292,Vegetables,Golden Hive,Saturday,Winter,3,3.62,10.86
+1293,Honey,BerryPatch,Thursday,Summer,2,11.97,23.94
+1294,Jams,Golden Hive,Friday,Fall,6,9.98,59.88
+1295,Cheese,Golden Hive,Wednesday,Winter,1,6.38,6.38
+1296,Herbs,Golden Hive,Sunday,Spring,7,10.32,72.24
+1297,Jams,BerryPatch,Wednesday,Summer,3,8.97,26.91
+1298,Fruits,Mossy Roots,Saturday,Fall,3,10.0,30.0
+1299,Honey,Golden Hive,Thursday,Spring,1,10.24,10.24
+1300,Honey,GreenLeaf,Wednesday,Spring,4,3.3,13.2
+1301,Honey,BerryPatch,Saturday,Summer,1,8.42,8.42
+1302,Fruits,Golden Hive,Thursday,Winter,2,2.56,5.12
+1303,Fruits,Mossy Roots,Saturday,Fall,1,2.91,2.91
+1304,Fruits,BerryPatch,Sunday,Fall,3,11.09,33.27
+1305,Fruits,Dough & Co,Saturday,Winter,1,7.51,7.51
+1306,Honey,Mossy Roots,Monday,Winter,3,9.49,28.47
+1307,Honey,GreenLeaf,Saturday,Winter,3,10.47,31.41
+1308,Vegetables,Golden Hive,Thursday,Summer,3,11.52,34.56
+1309,Jams,Dough & Co,Saturday,Summer,3,10.76,32.28
+1310,Herbs,Dough & Co,Friday,Fall,6,7.09,42.54
+1311,Cheese,BerryPatch,Saturday,Summer,2,5.69,11.38
+1312,Honey,Dough & Co,Friday,Spring,4,3.97,15.88
+1313,Cheese,GreenLeaf,Friday,Fall,2,6.3,12.6
+1314,Jams,GreenLeaf,Tuesday,Summer,2,5.98,11.96
+1315,Jams,Sunrise Orchards,Saturday,Winter,2,7.82,15.64
+1316,Cheese,GreenLeaf,Thursday,Spring,2,8.82,17.64
+1317,Honey,Mossy Roots,Friday,Winter,4,11.79,47.16
+1318,Cheese,Dough & Co,Saturday,Fall,2,9.42,18.84
+1319,Vegetables,GreenLeaf,Friday,Winter,4,8.62,34.48
+1320,Baked Goods,BerryPatch,Wednesday,Summer,2,5.68,11.36
+1321,Honey,Sunrise Orchards,Friday,Summer,4,2.83,11.32
+1322,Honey,Dough & Co,Thursday,Fall,1,5.24,5.24
+1323,Herbs,Sunrise Orchards,Friday,Winter,3,9.8,29.4
+1324,Fruits,Dough & Co,Monday,Fall,6,4.45,26.7
+1325,Baked Goods,BerryPatch,Wednesday,Winter,3,9.27,27.81
+1326,Jams,Sunrise Orchards,Wednesday,Spring,1,8.01,8.01
+1327,Honey,Golden Hive,Saturday,Summer,4,4.13,16.52
+1328,Cheese,Mossy Roots,Monday,Fall,4,4.99,19.96
+1329,Baked Goods,Mossy Roots,Thursday,Spring,3,7.21,21.63
+1330,Herbs,Dough & Co,Sunday,Spring,5,6.47,32.35
+1331,Jams,Golden Hive,Tuesday,Fall,2,9.9,19.8
+1332,Fruits,Sunrise Orchards,Friday,Fall,3,9.48,28.44
+1333,Fruits,Golden Hive,Saturday,Spring,4,7.96,31.84
+1334,Herbs,Golden Hive,Sunday,Winter,1,10.31,10.31
+1335,Herbs,Sunrise Orchards,Saturday,Spring,3,7.85,23.55
+1336,Cheese,BerryPatch,Saturday,Fall,2,11.66,23.32
+1337,Honey,Golden Hive,Saturday,Spring,2,4.56,9.12
+1338,Fruits,Golden Hive,Thursday,Winter,2,9.28,18.56
+1339,Jams,BerryPatch,Saturday,Summer,6,6.01,36.06
+1340,Baked Goods,Golden Hive,Monday,Summer,5,5.15,25.75
+1341,Jams,Golden Hive,Sunday,Spring,3,4.21,12.63
+1342,Vegetables,Golden Hive,Thursday,Winter,2,7.75,15.5
+1343,Vegetables,Mossy Roots,Friday,Summer,2,4.55,9.1
+1344,Herbs,GreenLeaf,Wednesday,Spring,1,4.4,4.4
+1345,Cheese,BerryPatch,Saturday,Spring,3,11.91,35.73
+1346,Vegetables,Golden Hive,Tuesday,Winter,2,10.12,20.24
+1347,Fruits,Mossy Roots,Saturday,Fall,4,9.61,38.44
+1348,Jams,BerryPatch,Saturday,Spring,5,10.04,50.2
+1349,Jams,Dough & Co,Wednesday,Fall,3,11.7,35.1
+1350,Herbs,Dough & Co,Saturday,Fall,2,7.95,15.9
+1351,Honey,Golden Hive,Saturday,Summer,3,4.59,13.77
+1352,Honey,Mossy Roots,Friday,Fall,4,10.69,42.76
+1353,Baked Goods,Mossy Roots,Thursday,Winter,4,9.56,38.24
+1354,Herbs,BerryPatch,Wednesday,Summer,2,6.44,12.88
+1355,Baked Goods,BerryPatch,Wednesday,Summer,3,7.0,21.0
+1356,Honey,Mossy Roots,Thursday,Summer,4,6.41,25.64
+1357,Herbs,BerryPatch,Sunday,Spring,2,11.33,22.66
+1358,Herbs,Mossy Roots,Tuesday,Spring,3,5.76,17.28
+1359,Herbs,GreenLeaf,Saturday,Fall,4,11.65,46.6
+1360,Honey,Mossy Roots,Thursday,Summer,1,11.15,11.15
+1361,Baked Goods,Dough & Co,Friday,Summer,3,8.49,25.47
+1362,Baked Goods,BerryPatch,Saturday,Winter,3,8.01,24.03
+1363,Herbs,Mossy Roots,Saturday,Fall,3,6.02,18.06
+1364,Vegetables,Mossy Roots,Thursday,Winter,2,2.67,5.34
+1365,Cheese,BerryPatch,Friday,Fall,4,3.71,14.84
+1366,Honey,GreenLeaf,Thursday,Fall,4,9.67,38.68
+1367,Cheese,GreenLeaf,Monday,Spring,3,6.98,20.94
+1368,Cheese,BerryPatch,Wednesday,Spring,1,3.92,3.92
+1369,Baked Goods,Sunrise Orchards,Friday,Winter,2,5.01,10.02
+1370,Baked Goods,BerryPatch,Thursday,Fall,4,11.5,46.0
+1371,Vegetables,BerryPatch,Saturday,Summer,5,5.99,29.95
+1372,Cheese,GreenLeaf,Thursday,Spring,1,11.12,11.12
+1373,Cheese,GreenLeaf,Friday,Summer,1,5.39,5.39
+1374,Herbs,BerryPatch,Thursday,Winter,3,7.66,22.98
+1375,Baked Goods,BerryPatch,Saturday,Spring,2,2.69,5.38
+1376,Cheese,BerryPatch,Saturday,Spring,3,7.46,22.38
+1377,Jams,GreenLeaf,Friday,Fall,2,8.55,17.1
+1378,Vegetables,BerryPatch,Saturday,Winter,1,4.73,4.73
+1379,Jams,BerryPatch,Wednesday,Fall,1,8.0,8.0
+1380,Jams,Golden Hive,Friday,Spring,2,8.65,17.3
+1381,Honey,Sunrise Orchards,Thursday,Winter,2,9.03,18.06
+1382,Honey,Dough & Co,Thursday,Spring,5,9.88,49.4
+1383,Vegetables,Sunrise Orchards,Saturday,Winter,1,5.46,5.46
+1384,Jams,Golden Hive,Saturday,Spring,2,7.89,15.78
+1385,Cheese,Dough & Co,Tuesday,Summer,4,11.83,47.32
+1386,Baked Goods,BerryPatch,Friday,Summer,8,11.03,88.24
+1387,Vegetables,Golden Hive,Friday,Fall,1,11.55,11.55
+1388,Herbs,BerryPatch,Tuesday,Summer,6,6.17,37.02
+1389,Jams,GreenLeaf,Wednesday,Spring,2,9.98,19.96
+1390,Vegetables,Mossy Roots,Thursday,Spring,2,8.39,16.78
+1391,Fruits,Golden Hive,Wednesday,Summer,4,3.29,13.16
+1392,Fruits,GreenLeaf,Wednesday,Fall,3,10.33,30.99
+1393,Honey,Golden Hive,Wednesday,Summer,1,8.93,8.93
+1394,Baked Goods,Golden Hive,Thursday,Winter,2,4.39,8.78
+1395,Cheese,GreenLeaf,Saturday,Winter,2,3.26,6.52
+1396,Baked Goods,Dough & Co,Friday,Winter,1,10.45,10.45
+1397,Baked Goods,Sunrise Orchards,Sunday,Summer,1,3.25,3.25
+1398,Baked Goods,BerryPatch,Thursday,Summer,4,3.37,13.48
+1399,Baked Goods,Golden Hive,Saturday,Summer,4,6.56,26.24
+1400,Herbs,BerryPatch,Saturday,Winter,5,3.78,18.9
+1401,Herbs,Mossy Roots,Saturday,Fall,3,11.18,33.54
+1402,Honey,GreenLeaf,Thursday,Spring,2,6.97,13.94
+1403,Vegetables,BerryPatch,Saturday,Summer,2,7.91,15.82
+1404,Fruits,GreenLeaf,Wednesday,Fall,4,11.32,45.28
+1405,Baked Goods,BerryPatch,Thursday,Spring,3,7.54,22.62
+1406,Honey,Sunrise Orchards,Friday,Spring,3,5.86,17.58
+1407,Vegetables,Sunrise Orchards,Friday,Spring,3,10.07,30.21
+1408,Fruits,Sunrise Orchards,Monday,Fall,3,6.71,20.13
+1409,Jams,Sunrise Orchards,Sunday,Fall,1,5.53,5.53
+1410,Cheese,Sunrise Orchards,Saturday,Winter,2,9.37,18.74
+1411,Herbs,Sunrise Orchards,Friday,Fall,2,10.12,20.24
+1412,Jams,GreenLeaf,Sunday,Fall,1,10.02,10.02
+1413,Fruits,Golden Hive,Thursday,Fall,4,11.79,47.16
+1414,Jams,BerryPatch,Sunday,Spring,5,9.97,49.85
+1415,Cheese,Sunrise Orchards,Friday,Summer,2,9.81,19.62
+1416,Honey,GreenLeaf,Tuesday,Winter,6,10.65,63.9
+1417,Fruits,GreenLeaf,Saturday,Summer,1,2.5,2.5
+1418,Jams,GreenLeaf,Saturday,Summer,3,5.94,17.82
+1419,Herbs,Golden Hive,Saturday,Fall,1,9.51,9.51
+1420,Herbs,BerryPatch,Sunday,Winter,8,8.2,65.6
+1421,Vegetables,Golden Hive,Saturday,Summer,5,4.19,20.95
+1422,Jams,Dough & Co,Friday,Summer,2,5.39,10.78
+1423,Baked Goods,GreenLeaf,Saturday,Winter,1,5.7,5.7
+1424,Jams,Dough & Co,Saturday,Fall,2,7.89,15.78
+1425,Honey,Mossy Roots,Thursday,Summer,3,10.4,31.2
+1426,Fruits,Sunrise Orchards,Saturday,Spring,5,11.36,56.8
+1427,Fruits,Sunrise Orchards,Wednesday,Summer,2,9.63,19.26
+1428,Honey,Golden Hive,Saturday,Spring,1,10.51,10.51
+1429,Jams,BerryPatch,Saturday,Fall,3,6.97,20.91
+1430,Honey,Dough & Co,Saturday,Summer,2,6.2,12.4
+1431,Cheese,BerryPatch,Saturday,Winter,3,6.23,18.69
+1432,Honey,Golden Hive,Saturday,Winter,1,8.35,8.35
+1433,Herbs,Sunrise Orchards,Friday,Summer,1,3.68,3.68
+1434,Honey,BerryPatch,Saturday,Fall,1,8.01,8.01
+1435,Fruits,BerryPatch,Wednesday,Fall,2,8.82,17.64
+1436,Herbs,Sunrise Orchards,Tuesday,Winter,3,6.67,20.01
+1437,Fruits,Dough & Co,Wednesday,Summer,5,11.56,57.8
+1438,Vegetables,Sunrise Orchards,Friday,Fall,4,8.28,33.12
+1439,Baked Goods,BerryPatch,Friday,Winter,5,4.59,22.95
+1440,Fruits,Dough & Co,Saturday,Spring,6,7.05,42.3
+1441,Herbs,Dough & Co,Thursday,Summer,1,8.92,8.92
+1442,Vegetables,Sunrise Orchards,Friday,Spring,4,5.57,22.28
+1443,Fruits,BerryPatch,Monday,Spring,3,3.26,9.78
+1444,Cheese,Golden Hive,Thursday,Fall,2,8.04,16.08
+1445,Honey,BerryPatch,Friday,Fall,2,11.5,23.0
+1446,Baked Goods,GreenLeaf,Monday,Fall,2,7.11,14.22
+1447,Fruits,Mossy Roots,Wednesday,Summer,5,11.11,55.55
+1448,Vegetables,Golden Hive,Wednesday,Spring,6,10.43,62.58
+1449,Cheese,Dough & Co,Monday,Summer,1,3.9,3.9
+1450,Jams,Golden Hive,Friday,Fall,3,9.23,27.69
+1451,Vegetables,Dough & Co,Wednesday,Spring,3,6.64,19.92
+1452,Honey,Dough & Co,Saturday,Summer,6,4.88,29.28
+1453,Vegetables,Golden Hive,Saturday,Summer,1,9.03,9.03
+1454,Cheese,Dough & Co,Friday,Winter,1,9.56,9.56
+1455,Vegetables,Dough & Co,Sunday,Summer,5,4.21,21.05
+1456,Cheese,GreenLeaf,Friday,Fall,4,11.19,44.76
+1457,Fruits,BerryPatch,Friday,Summer,3,9.64,28.92
+1458,Cheese,BerryPatch,Sunday,Spring,5,11.37,56.85
+1459,Cheese,Mossy Roots,Wednesday,Summer,2,5.51,11.02
+1460,Baked Goods,Mossy Roots,Sunday,Winter,2,11.42,22.84
+1461,Cheese,GreenLeaf,Monday,Spring,2,6.0,12.0
+1462,Cheese,Mossy Roots,Thursday,Spring,2,3.01,6.02
+1463,Jams,Golden Hive,Tuesday,Winter,2,9.75,19.5
+1464,Fruits,Sunrise Orchards,Saturday,Fall,4,9.18,36.72
+1465,Honey,Sunrise Orchards,Friday,Spring,2,8.18,16.36
+1466,Baked Goods,Sunrise Orchards,Saturday,Fall,3,7.15,21.45
+1467,Jams,GreenLeaf,Thursday,Spring,3,2.81,8.43
+1468,Herbs,GreenLeaf,Thursday,Spring,2,8.43,16.86
+1469,Fruits,Dough & Co,Monday,Fall,7,6.46,45.22
+1470,Fruits,Sunrise Orchards,Thursday,Spring,3,7.82,23.46
+1471,Herbs,Golden Hive,Sunday,Fall,6,6.58,39.48
+1472,Honey,Mossy Roots,Thursday,Winter,4,11.68,46.72
+1473,Cheese,Golden Hive,Saturday,Fall,1,8.24,8.24
+1474,Jams,Mossy Roots,Saturday,Winter,1,9.62,9.62
+1475,Vegetables,Sunrise Orchards,Thursday,Spring,1,11.4,11.4
+1476,Baked Goods,Sunrise Orchards,Friday,Fall,6,8.12,48.72
+1477,Vegetables,Sunrise Orchards,Tuesday,Spring,3,2.61,7.83
+1478,Herbs,GreenLeaf,Tuesday,Fall,2,2.83,5.66
+1479,Fruits,Mossy Roots,Monday,Winter,1,9.17,9.17
+1480,Honey,GreenLeaf,Friday,Winter,2,5.15,10.3
+1481,Fruits,GreenLeaf,Thursday,Fall,1,8.0,8.0
+1482,Baked Goods,BerryPatch,Friday,Winter,2,4.42,8.84
+1483,Fruits,Golden Hive,Friday,Spring,6,5.07,30.42
+1484,Fruits,Golden Hive,Thursday,Spring,2,7.29,14.58
+1485,Baked Goods,Dough & Co,Saturday,Summer,1,11.77,11.77
+1486,Jams,GreenLeaf,Saturday,Winter,6,8.35,50.1
+1487,Jams,Mossy Roots,Monday,Spring,2,11.39,22.78
+1488,Baked Goods,BerryPatch,Wednesday,Fall,5,11.61,58.05
+1489,Honey,BerryPatch,Saturday,Winter,2,4.48,8.96
+1490,Herbs,Golden Hive,Thursday,Spring,2,5.46,10.92
+1491,Fruits,GreenLeaf,Saturday,Winter,2,9.81,19.62
+1492,Honey,Dough & Co,Thursday,Fall,2,10.73,21.46
+1493,Fruits,GreenLeaf,Thursday,Spring,4,7.43,29.72
+1494,Herbs,Sunrise Orchards,Wednesday,Summer,4,11.94,47.76
+1495,Jams,GreenLeaf,Wednesday,Summer,3,2.61,7.83
+1496,Honey,Sunrise Orchards,Friday,Winter,3,5.35,16.05
+1497,Cheese,Sunrise Orchards,Thursday,Fall,2,8.42,16.84
+1498,Cheese,Dough & Co,Saturday,Spring,4,6.96,27.84
+1499,Cheese,Mossy Roots,Saturday,Fall,2,3.61,7.22
+1500,Jams,Golden Hive,Friday,Spring,5,5.99,29.95
