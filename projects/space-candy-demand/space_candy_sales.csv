@@ -1,0 +1,1201 @@
+OrderID,Product,UnitsSold,Weekday,Promotion,Holiday,Temperature,Returned
+1,Galaxy Pops,4,Sunday,None,0,60.066979493134404,0
+2,Nebula Chews,3,Saturday,Flash Sale,0,71.88994231455264,0
+3,Meteor Mints,9,Monday,None,0,80.04214506264604,0
+4,Nebula Chews,4,Friday,None,1,86.87151836856515,0
+5,Nebula Chews,6,Tuesday,None,0,53.31347236960317,0
+6,Moon Rocks,4,Thursday,BOGO,1,54.62742755631733,0
+7,Meteor Mints,3,Saturday,BOGO,1,79.12514948018091,0
+8,Meteor Mints,2,Saturday,None,0,79.60618852750152,0
+9,Meteor Mints,2,Wednesday,Lunar Discount,0,49.84046527344826,0
+10,Nebula Chews,2,Monday,Flash Sale,0,55.190339867668044,0
+11,Galaxy Pops,6,Wednesday,Flash Sale,1,67.0937904870782,0
+12,Meteor Mints,11,Tuesday,Flash Sale,1,70.35364366645767,0
+13,Nebula Chews,2,Sunday,None,0,70.77894815956797,0
+14,Moon Rocks,5,Tuesday,BOGO,0,49.61014289976342,1
+15,Galaxy Pops,3,Sunday,None,0,70.62741655755232,0
+16,Moon Rocks,2,Wednesday,None,0,59.23943957694336,0
+17,Galaxy Pops,3,Thursday,Lunar Discount,0,52.50523560114506,0
+18,Nebula Chews,5,Tuesday,BOGO,0,69.83505927382947,0
+19,Alien Gummies,6,Wednesday,None,0,68.30509555468477,0
+20,Galaxy Pops,7,Monday,None,0,82.02539857383965,0
+21,Moon Rocks,5,Wednesday,BOGO,0,57.08547449104817,0
+22,Nebula Chews,4,Wednesday,None,0,73.52755655467871,0
+23,Galaxy Pops,1,Friday,None,1,46.46987217357114,0
+24,Alien Gummies,2,Tuesday,None,0,65.87716484181215,0
+25,Alien Gummies,1,Thursday,None,0,76.95516752493484,0
+26,Meteor Mints,4,Thursday,BOGO,0,78.22031840678696,0
+27,Meteor Mints,2,Friday,None,0,78.32250693952963,0
+28,Moon Rocks,3,Sunday,Flash Sale,0,82.065636958755,0
+29,Galaxy Pops,6,Saturday,None,0,63.3131524922131,0
+30,Galaxy Pops,2,Sunday,BOGO,0,77.43588157634446,0
+31,Meteor Mints,2,Thursday,Lunar Discount,0,98.03117143812433,0
+32,Galaxy Pops,4,Wednesday,BOGO,0,62.993010255912566,0
+33,Galaxy Pops,8,Friday,Flash Sale,0,90.70297023847047,0
+34,Alien Gummies,5,Monday,Lunar Discount,0,83.14709433312552,0
+35,Meteor Mints,1,Tuesday,None,0,66.00514851485728,0
+36,Nebula Chews,2,Tuesday,Flash Sale,0,67.25686748233585,0
+37,Meteor Mints,6,Tuesday,Flash Sale,0,71.7760353950083,1
+38,Nebula Chews,4,Wednesday,None,0,82.302474910474,0
+39,Alien Gummies,7,Monday,None,0,76.0395194730027,0
+40,Moon Rocks,5,Friday,Lunar Discount,0,62.87503604172726,0
+41,Galaxy Pops,2,Friday,Flash Sale,0,38.76920497356808,0
+42,Alien Gummies,2,Tuesday,None,0,80.08260938378228,0
+43,Galaxy Pops,5,Monday,None,0,41.01253412434461,0
+44,Moon Rocks,1,Monday,Flash Sale,1,49.51030439574857,1
+45,Moon Rocks,2,Monday,BOGO,1,63.96284207947481,0
+46,Alien Gummies,5,Thursday,BOGO,0,51.788821004964404,0
+47,Moon Rocks,3,Thursday,Flash Sale,1,74.76292641705237,0
+48,Nebula Chews,9,Tuesday,BOGO,0,65.55717700574105,0
+49,Moon Rocks,2,Monday,BOGO,0,81.77846470633683,0
+50,Galaxy Pops,4,Saturday,Flash Sale,0,45.88423700168989,0
+51,Galaxy Pops,6,Monday,Flash Sale,1,60.071534257198024,0
+52,Galaxy Pops,1,Friday,BOGO,0,70.06299065993844,0
+53,Galaxy Pops,4,Friday,None,0,70.64092195758934,0
+54,Nebula Chews,4,Tuesday,None,0,80.41054608215083,0
+55,Meteor Mints,2,Saturday,Lunar Discount,0,56.281171294096836,1
+56,Alien Gummies,3,Monday,None,0,62.97984572495501,0
+57,Galaxy Pops,1,Sunday,None,0,77.61024491320555,0
+58,Moon Rocks,3,Saturday,None,0,37.02158890964484,0
+59,Galaxy Pops,1,Tuesday,Flash Sale,0,75.77402877838439,0
+60,Moon Rocks,4,Friday,None,0,81.45922923542383,0
+61,Moon Rocks,6,Sunday,None,0,49.995089159826406,0
+62,Galaxy Pops,4,Friday,None,0,65.27465577572481,0
+63,Nebula Chews,4,Thursday,Flash Sale,0,92.38989724760721,0
+64,Moon Rocks,5,Tuesday,None,1,79.89742446596722,0
+65,Moon Rocks,5,Tuesday,None,0,76.70458409456299,0
+66,Galaxy Pops,4,Monday,None,0,84.8643897268673,0
+67,Moon Rocks,7,Monday,Flash Sale,0,97.06817676418754,0
+68,Moon Rocks,4,Thursday,None,0,70.27801104727558,0
+69,Galaxy Pops,8,Sunday,None,1,63.89216493666963,0
+70,Galaxy Pops,6,Wednesday,BOGO,0,84.82807616460897,0
+71,Alien Gummies,3,Saturday,Lunar Discount,0,67.18820296075735,0
+72,Nebula Chews,2,Wednesday,BOGO,0,56.07972012971585,0
+73,Nebula Chews,3,Wednesday,Lunar Discount,0,61.899006205191355,0
+74,Moon Rocks,1,Tuesday,Flash Sale,0,74.68494373087572,0
+75,Nebula Chews,5,Saturday,None,0,63.25606296383678,1
+76,Moon Rocks,2,Tuesday,BOGO,0,64.37537128858129,0
+77,Alien Gummies,5,Saturday,None,0,54.59026278032194,1
+78,Galaxy Pops,3,Friday,BOGO,0,91.53049774304218,0
+79,Galaxy Pops,4,Tuesday,None,0,64.86059920468793,0
+80,Galaxy Pops,7,Tuesday,None,0,59.32733544077141,0
+81,Nebula Chews,6,Tuesday,Lunar Discount,0,60.9231579009158,0
+82,Alien Gummies,2,Sunday,None,0,82.03788962443217,0
+83,Nebula Chews,3,Thursday,Flash Sale,0,78.59797867754743,0
+84,Nebula Chews,4,Tuesday,None,0,62.47217943785691,1
+85,Alien Gummies,4,Monday,None,0,70.4846955696313,0
+86,Alien Gummies,4,Monday,Flash Sale,0,74.15056635778727,0
+87,Alien Gummies,2,Saturday,BOGO,0,59.43878961241592,0
+88,Alien Gummies,5,Friday,Flash Sale,0,46.8906581891501,0
+89,Galaxy Pops,7,Thursday,None,0,77.72556129146867,0
+90,Meteor Mints,7,Sunday,BOGO,0,60.26898754002587,0
+91,Meteor Mints,1,Saturday,Flash Sale,0,76.6052252557588,1
+92,Alien Gummies,4,Monday,BOGO,0,74.81539963371314,0
+93,Meteor Mints,5,Thursday,None,0,70.83688451883268,0
+94,Meteor Mints,4,Thursday,Lunar Discount,0,63.608092768154975,0
+95,Alien Gummies,2,Friday,BOGO,0,60.491076662262714,0
+96,Meteor Mints,5,Thursday,Lunar Discount,1,52.92373892445664,0
+97,Nebula Chews,3,Tuesday,Flash Sale,0,60.778780684163664,0
+98,Moon Rocks,3,Thursday,Flash Sale,0,78.53222517325281,0
+99,Moon Rocks,8,Friday,None,0,90.96738613185991,0
+100,Alien Gummies,3,Saturday,None,0,88.76649013363478,0
+101,Galaxy Pops,7,Friday,Flash Sale,0,72.1813452426232,0
+102,Alien Gummies,5,Sunday,None,0,90.95941091022456,0
+103,Galaxy Pops,5,Friday,None,1,65.3977355820883,0
+104,Moon Rocks,3,Monday,None,0,50.63429976227394,0
+105,Alien Gummies,2,Tuesday,None,0,98.81311628815413,0
+106,Nebula Chews,5,Monday,Lunar Discount,1,77.99212429685156,0
+107,Meteor Mints,5,Saturday,Flash Sale,0,46.9805387419012,0
+108,Galaxy Pops,4,Wednesday,None,0,93.38572867956043,0
+109,Meteor Mints,4,Saturday,None,0,58.84866272336824,1
+110,Meteor Mints,3,Tuesday,Flash Sale,0,62.111766134123,0
+111,Alien Gummies,5,Thursday,BOGO,0,85.32074708624808,0
+112,Meteor Mints,4,Friday,Lunar Discount,0,90.42560670485042,0
+113,Nebula Chews,7,Wednesday,BOGO,0,54.98891457338105,0
+114,Meteor Mints,3,Tuesday,None,0,92.06486143040168,0
+115,Alien Gummies,2,Monday,BOGO,1,83.11355194614161,0
+116,Nebula Chews,2,Friday,Lunar Discount,0,58.00376782092039,0
+117,Moon Rocks,2,Saturday,BOGO,0,66.31140603574744,0
+118,Meteor Mints,6,Monday,BOGO,0,92.74203844860335,0
+119,Alien Gummies,4,Tuesday,None,0,46.591575960875595,1
+120,Moon Rocks,4,Tuesday,Flash Sale,1,90.71071563838328,0
+121,Moon Rocks,2,Saturday,Flash Sale,0,82.69610691754788,0
+122,Galaxy Pops,4,Wednesday,None,0,77.6371114340605,1
+123,Nebula Chews,3,Saturday,None,0,71.97543532856511,0
+124,Meteor Mints,6,Thursday,None,1,99.55206973693717,0
+125,Alien Gummies,5,Monday,None,0,101.76885401057353,0
+126,Galaxy Pops,8,Wednesday,None,0,60.77155374973518,0
+127,Nebula Chews,3,Friday,None,0,79.183071808475,0
+128,Galaxy Pops,5,Sunday,BOGO,1,98.11564745766748,0
+129,Nebula Chews,5,Thursday,None,0,58.22433128499985,0
+130,Nebula Chews,6,Wednesday,None,0,73.64709361467816,0
+131,Meteor Mints,5,Sunday,Flash Sale,0,85.05813163423737,0
+132,Nebula Chews,5,Sunday,BOGO,0,39.77659892588397,0
+133,Galaxy Pops,1,Monday,BOGO,0,82.42832843046834,0
+134,Nebula Chews,4,Tuesday,None,1,53.673519648844035,0
+135,Meteor Mints,7,Friday,BOGO,1,72.88497047433502,0
+136,Meteor Mints,3,Saturday,None,1,87.16517276337727,0
+137,Galaxy Pops,6,Monday,Flash Sale,0,34.162289560901065,0
+138,Moon Rocks,4,Thursday,None,0,81.78788331615844,0
+139,Moon Rocks,4,Sunday,BOGO,0,100.57493476946246,0
+140,Nebula Chews,3,Thursday,None,0,62.00048500501204,0
+141,Alien Gummies,7,Sunday,Flash Sale,0,78.65035220176186,0
+142,Nebula Chews,6,Tuesday,BOGO,0,90.02929496049083,0
+143,Galaxy Pops,4,Tuesday,None,1,46.105824276850385,0
+144,Galaxy Pops,5,Friday,None,0,81.36054637800629,0
+145,Galaxy Pops,4,Saturday,BOGO,1,85.3564934889667,0
+146,Galaxy Pops,1,Friday,Lunar Discount,0,79.5793032990515,0
+147,Galaxy Pops,6,Tuesday,Flash Sale,0,71.29934038307682,0
+148,Meteor Mints,5,Tuesday,None,0,54.993808272908105,0
+149,Moon Rocks,7,Thursday,None,0,90.87135030304364,0
+150,Galaxy Pops,3,Tuesday,Lunar Discount,0,70.51755347847487,0
+151,Alien Gummies,4,Wednesday,BOGO,1,56.44179381064607,0
+152,Alien Gummies,3,Sunday,BOGO,0,65.22961254378147,0
+153,Alien Gummies,4,Monday,Lunar Discount,0,75.52578237002015,0
+154,Alien Gummies,2,Tuesday,Flash Sale,0,46.582225646736845,0
+155,Meteor Mints,6,Friday,BOGO,0,70.26895528876176,0
+156,Alien Gummies,6,Saturday,None,0,63.74684174413016,0
+157,Galaxy Pops,4,Sunday,None,0,90.04039722048984,0
+158,Nebula Chews,4,Sunday,Flash Sale,1,41.87664104068406,0
+159,Alien Gummies,3,Saturday,None,0,84.08136463753726,0
+160,Meteor Mints,5,Saturday,None,0,91.25642238403773,0
+161,Meteor Mints,3,Sunday,None,0,42.443670442782064,0
+162,Alien Gummies,5,Wednesday,None,0,44.24226271289387,0
+163,Nebula Chews,3,Friday,BOGO,1,96.78850069849719,1
+164,Alien Gummies,4,Wednesday,BOGO,0,56.434419270956006,0
+165,Meteor Mints,3,Tuesday,None,1,110.0,1
+166,Moon Rocks,5,Monday,None,0,42.9123994671975,0
+167,Galaxy Pops,2,Saturday,Lunar Discount,0,72.55071107480681,0
+168,Meteor Mints,5,Friday,None,1,69.64909394120923,0
+169,Alien Gummies,6,Saturday,Flash Sale,0,66.87706348652564,0
+170,Galaxy Pops,2,Wednesday,Lunar Discount,0,76.94443541058673,0
+171,Alien Gummies,3,Thursday,None,0,77.80969637093601,0
+172,Alien Gummies,3,Tuesday,BOGO,0,67.48511526056345,0
+173,Moon Rocks,5,Monday,Lunar Discount,0,54.78739084259094,0
+174,Galaxy Pops,6,Tuesday,None,0,85.71640546362069,0
+175,Galaxy Pops,6,Thursday,BOGO,0,79.42078994624254,0
+176,Moon Rocks,4,Monday,None,0,71.71875535924111,0
+177,Meteor Mints,2,Thursday,None,1,78.94551223626038,0
+178,Alien Gummies,6,Tuesday,Flash Sale,0,81.53412175136695,0
+179,Nebula Chews,5,Wednesday,Flash Sale,0,58.5740193477802,0
+180,Alien Gummies,5,Sunday,Flash Sale,0,78.4102056022271,0
+181,Alien Gummies,3,Tuesday,None,0,61.70446411722486,1
+182,Meteor Mints,5,Tuesday,None,0,82.030500348802,0
+183,Alien Gummies,3,Tuesday,BOGO,0,67.11400620365153,0
+184,Moon Rocks,1,Friday,None,0,79.1757936052258,0
+185,Moon Rocks,4,Thursday,BOGO,0,63.493070504357156,0
+186,Galaxy Pops,2,Thursday,BOGO,0,79.9555365390651,0
+187,Nebula Chews,5,Saturday,BOGO,0,55.31846156325987,0
+188,Alien Gummies,2,Thursday,BOGO,0,70.54253319795194,0
+189,Alien Gummies,3,Saturday,None,0,84.709487726649,0
+190,Meteor Mints,5,Friday,None,0,77.00806985868887,0
+191,Moon Rocks,2,Wednesday,None,0,72.88043100173817,0
+192,Nebula Chews,7,Saturday,BOGO,1,97.05342009475959,0
+193,Galaxy Pops,3,Tuesday,BOGO,0,85.35455302733382,0
+194,Moon Rocks,4,Wednesday,Flash Sale,0,82.8330992387969,0
+195,Galaxy Pops,5,Sunday,Flash Sale,0,79.87041668374758,0
+196,Meteor Mints,5,Friday,Lunar Discount,1,81.74045308369996,0
+197,Meteor Mints,2,Thursday,None,1,94.85653015828247,0
+198,Alien Gummies,4,Saturday,None,0,63.734969684185074,0
+199,Nebula Chews,2,Tuesday,None,0,85.14105947912863,0
+200,Galaxy Pops,3,Monday,Flash Sale,0,75.34731833162164,0
+201,Moon Rocks,7,Sunday,None,0,64.2532369429901,0
+202,Meteor Mints,5,Monday,Flash Sale,0,68.5041234543808,0
+203,Alien Gummies,5,Wednesday,BOGO,0,73.28732022319515,0
+204,Alien Gummies,4,Thursday,Lunar Discount,0,57.10089898495866,0
+205,Galaxy Pops,4,Monday,Lunar Discount,0,82.9601916325067,0
+206,Meteor Mints,3,Wednesday,None,0,68.45722863866442,1
+207,Nebula Chews,1,Friday,None,0,71.2739374336401,0
+208,Meteor Mints,4,Wednesday,BOGO,1,90.35803824891711,1
+209,Galaxy Pops,1,Sunday,None,0,71.94622307840204,0
+210,Galaxy Pops,8,Wednesday,None,0,93.29002666631658,0
+211,Meteor Mints,4,Sunday,BOGO,0,62.12778236657284,0
+212,Galaxy Pops,2,Wednesday,None,0,53.54395241808024,0
+213,Meteor Mints,7,Tuesday,BOGO,0,65.65010279582675,0
+214,Moon Rocks,3,Wednesday,BOGO,0,30.0,0
+215,Meteor Mints,5,Saturday,None,0,83.58642628706416,0
+216,Meteor Mints,3,Wednesday,None,0,54.416521880687576,0
+217,Galaxy Pops,4,Tuesday,None,0,60.734568678305955,0
+218,Galaxy Pops,1,Tuesday,Flash Sale,1,80.7441784243139,0
+219,Alien Gummies,3,Friday,None,0,71.78681646876836,0
+220,Alien Gummies,4,Sunday,Flash Sale,1,63.39181812879819,0
+221,Moon Rocks,5,Thursday,None,0,39.451864412173464,0
+222,Alien Gummies,5,Monday,None,0,89.51212044845792,0
+223,Meteor Mints,6,Monday,None,0,80.84620050214696,0
+224,Galaxy Pops,2,Wednesday,None,0,100.83581994547377,0
+225,Alien Gummies,4,Friday,None,0,61.0543024601439,0
+226,Alien Gummies,4,Wednesday,BOGO,0,48.18324603432988,0
+227,Moon Rocks,4,Monday,BOGO,0,84.92132927896635,0
+228,Moon Rocks,5,Sunday,None,0,67.17910123899473,0
+229,Meteor Mints,2,Sunday,None,0,79.42254788603434,0
+230,Galaxy Pops,4,Sunday,Flash Sale,1,94.29872930989833,0
+231,Moon Rocks,6,Tuesday,BOGO,0,75.82229644696265,0
+232,Alien Gummies,7,Thursday,None,0,72.509483508183,0
+233,Galaxy Pops,7,Friday,Flash Sale,0,73.45004179458385,0
+234,Galaxy Pops,8,Tuesday,None,0,45.44127721053003,0
+235,Alien Gummies,4,Thursday,Flash Sale,0,86.6205731422457,0
+236,Moon Rocks,3,Friday,None,0,87.58129243373743,0
+237,Alien Gummies,2,Friday,None,0,77.95855037443786,0
+238,Galaxy Pops,2,Monday,Lunar Discount,0,47.268930476037525,0
+239,Nebula Chews,6,Tuesday,None,1,68.1827676229448,0
+240,Nebula Chews,3,Friday,Flash Sale,0,91.5778866308928,0
+241,Meteor Mints,4,Saturday,None,0,61.51369505539798,0
+242,Alien Gummies,3,Sunday,BOGO,0,87.7637957787049,0
+243,Alien Gummies,6,Friday,Flash Sale,0,70.8264473898528,0
+244,Meteor Mints,2,Thursday,None,0,80.68755759273941,0
+245,Meteor Mints,4,Monday,Flash Sale,0,63.817878807628254,1
+246,Meteor Mints,5,Wednesday,BOGO,1,71.265713224685,0
+247,Galaxy Pops,4,Sunday,BOGO,0,76.55072872253317,0
+248,Alien Gummies,8,Monday,BOGO,0,53.75149039158724,1
+249,Galaxy Pops,7,Wednesday,Flash Sale,0,74.10869693468517,0
+250,Meteor Mints,4,Tuesday,None,0,30.0,1
+251,Alien Gummies,6,Tuesday,None,0,60.97747319767341,0
+252,Galaxy Pops,4,Friday,Flash Sale,0,78.15824521545669,0
+253,Galaxy Pops,2,Saturday,Flash Sale,0,86.80394380825842,0
+254,Meteor Mints,3,Tuesday,None,0,77.09128212698843,0
+255,Alien Gummies,2,Friday,BOGO,0,49.14524839253548,0
+256,Meteor Mints,2,Sunday,BOGO,0,85.49287193298372,1
+257,Alien Gummies,1,Monday,None,0,52.91275402715899,0
+258,Nebula Chews,5,Tuesday,None,0,79.21297827136526,0
+259,Moon Rocks,4,Monday,BOGO,1,53.41249383110713,0
+260,Moon Rocks,2,Monday,None,0,58.40190693456764,0
+261,Moon Rocks,4,Saturday,Flash Sale,0,55.65476296104276,1
+262,Meteor Mints,3,Tuesday,Flash Sale,0,72.08437883922579,1
+263,Nebula Chews,4,Monday,None,0,67.06698229563152,0
+264,Alien Gummies,7,Saturday,None,0,77.63364156446038,0
+265,Galaxy Pops,3,Saturday,None,0,69.72047741990337,0
+266,Alien Gummies,5,Tuesday,None,0,47.23189819619442,0
+267,Galaxy Pops,3,Saturday,Flash Sale,1,74.13718702146963,0
+268,Alien Gummies,5,Tuesday,None,1,43.56751524350696,0
+269,Nebula Chews,5,Tuesday,BOGO,0,56.74219010426496,0
+270,Galaxy Pops,4,Wednesday,None,0,64.54130001881498,0
+271,Meteor Mints,2,Monday,None,0,63.50194889215533,0
+272,Alien Gummies,6,Thursday,None,0,45.28881009240961,0
+273,Alien Gummies,5,Tuesday,None,0,90.56739330307288,0
+274,Galaxy Pops,5,Monday,None,0,94.72004185085049,0
+275,Meteor Mints,3,Sunday,None,0,103.76162656463424,0
+276,Meteor Mints,6,Saturday,Flash Sale,0,87.21477126234485,0
+277,Nebula Chews,2,Friday,Flash Sale,0,64.06830191814589,0
+278,Meteor Mints,4,Tuesday,None,0,63.809807185771376,0
+279,Meteor Mints,3,Saturday,None,0,62.981592457401625,0
+280,Meteor Mints,3,Saturday,None,0,99.78456529338663,1
+281,Moon Rocks,2,Saturday,None,0,68.2668779655226,0
+282,Nebula Chews,4,Saturday,None,0,89.0384936038034,0
+283,Alien Gummies,4,Saturday,None,0,87.87152466579158,0
+284,Galaxy Pops,4,Tuesday,None,0,72.84321784121306,0
+285,Alien Gummies,4,Sunday,None,0,48.225387344057424,0
+286,Nebula Chews,1,Thursday,None,0,68.59122042023627,0
+287,Galaxy Pops,7,Wednesday,None,0,72.20449414319428,0
+288,Nebula Chews,3,Saturday,Flash Sale,0,89.16881934854477,0
+289,Meteor Mints,4,Saturday,None,0,70.29186868150438,0
+290,Galaxy Pops,5,Wednesday,None,0,51.870916545627914,0
+291,Meteor Mints,3,Sunday,BOGO,0,84.81864996597557,0
+292,Alien Gummies,5,Sunday,Flash Sale,0,66.58688016253768,1
+293,Alien Gummies,3,Tuesday,Flash Sale,1,31.821256755451955,0
+294,Galaxy Pops,6,Monday,Flash Sale,0,74.87476861865119,0
+295,Galaxy Pops,5,Friday,None,0,77.51156941180315,0
+296,Nebula Chews,3,Friday,BOGO,0,57.35592710701317,0
+297,Nebula Chews,5,Monday,Flash Sale,0,67.11931299065367,0
+298,Meteor Mints,6,Tuesday,None,0,79.86575538960925,0
+299,Galaxy Pops,3,Friday,BOGO,0,74.97677201803424,0
+300,Alien Gummies,1,Sunday,Flash Sale,0,46.56014574827501,0
+301,Nebula Chews,5,Wednesday,None,0,88.80325249746052,0
+302,Nebula Chews,2,Monday,None,0,95.59495929307977,0
+303,Alien Gummies,4,Sunday,None,0,62.347241709522365,0
+304,Nebula Chews,5,Thursday,None,1,41.3519264061612,0
+305,Meteor Mints,2,Tuesday,None,0,81.56669210204427,0
+306,Galaxy Pops,4,Monday,BOGO,0,59.903613412328596,0
+307,Alien Gummies,3,Friday,Flash Sale,0,78.03173192627875,0
+308,Galaxy Pops,3,Tuesday,None,0,103.03255699850557,0
+309,Nebula Chews,4,Wednesday,Flash Sale,1,46.80538631216723,0
+310,Nebula Chews,2,Tuesday,None,1,58.050686802815136,0
+311,Alien Gummies,6,Tuesday,None,0,67.08280609677327,0
+312,Meteor Mints,8,Wednesday,Flash Sale,0,89.37517542038412,0
+313,Moon Rocks,2,Saturday,Flash Sale,0,110.0,0
+314,Alien Gummies,2,Wednesday,BOGO,0,73.70627780649441,0
+315,Moon Rocks,1,Sunday,Flash Sale,0,45.5166588891322,0
+316,Moon Rocks,4,Tuesday,Flash Sale,1,64.81717938623166,0
+317,Meteor Mints,4,Wednesday,Flash Sale,1,58.37704770643023,0
+318,Moon Rocks,7,Saturday,None,1,80.82378216528684,0
+319,Moon Rocks,4,Sunday,Flash Sale,0,75.65327054948399,0
+320,Meteor Mints,5,Monday,Lunar Discount,0,54.37279947993103,0
+321,Moon Rocks,4,Wednesday,Flash Sale,0,57.49771863629303,0
+322,Moon Rocks,4,Wednesday,None,0,64.59914166138492,1
+323,Moon Rocks,4,Tuesday,BOGO,0,66.40962534905876,0
+324,Alien Gummies,2,Sunday,BOGO,0,69.36716625745633,0
+325,Alien Gummies,2,Monday,None,0,70.73309822791624,0
+326,Alien Gummies,6,Thursday,Lunar Discount,0,88.52275806601807,0
+327,Meteor Mints,4,Thursday,None,1,64.0568348196784,1
+328,Nebula Chews,4,Friday,None,1,61.84649739630125,0
+329,Moon Rocks,3,Wednesday,Lunar Discount,1,49.918389686651764,0
+330,Moon Rocks,1,Wednesday,None,0,66.64211151073712,0
+331,Meteor Mints,5,Monday,None,0,73.84294369289573,0
+332,Moon Rocks,5,Saturday,BOGO,0,44.138554576102315,0
+333,Alien Gummies,4,Thursday,BOGO,0,64.86357109908141,1
+334,Nebula Chews,5,Friday,None,1,87.40441194880066,0
+335,Galaxy Pops,3,Monday,Lunar Discount,1,79.72459064051816,0
+336,Moon Rocks,5,Wednesday,BOGO,0,75.60149759141188,0
+337,Alien Gummies,3,Thursday,BOGO,0,79.31818448461757,0
+338,Galaxy Pops,2,Sunday,BOGO,0,61.39443595165562,0
+339,Nebula Chews,4,Friday,BOGO,0,59.396203211410565,0
+340,Galaxy Pops,6,Tuesday,None,1,89.07863171107236,0
+341,Alien Gummies,5,Thursday,None,0,82.42959069137314,0
+342,Galaxy Pops,3,Friday,BOGO,0,58.80590467553344,0
+343,Meteor Mints,6,Monday,Flash Sale,0,41.81914060483021,0
+344,Galaxy Pops,5,Tuesday,None,0,59.11726677279524,0
+345,Moon Rocks,7,Friday,BOGO,0,78.1530134119887,0
+346,Moon Rocks,2,Friday,Flash Sale,1,60.12609785915156,0
+347,Meteor Mints,2,Wednesday,None,0,74.95101716200773,0
+348,Alien Gummies,9,Saturday,None,0,91.29655830848348,0
+349,Moon Rocks,2,Thursday,None,0,68.60459383310388,0
+350,Nebula Chews,6,Wednesday,BOGO,0,73.50940229477318,0
+351,Moon Rocks,4,Sunday,None,0,80.27355784749349,0
+352,Moon Rocks,5,Tuesday,None,0,53.76873612508696,0
+353,Alien Gummies,4,Saturday,BOGO,0,58.404261624819235,0
+354,Galaxy Pops,2,Friday,BOGO,0,80.8924173985532,0
+355,Moon Rocks,2,Wednesday,None,0,70.55451280823662,0
+356,Meteor Mints,4,Saturday,None,0,71.82637915464144,0
+357,Galaxy Pops,2,Sunday,Flash Sale,0,70.49928741786024,0
+358,Nebula Chews,5,Thursday,Lunar Discount,0,84.67440953442937,0
+359,Alien Gummies,1,Sunday,Flash Sale,0,76.53568960674512,0
+360,Nebula Chews,4,Tuesday,BOGO,0,76.73230136606217,1
+361,Galaxy Pops,6,Monday,None,0,88.33297236333658,0
+362,Galaxy Pops,3,Wednesday,None,0,94.09860787112034,0
+363,Galaxy Pops,4,Tuesday,None,1,103.6538758565207,1
+364,Nebula Chews,4,Monday,None,0,61.314794577770904,0
+365,Galaxy Pops,2,Wednesday,BOGO,0,107.04111121012937,0
+366,Nebula Chews,4,Tuesday,None,1,53.54840584817225,1
+367,Galaxy Pops,5,Sunday,None,0,99.0287110456469,0
+368,Meteor Mints,3,Tuesday,Lunar Discount,0,60.49060211962936,0
+369,Galaxy Pops,1,Saturday,None,0,68.9659030569287,0
+370,Nebula Chews,6,Sunday,None,0,70.2786391774446,0
+371,Moon Rocks,5,Wednesday,None,0,56.99543875257972,0
+372,Galaxy Pops,4,Tuesday,BOGO,0,71.30078000133942,1
+373,Moon Rocks,4,Friday,BOGO,0,57.769928352435365,0
+374,Meteor Mints,4,Wednesday,None,1,51.4758485699395,0
+375,Alien Gummies,5,Tuesday,BOGO,0,69.41914550460649,0
+376,Meteor Mints,4,Saturday,Flash Sale,0,93.84815335364401,0
+377,Galaxy Pops,5,Monday,Flash Sale,0,66.18970391474537,0
+378,Moon Rocks,3,Monday,Lunar Discount,0,84.11531373061324,0
+379,Moon Rocks,3,Friday,Flash Sale,0,57.31500560926272,0
+380,Nebula Chews,3,Wednesday,BOGO,0,50.747858940482004,0
+381,Moon Rocks,4,Saturday,None,0,76.8079023543304,0
+382,Nebula Chews,5,Tuesday,None,0,96.33418577652168,0
+383,Alien Gummies,6,Tuesday,None,0,73.13431678199731,0
+384,Galaxy Pops,7,Monday,BOGO,0,82.39971169805608,0
+385,Nebula Chews,3,Saturday,Flash Sale,0,92.42686615294716,0
+386,Alien Gummies,3,Sunday,BOGO,0,69.45204475476784,0
+387,Moon Rocks,3,Friday,None,0,67.71905077508126,0
+388,Moon Rocks,6,Monday,BOGO,0,77.08132525945949,0
+389,Alien Gummies,7,Monday,Lunar Discount,0,79.75028659177255,0
+390,Moon Rocks,6,Friday,BOGO,0,49.01537366975185,0
+391,Alien Gummies,1,Wednesday,Flash Sale,0,74.43588439406125,0
+392,Nebula Chews,1,Tuesday,Flash Sale,0,69.98977885835207,0
+393,Nebula Chews,3,Wednesday,Lunar Discount,0,58.15721741334531,0
+394,Alien Gummies,1,Saturday,Flash Sale,0,68.9528441473347,0
+395,Nebula Chews,6,Sunday,Flash Sale,0,52.52012752205913,0
+396,Nebula Chews,5,Thursday,None,0,47.336084051894744,0
+397,Nebula Chews,5,Thursday,None,0,71.00272374461542,0
+398,Meteor Mints,1,Thursday,BOGO,0,83.53115535093364,0
+399,Galaxy Pops,4,Friday,None,0,64.79063892769963,0
+400,Moon Rocks,4,Monday,Lunar Discount,0,55.589061042884865,0
+401,Meteor Mints,5,Sunday,None,0,57.92051821618001,0
+402,Nebula Chews,2,Wednesday,Flash Sale,0,78.23416776649829,0
+403,Alien Gummies,2,Tuesday,None,0,95.01077826913897,0
+404,Nebula Chews,5,Thursday,None,0,81.55684287140946,1
+405,Galaxy Pops,4,Wednesday,Lunar Discount,1,89.51187848872836,1
+406,Nebula Chews,7,Thursday,None,1,54.28564453344747,0
+407,Alien Gummies,3,Sunday,None,0,68.89105124897794,0
+408,Galaxy Pops,3,Thursday,None,0,85.28036275636612,0
+409,Nebula Chews,4,Tuesday,BOGO,0,49.012336281591516,0
+410,Galaxy Pops,6,Saturday,None,0,60.12440179560382,0
+411,Moon Rocks,6,Saturday,BOGO,0,84.13028735562298,1
+412,Moon Rocks,4,Sunday,BOGO,0,73.87638656182524,0
+413,Nebula Chews,5,Saturday,Flash Sale,1,55.52333601575975,1
+414,Galaxy Pops,7,Friday,Flash Sale,1,45.53767889189635,0
+415,Alien Gummies,2,Monday,BOGO,0,90.0597277204751,0
+416,Nebula Chews,5,Friday,None,0,39.19923424688618,0
+417,Moon Rocks,3,Wednesday,Flash Sale,0,79.48592768455457,0
+418,Moon Rocks,2,Friday,None,0,62.004333469199544,0
+419,Nebula Chews,7,Wednesday,BOGO,0,85.70602474545026,0
+420,Galaxy Pops,5,Wednesday,None,0,54.36777550286645,0
+421,Moon Rocks,3,Monday,Flash Sale,0,109.22198403042654,0
+422,Galaxy Pops,4,Tuesday,None,0,76.03448283532572,0
+423,Moon Rocks,8,Sunday,None,0,78.50603828178384,0
+424,Moon Rocks,3,Monday,BOGO,1,58.40429219834736,0
+425,Meteor Mints,3,Sunday,BOGO,0,67.9992949870176,0
+426,Moon Rocks,4,Saturday,None,0,68.3882639086573,0
+427,Alien Gummies,1,Saturday,BOGO,0,96.94102493877524,0
+428,Nebula Chews,5,Friday,Flash Sale,0,76.00865157141679,0
+429,Nebula Chews,7,Wednesday,Lunar Discount,0,78.15744559604857,0
+430,Galaxy Pops,5,Thursday,BOGO,0,77.98973314722797,0
+431,Moon Rocks,2,Thursday,None,1,79.42916348626895,0
+432,Alien Gummies,4,Sunday,None,0,49.15819735385816,0
+433,Galaxy Pops,2,Wednesday,Flash Sale,0,100.73902162055072,0
+434,Meteor Mints,3,Sunday,Flash Sale,0,56.837671417075605,0
+435,Galaxy Pops,3,Monday,None,1,69.42393496496369,0
+436,Galaxy Pops,3,Tuesday,None,0,92.97224346282442,0
+437,Moon Rocks,5,Monday,Flash Sale,0,99.01937945106042,0
+438,Meteor Mints,8,Wednesday,None,0,82.08931119597212,0
+439,Galaxy Pops,2,Wednesday,None,0,62.4295796538168,0
+440,Alien Gummies,6,Tuesday,None,0,71.9160182941645,0
+441,Alien Gummies,5,Sunday,None,0,72.50450918661781,0
+442,Nebula Chews,5,Friday,None,0,73.03585685963701,0
+443,Meteor Mints,6,Friday,Flash Sale,0,51.54920458881304,0
+444,Meteor Mints,5,Tuesday,None,0,88.90164298593231,0
+445,Nebula Chews,6,Friday,None,0,72.01883463906668,0
+446,Galaxy Pops,6,Thursday,None,0,59.16671846575088,1
+447,Meteor Mints,4,Friday,None,0,62.52410368378838,0
+448,Alien Gummies,7,Friday,None,0,74.04775053263069,0
+449,Alien Gummies,7,Friday,None,0,48.9564002566239,0
+450,Moon Rocks,5,Thursday,Flash Sale,1,83.17652614248935,0
+451,Meteor Mints,6,Sunday,None,1,73.52095453614612,0
+452,Galaxy Pops,4,Friday,None,0,93.48534425539138,0
+453,Nebula Chews,1,Saturday,None,0,71.16375581701855,0
+454,Nebula Chews,1,Thursday,BOGO,0,53.720980903216756,0
+455,Galaxy Pops,8,Tuesday,Flash Sale,1,52.032952151839964,0
+456,Moon Rocks,4,Monday,None,0,64.13941579131358,0
+457,Nebula Chews,9,Tuesday,Lunar Discount,0,65.72642850067703,0
+458,Meteor Mints,3,Monday,None,0,61.491074280136274,1
+459,Moon Rocks,5,Tuesday,Flash Sale,1,71.92720799377652,0
+460,Meteor Mints,4,Saturday,None,0,61.11034459171485,0
+461,Alien Gummies,6,Monday,BOGO,0,73.81308841636358,0
+462,Moon Rocks,3,Monday,BOGO,0,62.190273764975956,0
+463,Nebula Chews,1,Wednesday,None,0,79.47555561601857,0
+464,Moon Rocks,2,Monday,Flash Sale,0,65.34851809934764,0
+465,Moon Rocks,5,Monday,Flash Sale,0,88.69310008401149,0
+466,Moon Rocks,6,Wednesday,None,0,79.7844204968448,0
+467,Moon Rocks,5,Friday,None,1,72.90378009717558,0
+468,Meteor Mints,4,Friday,None,0,66.88484100040137,0
+469,Alien Gummies,5,Wednesday,Flash Sale,0,47.214854120070655,0
+470,Galaxy Pops,8,Thursday,BOGO,0,91.20324107010883,0
+471,Moon Rocks,3,Monday,None,0,59.788343823740504,0
+472,Nebula Chews,2,Monday,BOGO,0,71.36098201603329,0
+473,Moon Rocks,5,Wednesday,Flash Sale,0,75.15706485303824,1
+474,Nebula Chews,3,Wednesday,BOGO,0,67.24732660632911,0
+475,Meteor Mints,6,Thursday,Flash Sale,1,90.31901581537042,0
+476,Nebula Chews,1,Saturday,Flash Sale,1,51.6794362388688,1
+477,Galaxy Pops,5,Friday,None,1,96.00902210481006,0
+478,Alien Gummies,2,Tuesday,None,0,80.07336336262475,0
+479,Nebula Chews,4,Saturday,Flash Sale,0,66.30369119748296,0
+480,Nebula Chews,1,Sunday,None,0,66.47155009103068,0
+481,Alien Gummies,3,Friday,Lunar Discount,0,36.74767744144238,0
+482,Galaxy Pops,3,Monday,None,0,57.27650844747848,0
+483,Moon Rocks,7,Sunday,None,0,64.69144367480435,0
+484,Nebula Chews,2,Saturday,Lunar Discount,0,72.64157464046362,0
+485,Alien Gummies,4,Wednesday,BOGO,0,88.8937186667834,0
+486,Meteor Mints,4,Thursday,None,0,100.56318437243428,0
+487,Alien Gummies,3,Friday,Flash Sale,0,74.0840064820386,0
+488,Meteor Mints,3,Thursday,BOGO,0,73.08413968214448,0
+489,Galaxy Pops,6,Sunday,BOGO,0,62.644723487321976,0
+490,Moon Rocks,6,Friday,None,0,44.27349785015695,0
+491,Alien Gummies,2,Saturday,Flash Sale,0,60.91320210692176,0
+492,Nebula Chews,3,Monday,Flash Sale,1,66.91748380380966,1
+493,Galaxy Pops,3,Tuesday,None,0,84.63091630997744,0
+494,Alien Gummies,1,Thursday,Flash Sale,1,77.7927179737292,0
+495,Nebula Chews,2,Thursday,Flash Sale,0,73.3231783585159,0
+496,Alien Gummies,3,Tuesday,BOGO,0,61.28799859766121,0
+497,Meteor Mints,4,Thursday,BOGO,0,40.26824876433804,0
+498,Alien Gummies,4,Thursday,None,0,41.17365926901019,0
+499,Alien Gummies,3,Friday,None,0,45.04395299586982,0
+500,Alien Gummies,4,Friday,Flash Sale,0,65.61989985692924,0
+501,Galaxy Pops,3,Tuesday,Flash Sale,0,84.91066656576984,0
+502,Alien Gummies,5,Sunday,BOGO,0,84.50598354941326,0
+503,Nebula Chews,3,Monday,BOGO,0,81.90573643116154,0
+504,Meteor Mints,8,Saturday,None,0,62.27356774722941,0
+505,Meteor Mints,4,Saturday,None,0,87.16394749175666,0
+506,Alien Gummies,6,Sunday,None,0,56.033941355652345,0
+507,Galaxy Pops,2,Thursday,None,0,82.80090158288314,0
+508,Galaxy Pops,1,Monday,BOGO,0,44.88135520317917,0
+509,Nebula Chews,3,Tuesday,None,0,52.343316341691725,0
+510,Alien Gummies,6,Sunday,Flash Sale,0,94.78922591455844,0
+511,Meteor Mints,2,Tuesday,None,1,66.94248079256194,0
+512,Galaxy Pops,2,Friday,BOGO,0,59.78545210875326,0
+513,Alien Gummies,5,Thursday,BOGO,0,86.54138062998481,0
+514,Galaxy Pops,4,Wednesday,None,0,88.26057435335908,0
+515,Galaxy Pops,5,Tuesday,None,0,63.50078787851166,1
+516,Meteor Mints,3,Sunday,None,0,74.17695179413205,1
+517,Moon Rocks,5,Thursday,Flash Sale,0,72.05361138110715,0
+518,Nebula Chews,3,Monday,None,0,30.0,0
+519,Nebula Chews,7,Sunday,Flash Sale,0,49.06209881854409,0
+520,Meteor Mints,4,Friday,Lunar Discount,0,84.13381621273115,0
+521,Galaxy Pops,4,Saturday,Flash Sale,0,57.51093626435875,0
+522,Alien Gummies,6,Monday,None,0,77.94756844097596,1
+523,Galaxy Pops,5,Tuesday,Lunar Discount,0,73.945606770183,0
+524,Meteor Mints,2,Tuesday,None,1,88.23149155191823,0
+525,Nebula Chews,5,Monday,None,0,49.543127673882154,0
+526,Galaxy Pops,4,Tuesday,Flash Sale,0,75.91308761441879,0
+527,Nebula Chews,6,Sunday,BOGO,0,69.01878312796833,0
+528,Alien Gummies,5,Thursday,None,1,58.15338488987579,0
+529,Nebula Chews,5,Tuesday,None,0,58.04805384581143,0
+530,Nebula Chews,7,Friday,None,0,73.41221321238496,0
+531,Moon Rocks,5,Thursday,BOGO,0,79.44505256577688,0
+532,Moon Rocks,2,Sunday,None,0,70.95394423816442,0
+533,Moon Rocks,2,Wednesday,Lunar Discount,0,71.42071377785918,0
+534,Nebula Chews,2,Tuesday,Lunar Discount,0,62.52258393945964,0
+535,Meteor Mints,3,Tuesday,Flash Sale,1,63.51721274425414,0
+536,Nebula Chews,4,Friday,None,0,58.11294462463154,0
+537,Meteor Mints,4,Sunday,BOGO,0,62.22097522457457,0
+538,Meteor Mints,4,Friday,Lunar Discount,0,78.92013387752496,0
+539,Moon Rocks,4,Saturday,Flash Sale,0,80.59608436650772,0
+540,Galaxy Pops,5,Sunday,None,1,50.86186576290794,0
+541,Alien Gummies,4,Monday,None,0,56.55344987077602,0
+542,Moon Rocks,7,Monday,None,0,59.34402964496213,1
+543,Moon Rocks,3,Monday,BOGO,0,69.03944707350377,0
+544,Galaxy Pops,4,Friday,BOGO,0,44.752707909453946,0
+545,Alien Gummies,4,Monday,Flash Sale,0,56.816394283924886,0
+546,Nebula Chews,3,Sunday,None,1,49.21627730466891,0
+547,Nebula Chews,1,Monday,None,1,76.00723201315175,0
+548,Moon Rocks,3,Wednesday,None,0,69.55487586501603,0
+549,Alien Gummies,9,Monday,None,0,63.06178711836446,0
+550,Moon Rocks,5,Tuesday,None,0,54.05084078847968,0
+551,Meteor Mints,4,Saturday,BOGO,1,63.29355323066208,1
+552,Moon Rocks,5,Friday,BOGO,0,61.52961826363118,0
+553,Moon Rocks,4,Thursday,Flash Sale,0,94.51999828779807,0
+554,Nebula Chews,6,Saturday,None,0,84.95529567372655,0
+555,Nebula Chews,3,Wednesday,None,0,59.6393811110662,0
+556,Nebula Chews,4,Friday,None,1,72.47793011428685,0
+557,Meteor Mints,6,Sunday,Flash Sale,0,84.16312969878993,0
+558,Nebula Chews,4,Friday,None,0,59.63478719055568,0
+559,Alien Gummies,4,Tuesday,Flash Sale,0,48.74333888540095,0
+560,Galaxy Pops,3,Sunday,None,0,43.04712218601064,0
+561,Alien Gummies,3,Saturday,Flash Sale,0,89.08400379871911,0
+562,Alien Gummies,3,Saturday,Flash Sale,0,67.13406427795124,0
+563,Nebula Chews,8,Monday,None,0,74.36987849312048,0
+564,Galaxy Pops,4,Sunday,BOGO,0,61.3864393702141,1
+565,Galaxy Pops,2,Tuesday,None,0,50.98151622265473,0
+566,Galaxy Pops,8,Monday,Flash Sale,0,53.78048762741353,0
+567,Meteor Mints,9,Monday,None,0,49.88447811561087,0
+568,Nebula Chews,7,Friday,None,0,82.74991621703313,0
+569,Galaxy Pops,4,Saturday,Flash Sale,0,92.38841737498075,0
+570,Meteor Mints,5,Monday,Flash Sale,0,70.55865943712534,1
+571,Moon Rocks,2,Wednesday,None,0,47.23301360199402,0
+572,Moon Rocks,3,Wednesday,BOGO,0,77.44876286253412,0
+573,Meteor Mints,3,Saturday,None,1,88.97476997488815,0
+574,Meteor Mints,5,Wednesday,None,0,84.5750015122509,0
+575,Nebula Chews,6,Friday,BOGO,0,69.56303427272509,0
+576,Nebula Chews,1,Tuesday,None,0,66.48276645059676,0
+577,Moon Rocks,2,Thursday,None,0,69.44250518185405,0
+578,Galaxy Pops,5,Monday,Flash Sale,1,88.37873507465073,1
+579,Moon Rocks,1,Thursday,None,0,81.40548141732073,0
+580,Galaxy Pops,6,Tuesday,BOGO,1,64.21364500565046,0
+581,Galaxy Pops,3,Tuesday,None,0,63.83627086314405,0
+582,Nebula Chews,1,Friday,None,1,62.77457426888972,0
+583,Alien Gummies,5,Wednesday,None,1,54.03051049671548,0
+584,Alien Gummies,3,Wednesday,BOGO,1,90.2775735361808,0
+585,Meteor Mints,4,Tuesday,Flash Sale,0,58.18264378380342,0
+586,Nebula Chews,3,Friday,None,0,77.3541409850013,1
+587,Galaxy Pops,5,Friday,None,0,60.07858542523252,1
+588,Alien Gummies,5,Saturday,Lunar Discount,0,62.84164176949957,1
+589,Galaxy Pops,3,Sunday,None,1,68.29178849915543,0
+590,Alien Gummies,8,Monday,Flash Sale,0,78.17863637251311,0
+591,Alien Gummies,5,Sunday,None,1,66.11164177321781,1
+592,Alien Gummies,5,Wednesday,Flash Sale,0,52.911922425740016,1
+593,Nebula Chews,6,Tuesday,None,0,70.28621996618651,0
+594,Moon Rocks,8,Saturday,Flash Sale,0,58.49992301212555,0
+595,Galaxy Pops,3,Thursday,Flash Sale,0,93.15757460371796,0
+596,Nebula Chews,8,Wednesday,None,0,66.10083246291117,0
+597,Nebula Chews,5,Monday,None,0,59.980459928932966,0
+598,Nebula Chews,10,Friday,Flash Sale,1,99.62201199480015,1
+599,Nebula Chews,4,Tuesday,BOGO,0,81.0833455366371,1
+600,Nebula Chews,5,Wednesday,None,0,56.54838829293676,0
+601,Meteor Mints,2,Thursday,None,0,58.136289100050945,0
+602,Galaxy Pops,1,Monday,Flash Sale,0,77.11274471636023,0
+603,Nebula Chews,1,Monday,None,0,70.65214451552347,0
+604,Galaxy Pops,4,Saturday,BOGO,0,83.35263314080711,0
+605,Meteor Mints,2,Wednesday,None,0,60.05985548512625,0
+606,Meteor Mints,5,Thursday,Flash Sale,0,80.51663687197716,0
+607,Galaxy Pops,4,Monday,Lunar Discount,0,36.425674883379344,1
+608,Alien Gummies,5,Tuesday,Lunar Discount,1,67.68337196111843,0
+609,Moon Rocks,5,Monday,None,0,60.74231280983902,0
+610,Alien Gummies,8,Thursday,Flash Sale,0,63.174300689988705,1
+611,Alien Gummies,4,Friday,None,0,68.45688030810882,0
+612,Alien Gummies,3,Friday,BOGO,0,87.07755459390543,0
+613,Nebula Chews,5,Saturday,BOGO,0,52.68940181018429,0
+614,Meteor Mints,1,Wednesday,None,0,37.17935493385,0
+615,Alien Gummies,4,Thursday,Lunar Discount,0,54.4291964333258,0
+616,Meteor Mints,2,Saturday,None,0,85.33653897892239,0
+617,Galaxy Pops,3,Sunday,BOGO,0,45.32512996762638,1
+618,Moon Rocks,9,Monday,Flash Sale,0,61.42078539122685,0
+619,Galaxy Pops,3,Sunday,Flash Sale,0,82.59366062217747,0
+620,Galaxy Pops,2,Monday,None,0,69.12357185118469,0
+621,Nebula Chews,4,Friday,None,0,86.9306008127548,0
+622,Moon Rocks,7,Saturday,Flash Sale,0,39.476567748257445,0
+623,Galaxy Pops,3,Friday,None,0,65.17586368703476,0
+624,Galaxy Pops,6,Tuesday,None,0,90.05765749532499,0
+625,Moon Rocks,2,Sunday,None,0,53.09677530801753,0
+626,Moon Rocks,5,Sunday,None,1,85.5221476508213,0
+627,Galaxy Pops,4,Friday,Flash Sale,0,66.46464425409756,0
+628,Moon Rocks,2,Tuesday,None,0,76.51194137583884,0
+629,Galaxy Pops,3,Monday,BOGO,0,88.96985360533812,1
+630,Galaxy Pops,4,Saturday,None,0,76.44754226572132,0
+631,Nebula Chews,1,Tuesday,None,0,61.131256609459506,0
+632,Alien Gummies,2,Saturday,None,0,78.43094128187842,0
+633,Galaxy Pops,3,Sunday,None,0,60.07300232078492,0
+634,Meteor Mints,4,Saturday,None,1,74.10050279178083,0
+635,Alien Gummies,5,Sunday,BOGO,0,51.22235560862841,0
+636,Alien Gummies,3,Tuesday,None,0,70.43642010118442,0
+637,Alien Gummies,5,Sunday,None,0,87.83939617433147,0
+638,Nebula Chews,4,Wednesday,None,0,65.51845416152412,0
+639,Galaxy Pops,5,Sunday,None,0,86.40535658273967,0
+640,Nebula Chews,4,Friday,Lunar Discount,0,110.0,0
+641,Galaxy Pops,5,Tuesday,BOGO,0,69.56579027783181,0
+642,Nebula Chews,1,Monday,None,0,79.21288234362977,0
+643,Nebula Chews,5,Saturday,None,0,77.15293877323086,0
+644,Meteor Mints,6,Thursday,Lunar Discount,0,73.37655488761118,1
+645,Nebula Chews,3,Tuesday,None,1,81.81844036238344,0
+646,Moon Rocks,8,Friday,Flash Sale,0,66.27857452191006,0
+647,Meteor Mints,7,Sunday,None,0,60.061838495881865,0
+648,Nebula Chews,3,Saturday,Lunar Discount,0,47.10515842854238,0
+649,Alien Gummies,7,Wednesday,Flash Sale,0,64.85862260369757,0
+650,Moon Rocks,6,Monday,BOGO,0,83.52151247703051,0
+651,Moon Rocks,5,Wednesday,None,0,55.903043332103024,0
+652,Moon Rocks,4,Thursday,None,0,73.70016844799136,1
+653,Meteor Mints,4,Tuesday,None,0,68.15335204703604,0
+654,Nebula Chews,3,Saturday,None,0,60.68922815436103,0
+655,Nebula Chews,3,Tuesday,None,0,42.204395053701,0
+656,Alien Gummies,8,Friday,None,0,90.4428204868118,0
+657,Alien Gummies,8,Tuesday,BOGO,0,77.75785795575068,0
+658,Moon Rocks,5,Monday,BOGO,1,109.9793174156389,0
+659,Alien Gummies,4,Thursday,None,0,86.19119520936312,0
+660,Meteor Mints,4,Wednesday,None,1,90.10815967972822,0
+661,Nebula Chews,7,Thursday,Lunar Discount,0,43.75969403464903,0
+662,Moon Rocks,6,Saturday,None,0,43.49746953157661,0
+663,Alien Gummies,3,Tuesday,Flash Sale,0,70.6346809157888,0
+664,Meteor Mints,4,Saturday,None,0,52.77826864778031,0
+665,Meteor Mints,7,Wednesday,None,0,59.780697297339614,0
+666,Alien Gummies,2,Saturday,None,0,107.89396270187453,0
+667,Nebula Chews,3,Friday,None,0,87.84814257522791,0
+668,Alien Gummies,2,Thursday,Flash Sale,1,55.96516686502306,0
+669,Moon Rocks,4,Wednesday,BOGO,0,34.50819229645187,0
+670,Alien Gummies,5,Wednesday,None,0,54.70093992843925,0
+671,Meteor Mints,6,Sunday,Lunar Discount,0,61.64208335591916,0
+672,Alien Gummies,4,Wednesday,None,0,65.18104496109886,0
+673,Nebula Chews,3,Sunday,Lunar Discount,0,50.81430623385069,0
+674,Galaxy Pops,6,Monday,Lunar Discount,0,86.94775888496193,0
+675,Alien Gummies,2,Sunday,None,0,59.3280880921262,0
+676,Nebula Chews,4,Thursday,None,0,79.72866508904065,0
+677,Nebula Chews,3,Saturday,None,0,70.80831132836533,0
+678,Meteor Mints,3,Sunday,BOGO,1,84.07715582629064,0
+679,Nebula Chews,2,Wednesday,BOGO,0,66.43119507335432,0
+680,Nebula Chews,2,Thursday,Lunar Discount,0,56.12520342013045,0
+681,Nebula Chews,7,Sunday,Flash Sale,0,61.02119193847051,0
+682,Nebula Chews,4,Sunday,None,1,61.23272328463293,0
+683,Moon Rocks,2,Wednesday,None,0,100.96825827364351,1
+684,Moon Rocks,7,Friday,BOGO,1,71.14757907758933,0
+685,Meteor Mints,4,Friday,None,1,70.06949222055816,0
+686,Alien Gummies,5,Sunday,Flash Sale,1,83.23039811062824,0
+687,Nebula Chews,1,Friday,None,0,69.99895217868806,1
+688,Alien Gummies,2,Tuesday,None,0,86.82514478971555,0
+689,Alien Gummies,4,Wednesday,None,0,64.41883358948328,0
+690,Meteor Mints,5,Tuesday,Flash Sale,0,62.89540374380966,0
+691,Nebula Chews,3,Thursday,None,0,55.29589755977758,0
+692,Nebula Chews,2,Tuesday,Flash Sale,0,97.75070995076052,0
+693,Galaxy Pops,3,Thursday,None,0,68.95262764351592,0
+694,Alien Gummies,8,Sunday,Flash Sale,0,52.389363105677575,0
+695,Alien Gummies,4,Thursday,BOGO,0,72.95240832968827,0
+696,Moon Rocks,2,Thursday,None,0,60.24919184404839,0
+697,Galaxy Pops,3,Saturday,Flash Sale,0,64.15598152819103,0
+698,Moon Rocks,2,Tuesday,None,0,74.66130147591578,0
+699,Moon Rocks,5,Saturday,None,0,92.8147786038115,0
+700,Moon Rocks,4,Sunday,None,1,71.52378037259561,0
+701,Meteor Mints,4,Wednesday,Flash Sale,0,59.33444844317273,0
+702,Meteor Mints,4,Tuesday,Lunar Discount,0,62.426277365586586,0
+703,Moon Rocks,4,Wednesday,BOGO,0,79.84670780365703,0
+704,Galaxy Pops,5,Wednesday,BOGO,0,40.62488626319589,0
+705,Alien Gummies,1,Thursday,Flash Sale,0,54.35976585555862,0
+706,Galaxy Pops,3,Tuesday,None,0,73.1896911429601,0
+707,Nebula Chews,4,Wednesday,Lunar Discount,0,44.399956339378775,0
+708,Meteor Mints,6,Friday,None,0,65.31223181297705,0
+709,Alien Gummies,4,Wednesday,Lunar Discount,0,62.82602446513726,0
+710,Alien Gummies,6,Friday,Flash Sale,0,83.16172783113501,0
+711,Nebula Chews,6,Tuesday,Flash Sale,0,66.245765003212,0
+712,Nebula Chews,4,Sunday,BOGO,0,87.8003707390457,0
+713,Moon Rocks,3,Saturday,None,0,71.18309534857092,0
+714,Meteor Mints,3,Tuesday,BOGO,0,96.646766962139,0
+715,Meteor Mints,3,Saturday,None,0,49.187665534123425,1
+716,Galaxy Pops,4,Saturday,BOGO,1,94.25690261901966,1
+717,Moon Rocks,2,Tuesday,BOGO,0,63.83309265655916,0
+718,Moon Rocks,4,Wednesday,Flash Sale,0,92.10924551839614,0
+719,Moon Rocks,2,Monday,BOGO,1,87.77852049827746,0
+720,Moon Rocks,1,Wednesday,None,0,30.0,0
+721,Meteor Mints,6,Wednesday,None,0,77.18752315479759,0
+722,Meteor Mints,3,Sunday,BOGO,1,84.96429644211847,0
+723,Moon Rocks,4,Thursday,None,0,89.92889105006675,0
+724,Galaxy Pops,4,Thursday,None,0,52.35044221330866,0
+725,Alien Gummies,7,Wednesday,Flash Sale,0,78.85514345521345,0
+726,Alien Gummies,5,Friday,BOGO,0,72.92610517998592,0
+727,Galaxy Pops,6,Sunday,BOGO,0,76.47113450449487,0
+728,Moon Rocks,4,Saturday,None,1,84.98404729889528,0
+729,Meteor Mints,3,Thursday,Flash Sale,0,87.35064779089652,0
+730,Alien Gummies,4,Wednesday,None,0,60.16385567853293,0
+731,Nebula Chews,6,Sunday,Flash Sale,1,73.98128997769984,0
+732,Nebula Chews,2,Monday,None,0,70.61702975818191,0
+733,Galaxy Pops,3,Friday,Flash Sale,0,66.40971066595517,0
+734,Moon Rocks,5,Tuesday,None,0,67.84337183246438,0
+735,Alien Gummies,3,Wednesday,None,0,72.93980863084956,0
+736,Moon Rocks,4,Sunday,BOGO,0,60.970275962991,0
+737,Alien Gummies,6,Wednesday,BOGO,0,83.2455516779632,0
+738,Galaxy Pops,4,Saturday,None,1,89.03962432437774,0
+739,Galaxy Pops,2,Friday,Flash Sale,1,57.69135166621157,1
+740,Nebula Chews,4,Thursday,None,0,89.77494831908683,0
+741,Moon Rocks,2,Thursday,Lunar Discount,0,57.719598636607884,0
+742,Nebula Chews,3,Thursday,Flash Sale,0,83.46680367534678,0
+743,Moon Rocks,3,Tuesday,None,0,89.74718215885852,1
+744,Nebula Chews,2,Sunday,Flash Sale,0,68.58233955880242,0
+745,Meteor Mints,2,Friday,None,0,57.84253387024332,0
+746,Meteor Mints,3,Friday,None,0,61.169755034325554,0
+747,Meteor Mints,8,Thursday,Lunar Discount,0,75.42785298473285,1
+748,Meteor Mints,4,Thursday,BOGO,0,99.46981618614947,0
+749,Alien Gummies,4,Saturday,None,0,44.60900738444935,0
+750,Meteor Mints,4,Monday,None,0,71.50362947217967,0
+751,Galaxy Pops,5,Monday,None,0,68.67891776354482,0
+752,Galaxy Pops,2,Wednesday,Lunar Discount,0,63.15217357347836,0
+753,Alien Gummies,5,Wednesday,None,0,68.78827087407078,0
+754,Meteor Mints,3,Friday,None,0,61.86704767226384,0
+755,Meteor Mints,3,Friday,None,0,88.64733117793611,0
+756,Meteor Mints,1,Tuesday,None,0,90.13740710000087,1
+757,Nebula Chews,2,Tuesday,None,0,71.32202906720534,0
+758,Moon Rocks,3,Monday,None,0,67.88282479770564,0
+759,Nebula Chews,3,Wednesday,None,0,62.60444991059403,0
+760,Moon Rocks,6,Monday,None,0,71.35422006629015,0
+761,Meteor Mints,5,Monday,Lunar Discount,1,97.71746543301438,1
+762,Meteor Mints,3,Wednesday,None,0,68.44398645697963,1
+763,Nebula Chews,3,Sunday,Flash Sale,1,57.40851402960611,0
+764,Nebula Chews,4,Tuesday,Flash Sale,0,64.03357162979724,1
+765,Moon Rocks,6,Saturday,Flash Sale,0,81.3020494265332,0
+766,Galaxy Pops,2,Saturday,Flash Sale,0,59.23394943928592,0
+767,Moon Rocks,3,Saturday,None,0,69.49440858006214,0
+768,Nebula Chews,4,Wednesday,None,0,77.0932470274411,0
+769,Nebula Chews,1,Thursday,None,0,60.3720571592046,0
+770,Alien Gummies,3,Thursday,None,0,43.53391418852422,0
+771,Nebula Chews,6,Thursday,Flash Sale,0,53.929218042203466,1
+772,Alien Gummies,3,Friday,BOGO,0,57.11850236690539,0
+773,Galaxy Pops,4,Tuesday,Flash Sale,0,66.56759041215038,0
+774,Moon Rocks,3,Tuesday,None,0,70.66449492092916,0
+775,Moon Rocks,1,Sunday,Lunar Discount,0,82.35551946065667,0
+776,Alien Gummies,8,Sunday,None,0,51.591159870029394,1
+777,Moon Rocks,6,Friday,None,1,80.17430306060763,1
+778,Nebula Chews,1,Monday,None,0,64.43614733275298,0
+779,Meteor Mints,4,Sunday,Flash Sale,0,43.216790516772285,0
+780,Alien Gummies,9,Saturday,None,0,70.20360489076307,0
+781,Moon Rocks,5,Thursday,Lunar Discount,0,89.74401327249953,0
+782,Alien Gummies,4,Saturday,Lunar Discount,0,83.24671827487724,0
+783,Alien Gummies,3,Thursday,Flash Sale,1,68.85594383466899,0
+784,Meteor Mints,5,Saturday,None,0,86.88655924193125,0
+785,Nebula Chews,6,Monday,Flash Sale,0,72.88334020820957,0
+786,Alien Gummies,4,Saturday,Flash Sale,1,84.71783241733658,0
+787,Moon Rocks,1,Saturday,None,1,45.07596497546797,0
+788,Galaxy Pops,3,Wednesday,None,0,51.25490777109603,0
+789,Alien Gummies,5,Saturday,None,0,80.9355397835908,0
+790,Alien Gummies,6,Wednesday,None,0,93.08923741517235,0
+791,Meteor Mints,3,Tuesday,BOGO,0,76.25943596368758,0
+792,Nebula Chews,4,Friday,Lunar Discount,0,62.53994689936297,0
+793,Galaxy Pops,2,Saturday,None,0,57.24226212140066,0
+794,Moon Rocks,5,Tuesday,BOGO,1,65.27027254607788,0
+795,Galaxy Pops,6,Sunday,Lunar Discount,0,88.20455487575147,0
+796,Moon Rocks,3,Sunday,None,0,64.86209442568908,0
+797,Nebula Chews,5,Wednesday,Flash Sale,0,85.71641862081128,0
+798,Moon Rocks,6,Saturday,BOGO,0,79.78859688181818,0
+799,Meteor Mints,3,Saturday,BOGO,0,95.70888700640491,0
+800,Meteor Mints,3,Monday,None,1,73.00392807304762,0
+801,Meteor Mints,7,Tuesday,BOGO,0,69.25605458226939,0
+802,Meteor Mints,1,Thursday,None,0,86.46508158520402,1
+803,Galaxy Pops,4,Thursday,Flash Sale,0,55.97105807052972,0
+804,Nebula Chews,4,Monday,None,0,63.33974534333594,0
+805,Moon Rocks,5,Wednesday,Flash Sale,0,44.799928817052276,1
+806,Moon Rocks,11,Thursday,None,0,51.18513161428007,0
+807,Meteor Mints,6,Thursday,None,0,98.85057819594715,0
+808,Meteor Mints,5,Sunday,BOGO,0,80.3847186046105,0
+809,Alien Gummies,4,Sunday,None,0,49.43947625540598,0
+810,Nebula Chews,2,Friday,Flash Sale,0,87.92243491940582,0
+811,Galaxy Pops,3,Tuesday,Lunar Discount,0,59.44453680706985,0
+812,Moon Rocks,5,Wednesday,Flash Sale,0,79.61425912500096,0
+813,Alien Gummies,5,Saturday,None,0,79.39020406593507,0
+814,Alien Gummies,3,Tuesday,BOGO,0,94.97486050124049,0
+815,Moon Rocks,2,Wednesday,BOGO,0,61.93405374249318,0
+816,Galaxy Pops,3,Thursday,Flash Sale,0,58.89655919229948,0
+817,Alien Gummies,3,Friday,None,0,30.0,0
+818,Alien Gummies,2,Tuesday,None,1,68.17340309960242,0
+819,Nebula Chews,4,Thursday,BOGO,0,80.8799474797635,0
+820,Galaxy Pops,2,Wednesday,None,0,82.9296075290421,0
+821,Alien Gummies,2,Tuesday,None,0,88.78599069443138,0
+822,Galaxy Pops,5,Saturday,None,1,74.3470861299759,0
+823,Moon Rocks,5,Tuesday,Flash Sale,0,77.5717167735875,0
+824,Meteor Mints,4,Thursday,Lunar Discount,0,71.02180661070422,0
+825,Alien Gummies,3,Tuesday,BOGO,1,80.61182253329352,0
+826,Nebula Chews,5,Saturday,None,1,55.98636464350015,0
+827,Moon Rocks,5,Friday,None,0,48.87302753627122,0
+828,Galaxy Pops,6,Friday,Lunar Discount,0,57.568929858380756,0
+829,Moon Rocks,5,Thursday,Lunar Discount,0,73.20435576379985,0
+830,Alien Gummies,2,Wednesday,Lunar Discount,0,50.49363001292129,0
+831,Galaxy Pops,3,Thursday,Flash Sale,0,60.50133760593718,1
+832,Meteor Mints,2,Friday,None,0,60.980585754472514,0
+833,Moon Rocks,2,Monday,Flash Sale,0,81.72731816448184,0
+834,Alien Gummies,5,Monday,None,0,79.90143190795568,0
+835,Nebula Chews,3,Tuesday,None,0,71.05729138388375,0
+836,Galaxy Pops,3,Saturday,Flash Sale,1,76.76597322456335,0
+837,Moon Rocks,4,Sunday,None,0,77.06185665950456,0
+838,Moon Rocks,1,Sunday,None,0,64.54570664300543,0
+839,Meteor Mints,3,Sunday,None,0,61.86251040418407,0
+840,Meteor Mints,2,Tuesday,None,1,93.05029623433556,0
+841,Nebula Chews,2,Monday,Flash Sale,0,32.66308292796514,0
+842,Nebula Chews,7,Friday,None,0,58.88044946594121,0
+843,Alien Gummies,2,Tuesday,None,0,66.94326217885141,0
+844,Alien Gummies,3,Sunday,None,0,78.3992714097902,0
+845,Nebula Chews,6,Sunday,None,1,87.03259789154788,0
+846,Nebula Chews,3,Thursday,None,0,97.8509740628222,0
+847,Galaxy Pops,1,Sunday,BOGO,0,68.62433975694805,1
+848,Meteor Mints,5,Saturday,None,0,69.6289656296525,0
+849,Alien Gummies,6,Sunday,Flash Sale,0,75.43915090922769,0
+850,Meteor Mints,4,Thursday,Lunar Discount,0,62.03318592506617,0
+851,Meteor Mints,7,Sunday,BOGO,0,52.23644091916187,0
+852,Nebula Chews,2,Saturday,None,0,68.55624300603972,1
+853,Galaxy Pops,2,Friday,None,0,81.18058438002697,1
+854,Moon Rocks,3,Tuesday,Flash Sale,0,66.35614830735278,0
+855,Galaxy Pops,3,Saturday,BOGO,0,76.20153083077139,0
+856,Galaxy Pops,5,Thursday,Flash Sale,0,41.967740306926956,0
+857,Meteor Mints,1,Tuesday,Flash Sale,0,70.27606935129188,0
+858,Galaxy Pops,2,Tuesday,Lunar Discount,0,63.94830113928512,0
+859,Alien Gummies,5,Thursday,Lunar Discount,0,50.87314366763222,0
+860,Meteor Mints,2,Monday,BOGO,1,79.85818755377271,0
+861,Alien Gummies,4,Sunday,None,0,97.68468353911473,0
+862,Moon Rocks,5,Saturday,Lunar Discount,0,84.84938388521329,1
+863,Meteor Mints,7,Thursday,BOGO,1,85.8062350821766,0
+864,Moon Rocks,3,Friday,None,1,80.68715551925206,0
+865,Meteor Mints,3,Wednesday,BOGO,1,79.6967717446933,0
+866,Nebula Chews,4,Thursday,BOGO,0,43.00852096636726,0
+867,Galaxy Pops,5,Sunday,Flash Sale,0,68.08073574892016,0
+868,Nebula Chews,4,Sunday,BOGO,0,77.630046499688,0
+869,Moon Rocks,4,Tuesday,None,0,77.97107171801301,0
+870,Galaxy Pops,4,Tuesday,Lunar Discount,0,89.07559283904557,0
+871,Meteor Mints,3,Thursday,Flash Sale,1,54.514035255502314,0
+872,Galaxy Pops,6,Wednesday,BOGO,0,79.10907423111549,0
+873,Alien Gummies,3,Thursday,None,0,54.0243849401108,0
+874,Galaxy Pops,2,Wednesday,None,1,66.8245061524141,0
+875,Alien Gummies,4,Wednesday,BOGO,0,69.07055489147086,0
+876,Galaxy Pops,5,Sunday,None,0,82.93856371073427,0
+877,Alien Gummies,3,Sunday,None,0,81.17430082600517,0
+878,Moon Rocks,3,Sunday,Flash Sale,0,71.80495881567458,0
+879,Nebula Chews,3,Friday,None,0,37.71943718168936,0
+880,Meteor Mints,4,Sunday,None,1,76.67250599488081,0
+881,Galaxy Pops,2,Saturday,None,1,65.98485284441819,0
+882,Nebula Chews,3,Tuesday,None,1,90.8770883742865,0
+883,Meteor Mints,1,Tuesday,Flash Sale,0,87.30240316510553,0
+884,Meteor Mints,3,Wednesday,None,1,55.92965639641513,0
+885,Alien Gummies,3,Tuesday,None,0,78.73261358485878,0
+886,Moon Rocks,3,Monday,BOGO,0,79.02865909240606,0
+887,Moon Rocks,5,Wednesday,Lunar Discount,0,77.93775369425389,0
+888,Nebula Chews,3,Tuesday,BOGO,0,75.99371612118398,0
+889,Moon Rocks,4,Monday,None,0,79.45231879702375,0
+890,Galaxy Pops,3,Friday,None,0,92.52228723360994,1
+891,Moon Rocks,6,Tuesday,Flash Sale,0,61.729295001601955,0
+892,Nebula Chews,1,Monday,None,0,56.4128556511432,0
+893,Moon Rocks,5,Thursday,BOGO,0,81.74072703258256,0
+894,Galaxy Pops,3,Saturday,None,0,41.749568580532625,1
+895,Alien Gummies,7,Thursday,None,0,79.81035790844305,1
+896,Nebula Chews,3,Monday,Flash Sale,0,77.15408452813071,0
+897,Alien Gummies,3,Wednesday,Flash Sale,0,34.81746214581664,0
+898,Alien Gummies,2,Sunday,BOGO,0,60.45495010584452,1
+899,Alien Gummies,2,Sunday,None,0,93.63961788411976,0
+900,Meteor Mints,3,Sunday,None,0,48.1423520392609,0
+901,Meteor Mints,2,Wednesday,BOGO,1,73.18887422424143,0
+902,Alien Gummies,6,Tuesday,BOGO,0,54.92642050009323,0
+903,Nebula Chews,4,Sunday,None,0,59.36580543907351,0
+904,Galaxy Pops,3,Thursday,None,0,98.74478230641007,0
+905,Galaxy Pops,4,Wednesday,None,0,71.85166518679209,0
+906,Moon Rocks,3,Wednesday,Lunar Discount,0,77.75426032844385,0
+907,Nebula Chews,3,Sunday,Flash Sale,0,68.31303135360228,0
+908,Meteor Mints,2,Thursday,Lunar Discount,0,47.273000288535655,0
+909,Alien Gummies,8,Friday,None,1,52.226151896535086,0
+910,Moon Rocks,3,Wednesday,Lunar Discount,0,87.67645488463349,0
+911,Galaxy Pops,5,Sunday,None,0,72.29338222518602,0
+912,Meteor Mints,7,Saturday,BOGO,0,58.44567466065273,0
+913,Meteor Mints,4,Monday,Flash Sale,0,69.6692229811471,0
+914,Alien Gummies,2,Tuesday,None,1,79.92396944925923,0
+915,Galaxy Pops,3,Wednesday,None,0,76.81733271374969,0
+916,Nebula Chews,2,Saturday,None,0,58.45316199676232,0
+917,Meteor Mints,1,Saturday,None,0,46.3704508159427,0
+918,Alien Gummies,2,Wednesday,BOGO,0,63.894301851676815,0
+919,Nebula Chews,5,Friday,BOGO,0,86.6357295390506,0
+920,Galaxy Pops,5,Monday,Flash Sale,0,82.81565447660816,0
+921,Meteor Mints,7,Tuesday,BOGO,1,76.15604897387743,0
+922,Nebula Chews,2,Wednesday,BOGO,1,67.43679382800833,0
+923,Nebula Chews,6,Tuesday,None,0,62.24879856909074,0
+924,Nebula Chews,8,Thursday,None,0,67.7150739331846,0
+925,Meteor Mints,3,Saturday,Lunar Discount,0,81.72657496453182,0
+926,Meteor Mints,3,Saturday,None,1,85.15285918353642,0
+927,Moon Rocks,2,Wednesday,BOGO,0,66.07319852616598,0
+928,Galaxy Pops,4,Wednesday,None,0,108.04346964291389,0
+929,Alien Gummies,5,Thursday,Flash Sale,0,71.38605663665584,0
+930,Nebula Chews,4,Friday,Flash Sale,0,64.79566825097648,0
+931,Moon Rocks,3,Wednesday,None,0,92.13504157914326,0
+932,Alien Gummies,3,Saturday,None,0,39.425552053565866,0
+933,Moon Rocks,3,Tuesday,BOGO,1,77.20050541848033,0
+934,Meteor Mints,5,Monday,None,0,68.90802411050055,1
+935,Nebula Chews,7,Sunday,None,0,91.72276479807037,0
+936,Alien Gummies,2,Tuesday,Flash Sale,0,79.07385037975288,0
+937,Alien Gummies,6,Friday,None,0,72.08653254762487,0
+938,Alien Gummies,1,Monday,Flash Sale,0,79.93950696319823,0
+939,Alien Gummies,5,Tuesday,BOGO,0,54.16626531818872,0
+940,Alien Gummies,5,Tuesday,None,0,84.50229751718288,0
+941,Moon Rocks,6,Thursday,BOGO,1,49.831213644797934,0
+942,Nebula Chews,2,Sunday,BOGO,0,75.37746071221547,0
+943,Meteor Mints,6,Friday,None,0,70.53421511629037,0
+944,Meteor Mints,3,Saturday,None,0,43.55418135442862,0
+945,Meteor Mints,3,Thursday,None,0,71.03413087144074,0
+946,Meteor Mints,7,Monday,None,1,74.22980127559447,0
+947,Moon Rocks,2,Sunday,None,0,60.17686039063314,0
+948,Galaxy Pops,4,Saturday,None,0,54.81367001736088,0
+949,Nebula Chews,6,Thursday,None,0,77.38266105142596,0
+950,Alien Gummies,4,Sunday,BOGO,0,75.43472501741215,1
+951,Galaxy Pops,1,Friday,BOGO,0,73.40228633881065,1
+952,Meteor Mints,5,Wednesday,BOGO,0,70.13262658532325,0
+953,Galaxy Pops,3,Wednesday,Flash Sale,0,61.50155474536605,0
+954,Nebula Chews,2,Monday,Flash Sale,0,104.08272178997153,0
+955,Alien Gummies,7,Wednesday,BOGO,0,65.52503739627868,0
+956,Alien Gummies,6,Thursday,BOGO,0,57.02329954796825,0
+957,Nebula Chews,5,Monday,None,0,70.816409128152,0
+958,Nebula Chews,2,Saturday,Flash Sale,0,67.28588430533324,0
+959,Meteor Mints,3,Friday,None,0,65.17730787375264,0
+960,Alien Gummies,3,Monday,None,0,98.11414135908979,0
+961,Galaxy Pops,3,Saturday,Flash Sale,0,53.05378272993089,0
+962,Moon Rocks,3,Monday,None,0,70.56155603190558,0
+963,Moon Rocks,1,Tuesday,None,0,54.059904626072324,0
+964,Nebula Chews,9,Tuesday,BOGO,0,61.884628429059575,0
+965,Meteor Mints,5,Monday,BOGO,0,96.04173924842547,0
+966,Moon Rocks,3,Sunday,Flash Sale,0,74.22167583582839,0
+967,Alien Gummies,4,Wednesday,Flash Sale,1,74.04055892782577,0
+968,Nebula Chews,5,Tuesday,None,0,55.90778157808219,0
+969,Galaxy Pops,4,Sunday,None,0,63.63067661924827,0
+970,Nebula Chews,6,Sunday,BOGO,0,97.34682282337755,0
+971,Galaxy Pops,7,Friday,None,0,77.49043369655367,0
+972,Nebula Chews,10,Saturday,BOGO,0,64.90427722535642,0
+973,Nebula Chews,5,Thursday,None,0,76.60910885454909,0
+974,Nebula Chews,6,Tuesday,None,0,74.01495794816813,0
+975,Galaxy Pops,4,Monday,BOGO,1,57.40840519222185,0
+976,Galaxy Pops,3,Wednesday,BOGO,0,64.4678762721689,1
+977,Nebula Chews,2,Thursday,BOGO,0,103.81804153161798,0
+978,Moon Rocks,4,Saturday,None,0,75.88003875169962,0
+979,Meteor Mints,3,Sunday,None,0,46.46436983035686,0
+980,Meteor Mints,4,Saturday,None,0,77.65315222369617,0
+981,Meteor Mints,4,Tuesday,None,0,89.5463240954192,0
+982,Galaxy Pops,5,Saturday,None,0,56.43432729770909,0
+983,Galaxy Pops,2,Saturday,None,0,63.147365549747796,1
+984,Moon Rocks,5,Wednesday,BOGO,0,91.80656432437777,0
+985,Meteor Mints,3,Sunday,None,1,70.52368703239345,0
+986,Meteor Mints,4,Wednesday,BOGO,0,67.85682665813066,0
+987,Nebula Chews,3,Wednesday,Flash Sale,1,49.95912955182281,0
+988,Galaxy Pops,3,Monday,None,0,86.05849462721301,0
+989,Meteor Mints,5,Saturday,None,0,67.1729644487406,0
+990,Moon Rocks,5,Saturday,None,0,37.43525597264846,0
+991,Moon Rocks,8,Saturday,BOGO,0,46.41043727850619,0
+992,Meteor Mints,1,Friday,None,0,61.57629077225953,0
+993,Galaxy Pops,3,Wednesday,None,0,53.90736560256047,0
+994,Moon Rocks,2,Thursday,BOGO,1,56.26057369450032,0
+995,Nebula Chews,6,Tuesday,None,0,105.17004842955146,1
+996,Moon Rocks,3,Sunday,BOGO,0,80.61284520499156,0
+997,Alien Gummies,1,Thursday,BOGO,0,31.339824655084854,0
+998,Alien Gummies,2,Sunday,Flash Sale,0,65.28517133169247,0
+999,Galaxy Pops,5,Monday,None,0,68.65759888969198,0
+1000,Meteor Mints,7,Monday,Flash Sale,0,47.84599099095048,0
+1001,Galaxy Pops,2,Sunday,Flash Sale,0,78.01579458303914,1
+1002,Galaxy Pops,3,Saturday,None,0,39.37916012290122,0
+1003,Galaxy Pops,5,Thursday,None,1,86.45420436655556,0
+1004,Galaxy Pops,6,Saturday,None,0,91.62294972584326,0
+1005,Nebula Chews,3,Friday,Flash Sale,1,105.28877618435504,0
+1006,Nebula Chews,4,Monday,Flash Sale,0,46.385061186506306,0
+1007,Moon Rocks,5,Monday,BOGO,0,49.43653962249796,0
+1008,Alien Gummies,5,Thursday,Flash Sale,1,80.39008051379096,1
+1009,Galaxy Pops,3,Monday,None,0,87.74020082598966,0
+1010,Moon Rocks,7,Friday,None,1,82.13428992037858,0
+1011,Alien Gummies,4,Friday,Lunar Discount,0,86.19575510791391,0
+1012,Meteor Mints,2,Friday,Flash Sale,0,90.65241042947551,0
+1013,Nebula Chews,5,Tuesday,None,0,73.03375593293849,0
+1014,Alien Gummies,2,Friday,Flash Sale,0,66.8117512986911,0
+1015,Meteor Mints,5,Friday,Lunar Discount,0,49.477341881118946,0
+1016,Alien Gummies,3,Tuesday,Flash Sale,0,65.52841892176302,0
+1017,Nebula Chews,3,Saturday,Flash Sale,0,67.82667396503656,0
+1018,Nebula Chews,3,Wednesday,Flash Sale,1,55.75473140013617,0
+1019,Moon Rocks,4,Monday,None,0,69.42663698264404,0
+1020,Galaxy Pops,7,Friday,Flash Sale,0,54.064315493807754,0
+1021,Alien Gummies,3,Monday,None,0,86.69998504520754,0
+1022,Alien Gummies,5,Thursday,Flash Sale,0,76.3873670376874,0
+1023,Meteor Mints,2,Monday,None,1,63.10594466742529,0
+1024,Nebula Chews,1,Sunday,BOGO,0,72.83260911739127,0
+1025,Alien Gummies,2,Saturday,None,0,53.423653564627756,0
+1026,Nebula Chews,4,Tuesday,None,0,54.94460855321105,0
+1027,Alien Gummies,4,Monday,None,0,60.49218042584166,0
+1028,Moon Rocks,4,Monday,Lunar Discount,1,67.12107894386348,0
+1029,Galaxy Pops,5,Monday,Lunar Discount,0,72.11802718733536,0
+1030,Alien Gummies,5,Wednesday,None,1,72.17734550344008,0
+1031,Nebula Chews,4,Wednesday,Lunar Discount,0,50.2183350025405,0
+1032,Moon Rocks,5,Thursday,Flash Sale,1,68.78906675661763,1
+1033,Alien Gummies,4,Tuesday,BOGO,0,57.72917019127668,0
+1034,Meteor Mints,6,Monday,None,1,30.0,0
+1035,Galaxy Pops,5,Monday,Lunar Discount,1,110.0,0
+1036,Alien Gummies,2,Monday,BOGO,1,58.02023911070633,1
+1037,Moon Rocks,2,Monday,Flash Sale,0,58.85271768782792,0
+1038,Meteor Mints,2,Wednesday,Flash Sale,0,49.80345816459112,0
+1039,Moon Rocks,3,Saturday,Flash Sale,0,54.13760567954239,0
+1040,Moon Rocks,3,Saturday,BOGO,0,67.16991527628825,0
+1041,Meteor Mints,5,Thursday,None,0,90.27719986180043,0
+1042,Moon Rocks,3,Sunday,None,0,67.0847699267848,0
+1043,Meteor Mints,4,Friday,None,0,65.14656536147987,0
+1044,Alien Gummies,5,Tuesday,None,0,88.00410965532082,1
+1045,Meteor Mints,5,Saturday,BOGO,0,62.134052041973746,0
+1046,Meteor Mints,5,Sunday,BOGO,0,70.31724093363499,0
+1047,Galaxy Pops,6,Monday,Flash Sale,0,56.17644902180528,0
+1048,Meteor Mints,4,Saturday,None,0,95.27700251428854,0
+1049,Meteor Mints,7,Thursday,BOGO,0,85.72765360053769,0
+1050,Alien Gummies,3,Friday,None,0,67.7051894569995,0
+1051,Galaxy Pops,5,Saturday,None,1,64.0083507719391,0
+1052,Nebula Chews,4,Thursday,None,1,69.52240815044892,0
+1053,Alien Gummies,3,Wednesday,Flash Sale,1,67.92426132083799,0
+1054,Alien Gummies,6,Friday,None,1,46.797705020159896,0
+1055,Nebula Chews,3,Thursday,Flash Sale,0,86.24001177138061,0
+1056,Meteor Mints,2,Sunday,None,0,66.59293329633421,0
+1057,Moon Rocks,3,Saturday,Flash Sale,0,98.47510564069218,0
+1058,Galaxy Pops,3,Wednesday,Flash Sale,0,76.32723566143873,0
+1059,Moon Rocks,7,Sunday,Lunar Discount,0,32.183700248054606,0
+1060,Nebula Chews,3,Thursday,Flash Sale,0,50.77564825226424,0
+1061,Alien Gummies,4,Thursday,Lunar Discount,0,37.80917339922608,0
+1062,Alien Gummies,4,Sunday,Flash Sale,0,50.589279185216526,0
+1063,Galaxy Pops,5,Saturday,BOGO,0,45.49597488715929,0
+1064,Alien Gummies,3,Friday,None,0,73.7885123557276,0
+1065,Alien Gummies,3,Wednesday,None,0,65.25871987590587,0
+1066,Galaxy Pops,4,Monday,None,0,81.10809877043334,0
+1067,Galaxy Pops,5,Tuesday,BOGO,0,69.42850625989058,0
+1068,Nebula Chews,6,Friday,BOGO,0,66.39536397782747,0
+1069,Alien Gummies,7,Wednesday,Flash Sale,1,100.04810423904016,0
+1070,Alien Gummies,1,Sunday,Lunar Discount,0,73.34233950787754,0
+1071,Nebula Chews,4,Thursday,None,0,68.79232723746138,0
+1072,Meteor Mints,3,Sunday,BOGO,0,57.19838619897935,0
+1073,Meteor Mints,6,Wednesday,Lunar Discount,0,52.36129726495559,0
+1074,Meteor Mints,5,Sunday,None,0,81.55751527588151,0
+1075,Nebula Chews,2,Sunday,Flash Sale,0,80.66043996752289,0
+1076,Alien Gummies,2,Tuesday,None,0,93.573681084235,0
+1077,Nebula Chews,3,Saturday,BOGO,1,77.18367389954223,1
+1078,Nebula Chews,3,Tuesday,None,1,64.10345743840682,0
+1079,Meteor Mints,3,Monday,Flash Sale,0,77.66515418155475,0
+1080,Moon Rocks,4,Monday,BOGO,0,68.79549096694089,0
+1081,Alien Gummies,1,Tuesday,None,0,82.98077701110655,0
+1082,Meteor Mints,1,Friday,None,0,90.01497740278066,1
+1083,Moon Rocks,4,Friday,None,0,67.47165480424319,0
+1084,Moon Rocks,3,Sunday,Lunar Discount,0,96.35964459722109,0
+1085,Galaxy Pops,6,Sunday,Flash Sale,0,87.8252090143228,0
+1086,Alien Gummies,5,Thursday,None,0,70.26526509146606,1
+1087,Moon Rocks,2,Monday,None,0,80.06114912586908,0
+1088,Meteor Mints,5,Thursday,BOGO,0,74.58245330470275,0
+1089,Galaxy Pops,7,Monday,Flash Sale,0,70.3299098920644,0
+1090,Alien Gummies,3,Tuesday,Flash Sale,1,98.69717584709515,0
+1091,Nebula Chews,2,Friday,None,0,77.76406691486036,0
+1092,Meteor Mints,5,Sunday,Flash Sale,0,57.3854745905341,0
+1093,Moon Rocks,7,Friday,BOGO,0,54.58045484607087,0
+1094,Moon Rocks,3,Tuesday,Lunar Discount,0,55.19354619321659,0
+1095,Meteor Mints,6,Thursday,Lunar Discount,1,77.3425675137726,0
+1096,Moon Rocks,3,Thursday,Flash Sale,0,64.87729491521414,0
+1097,Galaxy Pops,2,Wednesday,Flash Sale,0,74.99940574919167,0
+1098,Alien Gummies,2,Sunday,None,0,84.04594427442059,0
+1099,Galaxy Pops,2,Sunday,Flash Sale,0,100.43070295648432,0
+1100,Moon Rocks,2,Sunday,None,0,65.22290149467464,0
+1101,Nebula Chews,3,Monday,None,0,48.87174089000155,0
+1102,Alien Gummies,3,Thursday,None,0,96.8860309799609,0
+1103,Alien Gummies,2,Tuesday,Flash Sale,0,48.143487665213925,0
+1104,Meteor Mints,2,Thursday,None,0,47.55356938816312,0
+1105,Meteor Mints,4,Friday,None,1,96.49675389950347,0
+1106,Nebula Chews,4,Monday,None,0,85.99347291606219,0
+1107,Alien Gummies,2,Sunday,None,0,77.27260511839273,0
+1108,Nebula Chews,4,Saturday,None,0,69.25118503819789,1
+1109,Meteor Mints,5,Wednesday,Flash Sale,0,66.41193973907119,0
+1110,Meteor Mints,4,Monday,Flash Sale,0,60.23760962508492,0
+1111,Alien Gummies,4,Friday,None,0,65.75435238586876,0
+1112,Galaxy Pops,6,Sunday,Flash Sale,0,69.28876928453917,0
+1113,Moon Rocks,3,Friday,Flash Sale,0,49.38325162090867,0
+1114,Meteor Mints,2,Friday,None,0,57.69657226041316,0
+1115,Meteor Mints,2,Sunday,Flash Sale,0,38.32122626703706,0
+1116,Galaxy Pops,4,Friday,Lunar Discount,0,71.1689117815047,0
+1117,Galaxy Pops,3,Tuesday,None,0,71.1715180162649,0
+1118,Nebula Chews,7,Wednesday,None,0,96.6777315439777,0
+1119,Nebula Chews,1,Saturday,Lunar Discount,0,75.63332383048838,0
+1120,Moon Rocks,4,Friday,BOGO,1,61.65936899626933,1
+1121,Moon Rocks,5,Friday,None,0,66.99467497450401,0
+1122,Alien Gummies,6,Thursday,BOGO,0,77.30233468766653,0
+1123,Nebula Chews,2,Wednesday,BOGO,0,73.41418939817503,0
+1124,Meteor Mints,3,Monday,Flash Sale,0,78.67428878817397,0
+1125,Nebula Chews,3,Wednesday,BOGO,0,75.65567160306902,0
+1126,Meteor Mints,3,Wednesday,None,0,66.21033602214999,0
+1127,Galaxy Pops,5,Sunday,BOGO,0,61.96310063390501,0
+1128,Nebula Chews,4,Sunday,BOGO,0,61.156566940600506,0
+1129,Galaxy Pops,3,Sunday,None,0,56.120930730669116,0
+1130,Moon Rocks,2,Saturday,BOGO,0,53.76821074338211,0
+1131,Moon Rocks,3,Wednesday,Flash Sale,0,97.57695896293713,0
+1132,Alien Gummies,5,Saturday,None,0,71.87065227469084,1
+1133,Nebula Chews,4,Friday,BOGO,0,67.67047823337498,0
+1134,Galaxy Pops,5,Sunday,None,0,62.561735257406404,0
+1135,Meteor Mints,3,Friday,None,0,76.43318663996399,1
+1136,Moon Rocks,4,Sunday,None,0,88.0549582908411,0
+1137,Moon Rocks,1,Tuesday,None,0,80.84896714383609,0
+1138,Meteor Mints,4,Saturday,Flash Sale,0,83.82383630967266,0
+1139,Galaxy Pops,4,Saturday,None,0,61.20206826724032,1
+1140,Galaxy Pops,4,Monday,Flash Sale,0,69.93806137324931,0
+1141,Nebula Chews,2,Thursday,None,1,61.39932832211561,0
+1142,Nebula Chews,4,Wednesday,Lunar Discount,0,71.60547098204863,0
+1143,Alien Gummies,2,Monday,BOGO,0,89.08886512087315,0
+1144,Moon Rocks,5,Saturday,Flash Sale,0,76.59105767355763,1
+1145,Nebula Chews,1,Monday,None,0,94.40071548994078,0
+1146,Galaxy Pops,5,Tuesday,None,0,65.67214584324788,0
+1147,Meteor Mints,4,Thursday,None,0,57.8955841897443,0
+1148,Galaxy Pops,3,Saturday,Lunar Discount,0,77.68192730041419,0
+1149,Moon Rocks,3,Saturday,None,0,71.78287544834228,0
+1150,Galaxy Pops,5,Wednesday,BOGO,0,74.84053379747002,1
+1151,Alien Gummies,4,Sunday,Flash Sale,0,72.59830244449748,0
+1152,Moon Rocks,4,Thursday,None,0,62.73348439972786,0
+1153,Meteor Mints,4,Tuesday,Flash Sale,0,72.93604071655,0
+1154,Alien Gummies,8,Friday,BOGO,0,84.60055803743757,0
+1155,Moon Rocks,7,Monday,Flash Sale,0,86.14161561852931,1
+1156,Meteor Mints,3,Wednesday,None,0,62.657251012219426,0
+1157,Alien Gummies,1,Saturday,None,0,73.46508897595727,0
+1158,Alien Gummies,4,Friday,None,0,92.15666624322381,0
+1159,Moon Rocks,5,Tuesday,Flash Sale,0,62.98163876410713,0
+1160,Nebula Chews,2,Thursday,BOGO,0,60.25830400851173,0
+1161,Alien Gummies,2,Monday,None,0,81.91604445953305,0
+1162,Alien Gummies,7,Wednesday,Lunar Discount,1,79.28438810470718,1
+1163,Meteor Mints,9,Saturday,None,0,57.44535877401833,0
+1164,Galaxy Pops,2,Saturday,Flash Sale,0,49.00809104563733,0
+1165,Moon Rocks,3,Friday,Lunar Discount,0,73.1733415344452,0
+1166,Moon Rocks,5,Friday,Flash Sale,0,63.7210435320261,0
+1167,Nebula Chews,5,Monday,Flash Sale,0,44.7388561805738,0
+1168,Nebula Chews,5,Thursday,None,0,59.69196214227303,0
+1169,Moon Rocks,3,Tuesday,None,0,79.03914722551863,0
+1170,Nebula Chews,6,Sunday,Flash Sale,0,67.72883933633508,0
+1171,Meteor Mints,6,Thursday,None,0,93.49156067527991,0
+1172,Moon Rocks,3,Thursday,None,0,38.69143884371891,1
+1173,Nebula Chews,3,Thursday,Flash Sale,0,90.06988557230723,0
+1174,Moon Rocks,7,Sunday,None,0,64.84144930350718,0
+1175,Galaxy Pops,8,Monday,Lunar Discount,0,62.6736799606543,0
+1176,Alien Gummies,3,Sunday,Flash Sale,0,46.732092450276205,0
+1177,Moon Rocks,4,Monday,Flash Sale,0,76.97622773714139,0
+1178,Alien Gummies,3,Sunday,Flash Sale,0,42.59857009009639,0
+1179,Nebula Chews,7,Tuesday,Flash Sale,0,82.26855466896876,0
+1180,Alien Gummies,2,Thursday,Flash Sale,0,47.29953902437358,0
+1181,Moon Rocks,5,Monday,BOGO,0,49.664410596446345,0
+1182,Galaxy Pops,2,Sunday,None,0,52.13178074975977,0
+1183,Nebula Chews,2,Tuesday,Flash Sale,0,59.26075048909754,0
+1184,Moon Rocks,4,Sunday,Flash Sale,0,84.1311391164925,0
+1185,Nebula Chews,5,Saturday,None,0,92.55934800432482,0
+1186,Meteor Mints,6,Tuesday,None,0,60.81109676589959,0
+1187,Alien Gummies,3,Thursday,BOGO,0,69.30155348040901,0
+1188,Meteor Mints,5,Wednesday,None,0,77.34875963608766,0
+1189,Moon Rocks,4,Thursday,Lunar Discount,0,65.06031454399142,0
+1190,Galaxy Pops,4,Wednesday,Lunar Discount,0,76.76136440939494,0
+1191,Nebula Chews,2,Tuesday,None,0,69.93880792743953,0
+1192,Alien Gummies,5,Saturday,BOGO,0,66.19810181865203,0
+1193,Nebula Chews,2,Saturday,None,0,48.70276457646854,0
+1194,Moon Rocks,5,Monday,Flash Sale,1,72.23564796887005,0
+1195,Nebula Chews,2,Saturday,None,0,84.37563556972086,0
+1196,Alien Gummies,2,Friday,BOGO,0,58.32583228389576,0
+1197,Moon Rocks,3,Tuesday,None,0,40.47594048716006,0
+1198,Nebula Chews,1,Monday,None,0,65.20674036557044,0
+1199,Galaxy Pops,2,Saturday,None,0,92.64655967211279,0
+1200,Moon Rocks,3,Tuesday,None,0,88.17924903231625,0
