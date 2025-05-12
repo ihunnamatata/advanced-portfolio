@@ -1,8 +1,8 @@
-# 🧙‍♂️ Customer Churn at a Wizarding School
+# Customer Churn at a Wizarding School
 
 This project predicts student churn (dropout risk) at a fictional wizarding school inspired by Hogwarts. It uses a synthetic dataset that includes house affiliation, magical grades, behavior, and club participation.
 
-### 📊 Dataset
+### Dataset
 
 - `wizarding_students.csv` — 500 fictional students with:
   - House, blood status, course difficulty
@@ -10,13 +10,13 @@ This project predicts student churn (dropout risk) at a fictional wizarding scho
   - Owl message frequency, dueling club membership
   - Churn label (0 = stayed, 1 = dropped out)
 
-### 🛠️ Tools Used
+### Tools Used
 
 - Python (pandas, seaborn, scikit-learn)
 - Visuals: Histograms, confusion matrix, ROC curve
 - Models: Logistic Regression & Decision Tree
 
-### 🔍 Notebook Contents
+### Notebook Contents
 
 - EDA on magical performance and churn
 - Modeling churn probability
