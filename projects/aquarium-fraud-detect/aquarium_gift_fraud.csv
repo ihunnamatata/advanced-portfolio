@@ -1,0 +1,1001 @@
+TransactionID,CardType,TimeOfDay,Amount,ItemCategory,Location,CustomerAge,Fraud
+1,Discover,Evening,27.922181143153235,Snacks,Penguin Wing,21,0
+2,AmEx,Evening,39.82452645776602,Books,Main Entrance,42,0
+3,AmEx,Evening,7.207653304830656,Books,Penguin Wing,17,0
+4,AmEx,Evening,24.512339374414154,Jewelry,Main Entrance,68,0
+5,Discover,Late Night,21.2009690530634,Apparel,Main Entrance,12,0
+6,MasterCard,Evening,44.71865685482294,Books,Gift Kiosk,18,0
+7,Discover,Morning,59.13467753025186,Apparel,Gift Kiosk,69,0
+8,MasterCard,Evening,1.0,Toys,Penguin Wing,38,0
+9,Discover,Late Night,28.0229750222384,Apparel,Main Entrance,32,0
+10,Discover,Evening,1.3306896011555684,Snacks,Shark Tank Exit,39,0
+11,MasterCard,Morning,19.899365184247237,Snacks,Gift Kiosk,27,0
+12,AmEx,Late Night,8.47904176424715,Books,Shark Tank Exit,67,1
+13,MasterCard,Late Night,9.160074113236547,Apparel,Gift Kiosk,57,1
+14,Visa,Morning,10.883621241977929,Books,Gift Kiosk,34,0
+15,Visa,Morning,24.27477512845653,Jewelry,Main Entrance,63,0
+16,MasterCard,Morning,10.16351586957085,Snacks,Gift Kiosk,31,1
+17,Discover,Morning,32.984502599819216,Books,Shark Tank Exit,49,0
+18,Visa,Morning,12.95999696934573,Jewelry,Gift Kiosk,65,0
+19,Visa,Late Night,1.7700376603397197,Books,Penguin Wing,36,0
+20,Discover,Late Night,38.284141214583336,Apparel,Main Entrance,39,0
+21,Discover,Evening,8.413347323792845,Apparel,Main Entrance,16,0
+22,AmEx,Evening,14.174622816523572,Apparel,Penguin Wing,67,0
+23,Discover,Afternoon,28.914819675795645,Apparel,Penguin Wing,32,1
+24,MasterCard,Evening,10.103755217262444,Toys,Penguin Wing,29,1
+25,MasterCard,Evening,1.4562425955974523,Jewelry,Gift Kiosk,58,1
+26,AmEx,Morning,11.706969821303684,Jewelry,Main Entrance,17,0
+27,Visa,Morning,72.26115622920081,Apparel,Penguin Wing,68,0
+28,Visa,Evening,25.662016516777804,Toys,Gift Kiosk,40,0
+29,Discover,Afternoon,27.828874217376036,Apparel,Penguin Wing,30,0
+30,MasterCard,Morning,25.01098391840346,Toys,Shark Tank Exit,44,0
+31,Visa,Evening,5.547112948219315,Apparel,Shark Tank Exit,12,0
+32,AmEx,Evening,13.546466137772306,Snacks,Main Entrance,56,0
+33,AmEx,Late Night,34.751515952466846,Snacks,Gift Kiosk,14,0
+34,MasterCard,Afternoon,2.672178051359091,Books,Shark Tank Exit,53,0
+35,AmEx,Late Night,8.138156241082376,Apparel,Shark Tank Exit,32,0
+36,AmEx,Afternoon,8.08511853270255,Jewelry,Gift Kiosk,46,0
+37,MasterCard,Morning,14.141679601149523,Books,Penguin Wing,52,0
+38,Discover,Afternoon,98.26580333199139,Snacks,Gift Kiosk,51,0
+39,Discover,Evening,1.7472214624030746,Apparel,Penguin Wing,14,0
+40,AmEx,Evening,18.281664217648682,Books,Shark Tank Exit,36,0
+41,Discover,Afternoon,4.9419115168877825,Apparel,Shark Tank Exit,56,0
+42,Discover,Afternoon,88.23418963064434,Snacks,Shark Tank Exit,49,0
+43,AmEx,Afternoon,3.0063131288885625,Books,Main Entrance,56,0
+44,Discover,Late Night,12.921134419493468,Snacks,Main Entrance,66,0
+45,AmEx,Afternoon,33.4742970591927,Toys,Main Entrance,31,0
+46,Visa,Morning,30.481766217578897,Snacks,Gift Kiosk,63,0
+47,MasterCard,Late Night,13.736070575497742,Apparel,Shark Tank Exit,55,0
+48,MasterCard,Late Night,10.63624322329551,Jewelry,Shark Tank Exit,56,0
+49,Discover,Afternoon,12.671353785853148,Snacks,Gift Kiosk,45,0
+50,Discover,Morning,7.672514706750984,Jewelry,Main Entrance,32,0
+51,Discover,Late Night,5.745801071783437,Toys,Gift Kiosk,67,1
+52,MasterCard,Evening,16.494729796709503,Books,Main Entrance,66,0
+53,Visa,Late Night,7.8176051488483775,Books,Shark Tank Exit,59,1
+54,Visa,Afternoon,8.473039115842845,Jewelry,Penguin Wing,34,0
+55,MasterCard,Morning,26.7328474845796,Books,Main Entrance,17,1
+56,Visa,Afternoon,86.4738392326579,Snacks,Shark Tank Exit,62,0
+57,MasterCard,Evening,23.13563317356668,Jewelry,Shark Tank Exit,64,0
+58,Visa,Evening,2.002594971498627,Apparel,Penguin Wing,24,0
+59,AmEx,Evening,1.964816862213777,Snacks,Shark Tank Exit,60,0
+60,AmEx,Afternoon,75.61524143581076,Snacks,Shark Tank Exit,34,0
+61,MasterCard,Late Night,8.820302867958986,Snacks,Main Entrance,20,0
+62,Visa,Afternoon,2.414616908020169,Apparel,Main Entrance,28,1
+63,Discover,Morning,22.8476261939706,Toys,Penguin Wing,13,0
+64,Visa,Late Night,24.430811782514596,Books,Penguin Wing,30,0
+65,AmEx,Evening,26.138982020578293,Jewelry,Shark Tank Exit,30,0
+66,AmEx,Afternoon,7.778954916739149,Toys,Main Entrance,67,0
+67,Visa,Evening,1.0,Jewelry,Penguin Wing,18,0
+68,Visa,Evening,83.82116103019908,Books,Penguin Wing,65,0
+69,Discover,Morning,7.221837737981645,Apparel,Gift Kiosk,53,0
+70,Discover,Late Night,28.17732256115402,Snacks,Penguin Wing,53,0
+71,Visa,Morning,30.658005611251905,Snacks,Shark Tank Exit,31,0
+72,Visa,Morning,23.540688954795495,Apparel,Main Entrance,20,0
+73,Visa,Morning,9.38215496210223,Toys,Penguin Wing,28,0
+74,Visa,Evening,7.9053397758141495,Toys,Gift Kiosk,38,0
+75,MasterCard,Morning,22.761959080508973,Jewelry,Main Entrance,58,1
+76,Visa,Morning,50.265735437349754,Apparel,Penguin Wing,13,0
+77,Discover,Late Night,73.31129902356408,Toys,Gift Kiosk,47,0
+78,AmEx,Late Night,2.7986036289356786,Apparel,Penguin Wing,30,0
+79,MasterCard,Morning,4.2053961715774255,Books,Main Entrance,28,0
+80,Visa,Late Night,72.39095649247298,Snacks,Main Entrance,16,1
+81,AmEx,Late Night,33.345890345218066,Snacks,Main Entrance,50,0
+82,MasterCard,Morning,53.63821415861118,Snacks,Shark Tank Exit,29,0
+83,AmEx,Evening,5.660994263749801,Apparel,Penguin Wing,64,0
+84,Visa,Morning,22.143181681617722,Apparel,Shark Tank Exit,65,0
+85,Visa,Late Night,30.19446713927703,Jewelry,Main Entrance,18,1
+86,Discover,Evening,28.49459965872944,Snacks,Gift Kiosk,28,0
+87,Visa,Afternoon,13.112622787598585,Jewelry,Penguin Wing,50,0
+88,Visa,Evening,1.0,Snacks,Shark Tank Exit,47,0
+89,MasterCard,Late Night,21.862293777266782,Jewelry,Penguin Wing,51,1
+90,Discover,Evening,7.295650809462863,Jewelry,Gift Kiosk,56,0
+91,MasterCard,Morning,14.95748433369251,Books,Shark Tank Exit,15,1
+92,AmEx,Afternoon,79.00398148751358,Jewelry,Main Entrance,49,0
+93,Visa,Afternoon,12.730477774242804,Apparel,Shark Tank Exit,36,0
+94,AmEx,Afternoon,45.78355683786104,Jewelry,Penguin Wing,16,0
+95,MasterCard,Late Night,5.223023279282414,Snacks,Penguin Wing,41,0
+96,Visa,Late Night,27.903665361574316,Jewelry,Penguin Wing,23,0
+97,Visa,Afternoon,94.31408689214162,Toys,Penguin Wing,15,0
+98,MasterCard,Evening,2.6866544105156906,Snacks,Main Entrance,35,0
+99,MasterCard,Afternoon,1.0,Toys,Shark Tank Exit,40,0
+100,MasterCard,Evening,14.210608920626722,Snacks,Main Entrance,20,0
+101,MasterCard,Evening,2.42999989346525,Apparel,Main Entrance,15,0
+102,MasterCard,Late Night,34.49631382239403,Apparel,Main Entrance,62,1
+103,Visa,Evening,61.4952058224079,Apparel,Penguin Wing,35,0
+104,MasterCard,Afternoon,14.229956393030943,Toys,Penguin Wing,25,1
+105,Visa,Late Night,7.484139562382981,Books,Penguin Wing,16,1
+106,Visa,Morning,14.246850813333637,Snacks,Shark Tank Exit,29,0
+107,MasterCard,Morning,32.13389379890149,Apparel,Gift Kiosk,53,0
+108,MasterCard,Late Night,1.0,Snacks,Penguin Wing,68,0
+109,Discover,Afternoon,22.25668180723695,Toys,Shark Tank Exit,30,0
+110,Visa,Morning,23.752114446303644,Books,Penguin Wing,23,0
+111,MasterCard,Morning,25.381256033829196,Toys,Penguin Wing,29,0
+112,MasterCard,Evening,6.92752557566004,Snacks,Main Entrance,28,0
+113,MasterCard,Evening,31.298695815808415,Books,Main Entrance,41,0
+114,Discover,Afternoon,2.3960238901459,Books,Main Entrance,35,0
+115,Discover,Late Night,5.55579718973496,Toys,Shark Tank Exit,22,0
+116,AmEx,Afternoon,52.48499404451302,Apparel,Gift Kiosk,46,0
+117,Visa,Late Night,33.554367716133235,Snacks,Gift Kiosk,34,0
+118,AmEx,Morning,1.0,Jewelry,Shark Tank Exit,28,0
+119,MasterCard,Evening,7.13798566209202,Jewelry,Penguin Wing,12,0
+120,Discover,Afternoon,6.032894356461816,Toys,Shark Tank Exit,26,0
+121,Discover,Afternoon,7.895397856731945,Snacks,Penguin Wing,43,0
+122,AmEx,Late Night,7.110842861428061,Snacks,Shark Tank Exit,20,1
+123,Discover,Late Night,1.6141642580828675,Toys,Shark Tank Exit,26,0
+124,MasterCard,Afternoon,15.355651383553386,Snacks,Shark Tank Exit,39,0
+125,Discover,Late Night,32.98772241748176,Apparel,Gift Kiosk,35,0
+126,AmEx,Afternoon,23.331581642372935,Toys,Main Entrance,46,0
+127,MasterCard,Afternoon,27.935068357578675,Apparel,Shark Tank Exit,33,0
+128,AmEx,Afternoon,2.115787420704874,Snacks,Gift Kiosk,38,0
+129,Discover,Morning,75.64999891585035,Toys,Main Entrance,30,0
+130,AmEx,Late Night,45.57998932895723,Snacks,Main Entrance,56,0
+131,AmEx,Evening,40.88047498720494,Toys,Shark Tank Exit,23,0
+132,Visa,Evening,43.287851341368274,Snacks,Penguin Wing,31,0
+133,Discover,Late Night,67.4687798299096,Apparel,Penguin Wing,12,0
+134,Discover,Afternoon,19.64548919625088,Apparel,Penguin Wing,32,0
+135,AmEx,Evening,5.587403394983676,Snacks,Shark Tank Exit,60,0
+136,Visa,Evening,23.978886419939457,Toys,Penguin Wing,56,0
+137,Discover,Late Night,33.95545465587089,Jewelry,Gift Kiosk,12,0
+138,MasterCard,Evening,33.47738830933501,Apparel,Gift Kiosk,21,0
+139,AmEx,Afternoon,18.42481352991788,Apparel,Gift Kiosk,58,0
+140,Discover,Late Night,1.7728693396759267,Jewelry,Gift Kiosk,43,0
+141,MasterCard,Afternoon,11.59508976890736,Snacks,Main Entrance,50,1
+142,Discover,Evening,63.383936467581655,Toys,Gift Kiosk,33,0
+143,MasterCard,Evening,21.953742784327044,Snacks,Penguin Wing,29,0
+144,AmEx,Afternoon,19.322728450872155,Books,Shark Tank Exit,59,0
+145,Discover,Morning,7.828536214646596,Apparel,Penguin Wing,57,0
+146,Discover,Evening,11.48941133882868,Books,Gift Kiosk,43,0
+147,Visa,Morning,56.42741150147514,Apparel,Main Entrance,38,0
+148,AmEx,Evening,27.45004044365163,Apparel,Gift Kiosk,39,0
+149,MasterCard,Morning,38.70704482687401,Books,Shark Tank Exit,29,0
+150,Discover,Morning,15.144228660532463,Books,Penguin Wing,50,0
+151,Discover,Morning,24.873016433875545,Snacks,Shark Tank Exit,60,0
+152,MasterCard,Afternoon,7.138230079908454,Books,Shark Tank Exit,40,0
+153,AmEx,Morning,30.558582015099606,Snacks,Shark Tank Exit,29,0
+154,Visa,Morning,13.947989033059057,Snacks,Penguin Wing,55,0
+155,Visa,Morning,14.609360497599381,Snacks,Gift Kiosk,19,0
+156,Discover,Evening,26.197194526330094,Apparel,Shark Tank Exit,65,0
+157,MasterCard,Morning,68.83166367774346,Apparel,Penguin Wing,42,0
+158,Discover,Evening,1.653664577307477,Books,Main Entrance,45,0
+159,MasterCard,Morning,43.53757913017879,Apparel,Penguin Wing,18,0
+160,Visa,Morning,8.64631120365339,Books,Main Entrance,47,0
+161,AmEx,Afternoon,14.671053230697408,Apparel,Penguin Wing,29,0
+162,MasterCard,Evening,1.0,Toys,Gift Kiosk,49,0
+163,Visa,Morning,8.95426146424097,Toys,Shark Tank Exit,20,0
+164,Discover,Evening,17.46058903669073,Books,Gift Kiosk,20,0
+165,MasterCard,Evening,1.445391321198875,Apparel,Penguin Wing,57,0
+166,AmEx,Late Night,16.887383839099364,Apparel,Shark Tank Exit,19,0
+167,Discover,Afternoon,65.47031127811445,Snacks,Main Entrance,62,0
+168,Discover,Afternoon,2.7842751772706142,Jewelry,Penguin Wing,46,0
+169,Visa,Afternoon,36.14481779347003,Books,Shark Tank Exit,29,0
+170,MasterCard,Late Night,13.176884019933127,Jewelry,Main Entrance,16,0
+171,Discover,Late Night,26.61786272800308,Jewelry,Main Entrance,25,0
+172,AmEx,Afternoon,7.53562177286413,Books,Gift Kiosk,39,1
+173,MasterCard,Late Night,4.343728009879582,Apparel,Penguin Wing,41,0
+174,AmEx,Late Night,4.372606753205473,Books,Main Entrance,15,0
+175,Discover,Late Night,1.827495165016792,Jewelry,Shark Tank Exit,50,0
+176,AmEx,Afternoon,5.134024591942228,Apparel,Main Entrance,31,0
+177,Visa,Afternoon,27.282431594658302,Toys,Main Entrance,36,0
+178,AmEx,Afternoon,53.36130380645487,Books,Gift Kiosk,39,0
+179,MasterCard,Late Night,42.06711406653519,Books,Gift Kiosk,23,0
+180,AmEx,Afternoon,28.89022779091143,Apparel,Shark Tank Exit,13,0
+181,AmEx,Late Night,2.9254793452657872,Toys,Gift Kiosk,54,1
+182,Visa,Morning,8.533663037110742,Toys,Main Entrance,25,0
+183,AmEx,Late Night,9.269595742899089,Apparel,Main Entrance,33,0
+184,AmEx,Evening,7.190616732405047,Snacks,Gift Kiosk,42,1
+185,Discover,Afternoon,18.09045144043317,Books,Main Entrance,34,0
+186,Discover,Afternoon,19.172739573496102,Books,Main Entrance,59,1
+187,MasterCard,Evening,11.035830947931444,Jewelry,Shark Tank Exit,31,0
+188,Discover,Late Night,10.915736219620802,Apparel,Gift Kiosk,49,0
+189,Discover,Morning,44.08740627442719,Jewelry,Main Entrance,66,0
+190,Discover,Evening,38.932150406726954,Jewelry,Gift Kiosk,15,0
+191,Discover,Evening,9.196858148917594,Toys,Shark Tank Exit,26,0
+192,Visa,Late Night,61.27377621257083,Books,Gift Kiosk,35,0
+193,Discover,Afternoon,76.34198984615013,Jewelry,Main Entrance,36,0
+194,Visa,Late Night,9.890686744694756,Toys,Gift Kiosk,12,0
+195,Visa,Evening,10.940345178104662,Apparel,Main Entrance,18,0
+196,Discover,Evening,17.611986394271504,Jewelry,Main Entrance,68,0
+197,AmEx,Afternoon,70.80669011203382,Books,Main Entrance,42,1
+198,Visa,Afternoon,52.25132777231968,Jewelry,Shark Tank Exit,23,1
+199,AmEx,Afternoon,2.7054471453513567,Apparel,Gift Kiosk,53,0
+200,AmEx,Late Night,12.46957500585119,Jewelry,Shark Tank Exit,16,0
+201,Discover,Afternoon,20.150685786704344,Books,Gift Kiosk,55,0
+202,MasterCard,Evening,17.485795819601705,Toys,Shark Tank Exit,61,0
+203,Discover,Evening,5.387541500204436,Books,Penguin Wing,53,0
+204,MasterCard,Morning,48.94241842389633,Toys,Main Entrance,49,0
+205,MasterCard,Late Night,28.247990954701418,Snacks,Main Entrance,23,0
+206,Discover,Morning,45.48983790748602,Books,Shark Tank Exit,50,0
+207,Discover,Evening,48.9331251701357,Books,Penguin Wing,29,0
+208,MasterCard,Morning,34.49348267924378,Apparel,Main Entrance,13,0
+209,Discover,Evening,14.46024618095193,Jewelry,Gift Kiosk,21,0
+210,MasterCard,Morning,23.575286485676244,Toys,Shark Tank Exit,26,1
+211,AmEx,Afternoon,4.369712226832585,Toys,Main Entrance,41,0
+212,Discover,Morning,27.99427030623892,Apparel,Main Entrance,55,0
+213,AmEx,Afternoon,4.938517234847554,Apparel,Shark Tank Exit,69,0
+214,Visa,Afternoon,29.600136342561907,Jewelry,Shark Tank Exit,28,0
+215,AmEx,Late Night,6.521075777751616,Jewelry,Gift Kiosk,15,0
+216,AmEx,Afternoon,3.1263655586540704,Books,Gift Kiosk,18,0
+217,MasterCard,Afternoon,4.516607973576212,Snacks,Main Entrance,52,0
+218,AmEx,Morning,1.0,Jewelry,Main Entrance,42,0
+219,Discover,Evening,31.7118602961566,Apparel,Shark Tank Exit,62,0
+220,MasterCard,Late Night,32.956646774595036,Jewelry,Main Entrance,66,0
+221,Visa,Afternoon,18.08672436567628,Toys,Main Entrance,50,1
+222,Discover,Late Night,4.399427171018873,Snacks,Shark Tank Exit,66,0
+223,Visa,Morning,2.1813125381005225,Books,Main Entrance,45,0
+224,AmEx,Afternoon,1.0,Toys,Main Entrance,17,1
+225,Discover,Morning,4.530499402876698,Toys,Penguin Wing,61,0
+226,Discover,Late Night,55.377072678740866,Snacks,Gift Kiosk,49,0
+227,Visa,Morning,6.911526329045886,Books,Shark Tank Exit,56,0
+228,Discover,Late Night,10.934396865027345,Apparel,Penguin Wing,69,0
+229,Discover,Morning,2.782941285274168,Books,Gift Kiosk,62,1
+230,Discover,Late Night,6.287331616542076,Jewelry,Gift Kiosk,45,0
+231,AmEx,Evening,18.30887502547911,Toys,Gift Kiosk,55,0
+232,Visa,Morning,23.396568191543494,Jewelry,Penguin Wing,26,0
+233,Discover,Morning,7.037606998094674,Apparel,Penguin Wing,25,0
+234,MasterCard,Evening,1.4866428196920385,Jewelry,Gift Kiosk,17,0
+235,MasterCard,Evening,12.399774625584396,Books,Main Entrance,61,0
+236,MasterCard,Morning,6.670966044626396,Jewelry,Main Entrance,48,0
+237,MasterCard,Evening,6.197240736800574,Apparel,Penguin Wing,61,0
+238,AmEx,Afternoon,80.38629403765017,Apparel,Penguin Wing,43,0
+239,Discover,Late Night,23.94738870377492,Apparel,Penguin Wing,14,1
+240,Visa,Late Night,20.34777879827363,Books,Gift Kiosk,14,0
+241,Discover,Late Night,13.43673183944938,Apparel,Main Entrance,33,1
+242,AmEx,Afternoon,14.006714611586801,Toys,Penguin Wing,33,0
+243,MasterCard,Evening,19.46245317549541,Apparel,Penguin Wing,21,0
+244,AmEx,Evening,29.803560423095128,Jewelry,Shark Tank Exit,62,0
+245,Discover,Morning,30.278804208376147,Jewelry,Gift Kiosk,14,0
+246,Visa,Evening,4.709312905655692,Jewelry,Shark Tank Exit,23,0
+247,AmEx,Morning,17.334317753577096,Books,Main Entrance,40,0
+248,Visa,Afternoon,13.273926666851807,Jewelry,Shark Tank Exit,59,0
+249,AmEx,Late Night,51.107066331665465,Books,Shark Tank Exit,28,1
+250,Visa,Late Night,24.952364193092748,Books,Shark Tank Exit,18,0
+251,Visa,Late Night,19.009115712680725,Apparel,Gift Kiosk,24,0
+252,MasterCard,Evening,3.0653414198401716,Toys,Main Entrance,67,0
+253,Visa,Morning,23.262143228318394,Apparel,Shark Tank Exit,13,0
+254,MasterCard,Morning,3.1165257201336933,Apparel,Gift Kiosk,15,0
+255,Discover,Afternoon,10.28229785921826,Books,Main Entrance,21,0
+256,Discover,Evening,3.8533243066856313,Books,Penguin Wing,50,0
+257,MasterCard,Afternoon,29.447365957907213,Jewelry,Shark Tank Exit,35,0
+258,MasterCard,Morning,5.77473479698616,Jewelry,Main Entrance,28,0
+259,AmEx,Morning,12.43372824154212,Apparel,Shark Tank Exit,63,0
+260,AmEx,Late Night,56.50605302217825,Snacks,Penguin Wing,17,0
+261,AmEx,Evening,5.713840968253839,Snacks,Main Entrance,30,0
+262,Discover,Morning,17.722010737374223,Jewelry,Gift Kiosk,16,0
+263,AmEx,Late Night,13.586805165856012,Snacks,Main Entrance,43,0
+264,Visa,Evening,1.0,Jewelry,Gift Kiosk,21,0
+265,Visa,Afternoon,39.34671586139811,Books,Main Entrance,20,0
+266,AmEx,Evening,1.7886327882343,Apparel,Gift Kiosk,38,0
+267,Visa,Evening,16.073475364188106,Toys,Penguin Wing,24,0
+268,Discover,Morning,20.56308302331632,Apparel,Penguin Wing,30,0
+269,Visa,Morning,24.750211776602296,Jewelry,Penguin Wing,32,0
+270,Discover,Evening,29.169464901429738,Jewelry,Main Entrance,35,0
+271,MasterCard,Morning,7.3013699230498625,Apparel,Penguin Wing,49,0
+272,MasterCard,Morning,1.0,Jewelry,Shark Tank Exit,15,0
+273,MasterCard,Morning,32.13351814973496,Snacks,Penguin Wing,35,0
+274,MasterCard,Late Night,19.17827282181736,Snacks,Gift Kiosk,46,0
+275,Visa,Late Night,45.21517028282213,Jewelry,Gift Kiosk,14,0
+276,AmEx,Evening,43.06353638328615,Jewelry,Gift Kiosk,15,0
+277,Visa,Morning,46.339728411698026,Snacks,Main Entrance,68,0
+278,Discover,Late Night,16.594305024956736,Jewelry,Shark Tank Exit,48,1
+279,Visa,Evening,10.14769499592471,Jewelry,Penguin Wing,51,0
+280,Visa,Morning,39.20238564579823,Apparel,Shark Tank Exit,59,0
+281,Discover,Afternoon,15.004817650806764,Toys,Shark Tank Exit,65,0
+282,MasterCard,Morning,5.066439367885725,Snacks,Gift Kiosk,46,0
+283,MasterCard,Morning,48.27105942933641,Apparel,Gift Kiosk,42,0
+284,MasterCard,Late Night,53.54566662086745,Toys,Gift Kiosk,67,0
+285,AmEx,Evening,15.698491900112687,Jewelry,Main Entrance,55,0
+286,Discover,Evening,1.9679572421989464,Jewelry,Shark Tank Exit,36,0
+287,Discover,Late Night,12.268471750878739,Apparel,Shark Tank Exit,51,0
+288,Visa,Morning,40.682112931235956,Jewelry,Main Entrance,24,0
+289,AmEx,Afternoon,58.01211558749417,Books,Main Entrance,15,0
+290,MasterCard,Morning,5.687348215502127,Apparel,Main Entrance,57,0
+291,AmEx,Morning,1.7330448900908684,Toys,Shark Tank Exit,25,0
+292,Discover,Afternoon,52.46060507010357,Apparel,Shark Tank Exit,24,0
+293,Discover,Late Night,12.333032186115648,Snacks,Gift Kiosk,38,0
+294,Visa,Evening,19.50910797342839,Apparel,Gift Kiosk,17,0
+295,Visa,Late Night,86.10195301323029,Jewelry,Shark Tank Exit,28,0
+296,Discover,Late Night,1.7220914339781834,Jewelry,Gift Kiosk,47,0
+297,MasterCard,Morning,26.125698549618743,Books,Main Entrance,51,0
+298,MasterCard,Evening,1.9248724522531242,Books,Penguin Wing,60,0
+299,AmEx,Evening,11.768854909930042,Books,Gift Kiosk,46,0
+300,Discover,Late Night,40.7173717280537,Toys,Shark Tank Exit,28,0
+301,Discover,Afternoon,14.205729606988,Books,Gift Kiosk,52,0
+302,MasterCard,Late Night,146.79633649902334,Toys,Gift Kiosk,13,1
+303,MasterCard,Afternoon,20.47112113894268,Books,Gift Kiosk,68,0
+304,Discover,Evening,9.684324772366185,Toys,Penguin Wing,24,0
+305,Visa,Late Night,6.2151023750917505,Apparel,Main Entrance,63,0
+306,Discover,Morning,10.789601472509542,Apparel,Shark Tank Exit,13,1
+307,Discover,Late Night,11.651615882343904,Jewelry,Penguin Wing,63,0
+308,MasterCard,Evening,1.779712656566126,Toys,Shark Tank Exit,39,0
+309,MasterCard,Morning,11.533995349268036,Snacks,Shark Tank Exit,54,0
+310,Visa,Morning,15.601655411662033,Jewelry,Shark Tank Exit,37,0
+311,Visa,Afternoon,32.06978694632303,Apparel,Penguin Wing,33,0
+312,AmEx,Morning,26.7309117093827,Toys,Main Entrance,58,0
+313,Discover,Morning,30.84067568516667,Books,Shark Tank Exit,54,0
+314,MasterCard,Late Night,1.0,Snacks,Main Entrance,66,0
+315,Visa,Evening,6.136882715758574,Apparel,Main Entrance,14,0
+316,AmEx,Afternoon,27.094394036780926,Jewelry,Gift Kiosk,46,0
+317,AmEx,Late Night,16.54069773525061,Toys,Penguin Wing,69,0
+318,MasterCard,Morning,1.0,Snacks,Penguin Wing,23,0
+319,MasterCard,Morning,40.804187387285126,Toys,Gift Kiosk,35,0
+320,AmEx,Afternoon,37.04916822459693,Books,Gift Kiosk,16,0
+321,Visa,Evening,19.875022029055874,Jewelry,Main Entrance,31,0
+322,AmEx,Afternoon,1.7193757494106974,Toys,Shark Tank Exit,50,0
+323,Discover,Late Night,36.36594139774948,Apparel,Penguin Wing,50,0
+324,Discover,Afternoon,21.909544114792954,Jewelry,Shark Tank Exit,24,0
+325,MasterCard,Morning,38.07691605063202,Apparel,Shark Tank Exit,52,1
+326,Visa,Late Night,34.83267152267608,Toys,Gift Kiosk,68,0
+327,Visa,Morning,40.614051696298276,Jewelry,Shark Tank Exit,64,0
+328,Discover,Evening,18.245697508771944,Apparel,Main Entrance,56,0
+329,AmEx,Morning,3.780007692110602,Books,Gift Kiosk,23,0
+330,MasterCard,Morning,27.804407132352566,Books,Shark Tank Exit,24,0
+331,AmEx,Afternoon,24.22079017338211,Toys,Gift Kiosk,67,0
+332,AmEx,Morning,33.89443804070991,Jewelry,Main Entrance,21,0
+333,AmEx,Late Night,4.654655556587804,Snacks,Main Entrance,44,0
+334,Visa,Late Night,5.422054861520921,Jewelry,Shark Tank Exit,68,1
+335,Discover,Evening,55.275118604536466,Books,Gift Kiosk,51,1
+336,Visa,Late Night,34.655138971780254,Apparel,Shark Tank Exit,65,0
+337,Discover,Afternoon,59.711334098639014,Snacks,Shark Tank Exit,27,0
+338,MasterCard,Evening,35.54444506556952,Toys,Gift Kiosk,56,0
+339,MasterCard,Late Night,22.73010414942788,Snacks,Shark Tank Exit,46,0
+340,AmEx,Afternoon,26.542505263973137,Toys,Main Entrance,14,0
+341,Discover,Late Night,54.98445525499134,Snacks,Gift Kiosk,67,0
+342,Discover,Late Night,21.616588380100886,Toys,Gift Kiosk,16,0
+343,Discover,Morning,25.018407198285146,Toys,Gift Kiosk,37,0
+344,AmEx,Late Night,4.2541943337635715,Snacks,Gift Kiosk,22,0
+345,AmEx,Late Night,16.057607645417242,Snacks,Shark Tank Exit,18,0
+346,MasterCard,Afternoon,31.504507521785712,Toys,Shark Tank Exit,64,0
+347,Visa,Afternoon,7.900073673249638,Books,Main Entrance,67,0
+348,Discover,Morning,5.649131355794816,Snacks,Penguin Wing,21,0
+349,Discover,Late Night,9.415630424382481,Jewelry,Penguin Wing,53,1
+350,Visa,Morning,6.910332703358642,Apparel,Main Entrance,63,0
+351,Discover,Late Night,6.0490069248137495,Toys,Penguin Wing,45,0
+352,AmEx,Evening,13.828146702910903,Toys,Main Entrance,14,0
+353,AmEx,Evening,59.60532391922221,Apparel,Shark Tank Exit,19,0
+354,Discover,Morning,17.6841774889658,Books,Gift Kiosk,42,0
+355,AmEx,Morning,5.203922261106463,Apparel,Gift Kiosk,22,0
+356,AmEx,Morning,2.00238377221116,Snacks,Shark Tank Exit,56,0
+357,Discover,Afternoon,29.781033621346165,Apparel,Gift Kiosk,18,0
+358,MasterCard,Afternoon,12.064003915245673,Toys,Gift Kiosk,56,0
+359,Visa,Afternoon,43.125561028040146,Apparel,Penguin Wing,13,0
+360,AmEx,Morning,26.934294496419103,Jewelry,Shark Tank Exit,17,0
+361,MasterCard,Late Night,39.770489180208074,Snacks,Penguin Wing,52,0
+362,AmEx,Evening,7.934502796359298,Apparel,Penguin Wing,43,0
+363,AmEx,Morning,29.470537705060384,Toys,Gift Kiosk,31,0
+364,Visa,Afternoon,7.665234553342021,Snacks,Gift Kiosk,68,0
+365,AmEx,Afternoon,69.95011648377634,Toys,Shark Tank Exit,45,0
+366,Visa,Morning,25.290754658093945,Books,Gift Kiosk,61,0
+367,Visa,Morning,9.807989763396487,Jewelry,Gift Kiosk,27,0
+368,Visa,Afternoon,7.851057162908705,Books,Shark Tank Exit,36,1
+369,MasterCard,Late Night,5.296640457317392,Jewelry,Gift Kiosk,23,0
+370,Discover,Afternoon,29.65667526893701,Apparel,Penguin Wing,18,0
+371,MasterCard,Afternoon,6.1704015884380095,Snacks,Shark Tank Exit,50,1
+372,Discover,Morning,22.615432428228658,Apparel,Gift Kiosk,28,0
+373,Discover,Late Night,7.684708525227475,Jewelry,Main Entrance,56,0
+374,Visa,Afternoon,27.115437710292056,Jewelry,Shark Tank Exit,22,0
+375,AmEx,Afternoon,42.17684288224086,Jewelry,Shark Tank Exit,17,0
+376,Visa,Evening,37.62979028584711,Toys,Main Entrance,34,0
+377,AmEx,Morning,35.766746853163,Snacks,Gift Kiosk,38,0
+378,Discover,Evening,5.197828308298337,Apparel,Gift Kiosk,57,0
+379,Visa,Evening,2.3134367251269947,Apparel,Shark Tank Exit,17,0
+380,AmEx,Afternoon,30.011875591429526,Books,Shark Tank Exit,49,0
+381,MasterCard,Morning,11.485385617994474,Jewelry,Gift Kiosk,13,0
+382,AmEx,Late Night,14.15608999103214,Jewelry,Gift Kiosk,33,0
+383,Visa,Afternoon,1.0,Jewelry,Penguin Wing,31,1
+384,MasterCard,Late Night,7.5133222669561865,Apparel,Shark Tank Exit,36,0
+385,AmEx,Late Night,1.0,Books,Shark Tank Exit,26,0
+386,AmEx,Morning,52.83753059841973,Toys,Main Entrance,60,0
+387,AmEx,Evening,6.97290457487364,Snacks,Penguin Wing,40,0
+388,AmEx,Morning,20.373672596387596,Toys,Gift Kiosk,19,0
+389,AmEx,Late Night,1.0,Apparel,Penguin Wing,48,1
+390,MasterCard,Afternoon,27.478865240362705,Jewelry,Gift Kiosk,60,0
+391,Discover,Late Night,9.75310998580826,Snacks,Gift Kiosk,63,0
+392,MasterCard,Afternoon,57.049762366524185,Apparel,Penguin Wing,44,0
+393,MasterCard,Afternoon,54.75780558009353,Apparel,Shark Tank Exit,33,0
+394,MasterCard,Morning,9.8368306635534,Apparel,Gift Kiosk,61,0
+395,Discover,Late Night,57.80601284527948,Snacks,Penguin Wing,58,0
+396,Visa,Evening,139.0419309037093,Snacks,Main Entrance,16,1
+397,Discover,Late Night,43.633683848556544,Books,Penguin Wing,50,0
+398,MasterCard,Late Night,46.58751229630075,Books,Main Entrance,29,0
+399,AmEx,Evening,7.15903149802337,Toys,Gift Kiosk,49,0
+400,AmEx,Morning,21.491994962766636,Snacks,Penguin Wing,65,0
+401,MasterCard,Late Night,1.7406101814325274,Snacks,Penguin Wing,64,0
+402,AmEx,Late Night,2.493241546201367,Snacks,Main Entrance,48,0
+403,MasterCard,Afternoon,170.14378049723206,Books,Penguin Wing,41,0
+404,AmEx,Late Night,9.886851485239733,Apparel,Penguin Wing,62,0
+405,Discover,Evening,34.4764066907278,Jewelry,Gift Kiosk,42,0
+406,Visa,Afternoon,41.083277943289865,Books,Penguin Wing,21,0
+407,Visa,Morning,48.802302878583134,Snacks,Shark Tank Exit,26,0
+408,Discover,Afternoon,151.10367965108085,Books,Main Entrance,53,0
+409,Discover,Evening,6.9101961599149275,Toys,Penguin Wing,59,0
+410,MasterCard,Evening,1.0296876489235736,Snacks,Main Entrance,55,0
+411,MasterCard,Afternoon,13.241357652284568,Toys,Main Entrance,29,0
+412,MasterCard,Morning,3.4838698893489095,Snacks,Main Entrance,34,0
+413,AmEx,Afternoon,1.0,Books,Penguin Wing,44,0
+414,MasterCard,Morning,11.173856063133321,Apparel,Penguin Wing,27,0
+415,Discover,Afternoon,38.28164510895152,Jewelry,Main Entrance,65,0
+416,Visa,Evening,20.878179270081148,Toys,Shark Tank Exit,49,1
+417,AmEx,Late Night,9.37744697886041,Books,Main Entrance,46,0
+418,MasterCard,Late Night,26.557636198741662,Apparel,Shark Tank Exit,45,0
+419,AmEx,Morning,6.599730459793873,Books,Main Entrance,39,0
+420,AmEx,Morning,1.0,Toys,Gift Kiosk,13,1
+421,MasterCard,Morning,36.13554990837275,Jewelry,Main Entrance,41,0
+422,AmEx,Evening,24.43707709972415,Books,Main Entrance,24,0
+423,Visa,Afternoon,35.91892364773554,Snacks,Penguin Wing,52,0
+424,Discover,Evening,1.0,Apparel,Shark Tank Exit,27,0
+425,Discover,Late Night,45.36848151732251,Books,Gift Kiosk,16,1
+426,Visa,Morning,24.158449022849,Apparel,Shark Tank Exit,66,1
+427,AmEx,Afternoon,20.718179651856303,Snacks,Gift Kiosk,39,0
+428,MasterCard,Late Night,24.495014431304647,Jewelry,Main Entrance,64,1
+429,AmEx,Late Night,49.957277923330494,Jewelry,Penguin Wing,50,0
+430,Visa,Late Night,22.103849017298618,Snacks,Penguin Wing,56,0
+431,AmEx,Evening,21.744148524595474,Apparel,Shark Tank Exit,31,0
+432,Discover,Morning,116.88755526967631,Books,Penguin Wing,35,0
+433,AmEx,Late Night,35.33960070299249,Snacks,Shark Tank Exit,38,0
+434,Visa,Morning,14.59807470836473,Toys,Shark Tank Exit,41,0
+435,Discover,Evening,30.723463441405446,Apparel,Gift Kiosk,69,0
+436,AmEx,Late Night,12.325889876202714,Jewelry,Shark Tank Exit,56,0
+437,AmEx,Evening,6.497634780104361,Snacks,Gift Kiosk,38,0
+438,Discover,Evening,22.711280835470777,Jewelry,Penguin Wing,37,0
+439,MasterCard,Morning,65.84053760290585,Apparel,Shark Tank Exit,18,0
+440,Discover,Late Night,66.17606014663903,Jewelry,Shark Tank Exit,53,0
+441,MasterCard,Evening,10.460160094256574,Snacks,Main Entrance,58,1
+442,Visa,Late Night,18.752329812176814,Apparel,Shark Tank Exit,64,0
+443,Visa,Morning,5.944880954689083,Toys,Shark Tank Exit,49,0
+444,Discover,Evening,135.8311548003704,Snacks,Main Entrance,16,0
+445,Discover,Morning,99.2385328081078,Books,Main Entrance,34,0
+446,Visa,Late Night,26.2105012471524,Snacks,Penguin Wing,39,0
+447,MasterCard,Late Night,40.79388509266441,Apparel,Shark Tank Exit,45,0
+448,Visa,Morning,31.3904400896197,Snacks,Penguin Wing,64,0
+449,Discover,Afternoon,22.483272842225453,Toys,Penguin Wing,26,1
+450,Visa,Evening,1.3705931597991865,Toys,Main Entrance,43,0
+451,Discover,Late Night,15.163429469761297,Books,Gift Kiosk,37,0
+452,Discover,Late Night,28.08181952347829,Jewelry,Penguin Wing,59,0
+453,Visa,Evening,28.293754377440823,Apparel,Gift Kiosk,42,0
+454,MasterCard,Morning,11.675108028658697,Apparel,Shark Tank Exit,30,0
+455,AmEx,Morning,71.0503936237887,Jewelry,Main Entrance,20,0
+456,Visa,Morning,4.578758470576461,Toys,Shark Tank Exit,40,1
+457,AmEx,Afternoon,17.346658287953495,Toys,Shark Tank Exit,65,0
+458,Visa,Afternoon,29.350964803536844,Snacks,Main Entrance,69,0
+459,AmEx,Late Night,29.861769455242964,Books,Shark Tank Exit,62,0
+460,MasterCard,Morning,26.1485242745518,Books,Main Entrance,50,0
+461,MasterCard,Evening,8.04953097403584,Books,Gift Kiosk,15,0
+462,Visa,Late Night,4.2461890992739315,Snacks,Shark Tank Exit,14,0
+463,Discover,Evening,25.26093718730974,Books,Main Entrance,67,0
+464,AmEx,Late Night,22.863688561516025,Jewelry,Penguin Wing,40,0
+465,Discover,Afternoon,4.941647341164343,Snacks,Shark Tank Exit,63,1
+466,Discover,Late Night,30.531292845462215,Jewelry,Gift Kiosk,22,0
+467,Discover,Afternoon,15.182127882194482,Snacks,Main Entrance,44,1
+468,MasterCard,Late Night,27.547486507780377,Books,Shark Tank Exit,49,0
+469,Visa,Morning,45.406491023069755,Jewelry,Shark Tank Exit,69,0
+470,Visa,Evening,4.65006093055753,Jewelry,Shark Tank Exit,22,0
+471,MasterCard,Morning,1.0,Jewelry,Gift Kiosk,38,0
+472,MasterCard,Late Night,37.75142192677265,Snacks,Main Entrance,44,0
+473,Visa,Late Night,23.520825192980993,Apparel,Penguin Wing,32,0
+474,Discover,Late Night,30.069302271950026,Books,Penguin Wing,50,0
+475,AmEx,Afternoon,45.52790093375271,Jewelry,Penguin Wing,42,0
+476,AmEx,Evening,40.589807219488385,Apparel,Main Entrance,49,0
+477,AmEx,Evening,81.05370528770479,Books,Penguin Wing,57,0
+478,Discover,Late Night,19.19327050690658,Books,Gift Kiosk,13,0
+479,Visa,Late Night,16.759978883190044,Jewelry,Main Entrance,38,0
+480,MasterCard,Afternoon,12.849397846861013,Jewelry,Shark Tank Exit,47,0
+481,Visa,Morning,4.171769711515946,Snacks,Gift Kiosk,22,0
+482,Discover,Morning,21.251296480528794,Apparel,Shark Tank Exit,58,0
+483,MasterCard,Evening,8.109084492315212,Apparel,Penguin Wing,29,0
+484,Discover,Afternoon,63.55518954752504,Jewelry,Gift Kiosk,12,0
+485,AmEx,Late Night,21.87816815278618,Books,Main Entrance,46,0
+486,AmEx,Evening,22.463737343317064,Jewelry,Gift Kiosk,46,0
+487,Discover,Afternoon,10.95970410414185,Books,Shark Tank Exit,42,0
+488,MasterCard,Morning,1.3347386174792213,Books,Main Entrance,39,0
+489,MasterCard,Afternoon,1.0,Jewelry,Gift Kiosk,50,0
+490,Visa,Morning,13.762350507835148,Toys,Gift Kiosk,12,0
+491,AmEx,Afternoon,2.2089082466689205,Apparel,Gift Kiosk,36,0
+492,Visa,Evening,23.338907920325642,Books,Gift Kiosk,54,0
+493,Visa,Morning,53.210124205786244,Books,Main Entrance,49,0
+494,Discover,Evening,53.62133862879536,Toys,Shark Tank Exit,31,0
+495,Discover,Evening,26.900149452735207,Snacks,Gift Kiosk,14,0
+496,Visa,Morning,5.932070770233781,Toys,Main Entrance,62,0
+497,AmEx,Morning,49.69378061635302,Toys,Shark Tank Exit,13,0
+498,Discover,Late Night,54.3094193665131,Books,Gift Kiosk,29,0
+499,Visa,Late Night,5.474231425180273,Apparel,Shark Tank Exit,55,0
+500,Visa,Late Night,33.43056646424101,Toys,Shark Tank Exit,21,1
+501,Visa,Evening,8.440006026926692,Snacks,Main Entrance,16,0
+502,Visa,Evening,40.56818473544979,Jewelry,Shark Tank Exit,20,0
+503,Visa,Late Night,147.29409960255882,Toys,Main Entrance,13,0
+504,Visa,Evening,1.0,Toys,Gift Kiosk,45,0
+505,Discover,Evening,56.91461773697579,Snacks,Shark Tank Exit,49,0
+506,AmEx,Morning,24.363263861439076,Apparel,Shark Tank Exit,42,0
+507,Visa,Morning,90.65477154301693,Toys,Penguin Wing,21,0
+508,MasterCard,Evening,15.637658050334846,Toys,Gift Kiosk,61,0
+509,Discover,Late Night,46.99640178321682,Apparel,Gift Kiosk,23,0
+510,Discover,Afternoon,1.6106383506421087,Snacks,Penguin Wing,47,0
+511,Visa,Late Night,10.209698764275851,Toys,Penguin Wing,65,0
+512,Discover,Afternoon,1.734195091038116,Apparel,Main Entrance,32,0
+513,Visa,Late Night,92.56749641493673,Toys,Main Entrance,60,1
+514,AmEx,Morning,42.453163827268234,Jewelry,Shark Tank Exit,58,0
+515,AmEx,Evening,47.85621637167849,Books,Shark Tank Exit,17,0
+516,Discover,Evening,69.50150669482417,Jewelry,Shark Tank Exit,59,0
+517,Discover,Morning,2.2236079921830223,Toys,Shark Tank Exit,60,0
+518,MasterCard,Afternoon,12.177629468025547,Snacks,Main Entrance,14,0
+519,Discover,Afternoon,1.8421024089210258,Books,Gift Kiosk,21,0
+520,MasterCard,Afternoon,5.918169095125318,Jewelry,Shark Tank Exit,16,1
+521,AmEx,Morning,6.513535924410198,Apparel,Gift Kiosk,57,0
+522,AmEx,Afternoon,15.829879554249201,Snacks,Shark Tank Exit,37,1
+523,Visa,Morning,7.818576209989558,Jewelry,Penguin Wing,32,0
+524,AmEx,Late Night,2.661197299757833,Apparel,Shark Tank Exit,56,0
+525,MasterCard,Late Night,4.582783834849042,Toys,Shark Tank Exit,37,0
+526,Discover,Morning,3.9829708978238587,Apparel,Shark Tank Exit,49,0
+527,Visa,Evening,90.36917082498107,Jewelry,Main Entrance,55,0
+528,MasterCard,Late Night,35.60432010753886,Jewelry,Penguin Wing,37,0
+529,Discover,Afternoon,85.86482027960727,Toys,Shark Tank Exit,19,0
+530,Visa,Morning,14.483879641181286,Apparel,Shark Tank Exit,16,0
+531,AmEx,Afternoon,8.156015819554689,Apparel,Gift Kiosk,26,0
+532,MasterCard,Afternoon,40.023502682961755,Toys,Penguin Wing,27,0
+533,Discover,Evening,9.872549301256708,Apparel,Shark Tank Exit,12,0
+534,Visa,Afternoon,8.894860924803218,Toys,Gift Kiosk,27,0
+535,Visa,Evening,6.615615174704416,Snacks,Gift Kiosk,48,0
+536,AmEx,Late Night,3.4723286211730424,Jewelry,Main Entrance,14,0
+537,Discover,Morning,7.408420793905855,Snacks,Gift Kiosk,63,0
+538,AmEx,Afternoon,10.975020479279124,Books,Shark Tank Exit,58,0
+539,AmEx,Morning,28.021003283727765,Books,Main Entrance,42,0
+540,Discover,Afternoon,1.615192214091603,Books,Main Entrance,24,0
+541,Discover,Morning,5.909105881871038,Toys,Shark Tank Exit,67,0
+542,Discover,Afternoon,41.39014074390997,Apparel,Penguin Wing,27,0
+543,MasterCard,Afternoon,3.972605103110822,Snacks,Gift Kiosk,66,0
+544,Discover,Afternoon,10.488282361688977,Snacks,Main Entrance,54,0
+545,Visa,Afternoon,49.99892955091856,Snacks,Penguin Wing,32,1
+546,AmEx,Afternoon,4.208256658792469,Snacks,Shark Tank Exit,13,0
+547,MasterCard,Afternoon,2.1590215959759904,Books,Gift Kiosk,65,0
+548,Discover,Afternoon,16.56729208843354,Snacks,Gift Kiosk,38,0
+549,MasterCard,Afternoon,9.003434398194731,Apparel,Main Entrance,49,0
+550,Discover,Afternoon,20.718924832031792,Books,Gift Kiosk,37,0
+551,MasterCard,Morning,40.716141454328216,Snacks,Gift Kiosk,69,1
+552,AmEx,Evening,3.687816578367974,Toys,Gift Kiosk,49,0
+553,AmEx,Afternoon,21.729161038409075,Jewelry,Gift Kiosk,57,0
+554,Visa,Evening,17.605646093204825,Jewelry,Shark Tank Exit,36,0
+555,Visa,Afternoon,3.8894236702839375,Jewelry,Penguin Wing,22,0
+556,Discover,Afternoon,24.454052693797582,Books,Shark Tank Exit,19,0
+557,AmEx,Morning,7.992752364281111,Snacks,Shark Tank Exit,19,0
+558,MasterCard,Late Night,16.727677742374723,Books,Main Entrance,44,0
+559,MasterCard,Late Night,2.1463645477527002,Apparel,Gift Kiosk,64,0
+560,MasterCard,Morning,15.38540428764979,Toys,Shark Tank Exit,18,0
+561,Visa,Evening,9.148784073867843,Toys,Gift Kiosk,49,0
+562,MasterCard,Late Night,43.20289152861205,Jewelry,Shark Tank Exit,32,0
+563,Visa,Morning,1.4666609436404245,Jewelry,Shark Tank Exit,19,0
+564,Visa,Morning,13.558220092376805,Jewelry,Main Entrance,62,0
+565,Discover,Late Night,15.332139499737588,Snacks,Penguin Wing,65,0
+566,MasterCard,Evening,32.275156929820916,Apparel,Penguin Wing,32,0
+567,MasterCard,Morning,21.349780489120683,Apparel,Shark Tank Exit,67,0
+568,AmEx,Afternoon,27.506266040455074,Apparel,Main Entrance,31,0
+569,Discover,Evening,37.52011359600071,Apparel,Gift Kiosk,19,0
+570,AmEx,Evening,49.54933750394587,Jewelry,Gift Kiosk,69,0
+571,Discover,Late Night,9.417404401641601,Toys,Shark Tank Exit,57,0
+572,MasterCard,Late Night,19.305988372935172,Jewelry,Penguin Wing,42,0
+573,Visa,Afternoon,45.8314295559909,Apparel,Main Entrance,61,0
+574,Visa,Morning,113.79341563214315,Jewelry,Penguin Wing,68,0
+575,Visa,Late Night,55.072863346844514,Apparel,Gift Kiosk,40,0
+576,Visa,Late Night,11.609179105019468,Books,Penguin Wing,59,0
+577,Visa,Evening,5.427996916212825,Toys,Gift Kiosk,20,0
+578,AmEx,Late Night,16.80385397349939,Books,Main Entrance,26,0
+579,Discover,Late Night,33.83517343160175,Snacks,Main Entrance,41,0
+580,MasterCard,Late Night,16.959866933378468,Jewelry,Shark Tank Exit,37,0
+581,AmEx,Late Night,16.501557450187263,Snacks,Shark Tank Exit,21,0
+582,Discover,Evening,45.53955771524662,Jewelry,Penguin Wing,40,0
+583,Visa,Afternoon,11.21207291141237,Books,Main Entrance,65,0
+584,Discover,Afternoon,49.11618305761106,Apparel,Main Entrance,27,0
+585,Discover,Morning,13.055794051537534,Apparel,Shark Tank Exit,47,1
+586,Visa,Late Night,9.946097052171954,Jewelry,Gift Kiosk,31,0
+587,Visa,Evening,15.127945643792822,Apparel,Penguin Wing,56,0
+588,Visa,Morning,35.934108713675144,Books,Penguin Wing,65,0
+589,MasterCard,Morning,3.3669305884953267,Apparel,Shark Tank Exit,48,0
+590,Visa,Afternoon,5.466938964055604,Books,Main Entrance,33,0
+591,MasterCard,Evening,75.62636281096368,Snacks,Shark Tank Exit,18,0
+592,Visa,Evening,4.82419955627428,Books,Shark Tank Exit,34,1
+593,MasterCard,Evening,20.96746703433471,Toys,Shark Tank Exit,52,0
+594,Discover,Afternoon,21.646741902455723,Toys,Shark Tank Exit,51,0
+595,AmEx,Afternoon,16.815211882863302,Toys,Gift Kiosk,40,0
+596,Discover,Afternoon,25.873003430566044,Jewelry,Gift Kiosk,27,0
+597,Discover,Afternoon,6.528493950462948,Jewelry,Main Entrance,49,0
+598,Visa,Afternoon,20.111035414573717,Jewelry,Shark Tank Exit,39,0
+599,MasterCard,Late Night,11.637275868202043,Books,Gift Kiosk,59,0
+600,AmEx,Late Night,27.093135719362078,Jewelry,Main Entrance,49,0
+601,Visa,Evening,3.806165690526143,Snacks,Shark Tank Exit,42,0
+602,Visa,Morning,21.150316480939072,Toys,Penguin Wing,25,0
+603,Visa,Evening,5.122473629267476,Books,Gift Kiosk,64,0
+604,Discover,Morning,8.165530152628532,Toys,Main Entrance,44,0
+605,MasterCard,Afternoon,6.170215591737639,Jewelry,Penguin Wing,68,0
+606,MasterCard,Morning,5.047941199490435,Books,Shark Tank Exit,20,0
+607,AmEx,Evening,43.676004002587895,Apparel,Shark Tank Exit,68,0
+608,MasterCard,Evening,8.411570784767218,Snacks,Shark Tank Exit,38,0
+609,MasterCard,Morning,65.47482297601344,Jewelry,Gift Kiosk,35,0
+610,Visa,Late Night,87.60279341130455,Jewelry,Main Entrance,24,0
+611,Visa,Afternoon,21.172642511962845,Snacks,Penguin Wing,37,0
+612,Discover,Afternoon,3.8579667595057154,Snacks,Main Entrance,40,0
+613,Visa,Evening,11.732026993870788,Apparel,Gift Kiosk,62,0
+614,Visa,Late Night,39.954075755432186,Jewelry,Main Entrance,60,0
+615,Visa,Morning,11.44755780871671,Jewelry,Gift Kiosk,54,0
+616,Visa,Afternoon,2.275956440105039,Toys,Shark Tank Exit,39,0
+617,Discover,Late Night,20.342502459723946,Books,Penguin Wing,39,1
+618,Visa,Afternoon,46.62775383120333,Books,Shark Tank Exit,19,0
+619,AmEx,Late Night,39.73186257229725,Toys,Main Entrance,34,0
+620,AmEx,Late Night,4.813029113800425,Books,Shark Tank Exit,40,0
+621,AmEx,Evening,27.92688833599521,Snacks,Penguin Wing,16,0
+622,AmEx,Afternoon,6.227701498711446,Books,Shark Tank Exit,53,0
+623,Visa,Morning,6.154149077793608,Books,Penguin Wing,18,0
+624,AmEx,Evening,51.80107909343394,Toys,Penguin Wing,53,1
+625,Visa,Evening,7.181019337303302,Apparel,Shark Tank Exit,47,0
+626,Discover,Morning,7.637576394162263,Books,Gift Kiosk,52,0
+627,AmEx,Evening,1.0,Books,Main Entrance,38,0
+628,MasterCard,Late Night,51.134513332218056,Apparel,Gift Kiosk,69,0
+629,AmEx,Late Night,39.327024371614584,Toys,Gift Kiosk,57,0
+630,AmEx,Afternoon,24.67647779806467,Apparel,Shark Tank Exit,13,0
+631,Visa,Afternoon,34.683949557994936,Toys,Main Entrance,36,0
+632,AmEx,Morning,4.1232979434157455,Snacks,Main Entrance,20,0
+633,MasterCard,Afternoon,15.327162345627388,Toys,Gift Kiosk,64,0
+634,Visa,Late Night,10.816516462108568,Snacks,Shark Tank Exit,38,0
+635,Visa,Morning,2.4617335898551893,Snacks,Main Entrance,12,1
+636,Discover,Morning,16.64464770103253,Toys,Gift Kiosk,34,0
+637,Discover,Afternoon,63.37543199264818,Jewelry,Main Entrance,21,0
+638,AmEx,Late Night,1.0220894690249744,Toys,Shark Tank Exit,53,0
+639,Discover,Morning,8.613751335096474,Books,Shark Tank Exit,63,1
+640,Discover,Late Night,5.815360727076993,Books,Shark Tank Exit,36,1
+641,Discover,Late Night,6.800030017423599,Jewelry,Main Entrance,65,0
+642,Visa,Late Night,59.76753205961646,Snacks,Penguin Wing,14,0
+643,Visa,Afternoon,15.78103998144178,Jewelry,Main Entrance,17,0
+644,Visa,Evening,15.698007391531013,Books,Penguin Wing,69,0
+645,Discover,Evening,35.73794367259663,Jewelry,Shark Tank Exit,17,0
+646,Visa,Morning,4.195447252807462,Toys,Gift Kiosk,64,0
+647,Discover,Late Night,16.69992067726198,Jewelry,Penguin Wing,13,0
+648,Visa,Afternoon,14.052324458787227,Snacks,Shark Tank Exit,69,0
+649,Visa,Late Night,22.714928251022666,Toys,Shark Tank Exit,69,0
+650,MasterCard,Late Night,193.0882380515615,Apparel,Penguin Wing,29,0
+651,AmEx,Afternoon,36.682068086819335,Books,Gift Kiosk,34,0
+652,Discover,Evening,12.681869346608648,Books,Shark Tank Exit,13,0
+653,MasterCard,Late Night,43.94164098071269,Jewelry,Penguin Wing,23,0
+654,Visa,Late Night,4.679584809029201,Toys,Gift Kiosk,33,0
+655,Discover,Evening,1.0,Apparel,Gift Kiosk,48,0
+656,Visa,Afternoon,5.717988345773656,Toys,Shark Tank Exit,31,1
+657,AmEx,Morning,10.403480208307709,Books,Main Entrance,50,0
+658,MasterCard,Evening,17.86339525276401,Toys,Main Entrance,35,0
+659,AmEx,Morning,23.871185773517833,Apparel,Shark Tank Exit,59,0
+660,MasterCard,Morning,60.3674637447983,Jewelry,Gift Kiosk,31,0
+661,Visa,Evening,17.826299813993444,Snacks,Shark Tank Exit,12,0
+662,AmEx,Late Night,17.392543247398816,Toys,Penguin Wing,12,0
+663,AmEx,Morning,1.288728173089216,Snacks,Main Entrance,28,0
+664,Visa,Morning,1.0,Books,Penguin Wing,12,0
+665,AmEx,Afternoon,20.027217933411723,Jewelry,Shark Tank Exit,64,1
+666,Discover,Late Night,14.414282419272453,Jewelry,Shark Tank Exit,63,0
+667,MasterCard,Morning,45.68680019762033,Toys,Gift Kiosk,56,0
+668,MasterCard,Afternoon,4.379068600113987,Jewelry,Gift Kiosk,41,1
+669,MasterCard,Late Night,1.0,Toys,Gift Kiosk,52,0
+670,Discover,Evening,14.902270788109442,Toys,Penguin Wing,58,0
+671,MasterCard,Evening,6.778116215096832,Snacks,Gift Kiosk,14,0
+672,Visa,Afternoon,1.2721863487674694,Jewelry,Shark Tank Exit,57,0
+673,AmEx,Evening,32.23811180275214,Toys,Gift Kiosk,66,0
+674,Discover,Morning,2.9581326902787572,Snacks,Main Entrance,22,0
+675,MasterCard,Late Night,23.432720564164992,Apparel,Gift Kiosk,35,0
+676,Visa,Morning,8.249077930281224,Snacks,Penguin Wing,33,0
+677,AmEx,Morning,4.763764574316812,Snacks,Main Entrance,55,0
+678,AmEx,Evening,11.940877793616695,Toys,Main Entrance,56,0
+679,Discover,Morning,40.41732621289571,Books,Main Entrance,37,0
+680,Discover,Evening,12.443357956093884,Books,Penguin Wing,24,0
+681,Discover,Late Night,34.73444266479891,Books,Shark Tank Exit,12,0
+682,Visa,Late Night,3.35218287227833,Snacks,Gift Kiosk,35,1
+683,Visa,Morning,37.04497015797159,Toys,Main Entrance,21,0
+684,Discover,Afternoon,6.7602466518029205,Jewelry,Main Entrance,46,0
+685,MasterCard,Evening,28.283020436276406,Snacks,Main Entrance,35,0
+686,AmEx,Evening,20.855188541256545,Snacks,Shark Tank Exit,39,0
+687,AmEx,Morning,66.17789381571198,Toys,Shark Tank Exit,47,1
+688,Visa,Evening,12.247915299164092,Apparel,Penguin Wing,27,0
+689,AmEx,Evening,1.7113929525570042,Snacks,Shark Tank Exit,51,0
+690,MasterCard,Afternoon,1.0,Apparel,Gift Kiosk,27,0
+691,AmEx,Afternoon,43.841161296960635,Apparel,Penguin Wing,28,0
+692,Visa,Morning,18.597101936839017,Books,Penguin Wing,62,0
+693,Visa,Afternoon,37.31850350712938,Toys,Gift Kiosk,65,0
+694,MasterCard,Morning,6.678221931100775,Apparel,Gift Kiosk,26,0
+695,MasterCard,Late Night,10.581197681663069,Toys,Gift Kiosk,27,0
+696,AmEx,Morning,1.0,Books,Penguin Wing,26,0
+697,AmEx,Late Night,81.42244239617328,Toys,Penguin Wing,68,0
+698,Visa,Morning,27.55556294530967,Snacks,Penguin Wing,45,0
+699,MasterCard,Evening,67.65320913504091,Apparel,Gift Kiosk,22,1
+700,MasterCard,Afternoon,7.714009805030798,Toys,Gift Kiosk,12,0
+701,MasterCard,Late Night,23.634211219047362,Jewelry,Main Entrance,26,1
+702,AmEx,Morning,28.36894091703143,Toys,Shark Tank Exit,37,0
+703,MasterCard,Afternoon,9.551639386620787,Apparel,Main Entrance,62,0
+704,Visa,Morning,47.114841697704875,Books,Gift Kiosk,15,0
+705,Visa,Afternoon,73.51286212953771,Books,Penguin Wing,54,0
+706,AmEx,Afternoon,54.03910243593481,Apparel,Gift Kiosk,16,0
+707,Discover,Morning,33.58728793461678,Snacks,Shark Tank Exit,46,0
+708,AmEx,Late Night,8.12472434991514,Snacks,Main Entrance,24,0
+709,Discover,Late Night,8.268777314217097,Books,Main Entrance,21,0
+710,MasterCard,Evening,82.66558712531076,Books,Penguin Wing,22,0
+711,AmEx,Afternoon,1.0,Apparel,Main Entrance,29,0
+712,Visa,Evening,31.473925460607706,Snacks,Main Entrance,45,0
+713,MasterCard,Evening,30.62532874918591,Books,Gift Kiosk,50,0
+714,Visa,Morning,24.36717329040821,Snacks,Main Entrance,52,0
+715,MasterCard,Morning,115.40286163544928,Books,Main Entrance,53,0
+716,AmEx,Morning,9.344780442144698,Toys,Main Entrance,61,1
+717,Discover,Afternoon,10.386820356350853,Jewelry,Penguin Wing,34,0
+718,MasterCard,Morning,2.0557362511228456,Toys,Penguin Wing,18,0
+719,Discover,Morning,14.620692318999987,Books,Gift Kiosk,50,1
+720,MasterCard,Afternoon,7.563075622977911,Jewelry,Main Entrance,14,0
+721,Visa,Afternoon,10.516500539318288,Jewelry,Penguin Wing,23,0
+722,Visa,Late Night,44.98044890633816,Books,Penguin Wing,18,0
+723,MasterCard,Morning,68.52124959127457,Books,Gift Kiosk,60,0
+724,Discover,Morning,5.136676134112676,Snacks,Shark Tank Exit,37,0
+725,AmEx,Morning,11.650646040720902,Books,Main Entrance,44,0
+726,AmEx,Late Night,65.99713855260188,Apparel,Penguin Wing,48,0
+727,Visa,Morning,1.5950287782542834,Books,Gift Kiosk,59,0
+728,AmEx,Late Night,2.4227009155097003,Apparel,Gift Kiosk,26,1
+729,Visa,Evening,4.44203813640162,Books,Gift Kiosk,13,0
+730,AmEx,Late Night,22.60984665925928,Snacks,Penguin Wing,52,0
+731,MasterCard,Evening,4.076867421401971,Apparel,Main Entrance,18,0
+732,Visa,Morning,86.11022874383444,Toys,Shark Tank Exit,43,0
+733,Visa,Evening,14.797029627152217,Apparel,Main Entrance,15,0
+734,MasterCard,Late Night,17.40469297539973,Snacks,Gift Kiosk,31,0
+735,Visa,Afternoon,7.080919711426173,Apparel,Gift Kiosk,61,0
+736,AmEx,Evening,15.917292819301924,Books,Shark Tank Exit,64,0
+737,AmEx,Evening,27.11134728493589,Books,Main Entrance,47,0
+738,Visa,Morning,34.77535072668771,Snacks,Gift Kiosk,43,0
+739,AmEx,Late Night,35.04719094083179,Jewelry,Gift Kiosk,39,0
+740,Discover,Evening,21.562299285951315,Books,Main Entrance,24,0
+741,Visa,Evening,58.67904459396017,Toys,Gift Kiosk,12,0
+742,MasterCard,Evening,42.51250717835411,Snacks,Main Entrance,67,0
+743,Discover,Evening,35.37229645304369,Apparel,Gift Kiosk,46,0
+744,Visa,Afternoon,1.4302830137051707,Apparel,Main Entrance,59,0
+745,MasterCard,Late Night,1.0,Toys,Shark Tank Exit,41,0
+746,AmEx,Morning,5.970624023258067,Books,Gift Kiosk,65,0
+747,MasterCard,Morning,27.230681199933283,Snacks,Shark Tank Exit,47,0
+748,Discover,Afternoon,13.241611169277649,Toys,Gift Kiosk,68,0
+749,AmEx,Late Night,12.871102982003737,Books,Gift Kiosk,66,0
+750,Visa,Evening,53.98093277921087,Snacks,Penguin Wing,36,0
+751,AmEx,Afternoon,56.479245150772385,Apparel,Main Entrance,27,0
+752,Visa,Late Night,59.970590203944326,Snacks,Shark Tank Exit,69,0
+753,Visa,Evening,9.417498400522069,Jewelry,Shark Tank Exit,30,0
+754,MasterCard,Afternoon,29.36486605376205,Snacks,Shark Tank Exit,12,0
+755,MasterCard,Late Night,7.92376214525982,Jewelry,Main Entrance,16,1
+756,MasterCard,Morning,5.286854880280339,Snacks,Penguin Wing,62,0
+757,Discover,Morning,5.102907370473279,Jewelry,Shark Tank Exit,33,1
+758,Discover,Late Night,10.467847964431737,Apparel,Main Entrance,35,0
+759,MasterCard,Morning,14.051114241349719,Books,Gift Kiosk,54,0
+760,Discover,Late Night,44.438896157285576,Jewelry,Shark Tank Exit,56,0
+761,AmEx,Evening,3.1927405437457423,Jewelry,Shark Tank Exit,63,0
+762,AmEx,Late Night,33.19364177468022,Apparel,Penguin Wing,48,0
+763,Discover,Evening,18.95307368865174,Jewelry,Shark Tank Exit,64,0
+764,Discover,Afternoon,8.49001511530019,Toys,Shark Tank Exit,47,0
+765,AmEx,Late Night,16.97221224106317,Apparel,Gift Kiosk,47,0
+766,Visa,Afternoon,8.914804747538648,Toys,Main Entrance,15,0
+767,AmEx,Morning,22.6635820275129,Apparel,Main Entrance,47,0
+768,AmEx,Evening,14.22213710298931,Jewelry,Penguin Wing,63,0
+769,Discover,Late Night,4.490296655457839,Toys,Gift Kiosk,64,0
+770,AmEx,Afternoon,3.0989505142225573,Jewelry,Main Entrance,29,0
+771,Discover,Evening,19.77978988848511,Apparel,Gift Kiosk,61,0
+772,Discover,Evening,58.17528330618763,Jewelry,Main Entrance,27,0
+773,MasterCard,Morning,10.538249747989383,Toys,Gift Kiosk,52,0
+774,AmEx,Morning,33.01267555412066,Toys,Penguin Wing,29,1
+775,Visa,Evening,26.872005011799356,Jewelry,Shark Tank Exit,33,0
+776,MasterCard,Evening,67.04308809934348,Snacks,Penguin Wing,13,0
+777,Discover,Late Night,43.006585753899664,Apparel,Main Entrance,32,0
+778,Discover,Evening,20.90265810056002,Apparel,Penguin Wing,47,0
+779,Visa,Late Night,26.752843797597365,Jewelry,Shark Tank Exit,55,0
+780,Discover,Evening,57.16446374488583,Snacks,Penguin Wing,50,0
+781,AmEx,Morning,12.750597988207202,Toys,Main Entrance,58,0
+782,MasterCard,Late Night,9.892623813792314,Books,Main Entrance,50,0
+783,Discover,Afternoon,1.0,Books,Penguin Wing,40,0
+784,Discover,Morning,43.79680246688943,Jewelry,Shark Tank Exit,65,0
+785,Visa,Late Night,40.35883690156295,Snacks,Penguin Wing,37,0
+786,AmEx,Late Night,2.758056734496891,Snacks,Shark Tank Exit,32,1
+787,Discover,Afternoon,21.50114990797199,Apparel,Gift Kiosk,28,0
+788,Visa,Late Night,15.589674332080964,Toys,Shark Tank Exit,27,0
+789,Discover,Evening,3.159187737232674,Snacks,Gift Kiosk,42,0
+790,Visa,Afternoon,98.52114430593755,Books,Penguin Wing,62,0
+791,Visa,Morning,6.042105792904977,Toys,Shark Tank Exit,20,0
+792,AmEx,Morning,1.7400276630353195,Toys,Gift Kiosk,42,0
+793,Discover,Evening,22.58728605315523,Jewelry,Gift Kiosk,25,0
+794,AmEx,Morning,33.568104662476514,Snacks,Gift Kiosk,60,0
+795,Visa,Late Night,1.0,Jewelry,Main Entrance,48,0
+796,MasterCard,Late Night,26.876127635250768,Snacks,Penguin Wing,13,0
+797,Discover,Evening,18.99777110470791,Apparel,Gift Kiosk,63,0
+798,MasterCard,Morning,2.7248724919172083,Jewelry,Shark Tank Exit,59,0
+799,Discover,Morning,4.734375661576457,Jewelry,Gift Kiosk,57,0
+800,AmEx,Evening,20.981754888859573,Books,Main Entrance,25,0
+801,AmEx,Afternoon,8.787125640673258,Jewelry,Penguin Wing,44,1
+802,AmEx,Morning,69.64315754959884,Snacks,Main Entrance,46,0
+803,AmEx,Afternoon,42.69560201013382,Books,Main Entrance,69,0
+804,AmEx,Morning,102.71190844678001,Jewelry,Main Entrance,50,0
+805,MasterCard,Morning,7.516509486359604,Jewelry,Shark Tank Exit,69,0
+806,AmEx,Morning,87.43469577808496,Apparel,Penguin Wing,58,0
+807,Visa,Morning,14.107148707827122,Jewelry,Penguin Wing,62,0
+808,Visa,Late Night,10.67432363196785,Toys,Shark Tank Exit,31,0
+809,MasterCard,Afternoon,1.2915321303376224,Books,Penguin Wing,13,0
+810,Discover,Afternoon,1.3552084186266369,Toys,Main Entrance,62,0
+811,Visa,Morning,29.4423010489426,Books,Penguin Wing,52,0
+812,Discover,Morning,15.308956988595476,Apparel,Shark Tank Exit,30,0
+813,MasterCard,Afternoon,6.421439200903784,Jewelry,Main Entrance,48,0
+814,Discover,Late Night,23.796024646435963,Jewelry,Shark Tank Exit,29,0
+815,Discover,Evening,7.287504411915367,Jewelry,Gift Kiosk,27,0
+816,Discover,Evening,21.54694313551828,Books,Main Entrance,15,1
+817,Discover,Afternoon,11.12628833547456,Jewelry,Main Entrance,23,0
+818,MasterCard,Morning,43.36825869699154,Toys,Penguin Wing,40,0
+819,Visa,Morning,42.96683715641543,Jewelry,Main Entrance,18,0
+820,AmEx,Late Night,16.22110041854448,Apparel,Shark Tank Exit,25,0
+821,Discover,Evening,10.801096974495415,Toys,Penguin Wing,66,0
+822,Visa,Late Night,11.25737012182456,Jewelry,Gift Kiosk,23,0
+823,Visa,Evening,40.96066710912798,Jewelry,Shark Tank Exit,46,0
+824,MasterCard,Afternoon,9.944101540741288,Snacks,Gift Kiosk,16,0
+825,Visa,Evening,5.863309390200877,Books,Gift Kiosk,28,0
+826,MasterCard,Late Night,2.212266543217037,Toys,Gift Kiosk,69,0
+827,Discover,Late Night,15.71645655777107,Snacks,Main Entrance,53,0
+828,Discover,Late Night,16.45087716162116,Apparel,Shark Tank Exit,43,1
+829,AmEx,Afternoon,45.956927327816324,Books,Shark Tank Exit,21,0
+830,AmEx,Evening,6.251267349719678,Toys,Main Entrance,54,0
+831,AmEx,Evening,11.990897723266832,Jewelry,Penguin Wing,28,1
+832,Visa,Late Night,41.3093841591563,Toys,Gift Kiosk,16,0
+833,Discover,Evening,43.37837480377891,Jewelry,Shark Tank Exit,56,0
+834,MasterCard,Morning,12.137520356792745,Books,Main Entrance,53,0
+835,AmEx,Morning,15.364131865910464,Jewelry,Gift Kiosk,20,0
+836,MasterCard,Morning,9.034503143765923,Apparel,Penguin Wing,60,0
+837,MasterCard,Evening,67.4110256349476,Jewelry,Penguin Wing,44,0
+838,AmEx,Afternoon,3.1573345652016735,Apparel,Gift Kiosk,47,0
+839,Discover,Afternoon,67.85777761854897,Books,Penguin Wing,47,1
+840,AmEx,Afternoon,28.78976334750002,Books,Shark Tank Exit,29,0
+841,MasterCard,Afternoon,18.959329925832833,Toys,Shark Tank Exit,20,0
+842,AmEx,Morning,1.0,Apparel,Shark Tank Exit,68,0
+843,MasterCard,Morning,16.13733162867997,Apparel,Penguin Wing,40,0
+844,MasterCard,Late Night,13.095580907266744,Snacks,Shark Tank Exit,61,0
+845,AmEx,Evening,4.3951351863317685,Snacks,Main Entrance,25,1
+846,Visa,Evening,26.707625972882603,Snacks,Shark Tank Exit,36,0
+847,AmEx,Afternoon,88.64191844407596,Jewelry,Shark Tank Exit,26,0
+848,Visa,Morning,20.64918842588059,Snacks,Penguin Wing,17,0
+849,MasterCard,Afternoon,31.36001941312088,Apparel,Shark Tank Exit,67,0
+850,MasterCard,Late Night,1.7726474834079273,Jewelry,Gift Kiosk,53,0
+851,Visa,Evening,13.517820568575377,Books,Main Entrance,40,0
+852,MasterCard,Evening,3.0925956199165543,Toys,Penguin Wing,26,0
+853,Visa,Afternoon,23.72007920770732,Snacks,Main Entrance,40,0
+854,Visa,Late Night,69.71070089761456,Books,Gift Kiosk,15,0
+855,MasterCard,Evening,27.10130008457566,Apparel,Penguin Wing,29,0
+856,Discover,Late Night,1.9978171283530792,Toys,Penguin Wing,61,0
+857,Visa,Late Night,10.949689609957572,Books,Shark Tank Exit,68,0
+858,AmEx,Afternoon,19.99957401050749,Toys,Main Entrance,60,0
+859,AmEx,Morning,12.904655659471686,Snacks,Gift Kiosk,55,0
+860,MasterCard,Afternoon,44.84063179015767,Apparel,Gift Kiosk,50,0
+861,Discover,Morning,42.140567009554516,Toys,Penguin Wing,27,0
+862,MasterCard,Late Night,23.657862974254957,Books,Shark Tank Exit,22,0
+863,Discover,Morning,11.688484505381954,Snacks,Penguin Wing,25,0
+864,Visa,Late Night,7.3705667742557335,Snacks,Penguin Wing,14,0
+865,Visa,Evening,2.797723250884025,Books,Penguin Wing,62,1
+866,Visa,Evening,10.958658612835205,Books,Penguin Wing,61,1
+867,Visa,Evening,13.325609969642493,Toys,Gift Kiosk,53,0
+868,AmEx,Afternoon,28.161634625624572,Jewelry,Gift Kiosk,49,0
+869,AmEx,Afternoon,26.835299341406284,Snacks,Penguin Wing,56,0
+870,MasterCard,Late Night,1.8171744694982783,Toys,Penguin Wing,53,0
+871,Discover,Evening,12.573888334567679,Books,Shark Tank Exit,29,0
+872,Visa,Afternoon,5.0155661359448045,Toys,Penguin Wing,69,0
+873,Visa,Evening,4.2641542320975265,Books,Gift Kiosk,31,0
+874,Discover,Afternoon,43.905293542990904,Apparel,Main Entrance,69,0
+875,Discover,Morning,1.070475115775364,Books,Gift Kiosk,59,0
+876,MasterCard,Morning,13.582983306664662,Books,Shark Tank Exit,36,0
+877,Discover,Evening,4.6041911672404465,Books,Gift Kiosk,68,0
+878,Visa,Late Night,52.86743798098799,Jewelry,Main Entrance,49,0
+879,Visa,Afternoon,20.356924130177852,Books,Penguin Wing,24,0
+880,Visa,Afternoon,6.57898519500203,Snacks,Main Entrance,15,0
+881,Visa,Morning,17.450339415345205,Snacks,Penguin Wing,66,0
+882,Visa,Morning,32.871339111824874,Toys,Penguin Wing,25,0
+883,MasterCard,Late Night,79.32248378985007,Jewelry,Gift Kiosk,44,0
+884,Visa,Late Night,6.225833078832093,Toys,Gift Kiosk,39,0
+885,MasterCard,Late Night,54.32881488765414,Snacks,Gift Kiosk,63,0
+886,Visa,Evening,68.0679743990516,Snacks,Shark Tank Exit,48,0
+887,AmEx,Morning,62.04893842709224,Apparel,Gift Kiosk,19,0
+888,AmEx,Evening,25.22484486335039,Books,Shark Tank Exit,55,0
+889,AmEx,Morning,24.844191825938285,Snacks,Gift Kiosk,45,0
+890,AmEx,Morning,12.904776181208316,Toys,Penguin Wing,55,1
+891,MasterCard,Afternoon,34.89830463289136,Toys,Shark Tank Exit,16,0
+892,MasterCard,Morning,18.94449029805663,Books,Main Entrance,65,0
+893,Discover,Morning,28.286503349552138,Books,Shark Tank Exit,16,0
+894,Visa,Evening,13.985428485068526,Apparel,Shark Tank Exit,42,0
+895,AmEx,Morning,32.8722798955159,Jewelry,Main Entrance,56,0
+896,MasterCard,Evening,43.49884890981761,Toys,Shark Tank Exit,20,0
+897,Visa,Late Night,3.958376370742188,Books,Penguin Wing,53,0
+898,Visa,Morning,44.733517256978985,Toys,Gift Kiosk,43,0
+899,MasterCard,Morning,19.429340792294884,Books,Main Entrance,44,0
+900,AmEx,Evening,46.55442641087335,Snacks,Gift Kiosk,14,0
+901,Discover,Late Night,14.11013062744209,Toys,Penguin Wing,41,0
+902,Visa,Afternoon,11.912234825684711,Snacks,Main Entrance,61,0
+903,Discover,Late Night,61.645469451783974,Toys,Gift Kiosk,23,0
+904,AmEx,Evening,7.2310578097800615,Jewelry,Gift Kiosk,40,0
+905,AmEx,Late Night,46.48153145854953,Apparel,Penguin Wing,14,0
+906,Discover,Evening,16.54220958749109,Snacks,Gift Kiosk,37,0
+907,AmEx,Evening,18.04357645544513,Books,Penguin Wing,68,1
+908,Visa,Afternoon,9.221156494724578,Jewelry,Shark Tank Exit,41,0
+909,Discover,Morning,21.27675252817663,Toys,Penguin Wing,20,0
+910,AmEx,Evening,9.83388801099967,Snacks,Shark Tank Exit,37,0
+911,Discover,Evening,1.0015314280681686,Toys,Main Entrance,13,0
+912,Visa,Afternoon,7.9363078762877866,Toys,Gift Kiosk,14,0
+913,AmEx,Evening,1.0,Toys,Penguin Wing,57,1
+914,Visa,Morning,95.8242740038381,Apparel,Penguin Wing,15,0
+915,AmEx,Afternoon,84.34968131187858,Apparel,Gift Kiosk,36,0
+916,MasterCard,Morning,12.569588598467243,Books,Gift Kiosk,62,0
+917,AmEx,Morning,32.58293945204214,Snacks,Main Entrance,24,0
+918,Discover,Afternoon,10.608787146428517,Jewelry,Main Entrance,50,0
+919,AmEx,Evening,27.79951801372345,Jewelry,Penguin Wing,55,0
+920,Visa,Morning,40.92408761838356,Jewelry,Main Entrance,46,0
+921,Visa,Morning,73.32186881212994,Toys,Shark Tank Exit,66,0
+922,AmEx,Morning,12.779486986207884,Apparel,Main Entrance,34,0
+923,Discover,Morning,38.230801562037925,Snacks,Main Entrance,20,0
+924,MasterCard,Afternoon,7.728719410388152,Toys,Penguin Wing,13,0
+925,Discover,Afternoon,115.9741309807397,Apparel,Shark Tank Exit,65,0
+926,MasterCard,Late Night,1.0,Apparel,Main Entrance,52,0
+927,Visa,Late Night,23.12879731259864,Snacks,Shark Tank Exit,55,0
+928,Discover,Morning,26.933943020120292,Snacks,Shark Tank Exit,42,0
+929,MasterCard,Evening,29.122452952432514,Snacks,Shark Tank Exit,55,0
+930,AmEx,Morning,3.2068474742501545,Toys,Gift Kiosk,58,0
+931,Visa,Evening,69.73006263972582,Books,Gift Kiosk,13,0
+932,AmEx,Morning,4.997375102909143,Snacks,Gift Kiosk,43,0
+933,Visa,Late Night,24.371405063850943,Books,Gift Kiosk,29,0
+934,Discover,Late Night,6.297453222552066,Toys,Penguin Wing,24,0
+935,Discover,Evening,9.175940465972934,Books,Main Entrance,57,0
+936,Visa,Morning,19.76671487861932,Jewelry,Gift Kiosk,16,0
+937,Visa,Evening,13.497497798482295,Books,Penguin Wing,69,0
+938,Visa,Late Night,4.365549895198345,Snacks,Main Entrance,53,1
+939,Discover,Morning,4.686460269277205,Toys,Gift Kiosk,55,0
+940,MasterCard,Morning,13.538340977820884,Snacks,Main Entrance,21,0
+941,AmEx,Evening,35.39647584684323,Jewelry,Gift Kiosk,67,0
+942,AmEx,Afternoon,57.060898155453074,Snacks,Penguin Wing,54,0
+943,Discover,Evening,2.196957332490235,Snacks,Shark Tank Exit,36,0
+944,AmEx,Late Night,12.484942117916685,Snacks,Shark Tank Exit,45,0
+945,Visa,Late Night,2.6408350367186664,Apparel,Main Entrance,48,0
+946,MasterCard,Late Night,1.0,Jewelry,Penguin Wing,41,0
+947,AmEx,Late Night,27.09693574496599,Snacks,Shark Tank Exit,18,0
+948,MasterCard,Late Night,23.060829073863815,Snacks,Gift Kiosk,17,0
+949,Visa,Afternoon,4.448851121310928,Snacks,Shark Tank Exit,65,0
+950,AmEx,Morning,6.6582198966986414,Toys,Main Entrance,66,0
+951,Discover,Evening,1.0,Apparel,Main Entrance,14,0
+952,MasterCard,Evening,45.03724726927836,Toys,Penguin Wing,24,0
+953,Visa,Late Night,91.91448136563552,Apparel,Main Entrance,14,0
+954,MasterCard,Evening,3.6389292406747717,Snacks,Shark Tank Exit,37,0
+955,AmEx,Late Night,6.582061594459368,Jewelry,Shark Tank Exit,68,1
+956,AmEx,Afternoon,50.70151582818043,Books,Shark Tank Exit,35,1
+957,Discover,Afternoon,65.24943623024788,Books,Shark Tank Exit,64,0
+958,Visa,Morning,13.602123457089482,Snacks,Penguin Wing,17,0
+959,Visa,Afternoon,1.2987185778647503,Toys,Gift Kiosk,54,0
+960,Discover,Afternoon,1.0047172132713542,Jewelry,Gift Kiosk,69,0
+961,Discover,Morning,21.329956358828085,Apparel,Penguin Wing,60,0
+962,Visa,Evening,12.476342509221528,Snacks,Main Entrance,53,0
+963,MasterCard,Late Night,1.0,Jewelry,Gift Kiosk,23,0
+964,MasterCard,Late Night,21.881862444244142,Jewelry,Main Entrance,60,0
+965,Discover,Evening,1.0,Apparel,Gift Kiosk,47,0
+966,MasterCard,Morning,38.705273054804614,Jewelry,Main Entrance,13,0
+967,Visa,Evening,9.147679421805806,Toys,Penguin Wing,22,0
+968,AmEx,Afternoon,1.0272695943866852,Toys,Shark Tank Exit,50,0
+969,AmEx,Morning,22.189680014286704,Toys,Main Entrance,45,0
+970,MasterCard,Morning,12.674343562914029,Jewelry,Shark Tank Exit,37,0
+971,Discover,Morning,91.05029113324959,Toys,Main Entrance,29,0
+972,Discover,Late Night,19.642455694548193,Apparel,Main Entrance,32,1
+973,Discover,Evening,8.047839585917012,Jewelry,Main Entrance,47,0
+974,Discover,Morning,30.898531901677988,Books,Main Entrance,51,0
+975,Discover,Morning,7.918916885717545,Jewelry,Main Entrance,63,0
+976,MasterCard,Morning,58.648614743679005,Apparel,Shark Tank Exit,57,1
+977,AmEx,Evening,11.738972024317865,Books,Main Entrance,55,0
+978,AmEx,Late Night,19.955391403652023,Jewelry,Shark Tank Exit,33,0
+979,MasterCard,Afternoon,1.2974185902453088,Toys,Penguin Wing,64,0
+980,Discover,Late Night,13.883428022911314,Snacks,Gift Kiosk,41,0
+981,MasterCard,Morning,44.648939270114006,Snacks,Main Entrance,61,0
+982,AmEx,Late Night,40.952211871788066,Toys,Gift Kiosk,54,0
+983,Visa,Late Night,6.350333926733875,Snacks,Shark Tank Exit,41,0
+984,MasterCard,Afternoon,6.407139238484105,Snacks,Penguin Wing,19,0
+985,Discover,Evening,42.498472304358835,Toys,Penguin Wing,45,0
+986,AmEx,Evening,66.62420032956969,Toys,Penguin Wing,68,0
+987,AmEx,Late Night,2.5054805715938357,Jewelry,Gift Kiosk,58,0
+988,AmEx,Late Night,14.948590589455574,Jewelry,Shark Tank Exit,20,0
+989,AmEx,Evening,10.291642765471416,Toys,Main Entrance,62,0
+990,Discover,Evening,51.138267806284766,Apparel,Main Entrance,31,0
+991,Visa,Afternoon,2.180509916636701,Snacks,Shark Tank Exit,51,0
+992,AmEx,Morning,5.928714847284027,Jewelry,Gift Kiosk,36,0
+993,MasterCard,Late Night,34.905419405303604,Snacks,Main Entrance,30,0
+994,Visa,Evening,1.3164042243843754,Books,Shark Tank Exit,16,0
+995,AmEx,Late Night,16.958207154740684,Toys,Main Entrance,22,0
+996,Visa,Late Night,14.589703835569248,Apparel,Penguin Wing,26,0
+997,MasterCard,Evening,10.176704019848438,Books,Main Entrance,19,1
+998,AmEx,Afternoon,12.545503846776942,Books,Gift Kiosk,30,0
+999,MasterCard,Late Night,18.872404537011615,Books,Shark Tank Exit,34,0
+1000,Discover,Afternoon,4.399563026707958,Toys,Gift Kiosk,38,0
