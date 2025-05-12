@@ -1,0 +1,501 @@
+SimID,Career,CareerLevel,HouseholdSize,HousingType,WeeklySalary,WeeklyGroceriesCost,SavedThisWeek
+1,Athlete,7,1,Tiny Home,2209.11,48.09,2161.02
+2,Barista,4,3,Mansion,810.07,264.12,545.95
+3,Barista,8,4,Small Apartment,1557.57,213.02,1344.55
+4,Scientist,5,4,Starter Home,1755.86,306.73,1449.13
+5,Athlete,7,3,Small Apartment,2218.69,209.39,2009.3
+6,Criminal,10,4,Townhouse,2751.84,257.11,2494.73
+7,Doctor,3,4,Small Apartment,1201.28,262.67,938.61
+8,Barista,7,4,Small Apartment,1402.41,223.46,1178.95
+9,Scientist,8,4,Townhouse,2792.11,256.01,2536.1
+10,Athlete,5,4,Mansion,1591.45,330.66,1260.79
+11,Doctor,4,1,Mansion,1585.58,70.8,1514.78
+12,Athlete,8,4,Small Apartment,2569.68,239.12,2330.56
+13,Freelancer,8,1,Townhouse,2416.1,66.85,2349.25
+14,Scientist,3,4,Townhouse,1025.62,292.14,733.48
+15,Doctor,6,3,Starter Home,2398.97,233.18,2165.79
+16,Secret Agent,5,2,Mansion,1803.93,194.56,1609.37
+17,Painter,2,1,Tiny Home,503.68,48.74,454.94
+18,Painter,8,4,Mansion,2003.34,376.54,1626.8
+19,Doctor,6,3,Mansion,2391.96,312.73,2079.23
+20,Athlete,2,2,Starter Home,645.58,149.47,496.11
+21,Scientist,5,1,Tiny Home,1762.36,63.87,1698.49
+22,Painter,1,2,Starter Home,252.82,173.07,79.75
+23,Scientist,10,3,Tiny Home,3510.12,157.65,3352.47
+24,Painter,6,1,Small Apartment,1519.81,55.82,1463.99
+25,Freelancer,9,2,Tiny Home,2662.98,99.78,2563.2
+26,Athlete,1,4,Starter Home,338.87,244.34,94.53
+27,Freelancer,10,1,Mansion,3006.85,85.33,2921.52
+28,Painter,3,2,Tiny Home,727.77,121.04,606.73
+29,Secret Agent,7,3,Tiny Home,2536.05,126.29,2409.76
+30,Secret Agent,4,3,Townhouse,1432.03,177.46,1254.57
+31,Freelancer,9,1,Mansion,2694.76,88.86,2605.9
+32,Secret Agent,3,2,Small Apartment,1069.85,109.47,960.38
+33,Painter,5,1,Starter Home,1256.05,68.2,1187.85
+34,Doctor,3,1,Small Apartment,1184.29,56.93,1127.36
+35,Freelancer,7,2,Mansion,2118.03,175.36,1942.67
+36,Tech Guru,5,2,Tiny Home,1497.22,100.12,1397.1
+37,Athlete,9,4,Tiny Home,2872.72,198.48,2674.24
+38,Secret Agent,7,2,Mansion,2535.06,196.82,2338.24
+39,Secret Agent,2,3,Tiny Home,713.61,179.0,534.61
+40,Barista,4,1,Tiny Home,818.96,46.55,772.41
+41,Criminal,9,1,Tiny Home,2494.59,39.1,2455.49
+42,Freelancer,2,3,Starter Home,573.3,238.97,334.33
+43,Actor,10,2,Starter Home,2822.19,126.31,2695.88
+44,Secret Agent,9,3,Townhouse,3210.76,202.21,3008.55
+45,Athlete,10,3,Small Apartment,3223.43,151.82,3071.61
+46,Tech Guru,5,4,Mansion,1540.57,406.72,1133.85
+47,Secret Agent,2,3,Mansion,737.5,338.68,398.82
+48,Tech Guru,4,1,Mansion,1156.86,91.65,1065.21
+49,Painter,7,3,Townhouse,1771.27,196.14,1575.13
+50,Painter,8,1,Starter Home,2044.92,69.68,1975.24
+51,Criminal,3,1,Townhouse,818.94,71.16,747.78
+52,Doctor,1,1,Mansion,399.31,95.11,304.2
+53,Actor,4,2,Small Apartment,1096.23,132.04,964.19
+54,Barista,2,4,Tiny Home,406.24,202.44,203.8
+55,Criminal,8,1,Starter Home,2225.38,74.45,2150.93
+56,Scientist,4,1,Starter Home,1413.95,68.09,1345.86
+57,Barista,2,2,Townhouse,462.84,118.04,344.8
+58,Freelancer,6,1,Starter Home,1800.66,71.7,1728.96
+59,Athlete,6,3,Mansion,1887.39,245.09,1642.3
+60,Scientist,10,3,Mansion,3503.42,301.69,3201.73
+61,Scientist,4,4,Townhouse,1351.67,241.25,1110.42
+62,Criminal,6,1,Mansion,1639.34,93.27,1546.07
+63,Doctor,2,2,Small Apartment,832.49,112.76,719.73
+64,Criminal,10,3,Townhouse,2756.5,203.49,2553.01
+65,Freelancer,2,2,Small Apartment,603.59,113.71,489.88
+66,Secret Agent,10,2,Tiny Home,3636.42,94.42,3542.0
+67,Secret Agent,4,3,Small Apartment,1434.59,188.71,1245.88
+68,Doctor,8,2,Tiny Home,3225.24,105.46,3119.78
+69,Freelancer,7,3,Tiny Home,2102.59,166.63,1935.96
+70,Doctor,9,2,Small Apartment,3607.6,114.85,3492.75
+71,Tech Guru,8,3,Townhouse,2375.65,171.71,2203.94
+72,Secret Agent,5,1,Mansion,1790.36,99.75,1690.61
+73,Scientist,2,4,Mansion,672.05,386.52,285.53
+74,Actor,5,3,Tiny Home,1398.1,152.82,1245.28
+75,Athlete,8,3,Tiny Home,2567.81,163.13,2404.68
+76,Freelancer,10,4,Townhouse,2977.8,291.51,2686.29
+77,Barista,9,3,Starter Home,1840.98,206.13,1634.85
+78,Doctor,9,3,Small Apartment,3605.56,174.57,3430.99
+79,Athlete,1,2,Tiny Home,321.16,110.63,210.53
+80,Barista,9,4,Mansion,1815.39,343.47,1471.92
+81,Athlete,7,1,Townhouse,2223.42,71.66,2151.76
+82,Actor,9,3,Small Apartment,2523.27,176.96,2346.31
+83,Barista,8,4,Townhouse,1585.66,243.3,1342.36
+84,Criminal,1,2,Small Apartment,306.17,127.3,178.87
+85,Painter,8,1,Small Apartment,1978.83,53.15,1925.68
+86,Criminal,8,4,Tiny Home,2201.26,259.52,1941.74
+87,Secret Agent,3,1,Townhouse,1086.59,76.44,1010.15
+88,Painter,1,1,Townhouse,257.9,69.39,188.51
+89,Criminal,8,1,Mansion,2188.38,93.86,2094.52
+90,Painter,3,3,Mansion,732.09,280.33,451.76
+91,Painter,3,3,Tiny Home,738.66,154.08,584.58
+92,Scientist,1,2,Tiny Home,360.57,111.21,249.36
+93,Doctor,5,2,Starter Home,1997.12,130.71,1866.41
+94,Doctor,10,4,Mansion,4015.92,378.14,3637.78
+95,Scientist,7,2,Small Apartment,2459.54,130.41,2329.13
+96,Athlete,10,1,Townhouse,3154.46,63.5,3090.96
+97,Tech Guru,9,1,Tiny Home,2704.95,50.79,2654.16
+98,Athlete,7,3,Townhouse,2285.01,173.99,2111.02
+99,Barista,9,1,Townhouse,1826.51,75.62,1750.89
+100,Barista,8,4,Starter Home,1608.44,273.15,1335.29
+101,Painter,2,1,Mansion,478.81,88.21,390.6
+102,Criminal,1,1,Tiny Home,284.55,55.62,228.93
+103,Criminal,7,4,Townhouse,1939.79,271.45,1668.34
+104,Doctor,7,2,Tiny Home,2794.93,116.06,2678.87
+105,Freelancer,8,2,Small Apartment,2406.33,115.45,2290.88
+106,Athlete,5,4,Starter Home,1630.19,255.21,1374.98
+107,Secret Agent,3,3,Small Apartment,1062.85,156.35,906.5
+108,Actor,8,1,Tiny Home,2218.83,50.87,2167.96
+109,Criminal,6,4,Tiny Home,1663.85,195.44,1468.41
+110,Actor,3,1,Mansion,849.15,87.27,761.88
+111,Painter,1,3,Townhouse,270.58,223.89,46.69
+112,Actor,3,1,Townhouse,851.4,63.51,787.89
+113,Secret Agent,5,4,Small Apartment,1788.64,230.94,1557.7
+114,Scientist,3,1,Starter Home,1058.64,71.88,986.76
+115,Secret Agent,1,2,Townhouse,337.16,126.65,210.51
+116,Actor,5,3,Mansion,1394.99,268.18,1126.81
+117,Secret Agent,10,3,Small Apartment,3610.06,189.74,3420.32
+118,Tech Guru,7,3,Small Apartment,2092.79,195.93,1896.86
+119,Painter,7,4,Mansion,1799.36,396.12,1403.24
+120,Athlete,9,3,Starter Home,2842.16,260.43,2581.73
+121,Scientist,10,2,Mansion,3489.05,190.25,3298.8
+122,Criminal,10,4,Starter Home,2731.24,352.35,2378.89
+123,Barista,3,2,Mansion,585.99,166.02,419.97
+124,Athlete,7,1,Mansion,2227.14,108.82,2118.32
+125,Barista,1,1,Tiny Home,173.47,51.95,121.52
+126,Painter,4,1,Small Apartment,1015.05,58.31,956.74
+127,Scientist,4,1,Mansion,1389.06,88.92,1300.14
+128,Doctor,5,2,Mansion,2003.27,176.06,1827.21
+129,Criminal,7,4,Townhouse,1916.3,266.27,1650.03
+130,Tech Guru,7,4,Small Apartment,2086.18,226.08,1860.1
+131,Doctor,4,3,Townhouse,1633.45,214.43,1419.02
+132,Painter,7,2,Small Apartment,1768.46,113.37,1655.09
+133,Athlete,3,1,Townhouse,922.64,70.33,852.31
+134,Tech Guru,6,2,Mansion,1760.52,207.5,1553.02
+135,Secret Agent,2,3,Mansion,740.85,260.36,480.49
+136,Actor,10,3,Tiny Home,2789.6,174.87,2614.73
+137,Tech Guru,9,2,Townhouse,2667.02,139.38,2527.64
+138,Painter,5,2,Starter Home,1270.91,176.44,1094.47
+139,Freelancer,6,2,Tiny Home,1803.38,102.55,1700.83
+140,Actor,4,4,Townhouse,1125.03,284.99,840.04
+141,Barista,10,1,Townhouse,2016.19,55.27,1960.92
+142,Criminal,7,2,Tiny Home,1898.8,102.64,1796.16
+143,Barista,9,2,Mansion,1767.37,186.36,1581.01
+144,Tech Guru,7,2,Townhouse,2131.62,150.39,1981.23
+145,Barista,1,3,Mansion,171.26,236.9,0.0
+146,Painter,1,3,Tiny Home,225.56,174.73,50.83
+147,Secret Agent,9,4,Mansion,3219.55,357.72,2861.83
+148,Athlete,9,1,Small Apartment,2921.6,50.87,2870.73
+149,Criminal,4,4,Starter Home,1109.87,293.23,816.64
+150,Barista,9,1,Townhouse,1819.31,77.28,1742.03
+151,Barista,3,3,Starter Home,603.92,191.8,412.12
+152,Tech Guru,7,3,Mansion,2087.96,267.03,1820.93
+153,Athlete,6,3,Townhouse,1932.63,178.46,1754.17
+154,Doctor,8,4,Mansion,3168.87,343.13,2825.74
+155,Barista,9,2,Small Apartment,1778.09,137.19,1640.9
+156,Painter,5,2,Tiny Home,1264.66,105.07,1159.59
+157,Freelancer,1,3,Townhouse,272.85,225.75,47.1
+158,Criminal,3,2,Small Apartment,821.22,133.31,687.91
+159,Barista,10,2,Small Apartment,1997.13,115.65,1881.48
+160,Painter,8,4,Townhouse,1989.43,250.73,1738.7
+161,Painter,6,1,Mansion,1460.98,81.94,1379.04
+162,Criminal,8,3,Small Apartment,2187.42,163.24,2024.18
+163,Doctor,9,3,Starter Home,3583.5,223.63,3359.87
+164,Painter,4,4,Small Apartment,1003.23,239.53,763.7
+165,Freelancer,1,4,Mansion,302.21,337.55,0.0
+166,Painter,1,2,Mansion,257.56,152.12,105.44
+167,Painter,10,3,Starter Home,2486.48,218.29,2268.19
+168,Painter,4,1,Small Apartment,1010.46,57.18,953.28
+169,Secret Agent,7,4,Mansion,2488.88,352.97,2135.91
+170,Secret Agent,2,1,Townhouse,683.56,68.01,615.55
+171,Doctor,3,1,Tiny Home,1153.29,40.49,1112.8
+172,Barista,1,3,Tiny Home,190.01,137.16,52.85
+173,Painter,5,3,Tiny Home,1234.93,199.2,1035.73
+174,Athlete,1,4,Small Apartment,335.79,227.84,107.95
+175,Barista,8,3,Starter Home,1587.03,161.62,1425.41
+176,Doctor,1,3,Mansion,405.47,230.85,174.62
+177,Scientist,1,3,Townhouse,366.27,247.19,119.08
+178,Barista,2,1,Townhouse,386.27,61.36,324.91
+179,Barista,2,4,Small Apartment,405.96,267.82,138.14
+180,Actor,6,2,Tiny Home,1700.04,109.31,1590.73
+181,Tech Guru,7,1,Small Apartment,2075.24,57.09,2018.15
+182,Actor,5,3,Starter Home,1400.5,232.75,1167.75
+183,Freelancer,1,1,Starter Home,286.36,54.83,231.53
+184,Secret Agent,1,3,Mansion,336.51,231.09,105.42
+185,Secret Agent,3,3,Mansion,1049.27,256.71,792.56
+186,Tech Guru,2,1,Starter Home,576.19,62.33,513.86
+187,Criminal,5,4,Starter Home,1376.2,271.27,1104.93
+188,Criminal,10,3,Starter Home,2717.78,234.44,2483.34
+189,Doctor,6,4,Small Apartment,2388.99,243.17,2145.82
+190,Tech Guru,7,2,Starter Home,2116.26,163.16,1953.1
+191,Barista,4,3,Townhouse,808.98,201.87,607.11
+192,Criminal,7,4,Tiny Home,1914.39,237.44,1676.95
+193,Painter,8,4,Starter Home,2033.79,286.15,1747.64
+194,Athlete,1,2,Tiny Home,357.86,101.63,256.23
+195,Barista,6,4,Small Apartment,1200.52,275.53,924.99
+196,Freelancer,8,4,Tiny Home,2350.63,200.68,2149.95
+197,Painter,5,2,Small Apartment,1267.73,124.13,1143.6
+198,Painter,4,3,Townhouse,954.12,213.22,740.9
+199,Tech Guru,2,4,Small Apartment,629.52,260.2,369.32
+200,Doctor,6,4,Small Apartment,2421.67,212.03,2209.64
+201,Freelancer,6,4,Mansion,1835.48,397.87,1437.61
+202,Criminal,1,1,Starter Home,280.21,64.95,215.26
+203,Tech Guru,9,2,Starter Home,2692.77,155.67,2537.1
+204,Criminal,6,1,Townhouse,1641.0,69.53,1571.47
+205,Tech Guru,3,2,Townhouse,889.07,142.81,746.26
+206,Tech Guru,4,3,Starter Home,1219.62,189.97,1029.65
+207,Tech Guru,4,3,Mansion,1214.25,285.87,928.38
+208,Doctor,3,4,Starter Home,1202.4,319.27,883.13
+209,Tech Guru,10,2,Mansion,2985.56,183.48,2802.08
+210,Scientist,3,3,Townhouse,1102.58,181.79,920.79
+211,Athlete,3,2,Tiny Home,978.25,117.93,860.32
+212,Criminal,4,3,Townhouse,1068.05,200.26,867.79
+213,Barista,7,1,Townhouse,1389.67,54.95,1334.72
+214,Actor,4,3,Small Apartment,1138.64,163.87,974.77
+215,Freelancer,9,1,Small Apartment,2684.01,56.84,2627.17
+216,Secret Agent,1,3,Small Apartment,367.03,207.1,159.93
+217,Doctor,8,4,Small Apartment,3219.02,271.92,2947.1
+218,Barista,7,1,Mansion,1332.23,101.94,1230.29
+219,Painter,2,3,Starter Home,497.84,221.02,276.82
+220,Scientist,8,4,Tiny Home,2798.62,235.73,2562.89
+221,Secret Agent,1,1,Townhouse,351.76,58.47,293.29
+222,Actor,9,4,Mansion,2526.03,360.24,2165.79
+223,Barista,9,2,Tiny Home,1813.15,112.88,1700.27
+224,Secret Agent,2,2,Mansion,722.84,160.65,562.19
+225,Barista,7,1,Mansion,1392.52,91.89,1300.63
+226,Scientist,10,3,Townhouse,3512.65,231.4,3281.25
+227,Actor,3,1,Starter Home,840.98,76.02,764.96
+228,Painter,7,4,Small Apartment,1745.39,262.02,1483.37
+229,Tech Guru,10,3,Starter Home,2973.75,163.03,2810.72
+230,Criminal,9,2,Townhouse,2443.75,152.57,2291.18
+231,Painter,4,3,Townhouse,973.38,194.31,779.07
+232,Tech Guru,1,2,Townhouse,305.57,121.85,183.72
+233,Doctor,2,3,Tiny Home,798.42,159.17,639.25
+234,Athlete,1,3,Starter Home,290.39,183.92,106.47
+235,Freelancer,5,3,Starter Home,1512.92,238.64,1274.28
+236,Freelancer,5,4,Mansion,1527.49,347.93,1179.56
+237,Criminal,7,4,Mansion,1913.03,333.41,1579.62
+238,Actor,9,1,Mansion,2485.18,88.49,2396.69
+239,Scientist,9,1,Townhouse,3135.82,73.38,3062.44
+240,Actor,3,2,Starter Home,857.09,145.89,711.2
+241,Scientist,3,4,Townhouse,1060.97,226.78,834.19
+242,Actor,3,2,Tiny Home,821.55,113.02,708.53
+243,Athlete,4,1,Mansion,1310.42,81.64,1228.78
+244,Doctor,8,2,Townhouse,3226.97,103.54,3123.43
+245,Doctor,6,1,Townhouse,2385.34,75.87,2309.47
+246,Tech Guru,8,4,Tiny Home,2385.13,225.88,2159.25
+247,Secret Agent,1,3,Small Apartment,348.14,178.59,169.55
+248,Doctor,8,4,Starter Home,3189.85,278.05,2911.8
+249,Doctor,4,2,Small Apartment,1619.01,136.76,1482.25
+250,Painter,1,2,Mansion,258.51,235.57,22.94
+251,Painter,8,4,Townhouse,2017.54,275.85,1741.69
+252,Tech Guru,4,4,Tiny Home,1213.47,193.76,1019.71
+253,Secret Agent,6,1,Tiny Home,2194.29,53.17,2141.12
+254,Criminal,8,2,Starter Home,2178.81,150.2,2028.61
+255,Painter,4,2,Small Apartment,1007.61,91.81,915.8
+256,Criminal,3,4,Starter Home,781.52,297.63,483.89
+257,Barista,9,3,Townhouse,1773.66,206.64,1567.02
+258,Painter,3,2,Starter Home,748.5,163.1,585.4
+259,Athlete,9,3,Tiny Home,2888.36,181.8,2706.56
+260,Secret Agent,2,4,Tiny Home,717.96,218.4,499.56
+261,Tech Guru,2,4,Mansion,588.66,414.53,174.13
+262,Barista,2,1,Mansion,392.21,108.32,283.89
+263,Secret Agent,6,2,Townhouse,2187.39,132.37,2055.02
+264,Athlete,3,3,Small Apartment,952.32,187.53,764.79
+265,Secret Agent,9,1,Starter Home,3274.98,59.28,3215.7
+266,Athlete,4,2,Townhouse,1295.88,112.85,1183.03
+267,Athlete,1,1,Mansion,329.15,82.46,246.69
+268,Criminal,4,4,Starter Home,1076.13,275.22,800.91
+269,Actor,1,2,Mansion,298.7,160.27,138.43
+270,Barista,5,1,Starter Home,990.12,71.74,918.38
+271,Secret Agent,4,1,Small Apartment,1416.11,57.52,1358.59
+272,Scientist,8,3,Townhouse,2810.26,219.2,2591.06
+273,Barista,8,1,Starter Home,1572.24,68.58,1503.66
+274,Actor,7,2,Tiny Home,1944.76,83.3,1861.46
+275,Barista,3,2,Tiny Home,599.8,109.36,490.44
+276,Doctor,1,3,Starter Home,444.37,215.69,228.68
+277,Scientist,1,2,Starter Home,336.26,131.59,204.67
+278,Actor,3,4,Starter Home,830.84,290.74,540.1
+279,Criminal,6,2,Tiny Home,1664.65,96.39,1568.26
+280,Secret Agent,7,2,Tiny Home,2495.23,111.56,2383.67
+281,Freelancer,6,1,Starter Home,1808.86,90.96,1717.9
+282,Actor,6,1,Mansion,1704.12,73.75,1630.37
+283,Tech Guru,6,2,Mansion,1793.86,170.71,1623.15
+284,Secret Agent,3,3,Small Apartment,1100.52,167.82,932.7
+285,Actor,6,1,Townhouse,1685.83,63.14,1622.69
+286,Doctor,8,3,Mansion,3185.39,297.54,2887.85
+287,Freelancer,2,2,Tiny Home,596.04,113.86,482.18
+288,Doctor,5,2,Mansion,1992.4,195.28,1797.12
+289,Freelancer,1,4,Small Apartment,298.25,240.73,57.52
+290,Tech Guru,1,1,Small Apartment,303.05,52.07,250.98
+291,Secret Agent,5,2,Townhouse,1811.76,117.29,1694.47
+292,Criminal,3,4,Mansion,835.17,386.87,448.3
+293,Doctor,4,1,Tiny Home,1551.37,54.92,1496.45
+294,Doctor,3,2,Tiny Home,1198.05,121.61,1076.44
+295,Athlete,1,2,Starter Home,289.81,148.22,141.59
+296,Freelancer,1,1,Tiny Home,294.49,47.61,246.88
+297,Painter,5,1,Townhouse,1247.52,62.56,1184.96
+298,Secret Agent,6,1,Townhouse,2179.52,69.73,2109.79
+299,Freelancer,3,2,Tiny Home,899.4,115.67,783.73
+300,Athlete,9,2,Tiny Home,2885.18,117.24,2767.94
+301,Barista,5,4,Starter Home,1015.86,257.8,758.06
+302,Freelancer,8,3,Tiny Home,2424.56,142.54,2282.02
+303,Criminal,1,1,Starter Home,272.54,70.63,201.91
+304,Secret Agent,5,2,Starter Home,1801.88,164.74,1637.14
+305,Athlete,3,2,Tiny Home,960.2,100.51,859.69
+306,Barista,1,1,Small Apartment,189.15,62.73,126.42
+307,Scientist,4,3,Small Apartment,1384.62,188.19,1196.43
+308,Athlete,5,1,Starter Home,1554.56,77.48,1477.08
+309,Scientist,7,3,Tiny Home,2428.47,188.96,2239.51
+310,Secret Agent,1,2,Small Apartment,324.43,138.74,185.69
+311,Doctor,3,3,Tiny Home,1225.1,152.37,1072.73
+312,Athlete,2,4,Tiny Home,643.77,170.69,473.08
+313,Tech Guru,9,2,Tiny Home,2697.48,100.67,2596.81
+314,Scientist,10,4,Mansion,3485.65,362.72,3122.93
+315,Criminal,6,1,Tiny Home,1650.6,52.05,1598.55
+316,Tech Guru,10,1,Mansion,2983.04,107.71,2875.33
+317,Actor,3,1,Starter Home,843.48,72.14,771.34
+318,Actor,8,3,Small Apartment,2244.91,191.77,2053.14
+319,Barista,8,2,Small Apartment,1582.77,122.61,1460.16
+320,Doctor,2,1,Small Apartment,782.39,57.92,724.47
+321,Secret Agent,6,1,Small Apartment,2179.24,48.45,2130.79
+322,Athlete,7,2,Small Apartment,2238.94,119.06,2119.88
+323,Painter,2,1,Small Apartment,484.38,79.53,404.85
+324,Criminal,10,4,Small Apartment,2742.59,210.13,2532.46
+325,Scientist,2,2,Starter Home,679.79,117.87,561.92
+326,Secret Agent,10,2,Tiny Home,3598.66,128.91,3469.75
+327,Tech Guru,1,2,Townhouse,316.63,141.8,174.83
+328,Actor,8,4,Mansion,2239.45,366.75,1872.7
+329,Criminal,1,2,Townhouse,322.27,149.99,172.28
+330,Painter,9,4,Townhouse,2258.43,242.05,2016.38
+331,Athlete,6,2,Tiny Home,1924.6,106.85,1817.75
+332,Barista,7,3,Tiny Home,1381.83,177.47,1204.36
+333,Painter,10,1,Tiny Home,2495.23,65.4,2429.83
+334,Criminal,7,3,Small Apartment,1909.42,158.97,1750.45
+335,Painter,10,1,Starter Home,2456.69,81.22,2375.47
+336,Criminal,3,4,Small Apartment,844.49,249.16,595.33
+337,Criminal,2,3,Starter Home,539.77,219.52,320.25
+338,Freelancer,9,2,Starter Home,2684.79,143.89,2540.9
+339,Scientist,8,1,Townhouse,2804.21,56.86,2747.35
+340,Actor,10,1,Townhouse,2810.25,72.36,2737.89
+341,Freelancer,7,3,Starter Home,2093.58,199.1,1894.48
+342,Athlete,9,4,Starter Home,2879.95,256.9,2623.05
+343,Freelancer,4,3,Small Apartment,1214.92,195.94,1018.98
+344,Doctor,4,4,Small Apartment,1592.8,258.94,1333.86
+345,Doctor,1,4,Townhouse,406.05,266.09,139.96
+346,Actor,8,1,Tiny Home,2206.82,59.83,2146.99
+347,Painter,3,3,Starter Home,725.17,246.8,478.37
+348,Scientist,7,3,Small Apartment,2462.11,203.55,2258.56
+349,Actor,2,4,Townhouse,534.13,250.05,284.08
+350,Criminal,2,3,Small Apartment,554.68,198.25,356.43
+351,Tech Guru,7,2,Starter Home,2097.06,147.05,1950.01
+352,Scientist,6,2,Starter Home,2092.71,168.85,1923.86
+353,Scientist,3,3,Mansion,1033.43,266.66,766.77
+354,Criminal,9,3,Tiny Home,2493.19,156.23,2336.96
+355,Criminal,10,4,Mansion,2784.6,337.9,2446.7
+356,Barista,6,2,Townhouse,1206.0,134.5,1071.5
+357,Actor,10,2,Small Apartment,2806.45,125.6,2680.85
+358,Criminal,10,1,Townhouse,2736.35,69.21,2667.14
+359,Doctor,6,4,Starter Home,2376.08,298.06,2078.02
+360,Athlete,1,1,Mansion,319.21,96.04,223.17
+361,Tech Guru,4,2,Mansion,1180.53,175.99,1004.54
+362,Actor,10,4,Mansion,2764.55,328.59,2435.96
+363,Secret Agent,6,3,Townhouse,2176.07,179.0,1997.07
+364,Doctor,6,4,Starter Home,2417.04,316.08,2100.96
+365,Painter,5,3,Small Apartment,1232.82,188.47,1044.35
+366,Criminal,1,3,Small Apartment,279.88,146.59,133.29
+367,Secret Agent,8,4,Townhouse,2900.04,292.95,2607.09
+368,Criminal,5,3,Mansion,1379.1,320.77,1058.33
+369,Scientist,5,1,Tiny Home,1726.14,50.13,1676.01
+370,Doctor,7,2,Townhouse,2795.34,136.44,2658.9
+371,Scientist,4,3,Townhouse,1426.54,188.63,1237.91
+372,Barista,6,1,Starter Home,1204.94,76.52,1128.42
+373,Scientist,4,3,Small Apartment,1410.78,159.01,1251.77
+374,Barista,3,2,Townhouse,606.83,131.06,475.77
+375,Barista,7,1,Townhouse,1382.89,72.48,1310.41
+376,Secret Agent,8,2,Mansion,2867.58,202.24,2665.34
+377,Criminal,4,2,Mansion,1106.78,187.68,919.1
+378,Painter,2,1,Tiny Home,516.34,52.17,464.17
+379,Scientist,10,1,Starter Home,3522.0,60.53,3461.47
+380,Doctor,3,1,Tiny Home,1182.84,49.91,1132.93
+381,Barista,1,4,Mansion,208.66,343.11,0.0
+382,Criminal,8,1,Small Apartment,2223.74,55.81,2167.93
+383,Tech Guru,3,1,Mansion,880.26,90.54,789.72
+384,Actor,10,1,Starter Home,2829.73,69.54,2760.19
+385,Secret Agent,7,1,Mansion,2552.78,91.55,2461.23
+386,Painter,10,3,Starter Home,2552.5,241.98,2310.52
+387,Freelancer,5,4,Starter Home,1504.62,276.29,1228.33
+388,Secret Agent,10,2,Starter Home,3604.73,124.09,3480.64
+389,Tech Guru,5,1,Starter Home,1516.54,66.95,1449.59
+390,Actor,7,3,Starter Home,1975.96,228.61,1747.35
+391,Tech Guru,9,3,Small Apartment,2722.53,192.2,2530.33
+392,Scientist,5,3,Tiny Home,1765.68,168.58,1597.1
+393,Barista,1,2,Townhouse,197.88,149.17,48.71
+394,Painter,10,1,Tiny Home,2524.44,52.99,2471.45
+395,Athlete,10,4,Starter Home,3178.57,347.1,2831.47
+396,Barista,1,4,Small Apartment,200.12,259.64,0.0
+397,Athlete,2,3,Mansion,671.27,201.87,469.4
+398,Actor,6,2,Small Apartment,1655.0,141.61,1513.39
+399,Criminal,9,2,Starter Home,2461.45,132.96,2328.49
+400,Freelancer,8,2,Small Apartment,2413.43,107.59,2305.84
+401,Doctor,5,4,Small Apartment,2007.88,252.57,1755.31
+402,Barista,1,3,Starter Home,182.5,178.46,4.04
+403,Painter,7,1,Small Apartment,1741.68,55.83,1685.85
+404,Tech Guru,5,4,Townhouse,1476.38,305.11,1171.27
+405,Painter,6,3,Townhouse,1519.61,209.01,1310.6
+406,Actor,7,3,Small Apartment,1954.88,194.62,1760.26
+407,Athlete,3,1,Mansion,995.84,84.09,911.75
+408,Tech Guru,10,1,Starter Home,3001.62,60.92,2940.7
+409,Doctor,3,1,Townhouse,1195.61,70.66,1124.95
+410,Doctor,5,2,Mansion,1993.66,196.74,1796.92
+411,Barista,6,1,Small Apartment,1195.12,65.31,1129.81
+412,Actor,9,3,Mansion,2522.22,275.64,2246.58
+413,Criminal,5,1,Tiny Home,1425.25,48.78,1376.47
+414,Actor,1,3,Townhouse,273.22,246.27,26.95
+415,Athlete,4,4,Small Apartment,1273.87,251.51,1022.36
+416,Painter,5,2,Starter Home,1251.31,141.5,1109.81
+417,Doctor,10,4,Small Apartment,4021.81,235.93,3785.88
+418,Painter,10,4,Starter Home,2471.58,292.31,2179.27
+419,Painter,5,3,Small Apartment,1259.1,199.25,1059.85
+420,Painter,7,4,Mansion,1733.65,366.83,1366.82
+421,Doctor,4,3,Mansion,1611.07,293.18,1317.89
+422,Secret Agent,1,1,Mansion,350.12,91.36,258.76
+423,Scientist,5,1,Tiny Home,1703.92,53.39,1650.53
+424,Athlete,7,3,Starter Home,2247.39,229.85,2017.54
+425,Secret Agent,10,1,Mansion,3607.22,95.43,3511.79
+426,Athlete,10,2,Tiny Home,3188.42,106.17,3082.25
+427,Tech Guru,6,4,Starter Home,1787.23,266.42,1520.81
+428,Actor,5,2,Small Apartment,1373.77,124.1,1249.67
+429,Actor,4,4,Tiny Home,1135.46,217.69,917.77
+430,Freelancer,2,1,Townhouse,617.64,62.34,555.3
+431,Actor,4,2,Tiny Home,1102.42,98.9,1003.52
+432,Doctor,10,1,Tiny Home,3989.2,56.22,3932.98
+433,Criminal,10,4,Starter Home,2748.73,303.84,2444.89
+434,Barista,3,3,Small Apartment,645.42,173.52,471.9
+435,Freelancer,10,3,Townhouse,3010.9,186.52,2824.38
+436,Barista,1,2,Mansion,181.13,165.06,16.07
+437,Athlete,8,1,Mansion,2566.08,93.44,2472.64
+438,Barista,5,1,Tiny Home,972.47,49.66,922.81
+439,Barista,4,2,Starter Home,814.36,176.27,638.09
+440,Freelancer,8,3,Starter Home,2433.51,207.14,2226.37
+441,Tech Guru,7,4,Mansion,2133.6,272.69,1860.91
+442,Painter,2,2,Townhouse,514.7,131.6,383.1
+443,Actor,1,4,Small Apartment,268.33,238.25,30.08
+444,Actor,4,3,Townhouse,1093.98,220.01,873.97
+445,Doctor,8,1,Small Apartment,3172.0,61.73,3110.27
+446,Freelancer,2,3,Mansion,543.88,247.49,296.39
+447,Doctor,3,2,Small Apartment,1213.88,116.56,1097.32
+448,Criminal,1,1,Starter Home,272.94,74.36,198.58
+449,Criminal,1,2,Tiny Home,293.18,84.62,208.56
+450,Doctor,3,2,Tiny Home,1228.56,122.46,1106.1
+451,Freelancer,5,3,Mansion,1502.0,247.56,1254.44
+452,Doctor,3,2,Starter Home,1202.92,164.41,1038.51
+453,Actor,1,3,Townhouse,270.71,205.77,64.94
+454,Secret Agent,1,1,Starter Home,353.08,76.53,276.55
+455,Scientist,8,3,Tiny Home,2814.57,180.62,2633.95
+456,Barista,10,1,Tiny Home,1996.51,57.09,1939.42
+457,Scientist,2,3,Starter Home,693.62,230.53,463.09
+458,Freelancer,3,4,Starter Home,899.63,283.26,616.37
+459,Scientist,2,4,Tiny Home,717.73,224.04,493.69
+460,Criminal,3,2,Townhouse,811.15,124.25,686.9
+461,Athlete,7,3,Mansion,2238.67,260.73,1977.94
+462,Barista,1,3,Mansion,204.91,323.05,0.0
+463,Painter,10,1,Starter Home,2523.2,66.18,2457.02
+464,Freelancer,8,2,Mansion,2395.21,182.78,2212.43
+465,Barista,10,3,Tiny Home,1985.64,163.84,1821.8
+466,Scientist,10,2,Tiny Home,3490.31,104.64,3385.67
+467,Criminal,10,4,Starter Home,2771.06,302.81,2468.25
+468,Tech Guru,2,3,Starter Home,640.67,228.74,411.93
+469,Secret Agent,3,3,Starter Home,1053.72,196.0,857.72
+470,Painter,9,2,Townhouse,2228.09,133.34,2094.75
+471,Secret Agent,7,3,Mansion,2516.62,240.78,2275.84
+472,Barista,4,2,Starter Home,802.22,155.36,646.86
+473,Criminal,10,3,Small Apartment,2765.74,183.18,2582.56
+474,Criminal,5,1,Small Apartment,1357.18,60.49,1296.69
+475,Scientist,2,2,Tiny Home,678.74,115.12,563.62
+476,Actor,8,3,Mansion,2242.76,262.56,1980.2
+477,Scientist,4,4,Starter Home,1394.83,314.32,1080.51
+478,Actor,9,3,Small Apartment,2538.53,162.93,2375.6
+479,Actor,5,4,Mansion,1409.75,410.83,998.92
+480,Painter,9,4,Tiny Home,2261.11,204.1,2057.01
+481,Scientist,4,1,Townhouse,1397.91,54.81,1343.1
+482,Tech Guru,10,2,Mansion,3047.11,174.09,2873.02
+483,Doctor,5,3,Mansion,1983.25,258.07,1725.18
+484,Doctor,9,1,Townhouse,3612.22,63.78,3548.44
+485,Scientist,8,3,Mansion,2774.61,276.25,2498.36
+486,Scientist,3,4,Tiny Home,1028.53,239.71,788.82
+487,Secret Agent,1,2,Tiny Home,347.85,105.93,241.92
+488,Painter,3,3,Townhouse,782.59,184.31,598.28
+489,Scientist,4,3,Starter Home,1405.28,191.67,1213.61
+490,Secret Agent,2,4,Small Apartment,708.19,228.76,479.43
+491,Actor,1,3,Starter Home,287.49,175.22,112.27
+492,Criminal,7,3,Mansion,1925.7,250.42,1675.28
+493,Criminal,8,4,Small Apartment,2190.16,269.86,1920.3
+494,Actor,7,1,Townhouse,1932.07,60.57,1871.5
+495,Freelancer,5,4,Townhouse,1528.77,280.6,1248.17
+496,Secret Agent,1,1,Small Apartment,364.2,52.64,311.56
+497,Secret Agent,7,2,Tiny Home,2563.47,127.13,2436.34
+498,Actor,7,1,Small Apartment,1978.81,71.03,1907.78
+499,Tech Guru,9,1,Mansion,2711.03,95.32,2615.71
+500,Athlete,3,2,Tiny Home,951.3,129.51,821.79
