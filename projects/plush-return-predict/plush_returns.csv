@@ -1,0 +1,1001 @@
+OrderID,Theme,Color,Price,UnitsOrdered,PaymentMethod,DaysToDelivery,CustomerComplaints,Returned
+1,Mermaid,Rainbow,22.819395583974547,6,Gift Card,6,0,0
+2,Dragon,Rainbow,29.052615007956756,3,Apple Pay,4,1,0
+3,Robot,Rainbow,15.212541074960832,2,Credit Card,7,0,0
+4,Dragon,Rainbow,11.150985102104611,2,Gift Card,5,0,0
+5,Dragon,Purple,17.558589758243727,2,PayPal,7,0,0
+6,Dinosaur,Purple,30.898546688271594,1,Apple Pay,8,0,0
+7,Robot,Blue,13.981627160151346,1,Gift Card,8,0,0
+8,Robot,Pink,26.195584027220338,3,Credit Card,1,0,0
+9,Robot,Rainbow,26.388504070382204,5,Gift Card,8,2,0
+10,Dragon,Blue,15.232058791460027,3,Apple Pay,6,0,0
+11,Mermaid,Pink,20.844915395926378,6,Credit Card,4,0,0
+12,Robot,Green,26.141983115642688,2,Apple Pay,8,4,1
+13,Dragon,Purple,16.104361295062564,2,Gift Card,3,1,1
+14,Dinosaur,Pink,16.982098199488192,3,PayPal,4,0,0
+15,Mermaid,Green,15.091595430256781,1,PayPal,6,1,0
+16,Dinosaur,Pink,12.926216346535666,1,Gift Card,7,0,0
+17,Mermaid,Purple,14.753612274669965,5,Gift Card,4,0,0
+18,Dragon,Purple,11.880298666188718,4,Gift Card,4,0,1
+19,Unicorn,Blue,18.17041734129613,2,Credit Card,7,1,0
+20,Mermaid,Rainbow,14.15013384470679,3,Apple Pay,6,0,0
+21,Dinosaur,Pink,19.16892955895374,1,Apple Pay,8,0,0
+22,Dragon,Pink,10.220521768981865,1,Apple Pay,1,0,0
+23,Mermaid,Green,19.654401161072286,2,Gift Card,7,0,0
+24,Unicorn,Purple,22.167644808044624,3,Apple Pay,7,1,0
+25,Unicorn,Pink,8.031321787142723,3,Gift Card,7,2,0
+26,Robot,Purple,19.87028284923786,2,Credit Card,7,0,0
+27,Robot,Pink,24.13834496236646,1,PayPal,8,0,0
+28,Dinosaur,Blue,11.951794906543974,4,Gift Card,9,1,0
+29,Mermaid,Rainbow,26.362861934188516,4,Gift Card,9,4,0
+30,Mermaid,Pink,20.095095046830227,4,PayPal,2,0,0
+31,Robot,Purple,14.474940721207956,6,PayPal,7,1,1
+32,Mermaid,Blue,17.72115461171147,3,Credit Card,7,0,0
+33,Mermaid,Pink,20.79163456260861,3,Apple Pay,4,1,0
+34,Unicorn,Green,18.380026957062057,4,Gift Card,9,1,0
+35,Robot,Rainbow,20.693779962231847,3,Apple Pay,8,0,0
+36,Dragon,Pink,13.396632034603169,3,Gift Card,1,2,0
+37,Robot,Blue,18.84680412018039,3,Credit Card,2,0,0
+38,Dragon,Green,10.9314275154751,7,PayPal,2,0,1
+39,Unicorn,Blue,17.4438696932565,5,Credit Card,8,1,0
+40,Dinosaur,Blue,13.480461792676051,2,PayPal,1,0,1
+41,Mermaid,Green,14.322350287051167,7,Apple Pay,4,1,1
+42,Unicorn,Blue,24.18046587605219,2,Apple Pay,5,0,1
+43,Mermaid,Green,23.456550602971344,4,Credit Card,9,0,0
+44,Dinosaur,Pink,21.045690604535885,2,PayPal,7,0,0
+45,Dinosaur,Green,12.538436176637106,4,Credit Card,8,1,0
+46,Unicorn,Green,16.41795775152599,5,PayPal,9,0,0
+47,Dinosaur,Rainbow,24.065488499895917,4,PayPal,7,2,0
+48,Dragon,Green,18.708584568199523,4,Apple Pay,5,0,0
+49,Dinosaur,Green,29.596647699908473,3,Apple Pay,5,0,0
+50,Mermaid,Pink,19.96658919697186,5,PayPal,6,1,1
+51,Mermaid,Rainbow,18.960245582450156,5,PayPal,5,1,0
+52,Mermaid,Purple,16.454417678987493,2,PayPal,9,0,0
+53,Mermaid,Pink,18.66770452391141,3,Apple Pay,3,1,0
+54,Dragon,Pink,17.23765081809728,3,Apple Pay,3,1,0
+55,Robot,Purple,21.54054338344295,3,Gift Card,7,0,0
+56,Unicorn,Green,22.78351158397292,3,PayPal,7,0,1
+57,Mermaid,Blue,14.070052697460252,3,Gift Card,6,0,0
+58,Dinosaur,Rainbow,11.34383523221111,5,PayPal,3,0,0
+59,Mermaid,Blue,8.818973134483517,2,Apple Pay,7,0,0
+60,Dinosaur,Purple,20.539956634562717,2,Gift Card,5,0,0
+61,Dinosaur,Pink,12.483166969130632,2,Gift Card,7,3,0
+62,Mermaid,Pink,7.235547035237586,3,Credit Card,2,1,0
+63,Dragon,Rainbow,19.942893022654822,2,PayPal,6,0,0
+64,Dinosaur,Pink,30.464997587163953,2,Apple Pay,8,1,0
+65,Dinosaur,Pink,17.969645442300532,4,Credit Card,1,0,0
+66,Mermaid,Rainbow,22.19245387225821,3,Credit Card,4,0,0
+67,Dinosaur,Rainbow,18.409146792737825,2,PayPal,1,0,1
+68,Dinosaur,Purple,17.505551734044285,2,Credit Card,1,1,0
+69,Mermaid,Pink,22.595382414938843,4,PayPal,8,1,0
+70,Mermaid,Pink,16.548627279056742,1,Credit Card,7,1,1
+71,Unicorn,Purple,19.336961570359513,3,PayPal,1,0,1
+72,Dragon,Green,19.608489030980067,4,Apple Pay,2,1,1
+73,Dragon,Green,14.659547731784755,1,PayPal,4,1,0
+74,Dinosaur,Green,22.960211747682614,4,PayPal,1,1,0
+75,Dragon,Purple,17.125201216522957,3,Gift Card,3,0,0
+76,Dinosaur,Pink,14.221274202535776,4,Apple Pay,8,0,0
+77,Unicorn,Purple,20.682549217852017,3,Apple Pay,8,1,0
+78,Mermaid,Purple,13.507660091044814,3,Apple Pay,8,0,0
+79,Mermaid,Green,18.140905786845643,4,Credit Card,6,1,0
+80,Mermaid,Blue,17.95440501677898,3,Gift Card,6,1,1
+81,Dragon,Pink,23.42947782915789,4,Apple Pay,5,0,0
+82,Unicorn,Green,20.373491164399763,3,Credit Card,9,1,0
+83,Dragon,Blue,17.87486520627428,1,Credit Card,4,0,0
+84,Dragon,Blue,22.088831496001436,2,Credit Card,7,0,0
+85,Unicorn,Rainbow,24.951037745086566,4,Gift Card,1,0,0
+86,Unicorn,Pink,20.789051531759313,3,Credit Card,9,0,0
+87,Unicorn,Blue,18.051763099216902,4,Gift Card,7,0,0
+88,Unicorn,Green,11.440818838249202,2,PayPal,9,0,0
+89,Mermaid,Rainbow,12.674431684623137,3,Credit Card,7,0,0
+90,Robot,Pink,16.47387647822666,1,Apple Pay,2,1,0
+91,Robot,Purple,14.952438989203584,2,Credit Card,6,0,0
+92,Unicorn,Green,17.06514348507277,2,PayPal,4,2,0
+93,Robot,Blue,18.283249624485535,1,PayPal,3,1,0
+94,Robot,Blue,20.648463771783653,5,Credit Card,2,1,0
+95,Unicorn,Green,17.647506109704544,7,PayPal,6,0,0
+96,Robot,Blue,20.43250821913101,5,Gift Card,8,1,0
+97,Dragon,Rainbow,18.3223720740506,4,Gift Card,6,0,1
+98,Dinosaur,Pink,8.122667168230643,2,Credit Card,9,0,0
+99,Dinosaur,Rainbow,13.303323030906228,5,Gift Card,5,0,1
+100,Unicorn,Blue,17.279562221391924,3,Gift Card,2,1,0
+101,Mermaid,Purple,11.951526285794461,4,Apple Pay,8,0,0
+102,Unicorn,Pink,20.999643649981024,3,Credit Card,9,0,0
+103,Mermaid,Pink,25.65375416171849,1,PayPal,4,1,0
+104,Dinosaur,Green,24.093809258486584,3,Credit Card,6,1,0
+105,Unicorn,Green,16.93278564534896,3,Gift Card,8,0,0
+106,Dragon,Purple,25.45363068424976,4,Apple Pay,9,0,0
+107,Robot,Pink,18.743337286010558,2,Credit Card,5,0,0
+108,Mermaid,Purple,16.314570144409803,1,Credit Card,6,0,1
+109,Robot,Green,14.9329866822953,2,Gift Card,4,0,0
+110,Robot,Green,16.487651567559357,4,Gift Card,5,0,0
+111,Unicorn,Pink,16.059115907293858,2,Credit Card,7,0,0
+112,Robot,Rainbow,18.85208111187744,2,Gift Card,9,0,1
+113,Dragon,Blue,18.802869905249324,3,Gift Card,6,0,0
+114,Robot,Green,18.015230100767074,6,Gift Card,6,0,0
+115,Unicorn,Green,20.184690848731748,5,Gift Card,8,0,1
+116,Dragon,Rainbow,23.953231373931708,3,Gift Card,4,0,0
+117,Dinosaur,Rainbow,22.747770677206617,3,Apple Pay,3,1,0
+118,Robot,Purple,10.575510157750482,6,Gift Card,7,0,0
+119,Unicorn,Purple,5.230394325490225,2,PayPal,5,0,0
+120,Dinosaur,Blue,22.67159955619637,3,Credit Card,2,0,1
+121,Dinosaur,Blue,11.165606507922895,2,Apple Pay,2,1,0
+122,Mermaid,Pink,16.87617299053658,4,Apple Pay,6,0,1
+123,Dragon,Purple,12.149434869703203,1,Gift Card,8,1,1
+124,Robot,Green,8.9900978120999,1,Credit Card,1,0,0
+125,Unicorn,Purple,20.70731364102394,3,PayPal,6,0,0
+126,Mermaid,Green,21.795775801513233,2,Gift Card,2,1,0
+127,Dragon,Rainbow,15.117447996366403,2,Credit Card,2,2,0
+128,Mermaid,Purple,5.0447885392754515,3,Gift Card,7,0,0
+129,Dragon,Rainbow,15.268777758737587,2,Gift Card,1,0,0
+130,Dragon,Blue,19.959020027012734,3,Gift Card,6,2,0
+131,Robot,Blue,10.605442156129357,3,Gift Card,7,1,0
+132,Dragon,Pink,18.91679959889578,4,Gift Card,8,0,0
+133,Mermaid,Purple,17.923450754135022,4,Gift Card,7,2,1
+134,Dragon,Rainbow,20.896457498005443,2,Gift Card,6,2,0
+135,Robot,Green,18.597901842070765,2,PayPal,9,2,1
+136,Robot,Blue,13.134655295592221,2,Apple Pay,3,1,0
+137,Mermaid,Blue,23.982857508322457,3,PayPal,6,1,0
+138,Dinosaur,Green,17.20735213486515,3,Gift Card,4,1,0
+139,Dinosaur,Rainbow,17.86347730245034,2,Gift Card,2,0,0
+140,Dragon,Rainbow,13.33366020463402,2,PayPal,1,0,0
+141,Unicorn,Purple,15.783588744042449,4,PayPal,1,2,0
+142,Dragon,Purple,13.575986429865495,2,Apple Pay,3,2,0
+143,Mermaid,Pink,17.135269700382885,6,PayPal,4,0,0
+144,Mermaid,Blue,26.558542400711715,3,Apple Pay,2,1,0
+145,Mermaid,Purple,11.140494285343218,4,Gift Card,1,2,0
+146,Mermaid,Rainbow,9.932193010616295,1,Credit Card,4,1,0
+147,Mermaid,Green,25.355851637468042,4,Credit Card,7,0,0
+148,Robot,Rainbow,16.95338161424067,1,Credit Card,6,0,1
+149,Dinosaur,Blue,14.654636306700418,5,Credit Card,6,0,1
+150,Mermaid,Rainbow,23.19952343698038,2,Gift Card,9,0,1
+151,Unicorn,Pink,14.97192230131568,3,Credit Card,2,1,0
+152,Unicorn,Blue,27.130048567734683,4,PayPal,4,0,0
+153,Unicorn,Green,21.389629356696346,2,PayPal,5,0,0
+154,Unicorn,Pink,15.560442959271487,1,Credit Card,1,0,0
+155,Robot,Blue,28.786541066327516,3,PayPal,8,0,0
+156,Unicorn,Green,14.971425384983307,3,Apple Pay,8,0,0
+157,Mermaid,Pink,21.710476860046533,3,Gift Card,6,1,0
+158,Dragon,Pink,19.49646290203246,1,Credit Card,5,1,0
+159,Unicorn,Blue,24.50870644699399,4,Credit Card,8,3,0
+160,Robot,Purple,25.807555983634263,6,Gift Card,3,2,0
+161,Robot,Pink,18.160020745328833,2,PayPal,3,0,0
+162,Unicorn,Pink,14.232910648269083,3,Gift Card,2,0,0
+163,Dragon,Green,20.299860714695583,3,Gift Card,5,0,0
+164,Unicorn,Rainbow,14.61142315123947,7,PayPal,3,0,1
+165,Robot,Blue,28.066936237633115,2,Gift Card,3,0,0
+166,Dinosaur,Blue,18.682676655413687,3,PayPal,6,2,0
+167,Mermaid,Purple,16.173392243439455,2,PayPal,8,0,1
+168,Robot,Purple,18.923401529324543,2,Gift Card,2,1,0
+169,Unicorn,Blue,11.264368552351517,3,Apple Pay,4,1,0
+170,Mermaid,Purple,13.141929807446743,1,PayPal,7,1,0
+171,Unicorn,Green,24.00206953972213,5,Gift Card,1,1,0
+172,Unicorn,Blue,14.715528605143021,3,PayPal,1,0,0
+173,Dinosaur,Purple,12.7654450865903,4,Apple Pay,7,0,0
+174,Mermaid,Blue,20.68326376263643,2,Apple Pay,7,0,0
+175,Mermaid,Rainbow,23.928520773314986,2,Credit Card,1,2,0
+176,Dinosaur,Pink,21.594766553325336,4,PayPal,1,0,1
+177,Robot,Blue,22.980238429029082,3,PayPal,4,0,0
+178,Unicorn,Pink,14.216024557152696,3,Gift Card,5,1,0
+179,Dragon,Purple,10.89094666629078,1,PayPal,5,0,1
+180,Unicorn,Pink,25.506668259777435,2,Credit Card,4,1,0
+181,Unicorn,Blue,16.38660080578932,3,Apple Pay,8,3,0
+182,Robot,Rainbow,16.745834917724764,1,Apple Pay,7,0,0
+183,Unicorn,Purple,24.640970709245288,5,Credit Card,9,1,0
+184,Dinosaur,Blue,20.7811500470033,6,PayPal,7,0,0
+185,Dinosaur,Purple,20.27943886040804,1,PayPal,1,0,0
+186,Mermaid,Green,28.82501172450542,1,Credit Card,7,1,0
+187,Dragon,Pink,14.782408848099285,7,Gift Card,1,0,0
+188,Unicorn,Green,22.639200640406187,1,Apple Pay,7,0,0
+189,Unicorn,Blue,18.285065624485423,2,Credit Card,8,0,1
+190,Robot,Rainbow,19.342961394316283,1,Credit Card,9,0,0
+191,Dinosaur,Purple,25.64234213206266,4,PayPal,3,2,0
+192,Dragon,Pink,20.53917878144812,3,Apple Pay,4,2,0
+193,Mermaid,Purple,20.691480395248163,4,PayPal,4,2,0
+194,Dinosaur,Blue,23.36253668654901,6,Credit Card,9,0,0
+195,Mermaid,Purple,16.175236352285573,6,Gift Card,7,1,0
+196,Robot,Pink,13.803951663304968,3,Apple Pay,3,0,0
+197,Robot,Blue,12.775954029894832,4,Credit Card,5,0,0
+198,Unicorn,Purple,8.16821705311999,7,Credit Card,7,0,0
+199,Dragon,Rainbow,28.28103564970161,4,Gift Card,8,1,0
+200,Mermaid,Blue,12.483958171391585,3,Credit Card,1,0,1
+201,Dinosaur,Blue,16.89373188207114,4,Credit Card,2,1,0
+202,Robot,Rainbow,16.615933500555396,2,Apple Pay,7,0,0
+203,Unicorn,Green,19.537033489045506,2,Apple Pay,2,0,0
+204,Unicorn,Pink,22.078686062696484,5,Apple Pay,7,1,0
+205,Mermaid,Green,22.302367441798726,1,PayPal,9,1,0
+206,Robot,Purple,15.084612807155308,7,Gift Card,2,0,0
+207,Dragon,Rainbow,17.164391431067944,3,Apple Pay,7,0,0
+208,Robot,Green,19.412899752441497,4,PayPal,4,0,1
+209,Mermaid,Blue,16.756544369082263,3,PayPal,2,1,0
+210,Mermaid,Purple,26.036727880099964,1,Gift Card,7,1,1
+211,Robot,Purple,20.454874758191256,2,Gift Card,5,1,0
+212,Mermaid,Green,21.674388930249087,5,Credit Card,1,1,0
+213,Robot,Green,21.314406343337062,4,PayPal,5,0,0
+214,Dinosaur,Rainbow,23.867369287426627,4,Apple Pay,3,0,0
+215,Robot,Pink,18.905107793518535,6,Gift Card,7,1,0
+216,Robot,Green,11.515840260220767,2,PayPal,6,1,0
+217,Mermaid,Green,19.998439758763208,5,Apple Pay,8,0,0
+218,Mermaid,Blue,14.743215531040855,2,PayPal,5,1,0
+219,Unicorn,Purple,15.356916591251217,2,Gift Card,2,1,1
+220,Unicorn,Pink,20.931820093775467,2,Credit Card,9,0,0
+221,Dinosaur,Blue,24.19141535716818,1,PayPal,8,0,1
+222,Unicorn,Rainbow,18.106357883680307,2,Apple Pay,6,1,0
+223,Robot,Rainbow,19.544165062994818,5,Gift Card,7,0,1
+224,Mermaid,Green,26.51107472317619,3,Credit Card,9,1,0
+225,Unicorn,Green,19.203765897442842,2,Apple Pay,7,4,0
+226,Unicorn,Rainbow,31.008415570901974,2,Apple Pay,3,0,0
+227,Dinosaur,Green,20.82754822815772,2,Apple Pay,6,1,0
+228,Dinosaur,Pink,9.196186204220911,3,PayPal,7,0,0
+229,Robot,Green,21.766708105522664,3,Gift Card,2,1,0
+230,Mermaid,Purple,19.90579192441389,1,Apple Pay,3,3,0
+231,Dinosaur,Green,24.448763770413727,3,PayPal,4,2,0
+232,Unicorn,Blue,21.36590675634979,2,Gift Card,6,0,0
+233,Mermaid,Pink,17.307720080081133,3,Gift Card,1,2,0
+234,Mermaid,Blue,11.878508818553172,3,PayPal,9,0,0
+235,Unicorn,Blue,16.954883713569874,1,PayPal,5,1,1
+236,Dinosaur,Purple,13.7473977289535,3,Apple Pay,7,2,0
+237,Unicorn,Pink,15.097382750976386,1,Gift Card,9,1,0
+238,Mermaid,Pink,20.94289202210305,4,Credit Card,9,1,1
+239,Dragon,Pink,26.34952252175703,5,PayPal,1,1,0
+240,Dragon,Pink,19.973357649114906,5,Gift Card,1,0,0
+241,Robot,Pink,12.020584689824078,4,Gift Card,3,0,0
+242,Unicorn,Purple,20.223013341100703,4,Apple Pay,6,0,0
+243,Unicorn,Green,23.983157433228257,3,Credit Card,2,0,0
+244,Robot,Blue,14.951085478403089,1,Apple Pay,1,0,0
+245,Robot,Pink,17.32991416663541,3,Credit Card,1,0,0
+246,Robot,Green,18.073440973645987,4,Credit Card,5,3,0
+247,Mermaid,Green,14.0755084345888,2,PayPal,4,0,0
+248,Unicorn,Blue,21.241402169219295,3,Gift Card,1,0,1
+249,Mermaid,Purple,17.395259256961094,2,Gift Card,4,0,0
+250,Robot,Rainbow,20.097662219535138,2,Gift Card,3,2,1
+251,Unicorn,Rainbow,13.5625391109895,3,Credit Card,2,0,1
+252,Mermaid,Green,15.812708498382948,4,Gift Card,9,0,0
+253,Mermaid,Blue,21.611906789138857,3,PayPal,1,1,0
+254,Robot,Rainbow,16.135834239541165,1,Credit Card,7,0,0
+255,Unicorn,Green,26.634819256167027,4,Credit Card,4,0,1
+256,Robot,Purple,16.001819071926988,3,Credit Card,5,1,0
+257,Unicorn,Rainbow,19.12342362875943,3,Credit Card,5,0,1
+258,Dragon,Green,22.662954159365448,1,PayPal,1,1,0
+259,Dinosaur,Green,10.908171335334842,5,Gift Card,6,2,0
+260,Dinosaur,Pink,9.19595594009612,3,PayPal,9,0,0
+261,Dinosaur,Purple,10.371718427149526,3,Gift Card,2,1,0
+262,Robot,Pink,24.31292051713591,2,PayPal,7,2,0
+263,Dragon,Blue,15.240709270537767,3,Apple Pay,6,0,0
+264,Unicorn,Pink,30.79099642834126,3,Apple Pay,5,0,0
+265,Mermaid,Pink,15.178762006713058,3,Apple Pay,4,1,0
+266,Unicorn,Rainbow,18.922756515985185,5,Apple Pay,4,2,1
+267,Mermaid,Green,25.710549762839378,1,Credit Card,6,1,1
+268,Unicorn,Purple,28.030464440795615,2,Credit Card,4,0,0
+269,Dragon,Pink,28.307517883181987,5,PayPal,5,2,0
+270,Mermaid,Purple,24.041831152965713,1,PayPal,6,1,0
+271,Robot,Pink,23.120312629057313,1,Apple Pay,5,0,0
+272,Unicorn,Blue,20.962634746005914,4,Gift Card,7,0,0
+273,Unicorn,Pink,21.89180538083319,1,Apple Pay,9,1,0
+274,Mermaid,Rainbow,15.244071418357333,2,PayPal,7,0,0
+275,Robot,Green,13.909005582888465,1,Apple Pay,7,0,1
+276,Robot,Blue,17.98312771294524,2,PayPal,4,1,0
+277,Dragon,Pink,17.149076887375358,3,Apple Pay,1,0,0
+278,Robot,Purple,15.733859753363625,3,Gift Card,8,0,0
+279,Robot,Blue,21.481937237283578,2,Apple Pay,4,1,0
+280,Robot,Blue,22.776526042852552,3,Gift Card,1,0,0
+281,Dinosaur,Pink,18.442034431459238,4,Gift Card,5,1,0
+282,Dragon,Blue,25.38765040527631,1,PayPal,8,1,0
+283,Unicorn,Purple,12.291554429332475,4,Gift Card,4,0,1
+284,Mermaid,Blue,17.03170270360141,2,Credit Card,8,0,0
+285,Unicorn,Purple,14.415888396985975,5,Credit Card,8,2,1
+286,Dragon,Pink,8.6673169146347,6,Credit Card,3,1,1
+287,Mermaid,Green,17.586596570786504,2,PayPal,9,0,1
+288,Dragon,Blue,17.39126245808358,2,Credit Card,3,0,0
+289,Robot,Green,25.567248716210656,5,PayPal,1,1,0
+290,Mermaid,Purple,21.154058422773886,2,PayPal,2,0,0
+291,Robot,Blue,12.879065878353975,2,Credit Card,6,0,0
+292,Unicorn,Rainbow,27.27046283167094,4,Gift Card,2,0,0
+293,Unicorn,Green,24.105168477626766,3,Apple Pay,6,0,0
+294,Mermaid,Blue,20.91048851734308,1,PayPal,1,0,0
+295,Mermaid,Green,16.86757950575084,2,Credit Card,1,0,0
+296,Dragon,Blue,13.202803816382602,3,PayPal,5,0,1
+297,Dragon,Pink,16.138966119644735,2,Gift Card,9,0,0
+298,Robot,Green,23.44374309852093,5,Gift Card,8,0,0
+299,Mermaid,Rainbow,27.422931529673043,4,Credit Card,3,0,0
+300,Unicorn,Rainbow,25.716217641360945,1,PayPal,3,0,0
+301,Dragon,Purple,15.555752891068629,3,Apple Pay,1,1,0
+302,Dragon,Blue,12.401912833554944,5,Apple Pay,3,1,0
+303,Unicorn,Green,18.70443123455602,3,PayPal,1,0,0
+304,Dragon,Purple,9.157803172185742,2,PayPal,8,0,0
+305,Robot,Green,19.615838570923906,3,PayPal,1,0,0
+306,Mermaid,Blue,17.261987068506656,3,Credit Card,5,0,0
+307,Unicorn,Rainbow,15.669817490658788,3,Gift Card,9,1,0
+308,Mermaid,Pink,10.026484663666022,2,Apple Pay,7,0,0
+309,Dragon,Rainbow,20.568000532848583,1,Credit Card,4,1,0
+310,Dragon,Purple,15.336495801690443,4,PayPal,9,1,1
+311,Unicorn,Pink,12.15041582144856,7,PayPal,9,1,1
+312,Robot,Purple,5.0,2,Gift Card,2,0,0
+313,Dinosaur,Blue,17.862425474746818,3,PayPal,6,1,0
+314,Unicorn,Pink,26.86125798334872,3,Credit Card,4,0,0
+315,Dinosaur,Purple,26.30629607273935,3,Credit Card,8,1,0
+316,Dinosaur,Blue,15.714518717068641,3,Gift Card,7,0,0
+317,Robot,Rainbow,14.988939698191096,3,Credit Card,7,1,0
+318,Dinosaur,Blue,20.34387128037512,2,Apple Pay,9,2,0
+319,Dinosaur,Green,13.008072804058543,5,Credit Card,5,0,0
+320,Robot,Blue,19.50895949909733,4,Credit Card,6,0,0
+321,Dinosaur,Blue,21.830401391923452,1,Credit Card,1,0,0
+322,Dinosaur,Green,24.13466611942154,3,Apple Pay,6,1,0
+323,Dinosaur,Purple,17.499229617600236,3,PayPal,2,0,0
+324,Unicorn,Purple,16.98163124911517,4,Credit Card,6,2,0
+325,Unicorn,Blue,13.610087066217194,2,Gift Card,9,0,0
+326,Unicorn,Green,13.8655982298007,3,Apple Pay,8,2,0
+327,Robot,Green,16.867605540492367,1,Gift Card,9,0,0
+328,Dragon,Rainbow,19.83682753408089,4,Credit Card,8,0,0
+329,Dinosaur,Purple,22.567923131166246,4,Gift Card,3,0,0
+330,Dinosaur,Pink,13.984105246598276,3,Credit Card,8,0,0
+331,Robot,Purple,25.46344284479761,1,Apple Pay,6,3,0
+332,Dinosaur,Purple,16.644381994787157,4,Gift Card,6,2,0
+333,Unicorn,Rainbow,17.89316352825782,3,Gift Card,6,0,0
+334,Dragon,Pink,14.263941604260882,5,Credit Card,3,0,1
+335,Mermaid,Rainbow,5.878798698635292,2,Credit Card,1,1,1
+336,Dinosaur,Pink,22.42022698180525,4,PayPal,4,1,0
+337,Unicorn,Blue,21.684219485462165,3,Credit Card,6,1,1
+338,Mermaid,Pink,16.593362214408934,5,Credit Card,2,1,0
+339,Dragon,Rainbow,18.33495358612436,1,PayPal,7,1,0
+340,Mermaid,Purple,20.579696088520496,3,Credit Card,7,0,0
+341,Unicorn,Pink,10.187270715567287,2,Credit Card,4,1,1
+342,Mermaid,Pink,15.354736613268527,2,PayPal,4,0,0
+343,Robot,Green,21.971323398109135,2,Apple Pay,1,0,0
+344,Mermaid,Purple,11.728552884153753,1,Apple Pay,2,1,0
+345,Dinosaur,Blue,19.467789660833148,2,Credit Card,9,1,0
+346,Dinosaur,Rainbow,11.217090976882975,3,Credit Card,8,0,0
+347,Robot,Blue,20.332149912167633,4,PayPal,8,1,0
+348,Unicorn,Purple,17.821792588512583,6,PayPal,9,1,0
+349,Dinosaur,Pink,9.924340920472453,4,Apple Pay,7,0,0
+350,Dragon,Pink,23.823696772285857,3,Gift Card,9,1,0
+351,Dinosaur,Purple,14.327042116009753,5,Credit Card,2,0,0
+352,Dinosaur,Pink,13.948737814928094,4,Gift Card,6,0,0
+353,Unicorn,Pink,19.002845986154714,3,Gift Card,3,1,0
+354,Mermaid,Pink,23.743186747143575,2,PayPal,6,1,0
+355,Dinosaur,Rainbow,12.920890905108015,2,Credit Card,3,0,0
+356,Robot,Rainbow,18.30839924923986,5,Credit Card,8,1,0
+357,Mermaid,Green,20.144082501652864,6,PayPal,4,0,0
+358,Dragon,Blue,21.46552803631572,2,Gift Card,6,1,1
+359,Unicorn,Purple,18.882207776386124,4,PayPal,9,0,1
+360,Dragon,Purple,16.164860804583387,3,Apple Pay,2,1,0
+361,Mermaid,Purple,13.862048896756402,2,Credit Card,2,0,0
+362,Mermaid,Green,18.430719415231874,3,Apple Pay,7,0,1
+363,Mermaid,Rainbow,12.639304940071966,2,PayPal,2,0,1
+364,Dragon,Green,5.0,3,Credit Card,2,1,1
+365,Mermaid,Purple,20.182799020788337,2,Apple Pay,4,0,0
+366,Dragon,Blue,22.519674205430977,1,Apple Pay,9,1,0
+367,Mermaid,Pink,6.185337822290808,3,Gift Card,8,0,0
+368,Robot,Rainbow,12.951346476450311,2,Credit Card,2,1,0
+369,Mermaid,Rainbow,21.095771305025988,3,Apple Pay,8,2,0
+370,Dragon,Green,28.287477348558493,4,Apple Pay,4,0,0
+371,Dinosaur,Rainbow,18.10396853837704,1,Gift Card,2,0,0
+372,Mermaid,Purple,14.359985293854328,1,Apple Pay,7,0,0
+373,Dinosaur,Purple,17.0855177944758,3,Apple Pay,6,0,0
+374,Robot,Green,24.874382095740923,2,Apple Pay,5,1,0
+375,Unicorn,Purple,14.770179104377323,3,Gift Card,1,0,0
+376,Robot,Blue,14.004039966748731,4,Apple Pay,2,1,0
+377,Mermaid,Green,15.586282389089838,3,Apple Pay,8,2,0
+378,Dinosaur,Blue,13.233356958706437,4,Credit Card,1,0,1
+379,Dinosaur,Pink,18.613351579973976,4,Credit Card,3,0,0
+380,Dragon,Blue,26.123392292347802,4,Gift Card,2,1,0
+381,Dinosaur,Pink,19.615396365580146,3,PayPal,5,1,0
+382,Dragon,Pink,16.738232489368563,1,Credit Card,4,0,0
+383,Unicorn,Blue,16.54094365542228,3,Gift Card,7,1,0
+384,Mermaid,Green,10.184045956516716,3,Apple Pay,5,1,0
+385,Dragon,Purple,22.415548885735795,3,Apple Pay,8,1,1
+386,Unicorn,Purple,17.61081401493599,4,Gift Card,4,1,0
+387,Dinosaur,Pink,17.09760043204687,2,Apple Pay,6,0,0
+388,Dinosaur,Pink,33.965537839224304,3,Apple Pay,4,0,0
+389,Unicorn,Green,19.49376454182843,1,PayPal,2,0,0
+390,Dinosaur,Rainbow,14.241044749524079,1,Apple Pay,1,1,0
+391,Unicorn,Blue,15.868212018972283,3,Credit Card,1,0,1
+392,Dragon,Pink,23.742228545983775,4,Apple Pay,8,0,0
+393,Dragon,Purple,18.56635205268882,2,Gift Card,4,0,0
+394,Unicorn,Green,10.808610108413166,2,PayPal,5,0,0
+395,Dragon,Blue,22.59614467287602,5,Apple Pay,8,0,0
+396,Dragon,Green,14.65927957230503,2,Gift Card,7,0,0
+397,Dragon,Blue,27.366488881087726,3,Credit Card,8,0,0
+398,Robot,Blue,23.400240328573243,1,Apple Pay,8,0,0
+399,Mermaid,Pink,15.763390521706244,5,PayPal,6,1,0
+400,Dinosaur,Green,24.405081808675565,4,Apple Pay,2,0,1
+401,Robot,Green,18.339277552637018,3,Gift Card,6,1,0
+402,Dragon,Purple,22.263868375611096,3,PayPal,1,0,0
+403,Unicorn,Purple,20.423664086472375,4,Apple Pay,1,1,0
+404,Dragon,Pink,13.768216725045633,4,Credit Card,3,0,0
+405,Mermaid,Pink,14.78225083841269,2,PayPal,3,0,0
+406,Dragon,Rainbow,23.149804087905807,4,Credit Card,5,0,0
+407,Unicorn,Purple,16.326123339467294,4,Gift Card,1,0,0
+408,Mermaid,Blue,15.981757683790017,1,Apple Pay,6,0,0
+409,Dragon,Green,13.224387103253235,5,Credit Card,7,1,0
+410,Mermaid,Pink,20.117995327967307,5,Gift Card,3,0,0
+411,Dinosaur,Green,28.312624596215727,3,Apple Pay,4,0,0
+412,Dinosaur,Green,12.662335428728635,3,Gift Card,3,0,0
+413,Dragon,Rainbow,18.12109728336379,3,Credit Card,1,1,1
+414,Mermaid,Purple,25.061102777077146,1,Gift Card,8,1,0
+415,Unicorn,Pink,17.601793043771423,3,PayPal,2,0,0
+416,Dragon,Green,20.26185898124867,3,Apple Pay,1,1,0
+417,Dinosaur,Pink,12.688032359265602,4,Gift Card,8,0,0
+418,Dinosaur,Blue,20.141535486038244,1,Credit Card,7,1,0
+419,Dragon,Rainbow,17.064278674977256,2,Apple Pay,7,2,1
+420,Mermaid,Blue,22.928649978399314,4,PayPal,4,0,0
+421,Dinosaur,Pink,23.936930257823754,4,Apple Pay,9,0,1
+422,Mermaid,Pink,30.947818210093068,5,PayPal,6,0,0
+423,Dinosaur,Purple,20.898165866067878,1,Apple Pay,2,1,0
+424,Dinosaur,Green,19.628981582910832,4,Gift Card,1,0,0
+425,Robot,Green,18.97192150788668,2,Gift Card,1,0,0
+426,Dinosaur,Blue,16.23416853594656,3,Credit Card,9,0,0
+427,Unicorn,Rainbow,19.692419217308455,6,PayPal,4,0,1
+428,Dragon,Green,16.522992949304854,1,Credit Card,5,1,0
+429,Dragon,Purple,18.84230488134807,2,Gift Card,3,1,1
+430,Mermaid,Blue,24.5879876780398,4,PayPal,4,1,1
+431,Dinosaur,Blue,12.967287173601793,4,Credit Card,8,1,1
+432,Unicorn,Purple,23.699392805645225,2,Credit Card,4,1,0
+433,Mermaid,Rainbow,24.58557533669933,1,Credit Card,9,0,0
+434,Robot,Purple,17.409657365044605,4,Credit Card,9,1,0
+435,Mermaid,Rainbow,7.390725504957027,4,Credit Card,6,0,0
+436,Mermaid,Purple,14.960890064527838,1,PayPal,2,1,0
+437,Dinosaur,Purple,24.484972732805545,3,Credit Card,7,0,0
+438,Robot,Pink,17.88565968850559,1,PayPal,9,0,0
+439,Mermaid,Blue,13.003488838525445,5,Credit Card,6,1,1
+440,Unicorn,Purple,15.476125393858913,1,Gift Card,3,1,1
+441,Unicorn,Purple,22.203100132522763,3,Gift Card,7,0,0
+442,Dragon,Green,20.7336678410069,2,Credit Card,5,1,0
+443,Robot,Blue,16.80533950415153,1,Apple Pay,1,1,0
+444,Robot,Green,16.165877940926563,2,Gift Card,3,0,0
+445,Dragon,Blue,16.04120925478089,3,PayPal,5,0,0
+446,Mermaid,Green,13.387949077507487,6,Credit Card,7,0,0
+447,Robot,Purple,26.07687844734721,2,PayPal,3,2,0
+448,Unicorn,Purple,16.3883976539433,4,Apple Pay,6,0,0
+449,Unicorn,Pink,24.085792604127484,2,Credit Card,5,1,0
+450,Dinosaur,Green,25.606580259612258,6,Gift Card,1,0,0
+451,Robot,Rainbow,22.9915544907398,3,PayPal,6,4,1
+452,Mermaid,Pink,15.841898436409759,1,Gift Card,8,0,0
+453,Dragon,Green,20.018650451683047,2,Gift Card,1,0,0
+454,Dragon,Green,17.879021968045418,3,Credit Card,2,0,0
+455,Mermaid,Pink,13.48149069634936,1,PayPal,4,1,0
+456,Dinosaur,Purple,19.621796408608017,2,Apple Pay,2,4,0
+457,Dragon,Green,12.104801044200988,4,Gift Card,9,1,0
+458,Robot,Purple,23.93839694230782,1,Credit Card,8,0,0
+459,Dinosaur,Pink,15.676913513508035,1,Credit Card,8,2,0
+460,Robot,Purple,19.005798279364196,3,Apple Pay,4,0,0
+461,Unicorn,Blue,19.41643935773071,3,Credit Card,5,1,0
+462,Dinosaur,Rainbow,16.705475131479613,3,Gift Card,4,1,0
+463,Dragon,Green,20.933469007376374,5,Credit Card,9,0,0
+464,Dinosaur,Rainbow,15.625481716887379,4,PayPal,2,0,0
+465,Dinosaur,Purple,22.35648648728622,2,PayPal,8,0,0
+466,Dinosaur,Green,11.270101598766257,4,Gift Card,2,0,1
+467,Dinosaur,Purple,18.63189789773206,2,PayPal,1,1,0
+468,Robot,Blue,27.694644995291423,4,Apple Pay,3,0,1
+469,Unicorn,Pink,12.998343376972127,4,Credit Card,9,0,0
+470,Mermaid,Green,14.611275147375743,3,Gift Card,3,0,1
+471,Dinosaur,Blue,20.569539248294575,4,Apple Pay,9,1,0
+472,Dragon,Blue,18.89790890969799,3,Credit Card,7,1,0
+473,Dinosaur,Green,19.753150496367795,4,Apple Pay,1,0,1
+474,Dragon,Purple,20.445935650738317,2,Gift Card,5,0,0
+475,Robot,Blue,21.17360734280885,4,Gift Card,9,0,0
+476,Dragon,Rainbow,23.548499209781117,3,Apple Pay,3,1,0
+477,Mermaid,Blue,20.049093284642563,5,Credit Card,9,1,0
+478,Unicorn,Purple,16.793711726907286,4,PayPal,5,2,0
+479,Dragon,Purple,21.362868506013655,2,PayPal,9,0,0
+480,Dragon,Rainbow,27.499409674476077,2,Apple Pay,6,1,1
+481,Unicorn,Blue,17.33683126808713,3,Gift Card,9,0,0
+482,Mermaid,Purple,13.127353476646793,5,Credit Card,7,0,1
+483,Dinosaur,Green,23.53540334643486,3,Credit Card,7,1,1
+484,Dragon,Pink,17.398094180232007,4,Gift Card,8,0,0
+485,Unicorn,Pink,7.136652269929819,2,PayPal,7,0,0
+486,Robot,Pink,22.23710838575211,3,Credit Card,9,1,0
+487,Unicorn,Blue,15.323359070230387,5,Apple Pay,9,0,0
+488,Robot,Rainbow,17.547333588479198,5,PayPal,6,0,0
+489,Mermaid,Purple,19.659901652845072,2,Apple Pay,7,1,0
+490,Dinosaur,Green,18.952498398895333,4,PayPal,2,1,0
+491,Unicorn,Green,21.5472590856952,1,Gift Card,9,1,0
+492,Dragon,Blue,15.822568147150783,3,Apple Pay,1,0,0
+493,Mermaid,Pink,20.565528990880413,6,Apple Pay,1,0,0
+494,Unicorn,Blue,16.702266612080415,2,Gift Card,3,0,0
+495,Dragon,Rainbow,21.694052404437514,3,Apple Pay,6,0,1
+496,Unicorn,Rainbow,21.076837420065267,3,PayPal,5,1,0
+497,Robot,Purple,13.322806489777022,1,Credit Card,2,1,1
+498,Unicorn,Purple,23.42991058087516,4,Credit Card,9,0,0
+499,Unicorn,Rainbow,15.32018277442976,2,Gift Card,4,0,0
+500,Unicorn,Rainbow,22.040288991405724,5,PayPal,4,0,0
+501,Mermaid,Rainbow,19.836436567006704,6,Apple Pay,5,0,1
+502,Unicorn,Blue,27.190918383975614,4,Apple Pay,8,1,0
+503,Dragon,Rainbow,16.88267008814074,3,Credit Card,4,0,0
+504,Robot,Green,16.253416019409013,1,Apple Pay,5,2,1
+505,Robot,Pink,17.902901970561338,4,Credit Card,4,1,0
+506,Unicorn,Rainbow,16.484101085828623,2,Gift Card,6,2,0
+507,Mermaid,Pink,21.99970950971025,2,Apple Pay,3,1,0
+508,Mermaid,Blue,9.91844695781706,2,PayPal,8,1,1
+509,Dragon,Pink,12.73158790426823,2,Apple Pay,6,0,0
+510,Unicorn,Blue,12.660985392104035,3,Credit Card,5,0,0
+511,Robot,Green,22.75153795986788,3,Gift Card,2,2,0
+512,Mermaid,Blue,26.553066862909624,2,Credit Card,7,1,0
+513,Unicorn,Blue,17.477753907312643,1,Apple Pay,2,0,0
+514,Mermaid,Purple,17.155891384049948,6,Credit Card,1,0,0
+515,Mermaid,Rainbow,18.350260815565907,1,Credit Card,7,1,0
+516,Robot,Rainbow,23.809391513040953,1,Gift Card,5,0,0
+517,Dinosaur,Green,13.36323432904713,2,PayPal,1,2,0
+518,Dragon,Green,19.191844913673926,2,Apple Pay,4,1,0
+519,Dragon,Rainbow,22.87598814891215,4,Gift Card,4,0,0
+520,Robot,Purple,20.505470849699226,2,PayPal,7,1,0
+521,Mermaid,Rainbow,18.947908082993717,1,Credit Card,9,1,0
+522,Unicorn,Purple,23.005230462835705,2,PayPal,2,0,0
+523,Mermaid,Green,5.0,5,Credit Card,1,0,0
+524,Robot,Pink,21.38937659765454,3,Credit Card,2,1,0
+525,Dragon,Green,14.729621584362881,1,Gift Card,7,0,0
+526,Mermaid,Green,8.846835515717716,4,Credit Card,6,0,0
+527,Dragon,Blue,20.556012997624904,2,Gift Card,4,1,0
+528,Unicorn,Blue,24.86829272581479,2,PayPal,1,0,1
+529,Dragon,Blue,17.31275742686154,1,PayPal,1,0,0
+530,Dragon,Blue,22.764372736014693,4,Credit Card,5,1,0
+531,Dinosaur,Purple,26.061391289943227,2,Gift Card,1,0,1
+532,Dinosaur,Rainbow,24.57457226792024,1,Credit Card,7,0,0
+533,Dinosaur,Pink,26.199822646856965,3,Gift Card,1,0,0
+534,Dragon,Green,21.71063745535946,4,Gift Card,1,1,0
+535,Robot,Purple,18.377168194507963,2,Gift Card,2,2,0
+536,Dragon,Pink,9.990170940514158,6,PayPal,3,1,0
+537,Robot,Purple,16.769687559350256,4,Gift Card,1,1,0
+538,Robot,Purple,13.783767023419042,4,PayPal,9,0,0
+539,Dinosaur,Green,28.85471358748907,5,Gift Card,8,0,0
+540,Mermaid,Rainbow,17.120570937838316,2,PayPal,5,1,0
+541,Unicorn,Blue,18.61602403392243,3,Apple Pay,2,0,1
+542,Dinosaur,Rainbow,20.75742688020234,3,PayPal,5,0,0
+543,Dinosaur,Green,18.218012231862268,3,PayPal,6,0,0
+544,Mermaid,Green,26.475255202153765,3,Credit Card,1,0,0
+545,Unicorn,Green,14.88675319132774,4,Gift Card,4,0,0
+546,Dragon,Pink,18.973037276186215,4,Apple Pay,9,0,0
+547,Dragon,Rainbow,14.28764707150976,3,Credit Card,2,1,0
+548,Dinosaur,Rainbow,11.399887443896471,4,Gift Card,5,1,0
+549,Unicorn,Purple,14.941154545473573,2,Apple Pay,1,0,0
+550,Dinosaur,Purple,17.81481601475794,4,Apple Pay,4,2,0
+551,Robot,Purple,15.8534888774137,6,Apple Pay,4,3,0
+552,Dinosaur,Green,14.53789510063072,1,Gift Card,6,0,1
+553,Dinosaur,Rainbow,10.968412681640832,2,Apple Pay,9,1,1
+554,Dragon,Green,17.584472136856526,3,Apple Pay,3,0,0
+555,Dragon,Pink,10.476398129844988,1,Credit Card,9,1,0
+556,Dragon,Purple,21.80027981844801,3,PayPal,6,0,0
+557,Robot,Green,18.412198764672517,1,Gift Card,7,0,0
+558,Dragon,Green,10.712242502675348,3,PayPal,2,1,1
+559,Unicorn,Pink,16.453954614750682,2,Credit Card,6,1,0
+560,Mermaid,Blue,14.239217972047085,4,PayPal,6,2,0
+561,Unicorn,Rainbow,19.5958725520959,3,Apple Pay,2,1,1
+562,Unicorn,Blue,24.70225223011572,6,Apple Pay,2,0,1
+563,Dragon,Purple,8.624137651771278,4,Gift Card,2,0,0
+564,Mermaid,Green,18.575130395737087,2,Gift Card,1,0,0
+565,Mermaid,Pink,17.199336022166797,2,Gift Card,5,1,0
+566,Mermaid,Pink,21.356700382252328,4,Credit Card,8,0,0
+567,Robot,Rainbow,19.065983141188447,1,Gift Card,2,0,0
+568,Dragon,Blue,14.240153341305906,1,Credit Card,5,0,0
+569,Mermaid,Rainbow,16.40473032166691,2,Apple Pay,8,0,0
+570,Robot,Green,14.019870715982556,2,PayPal,5,1,0
+571,Dinosaur,Rainbow,23.38003569299299,3,Apple Pay,2,0,0
+572,Dinosaur,Pink,18.10655824335971,5,Apple Pay,3,1,0
+573,Robot,Pink,27.50595342876504,3,Apple Pay,6,0,0
+574,Robot,Purple,17.696695930926897,7,Gift Card,5,1,0
+575,Dragon,Purple,14.457966165447687,2,Gift Card,4,0,0
+576,Dragon,Green,10.431428036935865,3,Gift Card,4,0,0
+577,Dinosaur,Blue,8.984301618720275,2,PayPal,5,0,0
+578,Mermaid,Rainbow,10.079320284972551,4,Gift Card,2,1,0
+579,Dinosaur,Green,19.335633255057417,4,Credit Card,9,0,0
+580,Mermaid,Purple,20.54362511614967,3,Apple Pay,2,1,0
+581,Mermaid,Rainbow,10.094046489839332,5,PayPal,2,0,0
+582,Dragon,Purple,22.475191570380577,3,PayPal,9,1,0
+583,Unicorn,Rainbow,15.584694741582803,4,PayPal,3,1,0
+584,Unicorn,Blue,18.733965059927748,3,PayPal,7,1,0
+585,Robot,Green,26.061103141277123,3,PayPal,4,1,0
+586,Dragon,Rainbow,22.48419657932766,2,Credit Card,6,1,0
+587,Mermaid,Pink,16.657346760470837,4,Apple Pay,4,0,1
+588,Unicorn,Pink,13.544038872923563,4,PayPal,7,0,0
+589,Mermaid,Rainbow,7.240922993353475,3,Apple Pay,1,2,0
+590,Unicorn,Rainbow,14.404233403787899,1,Gift Card,3,0,0
+591,Unicorn,Rainbow,16.944348805861527,2,PayPal,3,1,0
+592,Unicorn,Pink,13.06410236424408,2,PayPal,1,2,0
+593,Dragon,Pink,17.343715164538477,6,Apple Pay,6,0,0
+594,Dinosaur,Rainbow,18.384259414793842,2,PayPal,9,0,0
+595,Mermaid,Purple,16.875720090959607,4,PayPal,8,1,0
+596,Dragon,Purple,14.749987095882702,3,PayPal,7,1,0
+597,Dragon,Blue,18.84327335983364,4,Credit Card,8,0,1
+598,Dragon,Green,20.209703247847045,5,Credit Card,6,0,0
+599,Dragon,Purple,12.54800461278577,4,PayPal,9,1,0
+600,Dragon,Pink,25.05466189873135,4,Credit Card,3,0,0
+601,Robot,Purple,17.507059338578692,3,Gift Card,9,0,0
+602,Mermaid,Blue,18.094248114724238,4,PayPal,4,0,1
+603,Dragon,Blue,21.541072116282784,3,Gift Card,7,1,0
+604,Mermaid,Green,19.166080656317508,3,Apple Pay,9,0,0
+605,Robot,Purple,22.765683169566223,6,Gift Card,2,0,0
+606,Robot,Pink,19.43562082600912,5,Apple Pay,2,0,0
+607,Mermaid,Pink,14.93781312679781,2,PayPal,9,0,0
+608,Unicorn,Rainbow,19.80751762603051,3,Apple Pay,3,0,0
+609,Dinosaur,Pink,12.281368963396691,4,Apple Pay,9,1,0
+610,Unicorn,Green,18.542798528882617,3,Gift Card,5,0,1
+611,Unicorn,Green,17.833850046777695,3,Gift Card,6,0,0
+612,Unicorn,Pink,16.959415713637302,1,Gift Card,2,1,0
+613,Dragon,Pink,17.357312442805345,4,PayPal,8,1,0
+614,Robot,Rainbow,8.590754772511804,3,PayPal,9,1,0
+615,Unicorn,Pink,15.256375461295193,4,Gift Card,2,1,0
+616,Robot,Rainbow,18.464224505705573,3,PayPal,6,0,0
+617,Mermaid,Rainbow,18.799281959987002,4,PayPal,6,1,1
+618,Dinosaur,Pink,12.86162429537021,3,Apple Pay,8,1,0
+619,Mermaid,Blue,24.328539204323505,3,Apple Pay,5,4,0
+620,Mermaid,Blue,13.669125758927496,3,Gift Card,9,1,0
+621,Dragon,Rainbow,22.847286002633684,4,PayPal,1,0,0
+622,Dinosaur,Pink,20.135971809358423,3,Apple Pay,9,2,0
+623,Mermaid,Blue,14.768863450780984,2,Credit Card,7,2,0
+624,Mermaid,Pink,26.87655446304756,2,PayPal,4,0,0
+625,Dinosaur,Pink,12.0318158412176,4,Credit Card,3,0,0
+626,Dinosaur,Pink,22.595770868050007,1,Gift Card,6,0,1
+627,Mermaid,Purple,23.002911590214893,1,PayPal,1,0,0
+628,Dinosaur,Pink,14.646898954616775,4,Gift Card,3,2,1
+629,Mermaid,Purple,24.962326500321645,3,Gift Card,2,0,0
+630,Mermaid,Rainbow,16.749767427005235,3,Gift Card,9,0,0
+631,Dragon,Blue,19.443468146399287,1,Gift Card,3,0,0
+632,Unicorn,Blue,19.301609193856102,3,Gift Card,2,0,0
+633,Mermaid,Blue,17.32845629264726,2,PayPal,4,0,0
+634,Robot,Blue,22.05404136579891,3,Credit Card,2,0,0
+635,Unicorn,Blue,21.967443602761065,4,PayPal,1,0,0
+636,Unicorn,Blue,9.257340133809096,2,PayPal,6,1,0
+637,Unicorn,Blue,24.521701214390763,6,PayPal,8,0,0
+638,Dragon,Rainbow,9.687540059821629,2,Apple Pay,2,0,0
+639,Mermaid,Pink,23.162731021708286,3,Apple Pay,9,0,0
+640,Dragon,Green,23.633525684137915,3,PayPal,3,1,0
+641,Mermaid,Purple,12.54516784892401,2,Credit Card,8,0,0
+642,Dragon,Green,15.945928560227076,4,PayPal,8,1,0
+643,Dragon,Green,12.47147665757032,2,Gift Card,3,1,0
+644,Robot,Pink,16.925394848556323,2,Apple Pay,3,0,0
+645,Dragon,Pink,16.459828579071292,2,Apple Pay,6,2,0
+646,Dinosaur,Pink,21.898302661346698,2,PayPal,1,0,0
+647,Robot,Blue,24.55154373059804,5,PayPal,4,0,1
+648,Dragon,Rainbow,24.97841905394978,1,Credit Card,1,1,1
+649,Unicorn,Blue,15.18915986710849,2,Credit Card,3,0,0
+650,Dinosaur,Rainbow,16.95389063127736,2,Gift Card,9,0,1
+651,Dinosaur,Rainbow,9.582809038895249,2,PayPal,5,0,0
+652,Dinosaur,Green,13.970649667519055,2,PayPal,5,0,0
+653,Robot,Green,22.824258165487286,2,PayPal,4,0,0
+654,Dragon,Rainbow,26.07791411774116,1,Apple Pay,3,0,0
+655,Dragon,Rainbow,11.82825564060039,4,Gift Card,5,1,0
+656,Unicorn,Blue,15.037678704235528,1,Credit Card,4,0,0
+657,Unicorn,Blue,17.867971215205365,4,Apple Pay,8,0,1
+658,Dinosaur,Green,19.400805794098034,2,Apple Pay,4,0,0
+659,Unicorn,Pink,13.95198240039177,7,Apple Pay,8,0,0
+660,Robot,Rainbow,20.120305222320447,2,Apple Pay,6,1,0
+661,Dragon,Blue,15.630803264645419,3,Gift Card,5,1,0
+662,Dinosaur,Green,17.927738645608603,2,PayPal,4,0,0
+663,Unicorn,Blue,20.7314212400185,2,Credit Card,4,1,0
+664,Robot,Rainbow,18.032111349054688,5,Credit Card,4,0,1
+665,Robot,Rainbow,15.818070547367157,2,Apple Pay,9,0,0
+666,Unicorn,Purple,17.451950980370846,3,Apple Pay,4,0,0
+667,Dragon,Pink,17.558185203973323,4,Gift Card,9,1,0
+668,Unicorn,Purple,16.14994485058936,1,Apple Pay,6,0,0
+669,Dinosaur,Green,16.706019686664487,2,Credit Card,7,0,1
+670,Unicorn,Blue,25.993235852523583,2,Credit Card,3,1,0
+671,Robot,Green,20.804597239706194,2,PayPal,8,1,0
+672,Unicorn,Rainbow,16.522598409854197,4,PayPal,3,2,0
+673,Dragon,Purple,21.484772022553678,2,Credit Card,1,0,0
+674,Mermaid,Purple,16.33090255121995,3,Credit Card,5,0,0
+675,Unicorn,Purple,23.865623187933206,4,Gift Card,2,1,0
+676,Dragon,Green,19.84821096099047,2,Gift Card,6,0,0
+677,Dragon,Rainbow,17.463489279978855,3,Credit Card,9,3,0
+678,Robot,Blue,20.238584629051388,4,Apple Pay,1,0,0
+679,Dragon,Blue,10.145619239657503,2,PayPal,4,0,0
+680,Dragon,Green,12.366162655450974,3,Credit Card,1,0,0
+681,Dragon,Purple,12.030374968004722,4,Apple Pay,1,0,0
+682,Dragon,Pink,18.714715473818533,3,Credit Card,8,0,1
+683,Dinosaur,Green,26.66257499742546,1,PayPal,2,0,0
+684,Dinosaur,Green,29.15650073096316,4,PayPal,1,0,0
+685,Robot,Rainbow,21.190255507203787,3,Gift Card,8,2,0
+686,Unicorn,Blue,20.504222374722286,3,Gift Card,4,1,0
+687,Dragon,Green,8.994711329236305,1,Gift Card,3,2,0
+688,Unicorn,Green,15.28663100132989,2,Gift Card,4,2,0
+689,Unicorn,Purple,14.061081240458805,1,PayPal,5,0,0
+690,Robot,Purple,14.89576200874442,2,Apple Pay,1,0,0
+691,Dragon,Pink,17.159280907076052,2,Apple Pay,1,0,0
+692,Dragon,Rainbow,15.639547111514364,3,Apple Pay,3,0,1
+693,Mermaid,Pink,8.103500948121061,4,Credit Card,6,0,0
+694,Unicorn,Purple,21.73955128058767,4,Gift Card,1,0,0
+695,Unicorn,Blue,12.636284871300967,3,Gift Card,2,0,1
+696,Dinosaur,Purple,19.196234320555746,3,PayPal,7,1,0
+697,Mermaid,Rainbow,28.370413348749867,5,PayPal,1,1,0
+698,Dinosaur,Purple,13.403077042067883,2,Credit Card,7,0,0
+699,Dinosaur,Rainbow,5.348562386268352,4,Credit Card,4,1,0
+700,Dinosaur,Rainbow,16.569978890599447,4,Apple Pay,6,0,0
+701,Robot,Rainbow,23.504798174992857,5,PayPal,8,0,0
+702,Robot,Rainbow,27.791737271102967,3,Gift Card,9,0,0
+703,Dinosaur,Rainbow,11.852252027737915,5,Apple Pay,6,0,0
+704,Mermaid,Blue,20.483496116182607,4,Gift Card,9,0,0
+705,Unicorn,Pink,15.673447716099734,3,Apple Pay,4,0,0
+706,Mermaid,Green,17.47025822847932,4,Gift Card,6,0,0
+707,Dragon,Pink,31.221716735085174,3,Credit Card,8,0,0
+708,Robot,Rainbow,10.485148358024233,3,Apple Pay,9,1,0
+709,Unicorn,Blue,19.268698307472867,5,Gift Card,3,0,0
+710,Unicorn,Purple,20.338465858827167,5,Gift Card,2,0,0
+711,Dragon,Blue,23.428931624696737,2,PayPal,6,0,0
+712,Dragon,Rainbow,18.48991576735448,2,Apple Pay,4,0,0
+713,Dinosaur,Blue,19.54025269752051,1,Gift Card,1,1,0
+714,Robot,Blue,16.041757162891045,4,PayPal,8,2,0
+715,Robot,Rainbow,19.345634706225535,2,Gift Card,9,0,0
+716,Mermaid,Blue,16.28403862251295,7,Apple Pay,9,2,0
+717,Dinosaur,Green,21.107859449280255,2,Credit Card,2,2,0
+718,Dinosaur,Green,16.15194831978183,2,Apple Pay,9,1,0
+719,Dinosaur,Blue,19.885501969510933,4,Apple Pay,7,0,0
+720,Dinosaur,Purple,17.853685931575107,4,Gift Card,5,2,0
+721,Robot,Rainbow,23.63025125386084,1,Gift Card,7,0,0
+722,Robot,Green,17.74303138205757,3,Apple Pay,9,1,0
+723,Dinosaur,Purple,9.134837658965592,2,PayPal,8,2,1
+724,Mermaid,Blue,24.309607503569957,4,PayPal,6,0,0
+725,Unicorn,Purple,13.471338495686904,2,PayPal,4,0,0
+726,Unicorn,Pink,14.731168306755901,4,Gift Card,1,0,0
+727,Mermaid,Green,15.021693529782539,6,Gift Card,6,1,1
+728,Dinosaur,Blue,24.872190465854086,1,Apple Pay,3,0,0
+729,Robot,Rainbow,7.321628930106522,2,Credit Card,6,0,0
+730,Unicorn,Blue,33.688742668299966,3,Gift Card,6,0,0
+731,Dragon,Rainbow,23.28028404533026,2,Apple Pay,4,0,0
+732,Dragon,Blue,19.1161945706458,6,Apple Pay,2,0,0
+733,Mermaid,Purple,17.725529996918567,2,Credit Card,9,0,0
+734,Dinosaur,Purple,19.427770374288286,4,PayPal,2,0,1
+735,Unicorn,Purple,20.605612141896692,3,Apple Pay,3,0,0
+736,Dinosaur,Pink,21.226077929750286,3,Apple Pay,1,0,1
+737,Unicorn,Rainbow,20.778022330017244,1,Apple Pay,7,0,0
+738,Mermaid,Purple,18.447903406276243,3,PayPal,1,1,1
+739,Mermaid,Pink,17.01330789846337,3,PayPal,9,1,0
+740,Dragon,Rainbow,17.243633581732443,5,Credit Card,1,0,0
+741,Dinosaur,Blue,17.025458598236597,1,Gift Card,5,0,0
+742,Dragon,Pink,23.668850484335323,4,PayPal,7,3,1
+743,Dinosaur,Green,20.967783611404307,4,Gift Card,3,0,0
+744,Dragon,Pink,5.0,4,Gift Card,9,0,0
+745,Robot,Pink,21.279503882648804,3,PayPal,8,0,1
+746,Robot,Rainbow,18.973680973593876,1,Apple Pay,3,0,0
+747,Robot,Blue,17.90645621777051,3,Credit Card,5,0,0
+748,Robot,Green,16.05740773455557,3,Gift Card,7,1,1
+749,Unicorn,Purple,23.620563599930065,2,Apple Pay,4,0,0
+750,Robot,Purple,22.737632310614288,1,PayPal,5,2,0
+751,Mermaid,Pink,14.135611660881954,1,Gift Card,3,2,0
+752,Mermaid,Rainbow,20.035261435622676,2,Gift Card,9,0,0
+753,Unicorn,Rainbow,13.141716327293569,1,Gift Card,9,0,0
+754,Robot,Purple,11.101909176055347,3,Apple Pay,7,0,1
+755,Robot,Green,14.866413877050174,2,Apple Pay,2,0,0
+756,Robot,Blue,22.311967361913794,4,Apple Pay,7,2,0
+757,Dragon,Green,22.765625226880434,2,Gift Card,7,2,0
+758,Dinosaur,Blue,20.565427100486467,2,Gift Card,5,0,0
+759,Dragon,Purple,21.625478934239986,7,Credit Card,9,1,0
+760,Dinosaur,Blue,20.58089143557479,4,Credit Card,3,0,0
+761,Robot,Rainbow,14.792592023885238,2,Apple Pay,4,1,0
+762,Robot,Pink,20.159612723369705,2,Apple Pay,1,0,0
+763,Dragon,Pink,22.002047626138413,5,PayPal,6,1,0
+764,Dragon,Purple,21.771456649067872,4,Apple Pay,4,1,0
+765,Dinosaur,Rainbow,23.944566857373214,1,Credit Card,1,1,0
+766,Mermaid,Green,21.541519236005318,1,Credit Card,2,1,0
+767,Dinosaur,Rainbow,19.757241037707914,4,Credit Card,3,0,0
+768,Dragon,Pink,23.350751191582138,4,Gift Card,9,0,0
+769,Dragon,Pink,17.8673937037547,5,Gift Card,8,0,0
+770,Unicorn,Rainbow,13.59062674386141,3,Apple Pay,7,0,0
+771,Dragon,Rainbow,17.18466518028118,2,PayPal,4,0,0
+772,Unicorn,Pink,14.275486775967755,5,PayPal,1,1,0
+773,Mermaid,Green,14.624108625128091,3,PayPal,8,0,0
+774,Dinosaur,Purple,17.27740664642241,2,Gift Card,4,1,0
+775,Dinosaur,Purple,14.037900395000193,3,Credit Card,3,0,0
+776,Unicorn,Rainbow,16.4601923518048,3,Credit Card,9,0,0
+777,Dinosaur,Purple,8.531926665231072,3,Gift Card,4,0,0
+778,Dragon,Pink,19.066468536864694,2,PayPal,4,0,0
+779,Robot,Pink,18.006027376811122,1,PayPal,9,1,1
+780,Unicorn,Rainbow,13.914556844659046,4,Apple Pay,2,0,0
+781,Dinosaur,Rainbow,21.296228342162024,5,Apple Pay,5,0,1
+782,Unicorn,Rainbow,22.68785068813279,7,PayPal,4,1,0
+783,Unicorn,Green,9.96220067815513,5,Gift Card,9,3,0
+784,Robot,Purple,14.186376107168929,3,PayPal,5,0,0
+785,Dragon,Rainbow,14.154288251063509,2,Apple Pay,9,1,0
+786,Unicorn,Blue,13.300484494455677,5,PayPal,9,1,0
+787,Dinosaur,Blue,22.147374209658743,3,Gift Card,2,1,0
+788,Mermaid,Pink,17.030869306135983,4,Credit Card,9,2,0
+789,Unicorn,Purple,16.677425793446947,3,Gift Card,3,0,0
+790,Unicorn,Rainbow,7.980688177966233,4,Gift Card,4,1,0
+791,Robot,Blue,21.17709015104613,1,Apple Pay,1,0,0
+792,Dragon,Purple,11.803708025732638,3,Gift Card,1,0,0
+793,Mermaid,Pink,18.299663151331643,3,Gift Card,1,0,0
+794,Dinosaur,Green,19.386884689790957,3,Apple Pay,9,0,1
+795,Mermaid,Purple,24.803292979193255,4,Apple Pay,8,2,0
+796,Dinosaur,Purple,11.455898004404439,3,Credit Card,5,0,0
+797,Dragon,Green,5.0,3,PayPal,5,1,0
+798,Dinosaur,Purple,18.919247723768475,4,Gift Card,9,0,1
+799,Robot,Pink,27.002555907554267,6,Apple Pay,3,0,0
+800,Robot,Pink,24.19473176469719,4,Credit Card,3,0,0
+801,Robot,Green,19.048297076373128,1,PayPal,7,0,0
+802,Robot,Rainbow,15.541819071839763,3,Apple Pay,9,0,0
+803,Mermaid,Blue,22.035612983186553,4,PayPal,6,0,0
+804,Dragon,Rainbow,13.132269001477656,3,PayPal,2,0,0
+805,Dinosaur,Purple,20.381788846781095,4,Gift Card,1,1,1
+806,Dinosaur,Blue,20.527350795833133,3,Gift Card,2,1,0
+807,Robot,Green,23.3010495374944,1,Apple Pay,1,3,0
+808,Robot,Green,31.798300194555388,3,PayPal,9,0,0
+809,Unicorn,Blue,19.962079835893835,2,Apple Pay,8,0,0
+810,Dragon,Pink,15.455181871462507,3,Apple Pay,7,0,0
+811,Mermaid,Blue,17.87212843904003,3,PayPal,3,0,0
+812,Dinosaur,Purple,9.15462047555441,5,Apple Pay,8,0,0
+813,Unicorn,Pink,14.526434344554708,1,PayPal,2,1,0
+814,Unicorn,Green,15.953587809434481,3,PayPal,2,1,0
+815,Dinosaur,Blue,15.379558010327038,1,PayPal,3,1,0
+816,Mermaid,Rainbow,18.76177436016861,1,PayPal,7,1,0
+817,Unicorn,Rainbow,13.887900338088997,2,Credit Card,1,0,0
+818,Unicorn,Purple,23.605153336622358,3,PayPal,8,3,1
+819,Dragon,Rainbow,18.001035324590987,1,Gift Card,7,1,0
+820,Mermaid,Blue,17.953498394306926,2,Gift Card,4,0,0
+821,Unicorn,Blue,16.36052641743541,5,Gift Card,5,0,1
+822,Mermaid,Rainbow,18.775953419294897,4,PayPal,1,0,0
+823,Dinosaur,Blue,22.125491323338174,5,Gift Card,4,0,1
+824,Robot,Purple,13.664348921445498,3,Credit Card,1,0,0
+825,Unicorn,Pink,14.709417554623716,3,Apple Pay,1,0,0
+826,Dragon,Purple,16.481369856116675,3,PayPal,1,0,0
+827,Dinosaur,Purple,11.270645382633926,2,Gift Card,7,1,1
+828,Mermaid,Blue,13.903710701392512,2,Credit Card,7,0,0
+829,Dinosaur,Pink,15.618895632276704,2,Apple Pay,4,0,1
+830,Unicorn,Blue,22.37194590356364,2,Credit Card,2,1,0
+831,Mermaid,Green,19.312806645009626,4,Gift Card,3,0,1
+832,Robot,Blue,18.967949556837723,3,Credit Card,8,1,0
+833,Dinosaur,Blue,22.25448981083986,3,Apple Pay,8,0,0
+834,Unicorn,Blue,17.313141058003016,3,Gift Card,6,0,1
+835,Dragon,Pink,19.952324249644448,1,Apple Pay,9,0,1
+836,Mermaid,Blue,17.48389123533752,2,Credit Card,9,0,0
+837,Dinosaur,Pink,19.326811746998143,5,PayPal,4,0,0
+838,Dinosaur,Rainbow,15.08620671194209,3,PayPal,1,0,0
+839,Robot,Green,5.805914208617855,5,PayPal,1,0,0
+840,Robot,Pink,17.32860418906848,5,PayPal,5,2,0
+841,Dragon,Rainbow,25.113740680499703,3,Apple Pay,2,1,0
+842,Dragon,Pink,22.631077011207964,2,PayPal,6,1,0
+843,Unicorn,Pink,22.826987422955852,4,Apple Pay,7,0,0
+844,Unicorn,Green,24.18065360903109,4,Gift Card,1,2,0
+845,Dragon,Purple,18.443287954807186,2,PayPal,6,0,0
+846,Dragon,Purple,18.986578537027977,2,Apple Pay,8,2,0
+847,Mermaid,Pink,14.91174052282825,5,PayPal,5,0,0
+848,Robot,Blue,16.41963571986475,2,PayPal,7,0,0
+849,Unicorn,Rainbow,21.07885574885571,5,PayPal,6,1,0
+850,Robot,Blue,24.019422185844082,1,Apple Pay,4,0,0
+851,Robot,Blue,17.302768621595003,4,Credit Card,7,0,0
+852,Dragon,Pink,15.749053675742942,4,PayPal,9,0,0
+853,Mermaid,Pink,18.002639794282988,4,PayPal,7,1,1
+854,Dinosaur,Pink,21.006033744645574,3,Gift Card,5,2,0
+855,Mermaid,Pink,10.78072591933229,2,Credit Card,7,0,0
+856,Mermaid,Purple,6.519095234313809,1,Apple Pay,3,0,0
+857,Robot,Pink,15.247315752542082,3,Gift Card,2,0,0
+858,Mermaid,Purple,11.896437870429207,3,PayPal,5,0,0
+859,Unicorn,Purple,15.459299011763445,3,Gift Card,4,0,0
+860,Robot,Pink,17.26109840591264,4,Gift Card,5,1,0
+861,Unicorn,Green,15.733757954884933,4,PayPal,8,0,0
+862,Dinosaur,Rainbow,25.262337672353727,2,Credit Card,4,0,0
+863,Robot,Blue,19.6337238230116,3,Credit Card,9,0,0
+864,Dinosaur,Purple,19.502371798054142,2,Gift Card,7,1,0
+865,Robot,Rainbow,21.11103572021701,3,PayPal,7,0,1
+866,Dragon,Green,12.305834411096154,1,Apple Pay,8,1,0
+867,Mermaid,Blue,23.195558937101342,2,Gift Card,6,0,0
+868,Dragon,Blue,17.6211785673227,2,Apple Pay,8,0,0
+869,Dinosaur,Purple,21.352403086206063,3,Gift Card,3,0,1
+870,Mermaid,Pink,12.640713834799222,2,Gift Card,1,0,0
+871,Robot,Green,10.231206169919679,2,PayPal,6,0,0
+872,Mermaid,Purple,22.089448290125144,3,PayPal,1,1,0
+873,Unicorn,Green,19.882047630487584,5,Apple Pay,9,2,0
+874,Mermaid,Pink,13.489742228212448,1,Apple Pay,2,0,0
+875,Unicorn,Pink,13.651684593626527,2,Credit Card,2,0,0
+876,Mermaid,Purple,23.627173922073847,5,PayPal,7,1,0
+877,Unicorn,Pink,12.05294053566336,3,Gift Card,2,1,0
+878,Dinosaur,Rainbow,26.213364766279817,2,Gift Card,8,1,0
+879,Dragon,Blue,13.496896326760655,2,Credit Card,6,0,0
+880,Robot,Purple,21.191959628041914,4,PayPal,7,0,0
+881,Mermaid,Green,16.356907621255075,2,Gift Card,7,0,0
+882,Dragon,Rainbow,21.015937155411716,4,Credit Card,6,0,0
+883,Robot,Purple,15.279429989429037,4,Credit Card,9,2,0
+884,Robot,Pink,17.18603546963853,3,Gift Card,9,0,0
+885,Unicorn,Pink,18.204595876978605,3,Gift Card,7,1,0
+886,Dinosaur,Pink,12.989062721092637,5,Apple Pay,9,0,0
+887,Dinosaur,Pink,21.704121727100627,2,PayPal,3,0,0
+888,Dragon,Green,15.433932167642073,2,Apple Pay,3,0,0
+889,Dinosaur,Rainbow,16.857000423299908,3,Credit Card,1,0,0
+890,Mermaid,Blue,13.028253126957438,2,Gift Card,5,0,0
+891,Dinosaur,Green,5.1883317060234475,4,Apple Pay,4,0,0
+892,Dragon,Green,17.044861186999157,4,Credit Card,2,1,0
+893,Dinosaur,Blue,30.06307710806458,5,PayPal,9,2,0
+894,Mermaid,Blue,21.92302143949012,2,Gift Card,3,1,0
+895,Unicorn,Pink,17.903698101328025,2,Apple Pay,8,1,1
+896,Dragon,Green,16.68554585395866,2,PayPal,6,2,0
+897,Unicorn,Purple,18.11232946406023,2,Apple Pay,5,1,0
+898,Unicorn,Blue,20.73559557587605,3,Credit Card,1,0,0
+899,Unicorn,Blue,12.095935923455777,1,PayPal,4,0,0
+900,Robot,Rainbow,23.571608473344362,2,Apple Pay,3,0,1
+901,Robot,Purple,21.57690657720622,3,PayPal,1,0,0
+902,Unicorn,Purple,21.59092862853967,5,Credit Card,5,1,0
+903,Dragon,Blue,20.192378694048635,1,PayPal,6,2,0
+904,Mermaid,Pink,18.09808328846995,1,Apple Pay,2,1,0
+905,Mermaid,Rainbow,21.3643061798341,2,Credit Card,3,1,0
+906,Dinosaur,Purple,20.95907066870689,2,Gift Card,6,0,1
+907,Dragon,Blue,16.22979644529488,5,Apple Pay,4,0,0
+908,Robot,Purple,15.131991135515495,3,Apple Pay,9,0,0
+909,Unicorn,Rainbow,18.509281476309933,3,Credit Card,5,0,0
+910,Dinosaur,Rainbow,25.74510075747594,3,Credit Card,4,0,0
+911,Mermaid,Green,11.804464621730496,6,Gift Card,2,0,1
+912,Robot,Blue,10.6623736712378,4,Apple Pay,6,1,0
+913,Robot,Rainbow,18.823804206182583,5,Credit Card,2,0,0
+914,Unicorn,Green,18.25443850928009,4,Gift Card,7,1,0
+915,Mermaid,Green,18.86670832185204,1,Gift Card,3,1,0
+916,Dragon,Purple,19.219765989542502,4,Credit Card,9,0,0
+917,Robot,Purple,16.883988726825976,3,Apple Pay,5,0,0
+918,Unicorn,Green,25.449317193010412,4,PayPal,8,0,0
+919,Dragon,Purple,9.995480107617421,4,PayPal,6,1,0
+920,Mermaid,Rainbow,13.857514876098769,2,Gift Card,8,1,0
+921,Robot,Pink,17.483726199254765,2,PayPal,3,1,0
+922,Dragon,Rainbow,9.784055944229163,5,PayPal,3,3,1
+923,Dragon,Green,17.120727977839643,1,Credit Card,5,0,0
+924,Dragon,Green,26.30735082864009,3,Gift Card,3,1,0
+925,Robot,Rainbow,18.10443244147981,4,Apple Pay,8,0,0
+926,Robot,Purple,19.153504528593416,2,Gift Card,8,0,0
+927,Dinosaur,Purple,11.699176174137099,1,Credit Card,2,0,0
+928,Mermaid,Green,14.918192959802614,4,PayPal,4,0,0
+929,Unicorn,Blue,16.124018098380315,3,Apple Pay,1,0,0
+930,Dragon,Purple,16.41142451621883,2,Gift Card,4,0,1
+931,Dinosaur,Rainbow,24.408218975018844,3,PayPal,4,0,0
+932,Unicorn,Purple,20.78845530362562,2,Gift Card,9,0,0
+933,Dinosaur,Rainbow,12.44271021531484,1,Apple Pay,3,0,1
+934,Robot,Green,19.232523892160025,3,Gift Card,2,0,0
+935,Dragon,Purple,20.491108742483924,1,Gift Card,9,4,0
+936,Unicorn,Rainbow,23.700745192606334,4,Gift Card,9,1,1
+937,Unicorn,Green,25.902703432841868,3,PayPal,1,1,0
+938,Unicorn,Blue,12.924529040860657,5,Apple Pay,6,0,0
+939,Unicorn,Rainbow,13.94571244394831,2,Apple Pay,8,0,1
+940,Unicorn,Blue,11.71211070542692,1,PayPal,3,0,0
+941,Dinosaur,Blue,16.829900704465093,1,PayPal,9,1,1
+942,Dragon,Pink,20.331791872231673,5,PayPal,2,0,0
+943,Robot,Purple,22.93667258294551,1,Credit Card,6,0,0
+944,Robot,Rainbow,17.620244881787386,6,Gift Card,1,0,0
+945,Robot,Blue,16.40076238372578,1,Gift Card,7,0,1
+946,Robot,Pink,18.758789961243703,4,Apple Pay,3,1,0
+947,Dinosaur,Green,13.824285491849885,3,Gift Card,7,0,0
+948,Mermaid,Rainbow,28.447693608473866,2,Credit Card,4,0,0
+949,Dragon,Blue,9.961694864409706,2,PayPal,9,1,0
+950,Unicorn,Purple,18.923702894478623,2,Apple Pay,5,1,0
+951,Mermaid,Pink,28.118031096148197,3,Apple Pay,3,2,1
+952,Robot,Blue,18.033999222799988,4,Gift Card,8,0,0
+953,Mermaid,Purple,17.049804824992528,3,Apple Pay,6,1,0
+954,Dragon,Blue,16.212772885947864,4,PayPal,2,1,0
+955,Unicorn,Rainbow,17.09804159118796,4,Apple Pay,3,2,0
+956,Unicorn,Rainbow,24.864242373382652,2,PayPal,8,0,0
+957,Dragon,Rainbow,6.940690443352466,3,Credit Card,7,0,0
+958,Dragon,Pink,25.667168506481627,3,Credit Card,6,2,0
+959,Robot,Rainbow,10.880214237749275,3,PayPal,1,1,0
+960,Unicorn,Purple,16.666738353827927,5,Gift Card,9,2,0
+961,Mermaid,Blue,15.85377789850669,2,Apple Pay,3,1,0
+962,Dinosaur,Green,20.9427663488536,1,Gift Card,5,1,0
+963,Dinosaur,Purple,10.009378240581263,2,Apple Pay,7,0,0
+964,Dragon,Purple,20.310863330409713,3,Credit Card,7,1,0
+965,Robot,Rainbow,28.121548116434262,1,Credit Card,3,1,0
+966,Dinosaur,Pink,11.184129977035948,2,Credit Card,4,0,0
+967,Unicorn,Blue,18.94853083805198,1,Apple Pay,7,0,0
+968,Dragon,Pink,14.690089111016954,3,Credit Card,8,0,0
+969,Mermaid,Blue,20.12943603096518,3,Credit Card,2,0,0
+970,Dragon,Blue,18.09573888707876,4,Credit Card,9,0,0
+971,Mermaid,Pink,14.792565454778451,1,Credit Card,7,0,0
+972,Dragon,Purple,20.43936142435537,6,Gift Card,8,0,0
+973,Dragon,Blue,27.021740548933714,6,Credit Card,6,0,0
+974,Dragon,Pink,17.045481041363505,2,Credit Card,6,1,0
+975,Mermaid,Blue,21.59878971074091,5,Gift Card,9,1,0
+976,Mermaid,Green,11.533635210644182,3,Gift Card,4,0,0
+977,Dragon,Purple,13.217818115909957,4,Apple Pay,5,2,1
+978,Dinosaur,Rainbow,20.362031389401885,3,PayPal,9,0,1
+979,Robot,Blue,25.420580142679825,4,Credit Card,1,2,0
+980,Robot,Green,19.7780667439283,3,Credit Card,4,0,0
+981,Robot,Rainbow,16.434709847384227,3,Credit Card,7,0,0
+982,Mermaid,Rainbow,17.99645702711677,3,Apple Pay,9,1,0
+983,Mermaid,Blue,11.747961330151412,3,Credit Card,6,1,0
+984,Dinosaur,Pink,21.022576631776833,1,PayPal,8,1,1
+985,Robot,Blue,22.411665311617046,5,Gift Card,9,0,0
+986,Robot,Green,15.739548335834598,5,Apple Pay,4,0,1
+987,Dragon,Rainbow,15.649789261202493,2,Gift Card,1,0,0
+988,Mermaid,Blue,19.329391148260243,4,Credit Card,8,0,0
+989,Robot,Pink,15.816401319797023,1,Credit Card,2,0,0
+990,Dinosaur,Blue,17.669336926870887,3,Credit Card,1,0,1
+991,Dinosaur,Purple,28.49860894583258,1,PayPal,7,2,0
+992,Robot,Pink,16.76487149627002,4,PayPal,9,0,0
+993,Mermaid,Green,16.20829923989389,3,Apple Pay,9,0,0
+994,Dinosaur,Rainbow,14.762290971824203,2,Gift Card,3,1,0
+995,Dragon,Blue,21.720959857499682,1,Credit Card,6,0,0
+996,Dinosaur,Pink,17.093879133909486,1,Credit Card,7,0,0
+997,Unicorn,Purple,14.75313480839287,5,Credit Card,9,1,0
+998,Unicorn,Pink,24.60652016136506,3,Credit Card,2,1,0
+999,Mermaid,Purple,25.098015022568184,3,PayPal,8,0,0
+1000,Robot,Green,14.997882171306475,4,Gift Card,7,0,0
