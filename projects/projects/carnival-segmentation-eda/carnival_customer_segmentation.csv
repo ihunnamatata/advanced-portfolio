@@ -1,0 +1,801 @@
+CustomerID,AgeGroup,TicketType,VisitLengthHours,GamesPlayed,SnacksPurchased,SpendingTier
+1,Teen,Family Pass,6.3,3,1,Medium
+2,Senior,Group,3.9,1,3,Low
+3,Adult,VIP,3.2,0,3,High
+4,Adult,General,6.8,3,1,Low
+5,Child,Family Pass,1.8,2,1,High
+6,Child,Group,1.0,6,4,Medium
+7,Child,VIP,4.7,2,1,High
+8,Adult,General,3.2,4,4,Medium
+9,Adult,VIP,2.5,3,0,High
+10,Adult,Group,5.1,7,3,Low
+11,Child,General,4.4,5,3,Medium
+12,Senior,VIP,3.2,4,3,High
+13,Adult,Family Pass,2.1,1,2,Low
+14,Teen,General,5.3,6,1,Low
+15,Child,VIP,5.0,1,0,Medium
+16,Child,Group,3.9,2,2,High
+17,Teen,Group,6.8,1,2,Medium
+18,Adult,General,2.4,3,2,Medium
+19,Teen,VIP,1.7,2,3,Low
+20,Teen,General,3.0,1,3,Low
+21,Adult,General,3.9,0,1,High
+22,Child,VIP,4.4,1,2,Low
+23,Teen,VIP,3.6,1,1,Medium
+24,Teen,Family Pass,4.5,5,2,High
+25,Teen,VIP,2.1,2,0,Low
+26,Adult,Group,6.2,6,1,Medium
+27,Child,General,3.9,2,1,Low
+28,Adult,General,5.7,5,2,Medium
+29,Adult,Group,4.5,2,1,Low
+30,Child,VIP,4.7,1,1,Medium
+31,Adult,Group,4.9,1,2,Medium
+32,Child,Group,4.7,2,4,Medium
+33,Child,Family Pass,5.0,3,0,Medium
+34,Senior,Group,6.0,2,1,Low
+35,Senior,General,4.3,1,4,Medium
+36,Adult,Group,5.1,5,2,Medium
+37,Teen,General,3.9,5,1,Medium
+38,Child,General,6.2,2,1,Low
+39,Adult,General,3.0,1,3,Medium
+40,Teen,VIP,6.7,3,1,Low
+41,Child,Family Pass,3.9,0,3,Medium
+42,Teen,General,1.9,2,3,Low
+43,Child,General,4.2,6,2,Medium
+44,Senior,VIP,3.0,7,2,Low
+45,Teen,General,5.3,3,4,High
+46,Adult,Group,3.0,3,1,High
+47,Teen,Group,3.3,3,1,Low
+48,Adult,Family Pass,1.2,1,2,Medium
+49,Adult,General,3.3,3,1,Low
+50,Child,VIP,1.0,4,3,Medium
+51,Senior,Group,1.6,4,3,Medium
+52,Adult,VIP,5.1,1,4,Medium
+53,Senior,VIP,5.2,3,1,Medium
+54,Adult,Group,4.6,0,1,Low
+55,Adult,VIP,2.5,2,1,Medium
+56,Senior,Group,3.9,4,1,Low
+57,Child,VIP,4.0,6,2,Medium
+58,Child,Group,2.3,3,0,Medium
+59,Child,General,6.3,2,1,Medium
+60,Teen,Family Pass,5.3,4,2,Low
+61,Teen,Group,3.7,2,4,Medium
+62,Teen,Group,4.0,4,0,Medium
+63,Adult,Family Pass,4.3,2,0,Low
+64,Teen,Group,1.0,6,1,Medium
+65,Teen,Group,3.6,2,1,High
+66,Adult,VIP,3.0,0,4,High
+67,Child,Family Pass,2.5,5,2,Medium
+68,Adult,General,3.6,3,2,Medium
+69,Child,Group,6.7,2,2,Low
+70,Senior,Family Pass,5.0,5,5,High
+71,Adult,VIP,3.1,4,3,Low
+72,Child,General,4.9,4,4,High
+73,Child,Family Pass,6.1,7,3,Medium
+74,Adult,General,5.4,2,0,Medium
+75,Adult,General,4.1,2,3,High
+76,Adult,General,3.0,5,2,Low
+77,Adult,Group,5.0,4,3,Medium
+78,Child,Group,4.6,3,3,Medium
+79,Teen,VIP,5.3,2,1,Low
+80,Child,VIP,5.0,4,1,Medium
+81,Adult,Family Pass,5.6,4,4,Medium
+82,Adult,VIP,3.2,5,0,Medium
+83,Teen,General,6.0,1,2,Low
+84,Child,General,4.3,2,3,High
+85,Teen,Group,7.1,1,1,Low
+86,Teen,General,3.0,4,0,Low
+87,Adult,Family Pass,6.6,1,3,Low
+88,Adult,General,4.3,3,2,Low
+89,Adult,General,3.0,1,1,Low
+90,Teen,Family Pass,3.3,2,2,High
+91,Child,VIP,3.5,5,1,Medium
+92,Adult,VIP,4.6,4,0,Low
+93,Adult,Family Pass,4.8,3,2,Low
+94,Adult,Group,3.1,3,0,Medium
+95,Adult,General,4.0,5,3,High
+96,Teen,Family Pass,7.2,3,2,Low
+97,Adult,General,6.6,2,4,Low
+98,Teen,Group,4.7,1,1,Low
+99,Child,General,4.1,2,0,Low
+100,Child,Family Pass,4.2,1,0,Low
+101,Child,General,4.9,2,4,Medium
+102,Adult,VIP,2.5,1,0,Low
+103,Teen,Group,3.6,3,5,Medium
+104,Adult,Group,1.5,3,0,Low
+105,Senior,Group,4.6,6,3,High
+106,Teen,Family Pass,5.0,5,2,High
+107,Teen,Group,3.3,6,1,Medium
+108,Adult,VIP,6.4,1,1,Medium
+109,Teen,Family Pass,2.2,2,1,Medium
+110,Child,VIP,1.8,4,2,Medium
+111,Teen,General,4.3,2,3,Medium
+112,Child,General,5.6,1,2,Medium
+113,Senior,General,6.5,4,3,High
+114,Adult,General,3.3,4,3,High
+115,Adult,VIP,5.6,1,1,Medium
+116,Adult,Family Pass,3.9,4,2,Medium
+117,Adult,Family Pass,3.7,3,2,Low
+118,Child,Group,5.3,1,2,Low
+119,Adult,VIP,5.0,2,4,Medium
+120,Adult,General,1.6,1,1,Low
+121,Adult,VIP,6.2,2,0,High
+122,Adult,Group,6.1,2,1,Low
+123,Teen,Group,3.1,3,2,Medium
+124,Child,VIP,4.6,4,0,Medium
+125,Teen,VIP,4.7,4,1,Medium
+126,Teen,VIP,4.4,0,0,Medium
+127,Adult,Family Pass,3.2,3,2,High
+128,Adult,General,3.0,0,2,Medium
+129,Child,VIP,4.0,3,3,Medium
+130,Adult,VIP,5.8,1,0,Low
+131,Teen,VIP,4.8,4,5,Medium
+132,Teen,Group,3.4,5,5,High
+133,Child,Group,5.2,1,1,Medium
+134,Teen,Family Pass,1.0,3,4,High
+135,Senior,General,5.7,3,2,Medium
+136,Teen,Family Pass,1.4,3,3,Low
+137,Adult,General,3.5,2,2,Low
+138,Adult,Group,2.3,3,3,Medium
+139,Teen,Group,2.1,3,2,Medium
+140,Senior,Group,5.7,4,2,Medium
+141,Senior,Family Pass,3.3,3,2,Low
+142,Teen,VIP,4.5,1,2,Medium
+143,Teen,VIP,3.9,2,0,Medium
+144,Teen,Group,4.7,4,4,Medium
+145,Teen,VIP,4.1,1,4,Low
+146,Child,VIP,2.1,4,1,Low
+147,Adult,Family Pass,5.5,2,3,Low
+148,Adult,General,3.3,1,0,Low
+149,Child,Group,1.7,5,2,Low
+150,Teen,Group,3.4,6,0,Low
+151,Senior,Family Pass,6.3,1,3,Medium
+152,Teen,Family Pass,5.3,7,2,Medium
+153,Child,VIP,3.5,4,1,High
+154,Teen,Group,3.5,3,0,Low
+155,Senior,General,3.5,3,0,Medium
+156,Teen,Family Pass,7.1,0,4,Medium
+157,Adult,General,4.6,3,2,Low
+158,Adult,General,4.6,3,2,High
+159,Teen,Group,5.5,1,3,Low
+160,Adult,Group,4.4,0,5,High
+161,Teen,Family Pass,3.6,2,3,High
+162,Adult,Group,3.7,4,0,Medium
+163,Adult,Group,3.9,6,0,Medium
+164,Adult,Group,3.9,3,2,Medium
+165,Child,General,5.1,3,2,Medium
+166,Adult,Family Pass,4.1,2,2,Medium
+167,Teen,VIP,5.1,1,3,Low
+168,Child,General,3.9,0,0,Low
+169,Child,Group,4.1,2,0,Medium
+170,Adult,General,1.0,6,3,Medium
+171,Adult,Group,5.4,6,2,High
+172,Child,Group,4.5,3,3,Low
+173,Adult,General,5.5,3,1,High
+174,Teen,Family Pass,1.0,2,3,Low
+175,Adult,Group,7.1,5,3,Medium
+176,Child,Family Pass,3.8,3,1,Medium
+177,Adult,VIP,5.7,2,3,Medium
+178,Teen,Group,2.4,2,4,Low
+179,Senior,Family Pass,4.9,2,2,Medium
+180,Child,Family Pass,2.4,3,1,High
+181,Teen,VIP,3.1,1,4,Medium
+182,Child,Family Pass,6.9,6,1,Medium
+183,Senior,Family Pass,3.7,4,1,High
+184,Adult,VIP,4.3,6,3,Medium
+185,Teen,Group,5.3,2,1,Medium
+186,Adult,Family Pass,4.7,5,4,Low
+187,Adult,Family Pass,4.2,2,3,High
+188,Adult,Family Pass,4.5,3,0,Medium
+189,Adult,General,7.6,6,2,Low
+190,Teen,VIP,3.9,6,3,Low
+191,Child,General,4.3,5,2,High
+192,Adult,VIP,5.6,4,1,Low
+193,Senior,Group,5.7,3,4,High
+194,Adult,Group,5.8,1,1,Low
+195,Teen,Family Pass,5.0,4,1,Medium
+196,Teen,VIP,2.3,3,0,Medium
+197,Adult,Group,6.5,4,3,Medium
+198,Adult,VIP,2.3,2,0,High
+199,Adult,Group,4.5,2,2,Medium
+200,Adult,General,2.9,4,1,Medium
+201,Adult,Group,3.9,4,1,Low
+202,Child,General,4.5,1,2,Low
+203,Child,Group,4.5,2,4,Low
+204,Adult,Family Pass,4.6,4,4,Medium
+205,Adult,General,6.4,2,3,Low
+206,Child,Group,4.7,3,4,Low
+207,Child,Family Pass,3.6,5,1,Medium
+208,Adult,General,5.4,2,2,Medium
+209,Child,Family Pass,5.8,2,1,Medium
+210,Child,VIP,2.2,2,1,Low
+211,Adult,VIP,4.9,2,4,Low
+212,Adult,General,5.1,4,2,High
+213,Adult,Group,3.6,2,0,Low
+214,Teen,General,6.1,2,3,High
+215,Adult,Family Pass,3.8,3,1,High
+216,Teen,Group,4.2,2,2,Medium
+217,Teen,VIP,3.7,2,2,Low
+218,Adult,Group,4.0,2,0,High
+219,Adult,VIP,2.4,5,2,Medium
+220,Adult,Group,1.8,4,5,Medium
+221,Adult,Group,6.4,4,2,Medium
+222,Adult,Group,2.7,4,3,Low
+223,Child,Family Pass,2.5,4,0,Low
+224,Teen,Family Pass,1.0,4,2,Medium
+225,Teen,General,3.0,0,1,Medium
+226,Teen,General,2.0,1,3,Medium
+227,Senior,VIP,6.5,4,2,Medium
+228,Teen,Family Pass,5.5,1,1,Medium
+229,Adult,VIP,3.0,4,2,Medium
+230,Adult,General,7.4,1,1,High
+231,Adult,VIP,5.5,2,2,Low
+232,Adult,General,3.5,2,5,Medium
+233,Adult,Family Pass,1.0,1,3,Low
+234,Teen,Group,7.4,4,4,Medium
+235,Child,Family Pass,1.9,7,2,Medium
+236,Adult,VIP,1.5,3,2,High
+237,Teen,VIP,5.5,4,0,Low
+238,Child,Family Pass,7.7,5,2,High
+239,Adult,Family Pass,6.1,3,1,Low
+240,Child,General,4.8,2,1,Medium
+241,Senior,VIP,4.9,3,2,Low
+242,Senior,VIP,5.3,2,3,High
+243,Senior,Family Pass,5.1,2,1,Medium
+244,Teen,Group,4.4,4,2,Medium
+245,Child,VIP,4.2,1,1,High
+246,Senior,Group,3.9,5,2,Low
+247,Teen,Family Pass,2.9,2,1,Low
+248,Senior,Family Pass,3.6,3,1,High
+249,Senior,General,1.5,6,3,Medium
+250,Adult,VIP,3.9,3,3,Low
+251,Teen,Group,2.5,3,1,Medium
+252,Teen,General,2.3,7,0,Medium
+253,Adult,VIP,4.3,3,3,Low
+254,Teen,General,6.1,1,3,Low
+255,Child,Family Pass,5.4,0,3,Low
+256,Adult,VIP,1.6,3,0,Medium
+257,Senior,General,2.5,1,0,High
+258,Adult,General,5.4,2,0,High
+259,Adult,Group,2.5,1,4,Medium
+260,Child,General,3.7,3,1,Low
+261,Adult,VIP,4.8,1,3,High
+262,Senior,VIP,2.5,2,0,Medium
+263,Child,Group,4.2,4,0,Low
+264,Adult,VIP,2.0,3,4,High
+265,Adult,Family Pass,3.1,4,1,Medium
+266,Adult,VIP,4.5,2,2,Medium
+267,Adult,VIP,1.6,2,4,Medium
+268,Adult,General,4.7,3,1,Low
+269,Teen,General,4.0,1,0,Low
+270,Teen,VIP,4.8,2,1,Medium
+271,Adult,Group,4.3,4,2,Low
+272,Adult,General,6.0,6,1,Medium
+273,Adult,Group,4.2,4,1,Medium
+274,Senior,VIP,3.4,1,1,Medium
+275,Adult,VIP,4.2,4,3,Medium
+276,Adult,Family Pass,4.8,4,1,Medium
+277,Adult,General,4.1,1,1,High
+278,Adult,VIP,4.1,5,3,Medium
+279,Adult,Family Pass,2.9,2,1,Low
+280,Adult,General,3.0,1,2,Low
+281,Adult,VIP,1.9,4,0,Medium
+282,Teen,VIP,6.6,3,1,Low
+283,Teen,General,2.1,3,3,Low
+284,Child,General,3.0,6,1,Low
+285,Adult,General,2.9,4,4,Medium
+286,Child,VIP,5.3,9,2,High
+287,Teen,VIP,3.6,3,0,Low
+288,Adult,Family Pass,5.9,2,4,Medium
+289,Teen,Group,3.0,3,2,Medium
+290,Adult,General,4.4,2,1,Low
+291,Child,VIP,2.7,5,1,High
+292,Child,VIP,7.2,4,2,Medium
+293,Adult,General,2.2,3,1,Medium
+294,Teen,Group,4.5,5,2,Medium
+295,Child,General,5.0,3,2,Low
+296,Adult,Group,4.6,1,1,Medium
+297,Adult,VIP,3.7,3,1,Low
+298,Teen,Group,3.8,7,5,High
+299,Adult,Family Pass,4.1,3,1,Medium
+300,Child,VIP,3.8,2,6,Medium
+301,Child,Family Pass,5.4,5,4,Low
+302,Adult,General,7.3,2,2,Medium
+303,Adult,General,3.2,4,1,Medium
+304,Adult,General,1.9,1,1,Medium
+305,Adult,Group,3.9,3,3,Medium
+306,Senior,VIP,7.9,8,2,Medium
+307,Adult,General,2.8,3,1,High
+308,Teen,General,6.5,5,4,Medium
+309,Adult,VIP,6.5,6,2,High
+310,Teen,General,3.2,5,1,High
+311,Teen,Family Pass,4.9,4,3,Medium
+312,Child,VIP,6.4,3,2,Low
+313,Child,VIP,3.4,4,4,Medium
+314,Senior,VIP,3.7,0,4,High
+315,Adult,Family Pass,3.1,8,1,Low
+316,Adult,VIP,2.5,2,4,Medium
+317,Teen,Family Pass,3.0,4,0,High
+318,Child,VIP,2.2,0,3,Medium
+319,Child,Group,4.1,1,3,Medium
+320,Teen,General,2.8,7,2,Low
+321,Adult,Group,4.4,4,3,Low
+322,Adult,General,1.7,5,1,Medium
+323,Adult,Family Pass,4.5,1,4,Low
+324,Teen,Group,5.3,5,3,Low
+325,Senior,VIP,1.0,1,0,High
+326,Adult,General,4.6,2,2,Medium
+327,Adult,General,5.8,1,1,High
+328,Adult,Group,2.2,4,0,High
+329,Teen,Family Pass,6.5,3,3,Low
+330,Teen,Group,4.6,1,1,Low
+331,Teen,Family Pass,2.9,3,1,Medium
+332,Adult,Family Pass,3.9,2,1,Medium
+333,Child,General,4.8,2,4,Low
+334,Child,Group,4.1,1,3,Medium
+335,Child,Group,4.8,3,0,Low
+336,Child,Family Pass,2.6,2,1,High
+337,Adult,Group,4.3,3,4,Low
+338,Adult,VIP,1.9,3,2,Low
+339,Teen,VIP,3.8,5,1,Low
+340,Child,Group,2.6,6,2,High
+341,Teen,Group,2.9,3,1,Medium
+342,Teen,Family Pass,5.9,5,3,High
+343,Child,VIP,5.6,2,3,Medium
+344,Teen,VIP,4.9,2,6,Medium
+345,Teen,General,2.4,4,1,Low
+346,Adult,Family Pass,3.5,3,3,Medium
+347,Adult,General,5.8,2,1,Medium
+348,Child,VIP,4.2,1,4,Medium
+349,Teen,Family Pass,7.5,5,2,Low
+350,Adult,Group,4.6,3,3,High
+351,Adult,Family Pass,4.3,4,1,Low
+352,Adult,Group,3.5,1,2,High
+353,Adult,Group,4.2,3,2,Low
+354,Child,Family Pass,3.8,4,2,Medium
+355,Child,Group,5.1,2,1,Medium
+356,Adult,General,5.4,2,4,Medium
+357,Child,VIP,2.8,2,1,Medium
+358,Adult,Group,2.0,4,1,Medium
+359,Senior,General,1.2,5,2,Medium
+360,Adult,Group,4.8,2,2,Medium
+361,Teen,VIP,2.3,2,5,Medium
+362,Adult,General,1.0,4,0,High
+363,Teen,VIP,4.6,0,0,Low
+364,Adult,VIP,7.7,3,2,Medium
+365,Senior,General,4.0,0,1,Medium
+366,Teen,General,5.3,2,4,Medium
+367,Senior,General,4.1,2,4,Medium
+368,Senior,Family Pass,3.9,1,2,Medium
+369,Child,General,5.4,4,1,Low
+370,Child,General,3.6,5,1,Low
+371,Child,General,4.4,1,4,Low
+372,Child,General,4.5,4,1,Medium
+373,Child,Group,3.0,0,8,Medium
+374,Adult,Family Pass,5.5,6,0,High
+375,Child,VIP,3.7,5,1,Medium
+376,Teen,General,2.9,1,3,Low
+377,Adult,Group,4.8,5,1,High
+378,Child,Group,2.7,1,3,High
+379,Adult,Group,4.0,4,2,Medium
+380,Teen,VIP,4.0,2,2,Medium
+381,Child,General,5.6,1,1,High
+382,Adult,Family Pass,4.7,3,2,Medium
+383,Adult,Family Pass,4.0,3,0,High
+384,Adult,Group,5.2,6,1,Low
+385,Adult,VIP,6.1,0,0,Low
+386,Adult,VIP,4.8,3,5,Medium
+387,Teen,VIP,4.0,5,4,Medium
+388,Child,Family Pass,2.0,1,3,High
+389,Adult,Group,2.4,3,1,High
+390,Adult,General,3.5,4,2,Medium
+391,Senior,Family Pass,3.1,2,1,Low
+392,Teen,Group,3.7,3,4,High
+393,Teen,Group,4.1,7,1,Medium
+394,Adult,General,4.8,1,0,Low
+395,Teen,General,3.9,3,3,Medium
+396,Senior,General,4.7,3,1,Medium
+397,Adult,VIP,4.1,1,3,Medium
+398,Teen,General,1.0,1,0,Medium
+399,Adult,Group,2.6,2,2,Medium
+400,Adult,General,3.8,2,2,High
+401,Child,Group,2.2,6,1,Medium
+402,Senior,Family Pass,4.9,1,3,Medium
+403,Adult,VIP,6.3,3,3,Low
+404,Adult,Family Pass,5.8,3,1,Medium
+405,Teen,Family Pass,3.7,4,1,Low
+406,Adult,Group,6.2,2,3,Low
+407,Teen,Family Pass,4.2,3,1,Medium
+408,Child,Group,3.5,4,0,Low
+409,Senior,General,3.1,2,1,Medium
+410,Child,General,3.5,3,3,Low
+411,Teen,Group,3.4,2,4,Medium
+412,Senior,General,4.3,4,2,Low
+413,Senior,VIP,4.2,1,0,Low
+414,Adult,Family Pass,4.0,3,2,Low
+415,Adult,VIP,4.7,5,1,High
+416,Teen,Family Pass,5.8,2,3,High
+417,Teen,General,5.4,4,2,Low
+418,Teen,VIP,1.8,2,2,Medium
+419,Adult,General,1.0,1,2,Medium
+420,Adult,Family Pass,5.4,3,0,High
+421,Adult,Group,1.9,4,3,Medium
+422,Adult,Group,3.7,7,2,Medium
+423,Child,VIP,2.2,4,0,Low
+424,Teen,General,1.3,6,2,Medium
+425,Child,General,4.8,4,2,High
+426,Adult,VIP,5.1,1,2,Medium
+427,Teen,Group,3.1,1,2,Low
+428,Adult,Family Pass,1.0,7,3,Low
+429,Teen,VIP,3.2,4,1,Medium
+430,Child,Family Pass,4.6,3,2,Medium
+431,Child,Group,1.8,3,2,Medium
+432,Adult,General,4.3,3,3,High
+433,Adult,Group,4.0,3,2,Low
+434,Child,VIP,4.9,1,4,Medium
+435,Child,General,4.2,1,2,High
+436,Adult,VIP,2.5,3,1,Medium
+437,Child,VIP,5.8,0,1,Low
+438,Adult,Group,3.8,3,0,Medium
+439,Adult,VIP,4.0,3,2,High
+440,Child,Group,2.6,0,4,Low
+441,Child,General,3.3,2,1,High
+442,Senior,Group,2.7,1,0,Medium
+443,Teen,General,3.7,2,2,Low
+444,Teen,Group,6.6,4,0,Medium
+445,Adult,Family Pass,1.9,4,0,Medium
+446,Senior,Family Pass,1.6,1,3,Medium
+447,Senior,VIP,6.2,3,2,Medium
+448,Adult,Group,3.7,3,3,High
+449,Teen,Group,3.0,2,1,Low
+450,Child,General,5.6,2,1,Medium
+451,Adult,VIP,3.1,3,2,Medium
+452,Adult,Group,6.7,2,4,Medium
+453,Teen,VIP,5.0,3,3,Medium
+454,Senior,Family Pass,3.3,2,1,Low
+455,Child,Group,7.2,1,4,Medium
+456,Teen,Group,3.1,0,1,Medium
+457,Child,VIP,5.1,3,3,Low
+458,Teen,Group,4.4,4,1,High
+459,Child,VIP,6.0,4,1,High
+460,Child,Group,6.3,3,2,Medium
+461,Child,General,4.0,3,3,Low
+462,Adult,VIP,2.9,6,1,Medium
+463,Adult,Group,4.7,4,3,Low
+464,Adult,Family Pass,3.0,4,2,Low
+465,Senior,Group,7.0,5,2,Medium
+466,Teen,Family Pass,4.2,1,2,Low
+467,Teen,Family Pass,3.5,4,0,Low
+468,Adult,General,4.3,2,5,Low
+469,Teen,VIP,2.0,4,2,Low
+470,Senior,Group,2.5,5,2,Low
+471,Child,General,5.8,2,0,High
+472,Senior,Group,3.0,4,4,Low
+473,Child,Family Pass,2.4,1,1,Low
+474,Adult,VIP,4.8,2,1,Low
+475,Adult,Group,5.8,4,5,High
+476,Senior,Group,5.1,1,0,Medium
+477,Child,Family Pass,5.5,1,2,Medium
+478,Adult,Group,2.9,0,1,High
+479,Senior,Group,1.9,3,3,Medium
+480,Adult,Family Pass,6.3,3,2,Medium
+481,Adult,General,3.5,4,5,Low
+482,Adult,Family Pass,3.6,2,3,Medium
+483,Teen,General,6.0,3,2,Medium
+484,Adult,VIP,4.8,6,2,Medium
+485,Adult,General,4.7,2,1,Low
+486,Senior,General,7.2,2,0,Medium
+487,Child,VIP,3.0,2,1,Low
+488,Teen,General,5.4,4,3,Low
+489,Senior,Family Pass,4.1,1,1,Medium
+490,Adult,General,4.4,4,1,High
+491,Teen,VIP,6.3,3,0,Medium
+492,Adult,Family Pass,4.8,3,2,Medium
+493,Teen,VIP,4.8,5,3,Low
+494,Child,VIP,5.6,3,4,Low
+495,Teen,Group,3.5,1,2,Low
+496,Teen,Group,2.7,1,3,Medium
+497,Adult,VIP,2.4,3,3,Low
+498,Child,VIP,1.1,5,2,Low
+499,Senior,VIP,7.1,4,3,Medium
+500,Senior,Group,2.3,2,0,Low
+501,Adult,Group,3.7,7,2,Medium
+502,Adult,General,3.6,0,2,Medium
+503,Teen,General,4.5,4,4,Medium
+504,Adult,VIP,5.2,2,2,Medium
+505,Adult,Family Pass,5.3,3,2,Medium
+506,Child,Family Pass,3.1,1,2,Low
+507,Senior,Group,3.7,3,2,Medium
+508,Adult,Group,4.4,1,1,High
+509,Senior,Group,3.6,3,2,Low
+510,Adult,VIP,6.4,6,3,Low
+511,Adult,Family Pass,4.7,3,1,High
+512,Teen,General,5.1,2,3,Medium
+513,Senior,VIP,5.0,1,3,Medium
+514,Adult,General,5.8,4,1,Medium
+515,Child,General,4.3,4,1,Low
+516,Child,VIP,2.1,3,4,Medium
+517,Teen,General,4.6,1,2,Medium
+518,Adult,Family Pass,3.0,4,1,Low
+519,Senior,General,3.2,2,1,Medium
+520,Child,Family Pass,4.9,4,0,Medium
+521,Adult,Family Pass,5.9,1,2,Medium
+522,Teen,Family Pass,4.0,5,3,Low
+523,Senior,Group,4.5,3,2,Medium
+524,Adult,General,6.6,1,1,Medium
+525,Adult,VIP,4.4,2,1,Medium
+526,Teen,VIP,7.9,1,4,Medium
+527,Teen,General,4.8,5,1,Low
+528,Teen,Group,1.4,1,1,Medium
+529,Child,Group,5.1,3,3,Medium
+530,Adult,Family Pass,4.6,2,1,Low
+531,Adult,General,5.9,3,1,Medium
+532,Senior,General,5.0,2,3,Medium
+533,Senior,VIP,3.8,5,2,Medium
+534,Adult,General,2.2,4,2,Low
+535,Adult,Group,3.7,5,2,Medium
+536,Senior,General,2.7,2,2,High
+537,Adult,VIP,3.1,3,3,Medium
+538,Teen,Family Pass,4.9,2,3,High
+539,Teen,VIP,6.5,1,5,High
+540,Child,VIP,4.6,3,1,Low
+541,Senior,Family Pass,2.2,1,3,Medium
+542,Adult,VIP,4.7,7,1,Medium
+543,Teen,VIP,5.8,6,0,High
+544,Adult,General,3.1,3,2,Low
+545,Adult,General,3.8,4,3,High
+546,Teen,Family Pass,4.0,1,1,Medium
+547,Child,General,2.8,1,4,Medium
+548,Adult,General,5.0,2,1,Low
+549,Adult,VIP,3.8,3,0,Low
+550,Adult,Group,4.6,3,2,Medium
+551,Adult,General,2.7,1,0,Low
+552,Adult,Group,3.3,4,4,High
+553,Adult,General,5.1,1,1,Low
+554,Adult,General,3.4,3,2,Medium
+555,Adult,Family Pass,6.6,3,1,Medium
+556,Teen,Family Pass,3.4,1,1,Medium
+557,Child,Family Pass,4.3,2,1,Medium
+558,Child,Group,5.4,4,2,Medium
+559,Adult,VIP,1.9,2,1,Low
+560,Adult,General,1.4,0,2,Low
+561,Adult,General,1.7,4,3,Medium
+562,Teen,General,5.9,0,4,Medium
+563,Child,Group,3.2,2,2,Medium
+564,Child,Family Pass,7.8,5,2,Medium
+565,Teen,VIP,3.2,1,3,Medium
+566,Adult,Group,4.3,5,3,Medium
+567,Teen,Family Pass,6.3,4,2,Low
+568,Teen,Group,7.0,4,3,Medium
+569,Senior,VIP,7.1,3,1,High
+570,Teen,Family Pass,5.8,6,4,High
+571,Adult,Group,5.5,2,0,Medium
+572,Adult,VIP,4.9,4,5,Medium
+573,Teen,General,5.2,2,2,High
+574,Adult,VIP,3.2,5,1,Medium
+575,Adult,General,2.8,3,1,Low
+576,Senior,Group,4.0,3,1,Low
+577,Child,Family Pass,3.7,3,2,Medium
+578,Senior,Family Pass,3.3,1,1,High
+579,Teen,Group,5.0,3,4,Medium
+580,Teen,Family Pass,5.4,6,3,Low
+581,Teen,Family Pass,4.1,3,0,Low
+582,Senior,General,6.2,1,2,Medium
+583,Teen,Group,2.3,3,0,High
+584,Teen,VIP,3.7,3,0,Medium
+585,Adult,General,2.9,2,2,Medium
+586,Teen,Group,1.2,3,3,Low
+587,Child,General,3.9,0,2,High
+588,Child,VIP,3.8,8,2,Medium
+589,Child,VIP,6.3,1,1,Low
+590,Child,Group,4.9,1,0,Medium
+591,Child,VIP,2.5,3,2,Low
+592,Adult,General,6.8,2,3,Low
+593,Child,VIP,5.8,2,3,Low
+594,Teen,General,4.9,3,3,Low
+595,Adult,General,3.7,4,3,Medium
+596,Teen,VIP,2.6,3,0,Medium
+597,Adult,Group,3.4,7,1,Medium
+598,Child,Family Pass,5.6,3,2,Medium
+599,Child,VIP,6.8,3,1,Low
+600,Child,General,6.3,3,4,Low
+601,Child,General,3.3,5,0,Medium
+602,Teen,VIP,2.3,5,1,Medium
+603,Child,Group,4.2,4,4,Low
+604,Child,Group,1.3,4,1,High
+605,Child,General,4.5,2,2,Medium
+606,Teen,General,3.8,6,4,High
+607,Teen,Group,3.3,3,2,Medium
+608,Teen,Family Pass,1.6,2,3,Low
+609,Adult,VIP,4.8,6,1,Medium
+610,Adult,General,3.2,4,2,Low
+611,Child,General,2.2,3,1,Medium
+612,Adult,Group,1.0,3,3,Low
+613,Adult,VIP,4.0,6,3,High
+614,Child,Group,6.7,4,1,Low
+615,Adult,VIP,6.5,2,3,High
+616,Senior,VIP,3.3,1,3,High
+617,Child,VIP,3.1,3,3,Medium
+618,Teen,General,4.7,4,2,Medium
+619,Adult,Family Pass,2.5,5,0,Medium
+620,Adult,Group,4.5,6,4,High
+621,Child,Family Pass,5.1,2,1,Medium
+622,Teen,Group,5.8,4,2,Medium
+623,Teen,VIP,3.8,4,2,Medium
+624,Teen,General,3.7,0,1,High
+625,Adult,Family Pass,2.7,4,2,Medium
+626,Teen,General,2.8,5,6,Medium
+627,Teen,Group,3.7,2,0,Medium
+628,Adult,General,4.6,5,4,High
+629,Child,General,5.4,4,2,Medium
+630,Teen,Family Pass,2.8,5,1,Low
+631,Adult,VIP,6.2,2,2,Medium
+632,Adult,General,3.6,2,4,High
+633,Adult,VIP,4.0,0,1,Medium
+634,Adult,Group,2.9,4,2,High
+635,Child,General,1.0,1,2,Low
+636,Teen,Family Pass,5.3,2,5,Medium
+637,Adult,Group,5.1,3,1,Medium
+638,Teen,Group,3.6,2,0,High
+639,Teen,Family Pass,4.1,2,2,Low
+640,Teen,General,4.8,1,1,High
+641,Child,General,1.7,3,0,Medium
+642,Teen,Group,3.2,4,1,Low
+643,Teen,General,5.2,6,1,Medium
+644,Teen,VIP,2.1,3,2,Low
+645,Child,Family Pass,4.4,2,2,Medium
+646,Adult,VIP,2.0,3,2,Low
+647,Adult,General,4.7,1,0,Low
+648,Adult,Group,3.9,2,3,High
+649,Adult,Family Pass,1.6,1,1,Low
+650,Teen,General,5.7,3,1,Low
+651,Child,General,2.9,4,3,Medium
+652,Adult,Group,2.8,2,1,Medium
+653,Adult,Group,4.3,2,0,Medium
+654,Adult,VIP,5.7,3,1,Medium
+655,Teen,Family Pass,2.5,2,2,Medium
+656,Child,Family Pass,4.1,2,2,Medium
+657,Teen,Group,4.6,3,1,Low
+658,Teen,VIP,5.0,1,1,Low
+659,Adult,Family Pass,4.3,6,4,Medium
+660,Adult,Group,3.4,2,3,Medium
+661,Teen,General,2.8,2,0,Medium
+662,Senior,Family Pass,4.1,2,1,Medium
+663,Adult,VIP,2.4,4,3,Medium
+664,Teen,VIP,1.0,1,3,Low
+665,Child,VIP,4.7,2,1,Low
+666,Child,General,5.4,4,2,Medium
+667,Teen,Family Pass,1.0,3,3,Medium
+668,Child,Family Pass,2.5,3,1,Medium
+669,Child,General,4.9,3,0,Low
+670,Teen,Family Pass,7.1,6,2,Medium
+671,Child,General,4.0,3,3,High
+672,Adult,General,2.9,3,2,Low
+673,Child,General,3.7,1,3,Medium
+674,Adult,VIP,6.1,2,0,High
+675,Teen,Family Pass,3.0,4,2,Medium
+676,Senior,General,2.8,3,4,Medium
+677,Child,Family Pass,3.3,3,4,Low
+678,Teen,VIP,2.6,2,2,Medium
+679,Senior,General,4.2,3,2,Low
+680,Adult,Group,6.4,1,1,High
+681,Adult,VIP,4.5,2,1,Medium
+682,Teen,Group,3.6,2,0,Medium
+683,Child,Family Pass,3.6,3,2,Medium
+684,Adult,Family Pass,1.7,5,0,Medium
+685,Senior,VIP,5.3,3,1,Medium
+686,Adult,Family Pass,3.9,6,3,High
+687,Adult,Group,3.7,2,0,High
+688,Teen,General,8.8,5,2,Medium
+689,Adult,General,4.4,6,1,High
+690,Child,General,2.9,6,2,Medium
+691,Teen,VIP,3.4,3,0,Medium
+692,Teen,Family Pass,5.7,4,2,Medium
+693,Adult,Group,4.2,3,1,Low
+694,Teen,Family Pass,1.8,2,3,Low
+695,Child,Family Pass,5.4,5,3,Low
+696,Adult,Family Pass,3.0,4,2,Medium
+697,Teen,General,6.8,2,2,Medium
+698,Adult,Group,5.6,0,2,Medium
+699,Child,Group,3.3,0,0,High
+700,Teen,Family Pass,5.9,5,2,Medium
+701,Adult,General,4.1,6,2,Medium
+702,Child,General,5.3,1,1,Low
+703,Teen,Group,4.7,2,3,Low
+704,Child,General,2.7,5,1,Medium
+705,Child,General,3.0,4,1,Medium
+706,Senior,General,5.5,3,2,Medium
+707,Teen,VIP,3.5,2,1,Low
+708,Adult,Family Pass,3.4,0,1,Medium
+709,Teen,Group,2.6,4,0,Low
+710,Adult,Group,4.6,5,3,Low
+711,Adult,VIP,7.1,2,2,Low
+712,Adult,Family Pass,2.4,3,2,Low
+713,Teen,Group,4.0,7,4,Medium
+714,Teen,General,6.1,5,1,Low
+715,Teen,Group,3.9,3,3,High
+716,Senior,General,4.7,1,2,Medium
+717,Adult,VIP,2.4,3,2,Low
+718,Senior,General,4.6,4,1,Low
+719,Child,Group,3.7,1,3,Medium
+720,Adult,Group,5.5,3,1,Low
+721,Senior,Group,5.8,3,2,High
+722,Child,VIP,7.9,4,1,High
+723,Child,VIP,4.9,1,3,Low
+724,Adult,Family Pass,4.5,2,3,Medium
+725,Adult,Group,4.3,3,1,Low
+726,Adult,General,3.5,2,2,Medium
+727,Child,VIP,4.5,1,0,Medium
+728,Adult,Group,3.6,1,2,Low
+729,Teen,Group,4.3,3,2,Low
+730,Child,VIP,6.0,0,0,Medium
+731,Child,Family Pass,2.5,3,3,Medium
+732,Adult,VIP,5.7,1,4,Low
+733,Adult,VIP,6.0,1,0,Medium
+734,Adult,General,3.8,7,3,Medium
+735,Teen,General,1.0,3,1,High
+736,Adult,Family Pass,3.1,2,2,Low
+737,Teen,Group,5.9,4,3,Medium
+738,Adult,VIP,4.0,4,2,Medium
+739,Teen,Family Pass,2.5,0,0,Low
+740,Teen,General,3.2,3,0,Medium
+741,Teen,VIP,5.3,3,1,Medium
+742,Teen,Group,4.8,7,4,High
+743,Adult,General,3.6,3,1,Low
+744,Adult,General,3.4,2,0,Medium
+745,Teen,General,3.4,4,2,Medium
+746,Adult,Family Pass,2.6,2,0,High
+747,Teen,Group,6.4,2,3,Medium
+748,Adult,VIP,3.5,3,3,High
+749,Senior,Family Pass,5.8,0,2,High
+750,Adult,Family Pass,6.3,0,4,Low
+751,Child,Family Pass,5.5,3,0,High
+752,Senior,General,3.4,4,4,High
+753,Adult,Group,4.6,6,1,Low
+754,Teen,Family Pass,4.0,4,2,Medium
+755,Child,VIP,2.6,2,1,Medium
+756,Adult,Group,4.5,2,1,Low
+757,Adult,VIP,2.2,8,4,Low
+758,Adult,Group,5.8,4,0,Low
+759,Adult,VIP,3.3,3,0,Low
+760,Adult,General,4.3,1,3,Medium
+761,Child,Family Pass,4.4,2,1,Low
+762,Teen,VIP,3.6,1,2,High
+763,Teen,Group,4.9,3,1,Medium
+764,Adult,Family Pass,3.3,4,2,Low
+765,Child,Family Pass,5.3,0,3,Medium
+766,Adult,Group,2.0,2,3,Medium
+767,Adult,VIP,4.2,5,1,High
+768,Adult,General,6.9,5,1,Low
+769,Teen,General,2.5,3,1,Low
+770,Adult,VIP,3.0,1,2,High
+771,Child,Family Pass,4.8,3,2,High
+772,Adult,Family Pass,4.3,2,4,Medium
+773,Child,Family Pass,4.5,5,4,Medium
+774,Teen,Family Pass,4.7,1,4,Low
+775,Adult,VIP,5.0,3,2,Medium
+776,Child,Family Pass,5.7,3,2,Low
+777,Teen,Group,4.6,4,0,Low
+778,Adult,Family Pass,3.6,2,2,High
+779,Adult,General,5.0,2,1,Low
+780,Adult,Family Pass,6.8,1,2,Medium
+781,Adult,VIP,3.8,0,2,High
+782,Adult,General,2.5,2,1,Low
+783,Teen,VIP,5.7,2,5,High
+784,Teen,VIP,3.8,1,1,High
+785,Child,General,1.0,5,3,Medium
+786,Senior,VIP,5.3,7,2,Low
+787,Adult,VIP,3.2,2,3,Medium
+788,Teen,Family Pass,3.9,2,4,Medium
+789,Teen,Group,4.5,2,1,Medium
+790,Senior,VIP,4.3,1,0,Low
+791,Child,VIP,5.1,2,4,High
+792,Adult,VIP,3.3,2,3,Low
+793,Adult,Family Pass,4.8,5,1,Medium
+794,Adult,Group,3.6,0,2,Low
+795,Child,General,5.1,3,4,Medium
+796,Adult,Family Pass,4.9,2,3,High
+797,Senior,Family Pass,2.6,5,1,Low
+798,Adult,Group,5.6,3,0,Low
+799,Adult,Group,3.2,5,4,Medium
+800,Senior,Family Pass,5.2,6,1,Medium
