@@ -1,0 +1,181 @@
+Date,Location,DentistType,PatientsScheduled,Cancellations,SupplyLevel,XrayMachineUse,EmergencySlotsUsed,AdjustedPatientsSeen
+2023-01-01,Westfield Smiles,General,11,1,99.83526865875844,3,0,10
+2023-01-02,Southside Family Dental,Endodontist,8,3,127.18315254421115,7,0,5
+2023-01-03,East End Care,General,14,1,97.0260715177556,4,0,13
+2023-01-04,Southside Family Dental,Pediatric,14,1,86.41516166573122,3,0,13
+2023-01-05,Southside Family Dental,Pediatric,11,1,136.21900532663886,6,0,10
+2023-01-06,Northside Dental,Orthodontist,15,0,99.58302478669728,3,0,15
+2023-01-07,East End Care,Periodontist,8,0,82.02400183515071,8,0,8
+2023-01-08,East End Care,General,11,1,81.80732205020055,6,0,10
+2023-01-09,East End Care,General,11,1,81.86842653961918,2,1,10
+2023-01-10,Southside Family Dental,Endodontist,6,1,116.88884702058738,3,0,5
+2023-01-11,Westfield Smiles,Pediatric,19,0,98.02274245909568,5,0,19
+2023-01-12,East End Care,Periodontist,12,1,145.95917951994164,0,1,11
+2023-01-13,Southside Family Dental,Orthodontist,11,1,123.7235636464824,4,0,10
+2023-01-14,Northside Dental,Pediatric,8,1,105.14276260187943,4,1,7
+2023-01-15,Westfield Smiles,Orthodontist,10,1,128.07795082396566,5,0,9
+2023-01-16,Northside Dental,Endodontist,6,1,90.08985327061033,8,0,5
+2023-01-17,Westfield Smiles,Endodontist,15,1,62.90428391681389,1,0,14
+2023-01-18,Southside Family Dental,General,12,1,80.2083388485052,5,0,11
+2023-01-19,Downtown Clinic,Periodontist,17,1,102.94415658739206,4,0,16
+2023-01-20,Westfield Smiles,Orthodontist,12,1,95.5491705565772,5,0,11
+2023-01-21,Northside Dental,Pediatric,14,0,116.48830776514922,6,1,14
+2023-01-22,Southside Family Dental,Endodontist,16,1,97.50772437313061,8,0,15
+2023-01-23,Westfield Smiles,General,15,1,114.9606945192345,3,0,14
+2023-01-24,Downtown Clinic,General,13,1,130.0194326112858,5,0,12
+2023-01-25,Downtown Clinic,Orthodontist,13,1,97.44608298778456,6,0,12
+2023-01-26,East End Care,Endodontist,14,2,111.10290577422242,1,0,12
+2023-01-27,East End Care,Periodontist,9,2,64.90426318849532,4,1,7
+2023-01-28,Northside Dental,Endodontist,11,0,97.52212042518882,3,1,11
+2023-01-29,Westfield Smiles,Orthodontist,13,0,75.36083748507957,7,0,13
+2023-01-30,Westfield Smiles,Orthodontist,14,1,102.90453554258694,4,1,13
+2023-01-31,East End Care,Endodontist,14,0,104.71999513354662,7,2,14
+2023-02-01,Westfield Smiles,Orthodontist,9,1,104.65352715827589,5,1,8
+2023-02-02,Westfield Smiles,Endodontist,14,2,90.39754820407413,5,0,12
+2023-02-03,Downtown Clinic,Pediatric,19,0,145.96937723469665,2,1,19
+2023-02-04,East End Care,Endodontist,12,0,74.63956976713864,4,0,12
+2023-02-05,Southside Family Dental,Endodontist,13,0,73.41708345676967,3,2,13
+2023-02-06,East End Care,Orthodontist,14,1,133.0995675147317,4,0,13
+2023-02-07,Southside Family Dental,Orthodontist,9,1,85.91441738820214,5,0,8
+2023-02-08,Downtown Clinic,General,16,0,81.10618624927139,5,1,16
+2023-02-09,Northside Dental,General,9,2,146.05823795446224,7,0,7
+2023-02-10,Westfield Smiles,Pediatric,15,2,119.71445433647128,2,2,13
+2023-02-11,Downtown Clinic,General,11,0,88.11070903723557,2,2,11
+2023-02-12,Westfield Smiles,Endodontist,12,1,104.35015811387122,3,1,11
+2023-02-13,Northside Dental,Orthodontist,10,1,138.91742569655366,3,0,9
+2023-02-14,Northside Dental,General,16,1,113.83241361901734,2,1,15
+2023-02-15,Downtown Clinic,General,20,0,125.72296910212884,5,0,20
+2023-02-16,Northside Dental,Pediatric,12,0,116.09606357467611,2,0,12
+2023-02-17,Southside Family Dental,Pediatric,6,0,118.60506691907082,3,1,6
+2023-02-18,Northside Dental,Endodontist,13,2,100.79483391820854,3,0,11
+2023-02-19,Westfield Smiles,Orthodontist,15,2,100.22696957952438,5,0,13
+2023-02-20,Westfield Smiles,Pediatric,15,0,105.34100770696907,4,2,15
+2023-02-21,Westfield Smiles,General,11,0,114.689056149006,8,0,11
+2023-02-22,Westfield Smiles,Orthodontist,11,0,94.33369368334773,5,0,11
+2023-02-23,Southside Family Dental,Orthodontist,8,0,102.4410786900601,3,1,8
+2023-02-24,East End Care,General,9,2,93.79308768088029,7,0,7
+2023-02-25,Downtown Clinic,Pediatric,13,0,102.31369643989059,5,1,13
+2023-02-26,Westfield Smiles,General,14,0,74.98007338036305,4,2,14
+2023-02-27,Northside Dental,Orthodontist,11,0,150.0,5,1,11
+2023-02-28,Westfield Smiles,Periodontist,9,1,85.34119762442248,5,1,8
+2023-03-01,Northside Dental,Periodontist,11,1,92.77078550481137,4,0,10
+2023-03-02,Northside Dental,Endodontist,11,1,83.61471212890395,6,0,10
+2023-03-03,Westfield Smiles,General,14,0,112.3141749832908,5,1,14
+2023-03-04,Southside Family Dental,General,11,2,96.07994737515338,5,1,9
+2023-03-05,Northside Dental,Endodontist,6,1,80.72384979805564,3,0,5
+2023-03-06,Northside Dental,Endodontist,11,0,113.13766732448686,6,0,11
+2023-03-07,Westfield Smiles,Endodontist,10,1,115.83298295845582,4,0,9
+2023-03-08,Northside Dental,Orthodontist,9,2,98.66247351045466,3,0,7
+2023-03-09,Northside Dental,General,6,2,86.72748097235846,1,1,4
+2023-03-10,Westfield Smiles,Orthodontist,9,1,143.82132011119435,5,0,8
+2023-03-11,Westfield Smiles,Endodontist,11,1,106.80135261050462,5,1,10
+2023-03-12,Downtown Clinic,General,5,2,74.51862030093352,6,1,3
+2023-03-13,Southside Family Dental,Orthodontist,7,1,128.28080922005537,3,0,6
+2023-03-14,Southside Family Dental,Orthodontist,8,0,82.88450501174857,3,0,8
+2023-03-15,Northside Dental,Endodontist,11,2,150.0,4,0,9
+2023-03-16,Southside Family Dental,General,9,0,101.59315715055173,3,0,9
+2023-03-17,Northside Dental,Endodontist,9,1,120.26632072110706,3,1,8
+2023-03-18,Downtown Clinic,General,11,0,58.39964878306198,6,1,11
+2023-03-19,Westfield Smiles,Periodontist,9,0,74.31718231820074,5,1,9
+2023-03-20,Westfield Smiles,Pediatric,11,0,126.67719239521429,3,0,11
+2023-03-21,Westfield Smiles,Pediatric,18,1,106.35630131258274,4,0,17
+2023-03-22,Southside Family Dental,Pediatric,17,0,140.84792845428146,2,1,17
+2023-03-23,Downtown Clinic,Endodontist,8,0,109.70350210459178,5,0,8
+2023-03-24,Southside Family Dental,Periodontist,15,0,102.90592479482079,4,0,15
+2023-03-25,Southside Family Dental,General,15,1,134.2714798164441,3,0,14
+2023-03-26,Downtown Clinic,Orthodontist,16,3,120.2027399845089,4,1,13
+2023-03-27,Downtown Clinic,General,5,1,96.07477601447421,2,0,4
+2023-03-28,Downtown Clinic,Orthodontist,7,1,78.11791799003106,3,1,6
+2023-03-29,Downtown Clinic,General,6,2,52.56768670469012,5,2,4
+2023-03-30,Westfield Smiles,Periodontist,12,1,91.2466866039459,1,0,11
+2023-03-31,East End Care,Orthodontist,18,0,76.27329809557256,3,0,18
+2023-04-01,East End Care,Endodontist,14,0,150.0,6,0,14
+2023-04-02,Downtown Clinic,General,11,0,86.99258111859946,6,1,11
+2023-04-03,East End Care,General,9,1,86.4458198874991,5,0,8
+2023-04-04,East End Care,Orthodontist,9,1,69.57510250822709,2,0,8
+2023-04-05,Downtown Clinic,Endodontist,4,2,94.67365342954594,4,0,2
+2023-04-06,East End Care,Endodontist,12,1,86.70930140715575,4,1,11
+2023-04-07,Southside Family Dental,Periodontist,10,1,134.7545885748892,6,0,9
+2023-04-08,Northside Dental,Endodontist,22,1,103.3695231882997,3,1,21
+2023-04-09,Northside Dental,Endodontist,15,1,99.82271954687245,5,1,14
+2023-04-10,Downtown Clinic,Endodontist,12,2,97.30654491834804,1,0,10
+2023-04-11,Westfield Smiles,Pediatric,15,1,115.72349840378405,0,1,14
+2023-04-12,Downtown Clinic,Periodontist,13,0,90.95343668730999,4,0,13
+2023-04-13,Westfield Smiles,General,13,1,113.34412187063677,4,1,12
+2023-04-14,Northside Dental,Orthodontist,14,1,132.2793964145489,2,1,13
+2023-04-15,Downtown Clinic,General,11,1,109.20150020599294,4,1,10
+2023-04-16,Southside Family Dental,Periodontist,10,1,95.0053743434973,3,0,9
+2023-04-17,East End Care,Orthodontist,14,1,80.93081658056198,6,0,13
+2023-04-18,Westfield Smiles,Periodontist,12,1,94.49752027305851,3,0,11
+2023-04-19,East End Care,Endodontist,15,0,111.26157747945142,3,0,15
+2023-04-20,East End Care,Orthodontist,10,0,69.34945316165357,5,0,10
+2023-04-21,Downtown Clinic,Endodontist,13,0,116.63085515418565,4,0,13
+2023-04-22,East End Care,General,12,1,104.1522537645613,1,0,11
+2023-04-23,Southside Family Dental,General,13,0,97.01621680482562,4,0,13
+2023-04-24,East End Care,Orthodontist,14,2,86.81173177097995,3,1,12
+2023-04-25,Downtown Clinic,Orthodontist,14,1,90.47244598061266,6,0,13
+2023-04-26,Southside Family Dental,Periodontist,17,2,111.94612082930615,4,0,15
+2023-04-27,Northside Dental,Periodontist,9,3,97.43576947809778,6,0,6
+2023-04-28,East End Care,Endodontist,10,2,89.9772006544286,4,0,8
+2023-04-29,Downtown Clinic,Orthodontist,12,2,109.37126986743044,3,2,10
+2023-04-30,Northside Dental,General,17,1,110.1637955498426,4,0,16
+2023-05-01,Northside Dental,Periodontist,10,1,75.01649877351905,8,1,9
+2023-05-02,Westfield Smiles,Periodontist,6,0,111.42961393153969,3,2,6
+2023-05-03,Southside Family Dental,General,14,0,150.0,4,1,14
+2023-05-04,East End Care,Periodontist,8,1,109.39241578751009,2,1,7
+2023-05-05,Downtown Clinic,Endodontist,6,1,66.01985590312665,2,1,5
+2023-05-06,Westfield Smiles,Orthodontist,18,0,103.54750783679091,4,2,18
+2023-05-07,Southside Family Dental,General,15,1,63.3836925161263,4,0,14
+2023-05-08,Westfield Smiles,Orthodontist,14,2,150.0,2,0,12
+2023-05-09,Southside Family Dental,Periodontist,8,1,144.71349373968948,2,0,7
+2023-05-10,Southside Family Dental,Periodontist,15,1,86.68123034409207,3,0,14
+2023-05-11,East End Care,General,16,2,55.08665602012328,4,0,14
+2023-05-12,Southside Family Dental,Endodontist,11,3,82.43257625814431,6,0,8
+2023-05-13,Westfield Smiles,Pediatric,15,1,96.38018522120552,4,0,14
+2023-05-14,Southside Family Dental,General,13,2,64.76272515920523,1,0,11
+2023-05-15,East End Care,Pediatric,6,2,98.61954970007545,4,0,4
+2023-05-16,East End Care,Pediatric,9,2,96.24842671459497,4,0,7
+2023-05-17,Westfield Smiles,Endodontist,12,0,102.50309394125777,5,0,12
+2023-05-18,Northside Dental,Pediatric,14,1,104.5929035387596,1,0,13
+2023-05-19,Northside Dental,Pediatric,13,0,80.68764800245697,5,0,13
+2023-05-20,Southside Family Dental,Endodontist,13,0,82.93171920500691,6,1,13
+2023-05-21,Downtown Clinic,Pediatric,13,1,100.911843289401,9,0,12
+2023-05-22,Southside Family Dental,Pediatric,10,1,87.38015740252105,0,0,9
+2023-05-23,Westfield Smiles,Pediatric,13,2,118.14989536834511,7,1,11
+2023-05-24,Westfield Smiles,General,12,0,100.717890995354,4,0,12
+2023-05-25,Westfield Smiles,General,19,2,137.3000646799495,1,0,17
+2023-05-26,Westfield Smiles,General,9,1,116.40964876542452,1,1,8
+2023-05-27,Westfield Smiles,Endodontist,12,1,122.07427738781196,2,1,11
+2023-05-28,East End Care,Periodontist,4,2,102.65132135929572,4,0,2
+2023-05-29,Northside Dental,Pediatric,17,1,103.14723002580592,2,0,16
+2023-05-30,Westfield Smiles,Pediatric,18,0,134.62641159818355,3,2,18
+2023-05-31,Downtown Clinic,Endodontist,14,2,92.43414232925942,4,0,12
+2023-06-01,Downtown Clinic,Pediatric,14,1,110.9355870833048,5,0,13
+2023-06-02,Downtown Clinic,General,12,0,94.67524935677085,3,1,12
+2023-06-03,Downtown Clinic,Periodontist,14,2,94.62727883225395,5,0,12
+2023-06-04,East End Care,Orthodontist,15,1,76.6220746851656,7,0,14
+2023-06-05,Downtown Clinic,Pediatric,14,1,85.14971298286119,6,0,13
+2023-06-06,Westfield Smiles,General,6,1,81.43461097167099,4,1,5
+2023-06-07,Southside Family Dental,Orthodontist,18,2,111.88737617846338,6,0,16
+2023-06-08,Downtown Clinic,Periodontist,13,0,120.80411856447324,4,1,13
+2023-06-09,East End Care,Orthodontist,11,3,98.10493252843195,1,0,8
+2023-06-10,East End Care,General,12,1,104.59255860327306,4,0,11
+2023-06-11,Downtown Clinic,Orthodontist,14,0,96.95057289789807,1,0,14
+2023-06-12,Southside Family Dental,Endodontist,7,1,83.7844816021403,1,1,6
+2023-06-13,Downtown Clinic,Orthodontist,7,3,117.24526049593757,6,0,4
+2023-06-14,East End Care,Pediatric,13,1,113.05069387518958,2,0,12
+2023-06-15,Northside Dental,Pediatric,7,0,62.149080293920726,5,1,7
+2023-06-16,Westfield Smiles,Endodontist,15,1,94.33781997529493,3,0,14
+2023-06-17,East End Care,General,9,1,82.35945317585143,7,1,8
+2023-06-18,Downtown Clinic,Pediatric,18,1,92.1812286066955,3,0,17
+2023-06-19,Westfield Smiles,Periodontist,8,1,86.59136865907482,3,1,7
+2023-06-20,Downtown Clinic,Pediatric,10,1,99.071592585172,3,0,9
+2023-06-21,Downtown Clinic,Pediatric,14,0,93.40170529733052,6,1,14
+2023-06-22,Northside Dental,General,13,1,92.97718612358322,4,0,12
+2023-06-23,Westfield Smiles,Orthodontist,11,1,122.14776856677426,2,0,10
+2023-06-24,Westfield Smiles,Pediatric,10,0,111.14357321338497,5,0,10
+2023-06-25,Northside Dental,Endodontist,12,2,85.92210699399132,7,0,10
+2023-06-26,East End Care,Orthodontist,9,1,88.88906534373157,1,0,8
+2023-06-27,Downtown Clinic,Periodontist,11,1,109.83586110799226,2,1,10
+2023-06-28,Southside Family Dental,General,14,2,109.80839143405532,6,0,12
+2023-06-29,Downtown Clinic,Periodontist,12,1,87.92439521875862,4,1,11
