@@ -4,16 +4,21 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Project Management Hub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a2e0e6a2aa.js" crossorigin="anonymous"></script>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f4f6f8;
+      font-family: 'Playfair Display', serif;
+      background: #c0392b;
+      margin: 0;
       padding: 2rem;
-      color: #2c3e50;
+      color: #fff;
     }
     h1 {
       text-align: center;
+      font-size: 2rem;
       margin-bottom: 2rem;
+      color: #fff;
     }
     .grid {
       display: grid;
@@ -21,102 +26,124 @@
       gap: 1.5rem;
     }
     .card {
-      background: #ffffff;
-      border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      background: #fff0f0;
+      border-radius: 16px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
       padding: 1.5rem;
+      color: #222;
       text-decoration: none;
-      color: inherit;
-      transition: transform 0.2s ease-in-out;
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s;
     }
     .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transform: translateY(-6px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.15);
     }
     .card h2 {
       font-size: 1.2rem;
       margin-bottom: 0.5rem;
-      color: #0984e3;
+      color: #c0392b;
     }
     .card p {
       font-size: 0.95rem;
-      color: #555;
+      color: #444;
+    }
+    .back-button {
+      display: inline-block;
+      margin-bottom: 2rem;
+      padding: 0.6rem 1.2rem;
+      background: #fff;
+      color: #c0392b;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: background 0.3s ease-in-out;
+    }
+    .back-button:hover {
+      background: #f2dede;
+    }
+    .icon {
+      margin-right: 8px;
     }
   </style>
 </head>
 <body>
-  <h1>Project Management Hub</h1>
+
+  <a href="../index.html" class="back-button"><i class="fas fa-arrow-left icon"></i>Back to Portfolio</a>
+
+  <h1><i class="fas fa-briefcase icon"></i>Project Management Hub</h1>
+
   <div class="grid">
     <a href="Assetdisposalpolicy.html" class="card" target="_blank">
-      <h2>Asset Disposal Policy</h2>
+      <h2><i class="fas fa-trash-alt icon"></i>Asset Disposal Policy</h2>
       <p>Open the asset disposal policy template</p>
     </a>
     <a href="Bugtrackingexcel.html" class="card" target="_blank">
-      <h2>Bug Tracking Excel</h2>
+      <h2><i class="fas fa-bug icon"></i>Bug Tracking Excel</h2>
       <p>Open the bug tracking tool</p>
     </a>
     <a href="Certificateofdestruction.html" class="card" target="_blank">
-      <h2>Certificate of Destruction</h2>
+      <h2><i class="fas fa-certificate icon"></i>Certificate of Destruction</h2>
       <p>Open the certificate of destruction form</p>
     </a>
     <a href="Customescalationmatrix.html" class="card" target="_blank">
-      <h2>Custom Escalation Matrix</h2>
+      <h2><i class="fas fa-sitemap icon"></i>Custom Escalation Matrix</h2>
       <p>Open the escalation matrix tool</p>
     </a>
     <a href="Cybersecuritytools.html" class="card" target="_blank">
-      <h2>Cybersecurity Tools</h2>
+      <h2><i class="fas fa-shield-alt icon"></i>Cybersecurity Tools</h2>
       <p>Open the cybersecurity checklist</p>
     </a>
     <a href="Executivesummarygenerator.html" class="card" target="_blank">
-      <h2>Executive Summary Generator</h2>
+      <h2><i class="fas fa-file-alt icon"></i>Executive Summary Generator</h2>
       <p>Open the summary builder form</p>
     </a>
     <a href="ITILPIRIncidentclosure.html" class="card" target="_blank">
-      <h2>ITIL PIR Incident Closure</h2>
+      <h2><i class="fas fa-user-check icon"></i>ITIL PIR Incident Closure</h2>
       <p>Open the post-incident review template</p>
     </a>
     <a href="IncidentManagementProcess.html" class="card" target="_blank">
-      <h2>Incident Management Process</h2>
+      <h2><i class="fas fa-ambulance icon"></i>Incident Management Process</h2>
       <p>View the incident escalation and closure steps</p>
     </a>
     <a href="Majorproblemreport.html" class="card" target="_blank">
-      <h2>Major Problem Report</h2>
+      <h2><i class="fas fa-exclamation-triangle icon"></i>Major Problem Report</h2>
       <p>Open the major problem report form</p>
     </a>
     <a href="MonthlyKPIReport.html" class="card" target="_blank">
-      <h2>Monthly KPI Report</h2>
+      <h2><i class="fas fa-chart-line icon"></i>Monthly KPI Report</h2>
       <p>Track monthly KPI metrics</p>
     </a>
     <a href="OrganizationalRiskRegister.html" class="card" target="_blank">
-      <h2>Organizational Risk Register</h2>
+      <h2><i class="fas fa-exclamation-circle icon"></i>Organizational Risk Register</h2>
       <p>Open the risk tracking tool</p>
     </a>
-    <a href="Performanceappraisalform1.html" class="card" target="_blank">
-      <h2>Performance Appraisal Form</h2>
+    <a href="Performanceappraisalforml.html" class="card" target="_blank">
+      <h2><i class="fas fa-clipboard-check icon"></i>Performance Appraisal Form</h2>
       <p>Open the employee review form</p>
     </a>
     <a href="Quarterlystrategyreview.html" class="card" target="_blank">
-      <h2>Quarterly Strategy Review</h2>
+      <h2><i class="fas fa-sync icon"></i>Quarterly Strategy Review</h2>
       <p>Open the quarterly strategic review form</p>
     </a>
     <a href="Releasescheduletemplate.html" class="card" target="_blank">
-      <h2>Release Schedule Template</h2>
+      <h2><i class="fas fa-calendar-alt icon"></i>Release Schedule Template</h2>
       <p>Track version releases and environments</p>
     </a>
     <a href="Securityincidentreport.html" class="card" target="_blank">
-      <h2>Security Incident Report</h2>
+      <h2><i class="fas fa-lock icon"></i>Security Incident Report</h2>
       <p>Log and export security events</p>
     </a>
     <a href="Teamcapacityplanningtool.html" class="card" target="_blank">
-      <h2>Team Capacity Planning Tool</h2>
+      <h2><i class="fas fa-people-carry icon"></i>Team Capacity Planning Tool</h2>
       <p>Track utilization and availability</p>
     </a>
     <a href="Teamonboardingtracker.html" class="card" target="_blank">
-      <h2>Team Onboarding Tracker</h2>
+      <h2><i class="fas fa-user-plus icon"></i>Team Onboarding Tracker</h2>
       <p>Track onboarding steps and mentors</p>
     </a>
     <a href="Workplaceviolencelog.html" class="card" target="_blank">
-      <h2>Workplace Violence Log</h2>
+      <h2><i class="fas fa-hand-holding-medical icon"></i>Workplace Violence Log</h2>
       <p>Report and follow up on sensitive incidents</p>
     </a>
   </div>
