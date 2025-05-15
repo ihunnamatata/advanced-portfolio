@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team Onboarding Tracker</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background-color: #f4f6f8;
+    }
+    h1 {
+      text-align: center;
+      color: #34495e;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1.5rem;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    th, td {
+      padding: 0.8rem;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+    th {
+      background-color: #2c3e50;
+      color: white;
+    }
+    select, input {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .btn {
+      margin-top: 1.5rem;
+      display: block;
+      background-color: #1abc9c;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-left: auto;
+    }
+    .btn:hover {
+      background-color: #16a085;
+    }
+  </style>
+</head>
+<body>
+  <h1>Team Onboarding Tracker</h1>
+  <table id="onboardingTable">
+    <thead>
+      <tr>
+        <th>Team Member</th>
+        <th>Role</th>
+        <th>Start Date</th>
+        <th>Mentor Assigned</th>
+        <th>Training Completed</th>
+        <th>Workstation Setup</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><input type="text" placeholder="e.g. Angela Ramirez"></td>
+        <td><input type="text" placeholder="e.g. Software Engineer"></td>
+        <td><input type="date"></td>
+        <td><input type="text"></td>
+        <td><select><option>Yes</option><option>No</option></select></td>
+        <td><select><option>Yes</option><option>No</option></select></td>
+        <td><input type="text"></td>
+      </tr>
+      <tr>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="date"></td>
+        <td><input type="text"></td>
+        <td><select><option>Yes</option><option>No</option></select></td>
+        <td><select><option>Yes</option><option>No</option></select></td>
+        <td><input type="text"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button class="btn" onclick="downloadOnboardingCSV()">Download Tracker</button>
+
+  <script>
+    function downloadOnboardingCSV() {
+      const rows = document.querySelectorAll("#onboardingTable tbody tr");
+      let csv = "Team Member,Role,Start Date,Mentor Assigned,Training Completed,Workstation Setup,Notes\n";
+      rows.forEach(row => {
+        const cells = row.querySelectorAll('td');
+        const values = Array.from(cells).map(cell => {
+          const input = cell.querySelector('input, select');
+          return '"' + (input ? input.value.replace(/"/g, '""') : '') + '"';
+        });
+        csv += values.join(',') + "\n";
+      });
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "team_onboarding_tracker.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
