@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Security Incident Report</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7fafa;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 2rem;
+    }
+    .field {
+      margin-bottom: 1.2rem;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+    }
+    input, textarea, select {
+      width: 100%;
+      padding: 0.6rem;
+      margin-top: 0.4rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      display: block;
+      margin: 2rem auto 0;
+      padding: 0.8rem 1.5rem;
+      background-color: #d35400;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #a04000;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Security Incident Report</h1>
+    <div class="field">
+      <label for="reportDate">Date of Report:</label>
+      <input type="date" id="reportDate">
+    </div>
+    <div class="field">
+      <label for="incidentDate">Incident Date/Time:</label>
+      <input type="datetime-local" id="incidentDate">
+    </div>
+    <div class="field">
+      <label for="location">Location of Incident:</label>
+      <input type="text" id="location">
+    </div>
+    <div class="field">
+      <label for="reporter">Reported By:</label>
+      <input type="text" id="reporter">
+    </div>
+    <div class="field">
+      <label for="description">Incident Description:</label>
+      <textarea id="description" rows="4"></textarea>
+    </div>
+    <div class="field">
+      <label for="type">Incident Type:</label>
+      <select id="type">
+        <option>Unauthorized Access</option>
+        <option>Data Breach</option>
+        <option>Theft</option>
+        <option>Malware Infection</option>
+        <option>Physical Security Violation</option>
+        <option>Other</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="actions">Actions Taken:</label>
+      <textarea id="actions" rows="3"></textarea>
+    </div>
+    <div class="field">
+      <label for="followUp">Follow-up Recommendations:</label>
+      <textarea id="followUp" rows="3"></textarea>
+    </div>
+    <div class="field">
+      <label for="status">Current Status:</label>
+      <input type="text" id="status">
+    </div>
+    <button onclick="downloadSecurityReport()">Download Report</button>
+  </div>
+
+  <script>
+    function downloadSecurityReport() {
+      const fields = [
+        'reportDate', 'incidentDate', 'location', 'reporter', 'description', 
+        'type', 'actions', 'followUp', 'status'
+      ];
+      const headers = [
+        'Date of Report', 'Incident Date/Time', 'Location of Incident', 'Reported By', 
+        'Incident Description', 'Incident Type', 'Actions Taken', 
+        'Follow-up Recommendations', 'Current Status'
+      ];
+      let csvContent = headers.join(',') + "\n";
+      const values = fields.map(id => '"' + document.getElementById(id).value.replace(/"/g, '""') + '"');
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "security_incident_report.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
