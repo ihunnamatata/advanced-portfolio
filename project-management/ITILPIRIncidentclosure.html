@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ITIL PIR for Incident Closure</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: #eef2f7;
+    }
+    h1 {
+      text-align: center;
+      color: #1a202c;
+    }
+    form {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    label {
+      font-weight: bold;
+      margin-top: 1rem;
+      display: block;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background-color: #007acc;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      margin-top: 1.5rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #005b99;
+    }
+  </style>
+</head>
+<body>
+  <h1>ITIL PIR for Incident Closure</h1>
+
+  <form id="pirForm">
+    <label for="incidentId">Incident ID</label>
+    <input type="text" id="incidentId" required>
+
+    <label for="dateClosed">Date Closed</label>
+    <input type="date" id="dateClosed" required>
+
+    <label for="reviewer">Reviewed By</label>
+    <input type="text" id="reviewer">
+
+    <label for="summary">Incident Summary</label>
+    <textarea id="summary" rows="4"></textarea>
+
+    <label for="cause">Root Cause Analysis</label>
+    <textarea id="cause" rows="4"></textarea>
+
+    <label for="actions">Corrective/Preventive Actions</label>
+    <textarea id="actions" rows="4"></textarea>
+
+    <label for="lessons">Lessons Learned</label>
+    <textarea id="lessons" rows="3"></textarea>
+
+    <label for="status">Final Status</label>
+    <input type="text" id="status">
+
+    <button type="button" onclick="downloadPIR()">Download PIR Report</button>
+  </form>
+
+  <script>
+    function downloadPIR() {
+      const fields = [
+        'incidentId', 'dateClosed', 'reviewer', 'summary', 
+        'cause', 'actions', 'lessons', 'status'
+      ];
+      const headers = [
+        'Incident ID', 'Date Closed', 'Reviewed By', 'Incident Summary', 
+        'Root Cause Analysis', 'Corrective/Preventive Actions', 
+        'Lessons Learned', 'Final Status'
+      ];
+      let csvContent = headers.join(',') + "\n";
+      const values = fields.map(id => {
+        const val = document.getElementById(id).value;
+        return '"' + val.replace(/"/g, '""') + '"';
+      });
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.setAttribute("href", url);
+      link.setAttribute("download", "itil_pir_report.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
