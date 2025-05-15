@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quarterly Strategy Review Template</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: #f9fafa;
+    }
+    h1 {
+      text-align: center;
+      color: #2d3436;
+    }
+    form {
+      max-width: 850px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.4rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      margin-top: 2rem;
+      background-color: #0097e6;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+    }
+    button:hover {
+      background-color: #006f9a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quarterly Strategy Review</h1>
+  <form id="strategyForm">
+    <label for="quarter">Quarter</label>
+    <input type="text" id="quarter" placeholder="e.g. Q2 2025">
+
+    <label for="department">Department/Unit</label>
+    <input type="text" id="department">
+
+    <label for="objectives">Strategic Objectives Reviewed</label>
+    <textarea id="objectives" rows="3"></textarea>
+
+    <label for="successes">Key Successes This Quarter</label>
+    <textarea id="successes" rows="3"></textarea>
+
+    <label for="challenges">Challenges Faced</label>
+    <textarea id="challenges" rows="3"></textarea>
+
+    <label for="metrics">Performance Metrics & KPIs</label>
+    <textarea id="metrics" rows="3"></textarea>
+
+    <label for="adjustments">Strategic Adjustments Proposed</label>
+    <textarea id="adjustments" rows="3"></textarea>
+
+    <label for="nextSteps">Next Quarter Focus</label>
+    <textarea id="nextSteps" rows="3"></textarea>
+
+    <button type="button" onclick="downloadStrategyReview()">Download Strategy Review</button>
+  </form>
+
+  <script>
+    function downloadStrategyReview() {
+      const fields = [
+        'quarter', 'department', 'objectives', 'successes', 
+        'challenges', 'metrics', 'adjustments', 'nextSteps'
+      ];
+      const headers = [
+        'Quarter', 'Department', 'Objectives', 'Successes', 
+        'Challenges', 'Performance Metrics', 'Strategic Adjustments', 'Next Quarter Focus'
+      ];
+      let csv = headers.join(',') + "\n";
+      const values = fields.map(id => '"' + document.getElementById(id).value.replace(/"/g, '""') + '"');
+      csv += values.join(',') + "\n";
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "quarterly_strategy_review.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
