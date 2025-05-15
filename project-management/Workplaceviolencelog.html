@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Workplace Violence Incident Log</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f8f9fa;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #c0392b;
+    }
+    form {
+      max-width: 850px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 6px;
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+    input, textarea, select {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.3rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      margin-top: 2rem;
+      background: #e74c3c;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+    }
+    button:hover {
+      background: #c0392b;
+    }
+  </style>
+</head>
+<body>
+  <h1>Workplace Violence Incident Log</h1>
+  <form id="violenceLog">
+    <label for="incidentDate">Date of Incident</label>
+    <input type="date" id="incidentDate">
+
+    <label for="time">Time of Incident</label>
+    <input type="time" id="time">
+
+    <label for="location">Location</label>
+    <input type="text" id="location">
+
+    <label for="reportedBy">Reported By</label>
+    <input type="text" id="reportedBy">
+
+    <label for="involved">Persons Involved</label>
+    <textarea id="involved" rows="2"></textarea>
+
+    <label for="type">Type of Violence</label>
+    <select id="type">
+      <option>Verbal Threat</option>
+      <option>Physical Assault</option>
+      <option>Harassment</option>
+      <option>Sexual Harassment</option>
+      <option>Cyberbullying</option>
+      <option>Other</option>
+    </select>
+
+    <label for="description">Detailed Description</label>
+    <textarea id="description" rows="4"></textarea>
+
+    <label for="response">Immediate Response Taken</label>
+    <textarea id="response" rows="3"></textarea>
+
+    <label for="followup">Follow-Up Actions Planned</label>
+    <textarea id="followup" rows="3"></textarea>
+
+    <label for="status">Case Status</label>
+    <input type="text" id="status">
+
+    <button type="button" onclick="downloadViolenceLog()">Download Incident Log</button>
+  </form>
+
+  <script>
+    function downloadViolenceLog() {
+      const fields = [
+        'incidentDate', 'time', 'location', 'reportedBy', 'involved', 'type', 'description', 'response', 'followup', 'status'
+      ];
+      const headers = [
+        'Date of Incident', 'Time of Incident', 'Location', 'Reported By', 'Persons Involved',
+        'Type of Violence', 'Description', 'Immediate Response', 'Follow-Up Actions', 'Case Status'
+      ];
+      let csvContent = headers.join(',') + "\n";
+      const values = fields.map(id => '"' + document.getElementById(id).value.replace(/"/g, '""') + '"');
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "workplace_violence_log.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
