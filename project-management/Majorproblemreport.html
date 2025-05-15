@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Major Problem Report</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+      padding: 2rem;
+      color: #2a2a2a;
+    }
+    h1 {
+      text-align: center;
+      color: #1f2937;
+    }
+    form {
+      max-width: 700px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background-color: #4caf50;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      margin-top: 1.5rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #388e3c;
+    }
+  </style>
+</head>
+<body>
+  <h1>Major Problem Report Template</h1>
+
+  <form id="reportForm">
+    <label for="title">Problem Title</label>
+    <input type="text" id="title" name="title" required>
+
+    <label for="date">Date Discovered</label>
+    <input type="date" id="date" name="date" required>
+
+    <label for="reportedBy">Reported By</label>
+    <input type="text" id="reportedBy" name="reportedBy">
+
+    <label for="description">Problem Description</label>
+    <textarea id="description" name="description" rows="5"></textarea>
+
+    <label for="impact">Impact Assessment</label>
+    <textarea id="impact" name="impact" rows="4"></textarea>
+
+    <label for="resolution">Proposed Resolution</label>
+    <textarea id="resolution" name="resolution" rows="4"></textarea>
+
+    <label for="status">Current Status</label>
+    <input type="text" id="status" name="status">
+
+    <button type="button" onclick="downloadReport()">Download Report (CSV)</button>
+  </form>
+
+  <script>
+    function downloadReport() {
+      const fields = ['title', 'date', 'reportedBy', 'description', 'impact', 'resolution', 'status'];
+      const labels = [
+        'Problem Title', 'Date Discovered', 'Reported By', 'Problem Description', 
+        'Impact Assessment', 'Proposed Resolution', 'Current Status'
+      ];
+      let csvContent = labels.join(',') + "\n";
+
+      const values = fields.map(id => {
+        const val = document.getElementById(id).value;
+        return '"' + val.replace(/"/g, '""') + '"';
+      });
+
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.setAttribute("href", url);
+      link.setAttribute("download", "major_problem_report.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
