@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Performance Appraisal Form</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f6f7fb;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #2d3436;
+    }
+    form {
+      max-width: 850px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+      border-radius: 8px;
+    }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-top: 1.25rem;
+    }
+    input, textarea, select {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.4rem;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    button {
+      margin-top: 2rem;
+      background-color: #6c5ce7;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+    }
+    button:hover {
+      background-color: #4834d4;
+    }
+  </style>
+</head>
+<body>
+  <h1>Performance Appraisal Form</h1>
+  <form id="appraisalForm">
+    <label for="employeeName">Employee Name</label>
+    <input type="text" id="employeeName">
+
+    <label for="role">Job Title</label>
+    <input type="text" id="role">
+
+    <label for="reviewer">Reviewer Name</label>
+    <input type="text" id="reviewer">
+
+    <label for="period">Review Period</label>
+    <input type="text" id="period" placeholder="e.g. Jan 2025 - Jun 2025">
+
+    <label for="goals">Key Goals and Outcomes</label>
+    <textarea id="goals" rows="3"></textarea>
+
+    <label for="performance">Performance Summary</label>
+    <textarea id="performance" rows="4"></textarea>
+
+    <label for="rating">Overall Rating</label>
+    <select id="rating">
+      <option>Exceeds Expectations</option>
+      <option>Meets Expectations</option>
+      <option>Needs Improvement</option>
+      <option>Unsatisfactory</option>
+    </select>
+
+    <label for="feedback">Additional Feedback</label>
+    <textarea id="feedback" rows="3"></textarea>
+
+    <label for="recommendations">Development/Promotion Recommendations</label>
+    <textarea id="recommendations" rows="3"></textarea>
+
+    <button type="button" onclick="downloadAppraisal()">Download Appraisal</button>
+  </form>
+
+  <script>
+    function downloadAppraisal() {
+      const fields = [
+        'employeeName', 'role', 'reviewer', 'period', 'goals', 
+        'performance', 'rating', 'feedback', 'recommendations'
+      ];
+      const headers = [
+        'Employee Name', 'Job Title', 'Reviewer Name', 'Review Period', 
+        'Key Goals and Outcomes', 'Performance Summary', 'Overall Rating', 
+        'Additional Feedback', 'Recommendations'
+      ];
+      let csvContent = headers.join(',') + "\n";
+      const values = fields.map(id => '"' + document.getElementById(id).value.replace(/"/g, '""') + '"');
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "performance_appraisal.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
