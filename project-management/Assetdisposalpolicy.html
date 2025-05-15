@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asset Disposal and Destruction Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background: #fcfcfc;
+    }
+    h1 {
+      text-align: center;
+      color: #2d2d2d;
+    }
+    .policy {
+      max-width: 800px;
+      margin: auto;
+      background: #ffffff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    h2 {
+      margin-top: 2rem;
+      color: #1a1a1a;
+    }
+    p {
+      margin-bottom: 1rem;
+      line-height: 1.6;
+    }
+    button {
+      display: block;
+      margin: 2rem auto 0;
+      padding: 0.75rem 1.5rem;
+      background-color: #e74c3c;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #c0392b;
+    }
+  </style>
+</head>
+<body>
+  <h1>IT Asset Disposal and Destruction Policy</h1>
+  <div class="policy" id="policyText">
+    <h2>1. Purpose</h2>
+    <p>This policy outlines the procedures for the secure disposal and destruction of IT assets to ensure data protection and compliance with regulatory requirements.</p>
+
+    <h2>2. Scope</h2>
+    <p>This policy applies to all employees, contractors, and third parties involved in the handling, disposal, or destruction of hardware and digital storage devices.</p>
+
+    <h2>3. Policy</h2>
+    <p>All IT assets must be inventoried prior to disposal. Data must be securely wiped or physically destroyed in accordance with industry standards. Disposal must be documented with a Certificate of Destruction when applicable.</p>
+
+    <h2>4. Responsibilities</h2>
+    <p>The IT department is responsible for overseeing proper disposal practices. Staff must report outdated or decommissioned assets to IT for formal processing.</p>
+
+    <h2>5. Compliance</h2>
+    <p>Failure to follow this policy may result in disciplinary action and legal liability. Compliance will be monitored through periodic audits and reporting procedures.</p>
+  </div>
+
+  <button onclick="downloadPolicy()">Download Policy (Text)</button>
+
+  <script>
+    function downloadPolicy() {
+      const content = document.getElementById("policyText").innerText;
+      const blob = new Blob([content], { type: 'text/plain;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "asset_disposal_policy.txt");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
