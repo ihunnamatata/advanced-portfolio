@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate of Destruction</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #fdfcfb;
+      padding: 2rem;
+    }
+    .certificate {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      background: #fff;
+      border: 2px solid #333;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 1.8rem;
+      margin-bottom: 2rem;
+    }
+    .field {
+      margin-bottom: 1.2rem;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.6rem;
+      border: 1px solid #aaa;
+      margin-top: 0.4rem;
+    }
+    button {
+      margin-top: 2rem;
+      background: #2d3436;
+      color: white;
+      border: none;
+      padding: 0.8rem 1.5rem;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+    }
+    button:hover {
+      background: #636e72;
+    }
+  </style>
+</head>
+<body>
+  <div class="certificate">
+    <h1>Certificate of Destruction</h1>
+    <div class="field">
+      <label for="assetId">Asset ID/Tag Number:</label>
+      <input type="text" id="assetId">
+    </div>
+    <div class="field">
+      <label for="description">Asset Description:</label>
+      <input type="text" id="description">
+    </div>
+    <div class="field">
+      <label for="method">Method of Destruction:</label>
+      <input type="text" id="method">
+    </div>
+    <div class="field">
+      <label for="date">Date of Destruction:</label>
+      <input type="date" id="date">
+    </div>
+    <div class="field">
+      <label for="witness">Witness Name and Title:</label>
+      <input type="text" id="witness">
+    </div>
+    <div class="field">
+      <label for="signature">Authorized Signature:</label>
+      <input type="text" id="signature">
+    </div>
+    <div class="field">
+      <label for="notes">Additional Notes (optional):</label>
+      <textarea id="notes" rows="3"></textarea>
+    </div>
+    <button onclick="downloadCertificate()">Download Certificate</button>
+  </div>
+
+  <script>
+    function downloadCertificate() {
+      const fields = ['assetId', 'description', 'method', 'date', 'witness', 'signature', 'notes'];
+      const labels = [
+        'Asset ID/Tag Number', 'Asset Description', 'Method of Destruction', 'Date of Destruction',
+        'Witness Name and Title', 'Authorized Signature', 'Additional Notes'
+      ];
+      let csvContent = labels.join(',') + "\n";
+      const values = fields.map(id => '"' + document.getElementById(id).value.replace(/"/g, '""') + '"');
+      csvContent += values.join(',') + "\n";
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "certificate_of_destruction.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
