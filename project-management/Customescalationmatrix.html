@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Escalation Matrix</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #2d3436;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #ffffff;
+      margin-top: 2rem;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.75rem;
+      text-align: left;
+    }
+    th {
+      background-color: #2c3e50;
+      color: white;
+    }
+    input, select {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .btn {
+      background: #0984e3;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      margin-top: 2rem;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+    }
+    .btn:hover {
+      background: #0652dd;
+    }
+  </style>
+</head>
+<body>
+  <h1>Custom Escalation Matrix</h1>
+  <table id="matrixTable">
+    <thead>
+      <tr>
+        <th>Issue Severity</th>
+        <th>Escalation Timeframe</th>
+        <th>Primary Contact</th>
+        <th>Backup Contact</th>
+        <th>Communication Channel</th>
+        <th>Escalation Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><select><option>Low</option><option>Medium</option><option>High</option><option>Critical</option></select></td>
+        <td><input type="text" placeholder="e.g. Within 24 hours"></td>
+        <td><input type="text" placeholder="e.g. John Doe"></td>
+        <td><input type="text" placeholder="e.g. Jane Smith"></td>
+        <td><select><option>Email</option><option>Phone</option><option>Slack</option><option>Ticketing System</option></select></td>
+        <td><input type="text" placeholder="e.g. Tier 1 Support"></td>
+      </tr>
+      <tr>
+        <td><select><option>Low</option><option>Medium</option><option>High</option><option>Critical</option></select></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><input type="text"></td>
+        <td><select><option>Email</option><option>Phone</option><option>Slack</option><option>Ticketing System</option></select></td>
+        <td><input type="text"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button class="btn" onclick="downloadMatrix()">Download Escalation Matrix</button>
+
+  <script>
+    function downloadMatrix() {
+      const rows = document.querySelectorAll("#matrixTable tbody tr");
+      let csv = "Issue Severity,Escalation Timeframe,Primary Contact,Backup Contact,Communication Channel,Escalation Level\n";
+      rows.forEach(row => {
+        const cells = row.querySelectorAll('td');
+        const values = Array.from(cells).map(cell => {
+          const input = cell.querySelector('input, select');
+          return '"' + (input ? input.value.replace(/"/g, '""') : '') + '"';
+        });
+        csv += values.join(',') + "\n";
+      });
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "escalation_matrix.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
