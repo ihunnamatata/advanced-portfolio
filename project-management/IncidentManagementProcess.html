@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Incident Management Process</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f7f9fc;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    ol {
+      background: #ffffff;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    li {
+      margin-bottom: 1.2rem;
+    }
+    .btn {
+      display: block;
+      margin: 2rem auto 0;
+      padding: 0.75rem 1.5rem;
+      background-color: #1abc9c;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background-color: #148f77;
+    }
+  </style>
+</head>
+<body>
+  <h1>Incident Management Process</h1>
+  <ol id="processList">
+    <li><strong>1. Detection and Recording:</strong> Identify and log the incident in a central system.</li>
+    <li><strong>2. Classification and Initial Support:</strong> Prioritize the incident by impact and urgency, assign to appropriate team.</li>
+    <li><strong>3. Investigation and Diagnosis:</strong> Perform root cause analysis and identify the potential resolution.</li>
+    <li><strong>4. Resolution and Recovery:</strong> Implement the solution and restore the service to operational status.</li>
+    <li><strong>5. Incident Closure:</strong> Validate the resolution, document findings, and close the ticket.</li>
+    <li><strong>6. Post-Incident Review:</strong> Conduct PIR (Post-Incident Review) for major or repeated incidents.</li>
+    <li><strong>7. Continuous Improvement:</strong> Log improvement opportunities and update knowledge base documentation.</li>
+  </ol>
+  <button class="btn" onclick="downloadProcess()">Download Process Steps</button>
+
+  <script>
+    function downloadProcess() {
+      const steps = document.querySelectorAll('#processList li');
+      let csv = 'Step Number,Description\n';
+      steps.forEach((li, idx) => {
+        const text = li.innerText.replace(/\n/g, ' ').replace(/,/g, ';');
+        csv += `${idx + 1},"${text}"\n`;
+      });
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.setAttribute("href", url);
+      link.setAttribute("download", "incident_management_process.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
