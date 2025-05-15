@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Release Schedule Template</title>
+  <style>
+    body {
+      font-family: Verdana, sans-serif;
+      background: #f0f4f8;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1.5rem;
+      background: white;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.75rem;
+      text-align: left;
+    }
+    th {
+      background: #34495e;
+      color: white;
+    }
+    .btn {
+      background: #27ae60;
+      color: white;
+      padding: 0.75rem 1.2rem;
+      border: none;
+      margin-top: 1rem;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background: #1e8449;
+    }
+  </style>
+</head>
+<body>
+  <h1>Release Schedule Template</h1>
+
+  <table id="releaseTable">
+    <thead>
+      <tr>
+        <th>Release Name</th>
+        <th>Release Date</th>
+        <th>Version</th>
+        <th>Environment</th>
+        <th>Status</th>
+        <th>Lead Developer</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><input type="text" placeholder="e.g. Winter Update"></td>
+        <td><input type="date"></td>
+        <td><input type="text" placeholder="e.g. v2.1"></td>
+        <td><select><option>Dev</option><option>QA</option><option>Staging</option><option>Production</option></select></td>
+        <td><select><option>Planned</option><option>In Progress</option><option>Completed</option></select></td>
+        <td><input type="text" placeholder="e.g. Jane Doe"></td>
+      </tr>
+      <tr>
+        <td><input type="text"></td>
+        <td><input type="date"></td>
+        <td><input type="text"></td>
+        <td><select><option>Dev</option><option>QA</option><option>Staging</option><option>Production</option></select></td>
+        <td><select><option>Planned</option><option>In Progress</option><option>Completed</option></select></td>
+        <td><input type="text"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button class="btn" onclick="downloadScheduleCSV()">Download Release Schedule</button>
+
+  <script>
+    function downloadScheduleCSV() {
+      const rows = document.querySelectorAll("#releaseTable tbody tr");
+      let csv = "Release Name,Release Date,Version,Environment,Status,Lead Developer\n";
+      rows.forEach(row => {
+        const name = row.cells[0].querySelector('input').value;
+        const date = row.cells[1].querySelector('input').value;
+        const version = row.cells[2].querySelector('input').value;
+        const env = row.cells[3].querySelector('select').value;
+        const status = row.cells[4].querySelector('select').value;
+        const dev = row.cells[5].querySelector('input').value;
+        csv += `${name},${date},${version},${env},${status},${dev}\n`;
+      });
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.setAttribute("href", URL.createObjectURL(blob));
+      link.setAttribute("download", "release_schedule.csv");
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+</body>
+</html>
