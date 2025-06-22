@@ -9,11 +9,11 @@
     body {
       margin: 0;
       font-family: 'Playfair Display', serif;
-      background-image: url("234CA803-7A19-40DE-8B33-0F7EF57F3957.png");
+      color: white;
+      background-image: url(234CA803-7A19-40DE-8B33-0F7EF57F3957.png");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
-      color: white;
     }
 
     nav {
@@ -41,48 +41,49 @@
     }
 
     .content {
+      padding: 100px 20px;
       background-color: rgba(0, 0, 0, 0.7);
-      padding: 60px 20px;
       min-height: 100vh;
       text-align: center;
     }
 
     h1 {
       font-size: 2.8em;
-      margin-bottom: 0.5em;
+      margin-bottom: 20px;
     }
 
     p {
-      font-size: 1.1em;
-      max-width: 700px;
-      margin: 0 auto 2em;
+      font-size: 1.2em;
+      max-width: 750px;
+      margin: 0 auto 30px auto;
       line-height: 1.6;
     }
 
-    .links a {
+    .button {
       display: inline-block;
       margin: 10px;
       padding: 12px 20px;
-      background-color: #fff;
-      color: #333;
-      border-radius: 8px;
+      background-color: #ffffff;
+      color: #000000;
       text-decoration: none;
       font-weight: bold;
+      border-radius: 6px;
+      transition: background 0.3s ease;
     }
 
-    .links a:hover {
-      background-color: #ddd;
+    .button:hover {
+      background-color: #f2f2f2;
     }
   </style>
 </head>
+
 <body>
   <nav>
     <a href="../index.html">Home</a>
     <a href="../dissertation/index.html">Dissertation</a>
-    <a href="/advanced-portfolio/dental_ai_industry_roadmap.html">Roadmap</a>
+    <a href="../dental_ai_industry_roadmap.html">Roadmap</a>
     <a href="../data-analyst-projects.html">Projects</a>
     <a href="../visualization.html">Visualizations</a>
-
   </nav>
 
   <div class="content">
@@ -90,10 +91,8 @@
     <p>
       This page showcases my PhD dissertation plan, key project modules, and foundational computer science learning path as part of my multiyear portfolio in digital health innovation.
     </p>
-    <div class="links">
-      <a href="../assets/Ihunna_Dissertation_Plan.pdf" target="_blank"> Download Full Dissertation PDF</a>
-      <a href="../assets/Foundational_CS_Learning_List.pdf" target="_blank"> View Foundational Learning List</a>
-    </div>
+    <a href="../pdfs/dissertation.pdf" class="button" target="_blank">Download Full Dissertation PDF</a>
+    <a href="https://www.notion.so/Dissertation-MSU-20af4e68014c80889dbde16e673c5da4?source=copy_link#21af4e68014c80629e98c258413cee04" class="button" target="_blank">View Foundational Learning List</a>
   </div>
 </body>
 </html>
