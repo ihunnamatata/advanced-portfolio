@@ -1,0 +1,4 @@
+1. Turing Machine
+2. CPU
+3. Transistors
+... (continued)
