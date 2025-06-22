@@ -9,103 +9,90 @@
     body {
       margin: 0;
       font-family: 'Playfair Display', serif;
-      background-image: url('../img/234CA803-7A19-40DE-8B33-0F7EF57F3957.png');
+      background-image: url("../img/234CA803-7A19-40DE-8B33-0F7EF57F3957.png");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
       color: white;
     }
 
-    .overlay {
+    nav {
+      background-color: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(8px);
+      padding: 12px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    nav a {
+      margin: 0 10px;
+      padding: 6px 14px;
+      text-decoration: none;
+      color: #ffffffcc;
+      font-weight: bold;
+      border-radius: 6px;
+      transition: background 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .content {
       background-color: rgba(0, 0, 0, 0.7);
+      padding: 60px 20px;
       min-height: 100vh;
-      padding: 80px 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
       text-align: center;
     }
 
     h1 {
       font-size: 2.8em;
-      margin-bottom: 20px;
+      margin-bottom: 0.5em;
     }
 
     p {
-      font-size: 1.15em;
-      max-width: 800px;
-      line-height: 1.7;
-      margin: 0 auto 30px;
-    }
-
-    ul {
-      list-style: none;
-      padding: 0;
-      margin-bottom: 40px;
-    }
-
-    ul li {
-      margin-bottom: 12px;
-    }
-
-    a {
-      color: #87cefa;
-      font-weight: bold;
-      text-decoration: none;
       font-size: 1.1em;
+      max-width: 700px;
+      margin: 0 auto 2em;
+      line-height: 1.6;
     }
 
-    a:hover {
-      text-decoration: underline;
-    }
-
-    iframe {
-      border: none;
-      width: 90%;
-      max-width: 1000px;
-      height: 700px;
-      border-radius: 10px;
-      box-shadow: 0 0 12px rgba(0,0,0,0.3);
-      margin-bottom: 40px;
-    }
-
-    .back-button {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      padding: 10px 16px;
-      background-color: rgba(255, 255, 255, 0.15);
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 20px;
+      background-color: #fff;
+      color: #333;
       border-radius: 8px;
-      color: white;
       text-decoration: none;
       font-weight: bold;
     }
 
-    .back-button:hover {
-      background-color: rgba(255, 255, 255, 0.25);
-    }
-
-    footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      opacity: 0.7;
+    .links a:hover {
+      background-color: #ddd;
     }
   </style>
 </head>
 <body>
-  <a href="../index.html" class="back-button">← Back to Portfolio</a>
-  <div class="overlay">
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../dissertation/index.html">Dissertation</a>
+    <a href="../roadmap.html">Roadmap</a>
+    <a href="../data-analyst-projects.html">Projects</a>
+    <a href="../visualization.html">Visualizations</a>
+  </nav>
+
+  <div class="content">
     <h1>Dissertation + Continued Learning</h1>
-    <p>This page showcases my PhD dissertation plan, key project modules, and foundational computer science learning path as part of my multiyear portfolio in digital health innovation.</p>
-
-    <ul>
-      <li><a href="../pdf/dissertation_portfolio.pdf" target="_blank">📄 Download Full Dissertation PDF</a></li>
-      <li><a href="../learning/foundations_list.txt" target="_blank">📚 View Foundational Learning List</a></li>
-    </ul>
-
-    <iframe src="https://www.notion.so/Dissertation-MSU-20af4e68014c80889dbde16e673c5da4?source=copy_link" loading="lazy" allowfullscreen></iframe>
-
-    <footer>— Authored by Ihunna Amugo</footer>
+    <p>
+      This page showcases my PhD dissertation plan, key project modules, and foundational computer science learning path as part of my multiyear portfolio in digital health innovation.
+    </p>
+    <div class="links">
+      <a href="../assets/Ihunna_Dissertation_Plan.pdf" target="_blank"> Download Full Dissertation PDF</a>
+      <a href="../assets/Foundational_CS_Learning_List.pdf" target="_blank"> View Foundational Learning List</a>
+    </div>
   </div>
 </body>
 </html>
