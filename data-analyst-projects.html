@@ -1,8 +1,12 @@
+from IPython.display import display, HTML
+
+# Full updated HTML code with all projects as cards with hover animations, tooltips, and styled buttons
+html_code = '''
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Data Analyst Projects | Ihunna Amugo</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
   <style>
@@ -12,6 +16,18 @@
       margin: 0;
       padding: 40px;
       color: #333;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: url('lip-background.jpeg') repeat;
+      background-size: cover;
+      opacity: 0.2;
+      z-index: -2;
     }
     nav {
       background: #fff0f6;
@@ -30,34 +46,53 @@
     }
     .section {
       margin-top: 50px;
-      background: #ffffffaa;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
     }
     .section h2 {
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+      font-size: 2em;
     }
-    .section ul {
-      list-style: none;
-      padding-left: 0;
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
     }
-    .section li {
-      padding: 10px 0;
-      border-bottom: 1px solid #eee;
+    .card {
+      background: #ffffffdd;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      padding: 20px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
     }
-    body::before {
-      content: "";
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: url('lip-background.jpeg') repeat;
-      background-size: cover;
-      opacity: 0.2;
-      z-index: -2;
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+    }
+    .card-title {
+      font-weight: bold;
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+    .tooltip {
+      font-size: 0.95em;
+      color: #555;
+    }
+    .buttons {
+      margin-top: 12px;
+    }
+    .buttons a {
+      display: inline-block;
+      margin-right: 10px;
+      padding: 6px 12px;
+      background-color: #4a4a4a;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9em;
+    }
+    .buttons a:hover {
+      background-color: #222;
     }
   </style>
 </head>
@@ -74,50 +109,54 @@
 
   <div class="section">
     <h2>Classification & Prediction</h2>
-    <ul>
-      <li><a href="projects/wizarding-churn/wizarding_churn.ipynb" target="_blank">Customer Churn at a Wizarding School (Jupyter Notebook)</a></li>
-      <li><a href="projects/retro-vinyl-forecast/retro_vinyl_forecast.ipynb" target="_blank">Sales Forecasting for a Retro Vinyl Shop (Jupyter)</a></li>
-      <li><a href="projects/hogwarts-loan-predict/hogwarts_loan_predict.ipynb" target="_blank">Loan Default Prediction for Student Loans at Hogwarts (Jupyter)</a></li>
-      <li><a href="projects/zoo-attrition-predict/zoo_attrition_predict.ipynb" target="_blank">Employee Attrition in a Zoo Veterinary Department (Jupyter)</a></li>
-      <li><a href="projects/plush-return-predict/plush_return_predict.ipynb" target="_blank">Product Return Prediction for Plush Toy Vendors (Jupyter)</a></li>
-      <li><a href="projects/dental-credit-risk/dental_credit_risk.ipynb" target="_blank">Credit Risk of Dental Startups (Jupyter)</a></li>
-      <li><a href="projects/aquarium-fraud-detect/aquarium_fraud_detect.ipynb" target="_blank">Fraud Detection at an Aquarium Gift Shop (Jupyter)</a></li>
-    </ul>
+    <div class="grid">
+      <div class="card"><div class="card-title">Customer Churn at a Wizarding School</div><div class="tooltip">XGBoost prediction of student dropout risk.</div><div class="buttons"><a href="projects/wizarding-churn/wizarding_churn.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Sales Forecasting for a Retro Vinyl Shop</div><div class="tooltip">Time series models for music retail.</div><div class="buttons"><a href="projects/retro-vinyl-forecast/retro_vinyl_forecast.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Loan Default Prediction at Hogwarts</div><div class="tooltip">Loan default prediction using classification.</div><div class="buttons"><a href="projects/hogwarts-loan-predict/hogwarts_loan_predict.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Employee Attrition in a Zoo Vet Dept</div><div class="tooltip">Predicting staff turnover in animal care units.</div><div class="buttons"><a href="projects/zoo-attrition-predict/zoo_attrition_predict.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Product Return Prediction</div><div class="tooltip">Returns in plush toy vending operations.</div><div class="buttons"><a href="projects/plush-return-predict/plush_return_predict.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Dental Credit Risk Classifier</div><div class="tooltip">Classifying startup loan applicants in dentistry.</div><div class="buttons"><a href="projects/dental-credit-risk/dental_credit_risk.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Aquarium Gift Shop Fraud Detection</div><div class="tooltip">Detects anomalies in purchase data.</div><div class="buttons"><a href="projects/aquarium-fraud-detect/aquarium_fraud_detect.ipynb" target="_blank">Notebook</a></div></div>
+    </div>
   </div>
 
   <div class="section">
-    <h2>Exploratory Data Analysis (EDA)</h2>
-    <ul>
-      <li><a href="projects/fantasy-fashion-eda/fantasy_fashion_eda.ipynb" target="_blank">E-Commerce Sales at a Fantasy Fashion Boutique (Jupyter)</a></li>
-      <li><a href="projects/carnival-segmentation-eda/carnival_segmentation_eda.ipynb" target="_blank">Customer Segmentation at a Carnival (Jupyter)</a></li>
-      <li><a href="projects/starbucks-trend-analysis/starbucks_trend_analysis.ipynb" target="_blank">Social Media Trends Around Starbucks (Jupyter)</a></li>
-      <li><a href="projects/theme-park-transport-eda/theme_park_transport_eda.ipynb" target="_blank">Public Transport Data Near Theme Parks (Jupyter)</a></li>
-      <li><a href="projects/space-candy-demand/space_candy_demand.ipynb" target="_blank">Retail Demand at a Space-Themed Candy Store (Jupyter)</a></li>
-      <li><a href="projects/farmers-market-eda/farmers_market_eda.ipynb" target="_blank">Spending Behavior in a Virtual Farmers Market (Jupyter)</a></li>
-    </ul>
+    <h2>Exploratory Data Analysis</h2>
+    <div class="grid">
+      <div class="card"><div class="card-title">Fantasy Fashion Boutique EDA</div><div class="tooltip">E-commerce data and visual analytics.</div><div class="buttons"><a href="projects/fantasy-fashion-eda/fantasy_fashion_eda.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Carnival Segmentation</div><div class="tooltip">Unsupervised clustering for attendee profiles.</div><div class="buttons"><a href="projects/carnival-segmentation-eda/carnival_segmentation_eda.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Starbucks Trend Analysis</div><div class="tooltip">Social media metrics and consumer behavior.</div><div class="buttons"><a href="projects/starbucks-trend-analysis/starbucks_trend_analysis.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Theme Park Transport</div><div class="tooltip">Transportation usage near theme parks.</div><div class="buttons"><a href="projects/theme-park-transport-eda/theme_park_transport_eda.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Space Candy Demand</div><div class="tooltip">Analysis of candy demand in space-themed stores.</div><div class="buttons"><a href="projects/space-candy-demand/space_candy_demand.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Virtual Farmers Market</div><div class="tooltip">Virtual food system shopping behavior.</div><div class="buttons"><a href="projects/farmers-market-eda/farmers_market_eda.ipynb" target="_blank">Notebook</a></div></div>
+    </div>
   </div>
 
   <div class="section">
     <h2>Time Series Forecasting</h2>
-    <ul>
-      <li><a href="projects/gummy-bear-forecast/gummy_bear_forecast.ipynb" target="_blank">Forecasting Gummy Bear Sales at Candy Castle (Jupyter)</a></li>
-      <li><a href="projects/fantasy-inn-forecast/fantasy_inn_forecast.ipynb" target="_blank">Hotel Room Demand in Fantasy Inns (Jupyter)</a></li>
-      <li><a href="projects/aquarium-power-eda/aquarium_power_eda.ipynb" target="_blank">Electricity Use in an Aquarium (Jupyter)</a></li>
-      <li><a href="projects/fantasy-ticket-forecast/fantasy_ticket_forecast.ipynb" target="_blank">Forecasting Monthly Ticket Sales at a Fantasy Stadium (Jupyter)</a></li>
-    </ul>
+    <div class="grid">
+      <div class="card"><div class="card-title">Gummy Bear Sales Forecast</div><div class="tooltip">Forecasting candy sales using ARIMA & Prophet.</div><div class="buttons"><a href="projects/gummy-bear-forecast/gummy_bear_forecast.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Fantasy Inn Room Demand</div><div class="tooltip">Hotel occupancy prediction using seasonality.</div><div class="buttons"><a href="projects/fantasy-inn-forecast/fantasy_inn_forecast.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Aquarium Electricity Forecasting</div><div class="tooltip">Power usage trends in public aquariums.</div><div class="buttons"><a href="projects/aquarium-power-eda/aquarium_power_eda.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Fantasy Stadium Ticket Sales</div><div class="tooltip">Time series modeling of event sales.</div><div class="buttons"><a href="projects/fantasy-ticket-forecast/fantasy_ticket_forecast.ipynb" target="_blank">Notebook</a></div></div>
+    </div>
   </div>
 
   <div class="section">
     <h2>Business Analytics & Optimization</h2>
-    <ul>
-      <li><a href="projects/health-store-marketbasket/health_store_marketbasket.ipynb" target="_blank">Market Basket & Ingredient Analysis for a Health Store (Jupyter)</a></li>
-      <li><a href="projects/publix-vs-aldi/publix_aldi_breakdown.ipynb" target="_blank">Publix vs Aldi Financial Breakdown (Jupyter)</a></li>
-      <li><a href="projects/dental-resource-planning/dental_resource_planning.ipynb" target="_blank">Resource Planning in Dental Offices (Jupyter)</a></li>
-      <li><a href="projects/themepark-clv-analysis/themepark_clv_analysis.ipynb" target="_blank">Customer Lifetime Value in Theme Park Loyalty Programs (Jupyter)</a></li>
-      <li><a href="projects/sims4-price-optimization/sims4_price_optimization.ipynb" target="_blank">Price Optimization for Groceries in Sims 4 (Jupyter)</a></li>
-      <li><a href="projects/mobile-dental-shift/mobile_dental_shift.ipynb" target="_blank">Mobile Dental Unit Shift Optimization (Jupyter)</a></li>
-    </ul>
+    <div class="grid">
+      <div class="card"><div class="card-title">Health Store Market Basket</div><div class="tooltip">Apriori and FP-Growth for product affinities.</div><div class="buttons"><a href="projects/health-store-marketbasket/health_store_marketbasket.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Publix vs Aldi Breakdown</div><div class="tooltip">Profit breakdowns and business strategy.</div><div class="buttons"><a href="projects/publix-vs-aldi/publix_aldi_breakdown.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Dental Office Resource Planning</div><div class="tooltip">Staffing optimization in multi-clinic setups.</div><div class="buttons"><a href="projects/dental-resource-planning/dental_resource_planning.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Theme Park CLV Analysis</div><div class="tooltip">Customer lifetime value modeling.</div><div class="buttons"><a href="projects/themepark-clv-analysis/themepark_clv_analysis.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Sims 4 Grocery Pricing</div><div class="tooltip">Price elasticity and profit optimization.</div><div class="buttons"><a href="projects/sims4-price-optimization/sims4_price_optimization.ipynb" target="_blank">Notebook</a></div></div>
+      <div class="card"><div class="card-title">Mobile Dental Shift Optimizer</div><div class="tooltip">Optimization for mobile unit deployment.</div><div class="buttons"><a href="projects/mobile-dental-shift/mobile_dental_shift.ipynb" target="_blank">Notebook</a></div></div>
+    </div>
   </div>
 
 </body>
 </html>
+'''
+
+# Display the code block
+display(HTML(f"<pre>{html_code}</pre>"))
