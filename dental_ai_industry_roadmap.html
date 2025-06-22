@@ -16,6 +16,30 @@
       background-attachment: fixed;
     }
 
+    nav {
+      background-color: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(8px);
+      padding: 12px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
+
+    nav a {
+      margin: 0 10px;
+      padding: 6px 14px;
+      text-decoration: none;
+      color: #ffffffcc;
+      font-weight: bold;
+      border-radius: 6px;
+      transition: background 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+
     .overlay {
       background-color: rgba(0, 0, 0, 0.7);
       padding: 60px 20px;
@@ -72,26 +96,17 @@
     .card a:hover {
       background-color: #555;
     }
-
-    .back-button {
-      display: inline-block;
-      margin: 20px;
-      padding: 10px 16px;
-      background-color: rgba(255, 255, 255, 0.2);
-      border-radius: 6px;
-      color: #ffffff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .back-button:hover {
-      background-color: rgba(255, 255, 255, 0.35);
-    }
   </style>
 </head>
-
 <body>
-  <a href="../index.html" class="back-button">← Back to Portfolio</a>
+  <nav>
+    <a href="../index.html">Home</a>
+    <a href="../dissertation/index.html">Dissertation</a>
+    <a href="../roadmap.html">Roadmap</a>
+    <a href="../data-analyst-projects.html">Projects</a>
+    <a href="../visualization.html">Visualizations</a>
+  </nav>
+
   <div class="overlay">
     <h2>Dental AI Industry Roadmap<br><span style="font-size:0.6em;">(Inspired by Overjet & Velmeni)</span></h2>
 
