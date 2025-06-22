@@ -1,62 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dissertation + Continued Learning</title>
   <style>
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-image: url('dissertation/dissertation-background.jpg');
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: white;
+      background-image: url("../img/dissertation-background.jpg");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
-      color: white;
-      padding: 2rem;
+    }
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.65);
+      padding: 4rem 2rem;
+      min-height: 100vh;
     }
     h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
+      font-size: 2rem;
+      margin-bottom: 1rem;
     }
-    p {
-      font-size: 1.2rem;
-      max-width: 800px;
+    p, li {
+      font-size: 1.1rem;
+      line-height: 1.6;
     }
     ul {
-      font-size: 1.1rem;
+      list-style-type: square;
     }
-    .notion-embed {
+    a {
+      color: #87cefa;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    iframe {
       margin-top: 2rem;
       width: 100%;
-      height: 80vh;
+      height: 800px;
       border: none;
-      border-radius: 12px;
     }
   </style>
 </head>
 <body>
-  <h1> Dissertation + Continued Learning</h1>
-  <p>This section presents my formal dissertation plan and a structured, long-term learning path in computational engineering, AI, and simulation science.</p>
+  <div class="overlay">
+    <h1> Dissertation + Continued Learning</h1>
+    <p>This page presents my formal dissertation plan and structured long-term learning path.</p>
 
-  <h2> Formal Dissertation Plan (PDF)</h2>
-  <ul>
-    <li><a href="pdf/dissertation_portfolio.pdf" style="color: #add8e6;">Download PDF</a>: <em>Digital Twin Intelligence, Multiscale AI Systems for Immune-Guided Surgery, Organ Therapy, and Planetary Health</em></li>
-  </ul>
+    <ul>
+      <li><a href="../pdf/dissertation_portfolio.pdf" target="_blank"> Download Full Dissertation PDF</a></li>
+      <li><a href="../learning/foundations_list.txt" target="_blank"> View Foundational Learning List</a></li>
+    </ul>
 
-  <h2> Structured Learning</h2>
-  <ul>
-    <li><strong>Computer Science Foundations:</strong> Turing Machine, Bits, Transistors, CPU, Machine Code, Memory, etc</li>
-    <li><strong>Programming:</strong> Variables, Data Types, Functions, OOP, Recursion, Compilation</li>
-    <li><strong>Algorithms:</strong> Sorting, Searching, Graphs, Greedy, DP, Backtracking</li>
-    <li><strong>Data Structures:</strong> Array, Linked List, Stack, Queue, Tree, Graph, Trie</li>
-    <li><strong>Functional Programming:</strong> HOFs, Monads, Immutability, Type Inference, Pattern Matching</li>
-    <li><strong>Simulation Tools:</strong> PDEs, FEM, AI Controllers, RL, PyBullet, Dash, ROS</li>
-  </ul>
+    <!-- Embed Notion Page (optional) -->
+    <iframe 
+      src="https://www.notion.so/Dissertation-MSU-20af4e68014c80889dbde16e673c5da4?source=copy_link" 
+      allowfullscreen 
+      loading="lazy">
+    </iframe>
 
-  <h2> Live Learning Log (via Notion)</h2>
-  <iframe class="notion-embed" src="https://www.notion.so/Dissertation-MSU-20af4e68014c80889dbde16e673c5da4?source=copy_link"></iframe>
-
-  <footer>
-    <p style="margin-top: 3rem;">© Ihunna Amugo</p>
-  </footer>
+    <footer style="margin-top: 4rem; font-size: 0.9rem;">
+      — Authored by Ihunna Amugo
+    </footer>
+  </div>
 </body>
 </html>
